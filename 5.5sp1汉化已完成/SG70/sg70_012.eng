@@ -1,0 +1,5644 @@
+0001
+Hauptsollwert                   
+0002
+Hauptistwert                    
+0003
+anal. Wahleing.1                
+0004
+anal. Wahleing.2                
+0005
+anal. Wahleing.3                
+0006
+anal. Wahlausg.1                
+0007
+anal. Wahlausg.2                
+0008
+anal. Wahlausg.3                
+0009
+anal. Wahlausg.4                
+0010
+binÑre EingÑnge                 
+0011
+binÑre AusgÑnge                 
+0012
+Motortemperatur                 
+Kl. 22/23                       
+Kl. 204/205                     
+0013
+KÅhlk.Temperatur                
+0014
+ErwÑrmungsanz.                  
+MotorerwÑrmung                  
+ThyristorerwÑrm.                
+0015
+Netzspg. Anker                  
+0016
+Netzspg. Feld                   
+0017
+Netzfrequenz                    
+0018
+Steuerwinkel Ank                
+0019
+Stromistwert Ank                
+0020
+StromsollwertAnk                
+0021
+Msoll begrenzt                  
+0022
+Msoll unbegrenzt                
+0023
+n-Reg Soll-Ist-D                
+0024
+n-Ist Pulsgeber                 
+0025
+n-Ist gesiebt                   
+0026
+n-Regl. Sollwert                
+0027
+Hochlaufg. Ausg.                
+0028
+Hochlaufg.Eing.b                
+0029
+Hochlaufg. Eing.                
+0034
+SteuerwinkelFeld                
+0035
+If-Regl.-Istwert                
+0036
+If-Regl.Sollwert                
+0037
+EMK-Istwert                     
+0038
+Ua-Istwert                      
+0039
+EMK-Sollwert                    
+0040
+Begrenzungsanz.                 
+0041
+KonnAnzeige-P042                
+0042
+Konnektor->r041                 
+0043
+KonnAnzeige-P044                
+0044
+Konnektor->r043                 
+0045
+BinAnzeige-P046                 
+0046
+Binektor->r045                  
+0047
+Fehlerdiagn.sp.                 
+0048
+Betriebsstunden                 
+0049
+Stîrzeit                        
+0050
+Sprache                         
+Deutsch                         
+0051
+SchlÅsselwort                   
+0052
+KomplexitÑt                     
+0054
+OP-Hinterleuchtg                
+dauernd ein                     
+bei Bedienung                   
+0055
+FDS-Kopierfunkt.                
+0056
+aktueller FDS                   
+0057
+BDS-Kopierfunkt.                
+0058
+aktueller BDS                   
+0059
+Betriebszustand                 
+0060
+Softwarestand                   
+Slot 1                          
+Slot D                          
+Slot E                          
+Slot F                          
+Slot G                          
+0061
+Generier. Datum                 
+Jahr                            
+Monat                           
+Tag                             
+Stunde                          
+Minute                          
+0062
+Checksumme                      
+0063
+Baugruppenkenng.                
+Slot 1                          
+Slot D                          
+Slot E                          
+Slot F                          
+Slot G                          
+0064
+Baugruppenkompat                
+0065
+Software-Kennung                
+0068
+Z-Option                        
+keine                           
+L04 (Kleinspg.)                 
+K01 (Klemm.Erw.)                
+L04 + K01                       
+0069
+Fabrik-Nummer                   
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+0070
+MLFB                            
+keine MLFB                      
+6RA7013-6DV62-0                 
+6RA7018-6DV62-0                 
+6RA7025-6DV62-0                 
+6RA7028-6DV62-0                 
+6RA7031-6DV62-0                 
+6RA7075-6DV62-0                 
+6RA7078-6DV62-0                 
+6RA7081-6DV62-0                 
+6RA7085-6DV62-0                 
+6RA7087-6DV62-0                 
+6RA7091-6DV62-0                 
+6RA7093-4DV62-0                 
+6RA7095-4DV62-0                 
+6RA7025-6GV62-0                 
+6RA7031-6GV62-0                 
+6RA7075-6GV62-0                 
+6RA7081-6GV62-0                 
+6RA7085-6GV62-0                 
+6RA7087-6GV62-0                 
+6RA7090-6GV62-0                 
+6RA7093-4GV62-0                 
+6RA7095-4GV62-0                 
+6RA7086-6KV62-0                 
+6RA7090-6KV62-0                 
+6RA7093-4KV62-0                 
+6RA7095-4KV62-0                 
+6RA7088-6LV62-0                 
+6RA7093-4LV62-0                 
+6RA7095-4LV62-0                 
+6RA7018-6DS22-0                 
+6RA7025-6DS22-0                 
+6RA7028-6DS22-0                 
+6RA7031-6DS22-0                 
+6RA7075-6DS22-0                 
+6RA7078-6DS22-0                 
+6RA7081-6DS22-0                 
+6RA7085-6DS22-0                 
+6RA7087-6DS22-0                 
+6RA7091-6DS22-0                 
+6RA7093-4DS22-0                 
+6RA7095-4DS22-0                 
+6RA7025-6GS22-0                 
+6RA7031-6GS22-0                 
+6RA7075-6GS22-0                 
+6RA7081-6GS22-0                 
+6RA7085-6GS22-0                 
+6RA7087-6GS22-0                 
+6RA7090-6GS22-0                 
+6RA7093-4GS22-0                 
+6RA7095-4GS22-0                 
+6RA7086-6KS22-0                 
+6RA7088-6KS22-0                 
+6RA7093-4KS22-0                 
+6RA7095-4KS22-0                 
+6RA7088-6LS22-0                 
+6RA7093-4LS22-0                 
+6RA7095-4LS22-0                 
+Nennspannung Ank                
+Nennstrom Anker                 
+Nennstrom Feld                  
+0071
+Nennspannung Ank                
+0072
+Nennstrom Anker                 
+0073
+Nennstrom Feld                  
+0074
+NennspannungFeld                
+0075
+dynam. öberlast                 
+abgeschaltet                    
+ein + A039                      
+ein + F039                      
+0076
+I-Normierung                    
+Anker                           
+Feld                            
+0077
+Ia-Abmind.Faktor                
+0078
+U-Normierung                    
+Anker                           
+Feld                            
+0079
+ImpulslÑnge                     
+Kurzimpulse                     
+Langimpulse                     
+0080
+Bremsensteuerung                
+nicht definiert                 
+Haltebremse                     
+Betriebsbremse                  
+0081
+FeldschwÑchen                   
+abgeschaltet                    
+mîglich                         
+0082
+Betriebsart Feld                
+abgeschaltet                    
+mit NetzschÅtz                  
+ein+Stillstfeld                 
+dauernd ein                     
+0083
+n-ist Auswahl                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+nicht definiert                 
+Analogtacho                     
+Pulsgeber                       
+EMK-Istwert                     
+frei verdrahtet                 
+0084
+n-regeln/I-regel                
+nicht definiert                 
+n-regeln                        
+I-regeln                        
+0085
+Wartzeit Tippweg                
+0086
+ZeitWiederanlauf                
+0087
+Bremsenîffn.Zeit                
+0088
+BremsSchlie·zeit                
+0089
+MaxZeit LeistSpg                
+0090
+StabZeit NetzSpg                
+0091
+Sollwertschwelle                
+0092
+FeldabwartFeldum                
+0093
+VerzîgNetzschÅtz                
+0094
+AusverzHilfsbetr                
+0095
+Verzîg.DC-SchÅtz                
+0100
+Inenn Anker                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0101
+Unenn Anker                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0102
+Inenn Erregung                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0103
+Inenn Erregung                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0104
+n-abh.I-Begr. n1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0105
+n-abh.I-Begr. I1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0106
+n-abh.I-Begr. n2                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0107
+n-abh.I-Begr. I2                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0108
+n-abh.I-Begr. n3                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0109
+n-abh.I-Begr Stw                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+ausgeschaltet                   
+eingeschaltet                   
+0110
+Ankerwiderstand                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0111
+Ankerinduktivit.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0112
+Feldwiderstand                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0114
+therm.Zeitk.Mot.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0115
+max. EMK                        
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0117
+Feldkennlinie                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+nicht gÅltig                    
+gÅltig                          
+0118
+EMK-Nennwert                    
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0119
+Nenndrehzahl                    
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0120
+0.Feldkennl.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0121
+1.Feldkennl.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0122
+2.Feldkennl.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0123
+3.Feldkennl.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0124
+4.Feldkennl.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0125
+5.Feldkennl.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0126
+6.Feldkennl.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0127
+7.Feldkennl.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0128
+8.Feldkennl.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0129
+9.Feldkennl.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0130
+10.Feldkenn.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0131
+11.Feldkenn.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0132
+12.Feldkenn.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0133
+13.Feldkenn.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0134
+14.Feldkenn.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0135
+15.Feldkenn.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0136
+16.Feldkenn.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0137
+17.Feldkenn.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0138
+18.Feldkenn.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0139
+19.Feldkenn.Pkt.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0140
+Pulsgeber Typ                   
+keiner                          
+Impsp0+Impsp90                  
+Impsp0+Impsp90                  
+R-Impulse/L-Imp.                
+Impsp.+ Vorz                    
+0141
+Pulsgeb.Pulszahl                
+0142
+Pulsgeb.Spannung                
+5 Volt                          
+15 Volt                         
+0143
+Pulsgeber n-max                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0144
+Mehrfachauswert.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+1-fach                          
+2-fach                          
+4-fach                          
+0145
+autom.Mehrfach.                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+ausgeschaltet                   
+eingeschaltet                   
+0146
+autom.Me·zeitum.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+ausgeschaltet                   
+eingeschaltet                   
+0147
+Mittelungszeit                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0148
+PulsgeberÅberw.                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+ausgeschaltet                   
+eingeschaltet                   
+autom.Me·zeitum.                
+Mittelungszeit                  
+0150
+Alpha_G (Anker)                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0151
+Alpha_W (Anker)                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0152
+Netzsiebg(Anker)                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0153
+Ia-Regl.Vorsteu.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+ausgeschaltet                   
+eingeschaltet                   
+autom.Me·zeitum.                
+0154
+Ia-Regl.I-Anteil                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+I-Anteil = 0                    
+I-Anteil aktiv                  
+0155
+Kp_I (Anker)                    
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0156
+Tn_I (Anker)                    
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0157
+I-Soll Integrat.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+Getriebeschonung                
+immer wirksam                   
+0158
+t-I-Soll Int.                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0159
+Schwelle Ko.Stuf                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0160
+t-Umsch Ko.Stuf                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0161
+Anzahl AlphaWImp                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0162
+EMK-Berechnung                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+aus gemessen. Ua                
+aus berechn. Ua                 
+0163
+EMK-Filterung                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+keine Filterung                 
+10ms-PT1-Glied                  
+2-Wert-Mittelung                
+3-Wert-Mittelung                
+0164
+Ia-Regl.P-Anteil                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+P-Anteil = 0                    
+P-Anteil aktiv                  
+0165
+Q. Freig.MomRiWe                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0169
+Mom-/Strombegr.                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+Strombegrenzung                 
+Momentenbegrenz.                
+0170
+Mom-/Stromreg.                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+Stromregelung                   
+Momentenregelung                
+0171
+Stromgrenze MI                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0172
+Stromgrenze MII                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0180
+pos. Momentengr1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0181
+neg. Momentengr1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0182
+pos. Momentengr2                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0183
+neg. Momentengr2                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0184
+Umschaltdrehzahl                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0200
+n-Reg Siebz.nist                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0201
+Bandsperre1 Freq                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0202
+Bandsperre1 GÅte                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0203
+Bandsperre2 Freq                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0204
+Bandsperre2 GÅte                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0205
+nReg D Vorh.zeit                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0206
+nReg D Sieb.zeit                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0219
+wirksames Kp                    
+0222
+Umschaltschwelle                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0223
+n-Regl. Vorsteu.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0224
+n-Regl. I-Anteil                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+I-Anteil = 0                    
+anh. bei M/I-Gr.                
+anh. bei M-Grenz                
+anh. bei 199 Prz                
+0225
+nReg Kp                         
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0226
+nReg Tn                         
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0227
+nReg Statik_Prz                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0228
+nRegSollSiebzeit                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0229
+nReg Betriebsart                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+n-Regler nachf.                 
+n-Regler unabh.                 
+0234
+n-Regl. P-Anteil                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+P-Anteil = 0                    
+P-Anteil aktiv                  
+0250
+Alpha_G (Feld)                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0251
+Alpha_W (Feld)                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0252
+Netzsiebg(Feld)                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0253
+If-Regl.Vorsteu.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+ausgeschaltet                   
+eingeschaltet                   
+0254
+If-Regl.I-Anteil                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+I-Anteil = 0                    
+I-Anteil aktiv                  
+0255
+Kp_I (Feld)                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0256
+Tn_I (Feld)                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0257
+I-Feld Stillst.                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0258
+t-I-Feld Stillst                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0263
+Flu·berechnung                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+aus If-Istwert                  
+aus If(n-ist)-Tb                
+aus If-Sollwert                 
+0264
+If-Regl.P-Anteil                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+P-Anteil = 0                    
+P-Anteil aktiv                  
+0272
+Feldreduzierung                 
+nein: F043                      
+ja: A043                        
+0273
+EMK-Reg.Vorsteu.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0274
+EMK-Reg.I-Anteil                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+I-Anteil = 0                    
+I-Anteil aktiv                  
+0275
+EMK-Regler KP                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0276
+EMK-Regler TN                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0277
+EMK-Regl. Statik                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0284
+EMK-Reg.P-Anteil                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+P-Anteil = 0                    
+P-Anteil aktiv                  
+0300
+pos. Sollwertgr.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0301
+neg. Sollwertgr.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0302
+Hochfahrintegr.                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+abgeschaltet                    
+ein mit T=0                     
+ein mit HLZ2                    
+ein mit HLZ3                    
+0303
+HLG T-Hochl.1                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0304
+HLG T-RÅckl.1                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0305
+HLG Anf-Verrun_1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0306
+HLG End-Verrun_1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0307
+HLG T-Hochl.1                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0308
+HLG T-RÅckl.2                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0309
+HLG Anf-Verrun_2                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0310
+HLG End-Verrun_2                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0311
+HLG T-Hochl.3                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0312
+HLG T-RÅckl.3                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0313
+HLG Anf-Verrun_3                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0314
+HLG End-Verrun_3                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0315
+wirks.HLG-Zeiten                
+0316
+HLG Zustand                     
+HLG nicht freig.                
+HLG freigegeben                 
+HLG gestoppt                    
+HLG gestartet                   
+keine SW-Freig.                 
+SW-Freig & /AUS1                
+HLG setzen                      
+HLG nicht setzen                
+HLG nicht nachf.                
+HLG nachfÅhren                  
+HLG nicht umgeh.                
+HLG umgehen                     
+kein RÅcklauf                   
+RÅcklauf                        
+                                
+                                
+0317
+HLG-NachfÅhrung                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+abgeschaltet                    
+aktiv                           
+0318
+HLG-Setz.b. AUS1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+abgeschaltet                    
+auf K0167                       
+auf K0179                       
+0320
+Skal. Haupt-SW                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0321
+Skal. Zusatz-SW                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0322
+Q. Skal.Haupt-SW                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0323
+Q. Skal.Zus.-SW                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0351
+Schw. Unterspg.                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0352
+Schw. öberspg.                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0353
+Schw. Phasenausf                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0355
+Zeit BlockSchutz                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0357
+Schwel Tachobru.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0360
+Verz.ext.StîWarn                
+0370
+Schwelle n-min                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0371
+Hyst n<nmin-Meld                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0373
+Schwelle n-x1 Md                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0374
+Hyst n<n-x1-Meld                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0375
+Verz.n<n-x1-Meld                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0380
+pos. n-max                      
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0381
+neg. n-max                      
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0388
+SchwelleSoll-Ist                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0389
+HysteresSoll-Ist                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0390
+Verzîg. Soll-Ist                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0394
+Schwelle If-min                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0395
+Hyster If<If-min                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0398
+Schwelle If-x                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0399
+Hyster If<If-x                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0401
+Festsollwert 1                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0402
+Festsollwert 2                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0403
+Festsollwert 3                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0404
+Festsollwert 4                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0405
+Festsollwert 5                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0406
+Festsollwert 6                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0407
+Festsollwert 7                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0408
+Festsollwert 8                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0409
+Festsollwert 9                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0410
+Festsollwert 10                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0411
+Festsollwert 11                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0412
+Festsollwert 12                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0413
+Festsollwert 13                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0414
+Festsollwert 14                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0415
+Festsollwert 15                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0416
+Festsollwert 16                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0421
+Steuerbit 1                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0422
+Steuerbit 2                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0423
+Steuerbit 3                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0424
+Steuerbit 4                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0425
+Steuerbit 5                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0426
+Steuerbit 6                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0427
+Steuerbit 7                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0428
+Steuerbit 8                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0430
+Q. Aufsch.Festsw                
+0431
+Q. Festsollwert                 
+0432
+HLG bei Festsw.                 
+HLG nicht umgeh.                
+HLG umgehen                     
+0433
+Q. Eingr.Pkt.Fsw                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0435
+Q. Aufsch.Tippen                
+0436
+Q. Tippsollwert                 
+0437
+HLG bei Tippen                  
+HLG nicht umgeh.                
+HLG umgehen                     
+0438
+Q. Eingr.Pkt.Tip                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0440
+Q. Aufsch.Kriech                
+0441
+Q. Kriechsollw.                 
+0442
+HLG bei Kriechen                
+HLG nicht umgeh.                
+HLG umgehen                     
+0443
+Q. Eingr.Pkt.Ksw                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0444
+Q. Stills.Flanke                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0445
+Pegel/Flanke Kr.                
+Pegel                           
+Flanke                          
+0450
+RÅcks.Pos.ZÑhler                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+abgeschaltet                    
+durch Nullmarke                 
+Kl39=0+Nullmarke                
+durch Kl39=0                    
+0451
+Hysterese beiPos                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+ausgeschaltet                   
+eingeschaltet                   
+0460
+MOP Betriebsart                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+automatik: T=0                  
+automatik: T<>0                 
+0461
+MOP AutoSollwert                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0462
+MOP Hochlaufzeit                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0463
+MOP RÅcklaufzeit                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0464
+MOP Zeitdiffer.                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0465
+MOP Thoch/rÅ *60                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+ * 1                            
+ * 60                           
+0466
+Q. MOP Setzwert                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0467
+MOP Startwert                   
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0468
+MOP Minimum                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0469
+MOP Maximum                     
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0470
+Q. MOP rechts/li                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0471
+Q. MOP Hand/Auto                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0472
+Q. MOP setzen                   
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0473
+MOP Speicherung                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+ausgeschaltet                   
+eingeschaltet                   
+0480
+Pendelsollwert 1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0481
+Pendelzeit 1                    
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0482
+Pendelsollwert 2                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0483
+Pendelzeit 2                    
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0484
+Q. Pendelsollw.                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0485
+Q. Pendelfreig.                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0490
+MoSchn Temp-FÅhl                
+Kl. 22/23                       
+Kl. 204/205                     
+keiner                          
+KTY84                           
+Kaltl. R=600 Ohm                
+Kaltl.R=1200 Ohm                
+Kaltl.R=1330 Ohm                
+Kaltl.R=2660 Ohm                
+0491
+MoSchn Warntemp                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0492
+MoSchn Stîrtemp                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0493
+Reaktion MoTemp1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+keine                           
+T>P491: A029                    
+T>P492: F029                    
+T>P491/2:A+F029                 
+0494
+Reaktion MoTemp2                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+keine                           
+T>P491: A029                    
+T>P492: F029                    
+T>P491/2:A+F029                 
+0495
+BÅrstenlÑnge                    
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+keine Reaktion                  
+Kl.211=0: A025                  
+Kl.211=0: F025                  
+0496
+Lagerzustand                    
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+keine Reaktion                  
+Kl.212=1: A026                  
+Kl.212=1: F026                  
+0497
+Luftstrom                       
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+keine Reakt.                    
+Kl.213=0: A027                  
+Kl.213=0: F027                  
+0498
+Thermoschalter                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+keine Reakt.                    
+Kl.214=0: A028                  
+Kl.214=0: F028                  
+0500
+Q. M-Soll Folge                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0501
+Q. M-Soll Zusatz                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0502
+Q.nRegAusgZusatz                
+0509
+Q. n-ist nBgrReg                
+0510
+Q. Momentengr. 1                
+0511
+Q. Momentengr. 2                
+0512
+pos. n-max Begr                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0513
+neg. n-max Begr                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0515
+Kp n-max-Regler                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0520
+Reibung n=0 Prz                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0521
+Reibung n=10 Prz                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0522
+Reibung n=20 Prz                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0523
+Reibung n=30 Prz                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0524
+Reibung n=40 Prz                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0525
+Reibung n=50 Prz                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0526
+Reibung n=60 Prz                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0527
+Reibung n=70 Prz                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0528
+Reibung n=80 Prz                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0529
+Reibung n=90 Prz                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0530
+Reibung n>=100Pr                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0540
+dv/dt t_Beschl                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0541
+dv/dt KP_Beschl                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0542
+dv/dt Zeitdiff.                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0543
+dv/dt BeschlSchw                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0546
+dv/dt Siebzeit                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0550
+nReg Kp Adaption                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0553
+Q.nReg Adaption                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0556
+Adaption Punkt 1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0559
+Adaption Punkt 2                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0562
+pos. Statikbegr.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0563
+neg. Statikbegr.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0580
+Q.Feldumkehr                    
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0581
+Q.Brems.d.Feldum                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0590
+Q.Sollw.SID Meld                
+0591
+Q.Istw.SID Meld                 
+0592
+Q.Istw.n<nx1Meld                
+0593
+Q.Istw.n<nminMel                
+0594
+Q.Sollw.RichtgMd                
+0595
+Q.Istw.n>nmaxMel                
+0600
+Q.Steuerspg.Ank.                
+0601
+Q.Soll.Ia-Regler                
+0602
+Q.Istw.Ia-Regler                
+0603
+Q.Ia-Grenze MI                  
+0604
+Q.Ia-Grenze MII                 
+0605
+Q.M-Grenze MI                   
+0606
+Q.M-Grenze MII                  
+0607
+Q.M-Sollwert                    
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0609
+Q.Istw.n-Regler                 
+0610
+Q.Steuerspg.Feld                
+0611
+Q.Soll.If-Regler                
+0612
+Q.Istw.If-Regler                
+0613
+Q.If-Obergrenze                 
+0614
+Q.If-Untergrenze                
+0615
+Q.Soll.EMK-Regl.                
+0616
+Q.Istw.EMK-Regl.                
+0619
+Q. dv/dt-Aufsch.                
+0620
+Q.SID n-Regler                  
+0621
+Q.Sollw. n-Regl.                
+0622
+Q.Sollw. n-Regl.                
+0623
+Q.Istw. n-Regl.                 
+0624
+Q.Istw. n-Regl.                 
+0625
+Q.Sollw. n-Regl.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0626
+Q.Istw. n-Regl.                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0627
+Q. DT1-Glied                    
+0628
+Q.Bandsperre 1                  
+0629
+Q.Bandsperre 2                  
+0630
+Q.n-Regl. Statik                
+0631
+Q.Setzwert I-Ant                
+0632
+Q.pos.SollGrenze                
+0633
+Q.neg.SollGrenze                
+0634
+Q.Sollw.v.Begr.                 
+0635
+Q.Sollw.v.Hochlg                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0636
+Q.HLG-Zeit Abmin                
+0637
+Q.HLG-Zeit2 Anw.                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0638
+Q.HLG-Zeit3 Anw.                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0639
+Q.HLG-Setzwert                  
+0640
+Q.HLG-Setzen Anw                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0641
+Q.HLG-UmgehenAnw                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0642
+Q.pos.SollGrenze                
+0643
+Q.neg.SollGrenze                
+0644
+Q.Sollw.vorBegr.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0645
+Q.ZSollw.vorBegr                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0646
+Q.Freig.Hochf.Um                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0648
+Q. Steuerwort 1                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0649
+Q. Steuerwort 2                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0650
+Steuerwort 1                    
+0651
+Steuerwort 2                    
+0652
+Zustandswort 1                  
+0653
+Zustandswort 2                  
+0654
+Q. EIN/AUS1                     
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0655
+Q.1 AUS2(Elektr)                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0656
+Q.2 AUS2(Elektr)                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0657
+Q.3 AUS2(Elektr)                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0658
+Q.1 AUS3(SHalt)                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0659
+Q.2 AUS3(SHalt)                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0660
+Q.3 AUS3(SHalt)                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0661
+Q. Imp.Freigabe                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0662
+Q. HLG-Freigabe                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0663
+Q. kein HLG-Halt                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0664
+Q.Sollw.Freigabe                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0665
+Q.1 Quittieren                  
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0666
+Q.2 Quittieren                  
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0667
+Q.3 Quittieren                  
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0668
+Q. Tippen Bit0                  
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0669
+Q. Tippen Bit1                  
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0671
+Q. positive DR                  
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0672
+Q. negative DR                  
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0673
+Q.Mot.potiHîher                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0674
+Q.Mot.potiTiefer                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0675
+Q. k.Stîrg.ext1                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0676
+Q. FDS Bit0                     
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0677
+Q. FDS Bit1                     
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0680
+Q. FSW Bit0                     
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0681
+Q. FSW Bit1                     
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0684
+Q.Statikfreigabe                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0685
+Q.n-Reg.Freigabe                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0686
+Q. k.Stîrg.ext2                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0687
+Q. Folgeantrieb                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0688
+Q. k.Warng.ext1                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0689
+Q. k.Warng.ext2                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0690
+Q.BICO-Datensatz                
+0691
+Q.HS-RÅckmeldung                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0692
+Q. Stillst.Feld                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0693
+Q.EMK-Regl.Freig                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0694
+Q.Umsch.Mom.Begr                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0695
+Q.nRegIAntSetzen                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0696
+Q.nRegIAnt Halt                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0697
+Q.Freigabe dv/dt                
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0698
+Q.Freigabe P/PI                 
+BiCo-Datensatz 1                
+BiCo-Datensatz 2                
+0700
+Hsoll Signaltyp                 
+ 0 bis +-10 V                   
+ 0 bis 20 mA                    
+ 4 bis 20 mA                    
+0701
+Hsoll Normierung                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0702
+Hsoll Offset                    
+0703
+Hsoll Steuerwort                
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+0704
+Hsoll B_VorzWech                
+0705
+Hsoll Siebzeit                  
+0706
+Hsoll B_Zuschltg                
+0707
+Hsoll Auflîsung                 
+0710
+AE6   Signaltyp                 
+0711
+AE6   Normierung                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0712
+AE6   Offset                    
+0713
+AE6   Steuerwort                
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+0714
+AE6   B_VorzWech                
+0715
+AE6   Siebzeit                  
+0716
+AE6   B_Zuschltg                
+0717
+AE6   Auflîsung                 
+0721
+AE8   Normierung                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0722
+AE8   Offset                    
+0723
+AE8   Steuerwort                
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+0724
+AE8   B_VorzWech                
+0725
+AE8   Siebzeit                  
+0726
+AE8   B_Zuschltg                
+0731
+AE11  Normierung                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0732
+AE11  Offset                    
+0733
+AE11  Steuerwort                
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+0734
+AE11  B_VorzWech                
+0735
+AE11  Siebzeit                  
+0736
+AE11  B_Zuschltg                
+0741
+Hist  Normierung                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+0742
+Hist  Offset                    
+0743
+Hist  Steuerwort                
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+0744
+Hist  B_VorzWech                
+0745
+Hist  Siebzeit                  
+0746
+Hist  B_Zuschltg                
+0749
+I-Ist Steuerwort                
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+0750
+AA14 KonnAuswahl                
+0751
+AA14  Steuerwort                
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+0752
+AA14  Siebzeit                  
+0753
+AA14  Normierung                
+0754
+AA14  Offset                    
+0755
+AA16 KonnAuswahl                
+0756
+AA16  Steuerwort                
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+0757
+AA16  Siebzeit                  
+0758
+AA16  Normierung                
+0759
+AA16  Offset                    
+0760
+AA18 KonnAuswahl                
+0761
+AA18  Steuerwort                
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+0762
+AA18  Siebzeit                  
+0763
+AA18  Normierung                
+0764
+AA18  Offset                    
+0765
+AA20 KonnAuswahl                
+0766
+AA20  Steuerwort                
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+0767
+AA20  Siebzeit                  
+0768
+AA20  Normierung                
+0769
+AA20  Offset                    
+0770
+Invertierung                    
+bin.Ausg. Kl.46                 
+bin.Ausg. Kl.48                 
+bin.Ausg. Kl.50                 
+bin.Ausg. Kl.52                 
+ausgeschaltet                   
+eingeschaltet                   
+0771
+BA46 Quellbinekt                
+0772
+BA48 Quellbinekt                
+0773
+BA50 Quellbinekt                
+0774
+BA52 Quellbinekt                
+0775
+BA46 Verzîgerung                
+0776
+BA48 Verzîgerung                
+0777
+BA50 Verzîgerung                
+0778
+BA52 Verzîgerung                
+0780
+GSST1 Protokoll                 
+ abgeschaltet                   
+ abgeschaltet                   
+ USS-Protokoll                  
+ abgeschaltet                   
+ abgeschaltet                   
+ abgeschaltet                   
+ abgeschaltet                   
+ abgeschaltet                   
+ abgeschaltet                   
+ werksintern                    
+0781
+GSST1 PZD-Anzahl                
+0782
+GSST1 PKW-Anzahl                
+0783
+GSST1 Baudrate                  
+                                
+    300 Baud                    
+    600 Baud                    
+   1200 Baud                    
+   2400 Baud                    
+   4800 Baud                    
+   9600 Baud                    
+  19200 Baud                    
+  38400 Baud                    
+  56700 Baud                    
+                                
+  93750 Baud                    
+                                
+ 187500 Baud                    
+0784
+GSST1 Istwerte                  
+ 1. Proze·datum                 
+ 2. Proze·datum                 
+ 3. Proze·datum                 
+ 4. Proze·datum                 
+ 5. Proze·datum                 
+ 6. Proze·datum                 
+ 7. Proze·datum                 
+ 8. Proze·datum                 
+ 9. Proze·datum                 
+10. Proze·datum                 
+11. Proze·datum                 
+12. Proze·datum                 
+13. Proze·datum                 
+14. Proze·datum                 
+15. Proze·datum                 
+16. Proze·datum                 
+0785
+GSST1 Busabschl.                
+ausgeschaltet                   
+eingeschaltet                   
+0786
+GSST1 Busadresse                
+0787
+GSST1 Tlg.Aus.Zt                
+0788
+GSST1 Q.Stîr.Aus                
+0789
+GSST1 Diagnose                  
+richtige Telegr.                
+fehlerh. Telegr.                
+Framing Errors                  
+Overrun Errors                  
+Parity Errors                   
+Bad STX                         
+Tlg.-Restl. Err.                
+Bad BCC Errors                  
+Tlg. Length Err                 
+Timeout Errors                  
+0790
+GSST2 Protokoll                 
+ abgeschaltet                   
+ abgeschaltet                   
+ USS-Protokoll                  
+ abgeschaltet                   
+ abgeschaltet                   
+ Peer-To-Peer                   
+ abgeschaltet                   
+ abgeschaltet                   
+ abgeschaltet                   
+ werksintern                    
+0791
+GSST2 PZD-Anzahl                
+0792
+GSST2 PKW-Anzahl                
+0793
+GSST2 Baudrate                  
+                                
+    300 Baud                    
+    600 Baud                    
+   1200 Baud                    
+   2400 Baud                    
+   4800 Baud                    
+   9600 Baud                    
+  19200 Baud                    
+  38400 Baud                    
+  56700 Baud                    
+                                
+  93750 Baud                    
+                                
+ 187500 Baud                    
+0794
+GSST2 Istwerte                  
+ 1. Proze·datum                 
+ 2. Proze·datum                 
+ 3. Proze·datum                 
+ 4. Proze·datum                 
+ 5. Proze·datum                 
+ 6. Proze·datum                 
+ 7. Proze·datum                 
+ 8. Proze·datum                 
+ 9. Proze·datum                 
+10. Proze·datum                 
+11. Proze·datum                 
+12. Proze·datum                 
+13. Proze·datum                 
+14. Proze·datum                 
+15. Proze·datum                 
+16. Proze·datum                 
+0795
+GSST2 Busabschl.                
+ausgeschaltet                   
+eingeschaltet                   
+0796
+GSST2 Busadresse                
+0797
+GSST2 Tlg.Aus.Zt                
+0798
+GSST2 Q.Stîr.Aus                
+0799
+GSST2 Diagnose                  
+richtige Telegr.                
+fehlerh. Telegr.                
+Framing Errors                  
+Overrun Errors                  
+Parity Errors                   
+Bad STX                         
+Tlg.-Restl. Err.                
+Bad BCC Errors                  
+Tlg. Length Err                 
+Timeout Errors                  
+0800
+GSST3 Protokoll                 
+ abgeschaltet                   
+ abgeschaltet                   
+ USS-Protokoll                  
+ abgeschaltet                   
+ abgeschaltet                   
+ Peer-To-Peer                   
+ abgeschaltet                   
+ abgeschaltet                   
+ abgeschaltet                   
+ werksintern                    
+0801
+GSST3 PZD-Anzahl                
+0802
+GSST3 PKW-Anzahl                
+0803
+GSST3 Baudrate                  
+                                
+    300 Baud                    
+    600 Baud                    
+   1200 Baud                    
+   2400 Baud                    
+   4800 Baud                    
+   9600 Baud                    
+  19200 Baud                    
+  38400 Baud                    
+  56700 Baud                    
+                                
+  93750 Baud                    
+                                
+ 187500 Baud                    
+0804
+GSST3 Istwerte                  
+ 1. Proze·datum                 
+ 2. Proze·datum                 
+ 3. Proze·datum                 
+ 4. Proze·datum                 
+ 5. Proze·datum                 
+ 6. Proze·datum                 
+ 7. Proze·datum                 
+ 8. Proze·datum                 
+ 9. Proze·datum                 
+10. Proze·datum                 
+11. Proze·datum                 
+12. Proze·datum                 
+13. Proze·datum                 
+14. Proze·datum                 
+15. Proze·datum                 
+16. Proze·datum                 
+0805
+GSST3 Busabschl.                
+ausgeschaltet                   
+eingeschaltet                   
+0806
+GSST3 Busadresse                
+0807
+GSST3 Tlg.Aus.Zt                
+0808
+GSST3 Q.Stîr.Aus                
+0809
+GSST3 Diagnose                  
+richtige Telegr.                
+fehlerh. Telegr.                
+Framing Errors                  
+Overrun Errors                  
+Parity Errors                   
+Bad STX                         
+Tlg.-Restl. Err.                
+Bad BCC Errors                  
+Tlg. Length Err                 
+Timeout Errors                  
+0810
+GSST1 Empf.Daten                
+ 1. Proze·datum                 
+ 2. Proze·datum                 
+ 3. Proze·datum                 
+ 4. Proze·datum                 
+ 5. Proze·datum                 
+ 6. Proze·datum                 
+ 7. Proze·datum                 
+ 8. Proze·datum                 
+ 9. Proze·datum                 
+10. Proze·datum                 
+11. Proze·datum                 
+12. Proze·datum                 
+13. Proze·datum                 
+14. Proze·datum                 
+15. Proze·datum                 
+16. Proze·datum                 
+GSST1 Busabschl.                
+ausgeschaltet                   
+eingeschaltet                   
+GSST1 Busadresse                
+0811
+GSST1 SendeDaten                
+ 1. Proze·datum                 
+ 2. Proze·datum                 
+ 3. Proze·datum                 
+ 4. Proze·datum                 
+ 5. Proze·datum                 
+ 6. Proze·datum                 
+ 7. Proze·datum                 
+ 8. Proze·datum                 
+ 9. Proze·datum                 
+10. Proze·datum                 
+11. Proze·datum                 
+12. Proze·datum                 
+13. Proze·datum                 
+14. Proze·datum                 
+15. Proze·datum                 
+16. Proze·datum                 
+GSST1 Busabschl.                
+ausgeschaltet                   
+eingeschaltet                   
+GSST1 Busadresse                
+0812
+GSST2 Empf.Daten                
+ 1. Proze·datum                 
+ 2. Proze·datum                 
+ 3. Proze·datum                 
+ 4. Proze·datum                 
+ 5. Proze·datum                 
+ 6. Proze·datum                 
+ 7. Proze·datum                 
+ 8. Proze·datum                 
+ 9. Proze·datum                 
+10. Proze·datum                 
+11. Proze·datum                 
+12. Proze·datum                 
+13. Proze·datum                 
+14. Proze·datum                 
+15. Proze·datum                 
+16. Proze·datum                 
+GSST1 Busabschl.                
+ausgeschaltet                   
+eingeschaltet                   
+GSST1 Busadresse                
+0813
+GSST2 SendeDaten                
+ 1. Proze·datum                 
+ 2. Proze·datum                 
+ 3. Proze·datum                 
+ 4. Proze·datum                 
+ 5. Proze·datum                 
+ 6. Proze·datum                 
+ 7. Proze·datum                 
+ 8. Proze·datum                 
+ 9. Proze·datum                 
+10. Proze·datum                 
+11. Proze·datum                 
+12. Proze·datum                 
+13. Proze·datum                 
+14. Proze·datum                 
+15. Proze·datum                 
+16. Proze·datum                 
+GSST1 Busabschl.                
+ausgeschaltet                   
+eingeschaltet                   
+GSST1 Busadresse                
+0814
+GSST3 Empf.Daten                
+ 1. Proze·datum                 
+ 2. Proze·datum                 
+ 3. Proze·datum                 
+ 4. Proze·datum                 
+ 5. Proze·datum                 
+ 6. Proze·datum                 
+ 7. Proze·datum                 
+ 8. Proze·datum                 
+ 9. Proze·datum                 
+10. Proze·datum                 
+11. Proze·datum                 
+12. Proze·datum                 
+13. Proze·datum                 
+14. Proze·datum                 
+15. Proze·datum                 
+16. Proze·datum                 
+GSST1 Busabschl.                
+ausgeschaltet                   
+eingeschaltet                   
+GSST1 Busadresse                
+0815
+GSST3 SendeDaten                
+ 1. Proze·datum                 
+ 2. Proze·datum                 
+ 3. Proze·datum                 
+ 4. Proze·datum                 
+ 5. Proze·datum                 
+ 6. Proze·datum                 
+ 7. Proze·datum                 
+ 8. Proze·datum                 
+ 9. Proze·datum                 
+10. Proze·datum                 
+11. Proze·datum                 
+12. Proze·datum                 
+13. Proze·datum                 
+14. Proze·datum                 
+15. Proze·datum                 
+16. Proze·datum                 
+GSST1 Busabschl.                
+ausgeschaltet                   
+eingeschaltet                   
+GSST1 Busadresse                
+0816
+GSST2 Empf.Freig                
+0817
+GSST2 Send.Freig                
+0818
+GSST3 Empf.Freig                
+0819
+GSST3 Send.Freig                
+0820
+Stîr-Ausblendung                
+0821
+Warn-Ausblendung                
+0824
+Korr. ADU/DAU 2                 
+WEA2(Kl.8)  +10V                
+WEA2(Kl.8)  -10V                
+WEA3(Kl.10) +10V                
+WEA3(Kl.10) -10V                
+TEMP2(Kl.204)500                
+TEMP2(Kl.204) 2k                
+WAA3(Kl.18) +10V                
+WAA3(Kl.18) -10V                
+WAA4(Kl.20) +10V                
+WAA4(Kl.20) -10V                
+0825
+Korr. I_Feld_ist                
+VerstÑrkung 1                   
+VerstÑrkung 3                   
+VerstÑrkung 9                   
+0826
+Korr. der NDGs                  
+Phase U-V                       
+Phase U-W                       
+Phase V-W                       
+Phase V-U                       
+Phase W-U                       
+Phase W-V                       
+0827
+interne Diagnose                
+Anz.EEPROM-Write                
+Anz.EE-PageWrite                
+Anz.DPR-Timeouts                
+0828
+MLFB-Daten                      
+Kennzahl (r070)                 
+U_Netz a_nenn[V]                
+U_NetzAmax[0.1V]                
+U_a_max [0.1 V]                 
+U_Netz f_nenn[V]                
+U_NetzFmax[0.1V]                
+Ia_nenn [0.1 A]                 
+If_nenn [0.01 A]                
+U_B_A[in 0.1 mV]                
+IfFak [in 0.001]                
+öberl.Fak [Proz]                
+Eigenschaften                   
+                                
+                                
+Wortanzahl                      
+Checksumme                      
+0829
+Korr. ADU/DAU                   
+AE(Kl.4)+10V/10b                
+AE(Kl.4)-10V/10b                
+AE(Kl.4)+10V/11b                
+AE(Kl.4)-10V/11b                
+AE(Kl.4)+10V/12b                
+AE(Kl.4)-10V/12b                
+AE(Kl.4)+10V/13b                
+AE(Kl.4)-10V/13b                
+AE(Kl.4)+10V/14b                
+AE(Kl.4)-10V/14b                
+AE(Kl.4)+20V/10b                
+AE(Kl.4)-20m/10b                
+AE(Kl.4)+20m/11b                
+AE(Kl.4)-20m/11b                
+AE(Kl.4)+20m/12b                
+AE(Kl.4)-20m/12b                
+AE(Kl.4)+20m/13b                
+AE(Kl.4)-20m/13b                
+AE(Kl.4)+20m/14b                
+AE(Kl.4)-20m/14b                
+AE(Kl.6)+10V/10b                
+AE(Kl.6)-10V/10b                
+AE(Kl.6)+10V/11b                
+AE(Kl.6)-10V/11b                
+AE(Kl.6)+10V/12b                
+AE(Kl.6)-10V/12b                
+AE(Kl.6)+10V/13b                
+AE(Kl.6)-10V/13b                
+AE(Kl.6)+10V/14b                
+AE(Kl.6)-10V/14b                
+AE(Kl.6)+20V/10b                
+AE(Kl.6)-20m/10b                
+AE(Kl.6)+20m/11b                
+AE(Kl.6)-20m/11b                
+AE(Kl.6)+20m/12b                
+AE(Kl.6)-20m/12b                
+AE(Kl.6)+20m/13b                
+AE(Kl.6)-20m/13b                
+AE(Kl.6)+20m/14b                
+AE(Kl.6)-20m/14b                
+Tacho2+4.38V/11b                
+Tacho2-4.38V/11b                
+Tacho2+4.38V/12b                
+Tacho2-4.38V/12b                
+Tacho2+4.38V/13b                
+Tacho2-4.38V/13b                
+Tacho2+4.38V/14b                
+Tacho2-4.38V/14b                
+Tacho3+4.38V/11b                
+Tacho3-4.38V/11b                
+Tacho3+4.38V/12b                
+Tacho3-4.38V/12b                
+Tacho3+4.38V/13b                
+Tacho3-4.38V/13b                
+Tacho3+4.38V/14b                
+Tacho3-4.38V/14b                
+Tacho ADU +4.38V                
+Tacho ADU -4.38V                
+TEMP1(Kl.22) 500                
+TEMP1(Kl.22)  2k                
+U_Anker  +7.7V                  
+U_Anker  -7.7V                  
+Tacho T_CTRL: 01                
+Tacho T_CTRL: 11                
+WAA1(Kl.14) +10V                
+WAA1(Kl.14) -10V                
+WAA2(Kl.16) +10V                
+WAA2(Kl.16) -10V                
+0830
+Thyristor-Test                  
+ abgeschaltet                   
+ ersts EIN                      
+ jedes EIN                      
+ nÑchstes EIN                   
+0831
+Konn. fÅr Trace                 
+0832
+Konn.fÅr Trigger                
+0833
+Bit fÅr Trigger                 
+Bit 0                           
+Bit 1                           
+Bit 2                           
+Bit 3                           
+Bit 4                           
+Bit 5                           
+Bit 6                           
+Bit 7                           
+Bit 8                           
+Bit 9                           
+Bit 10                          
+Bit 11                          
+Bit 12                          
+Bit 13                          
+Bit 14                          
+Bit 15                          
+Trigger auf Wort                
+0834
+Triggerbedingung                
+kleiner                         
+gleich                          
+grî·er                          
+Stîrung                         
+ungleich                        
+0835
+Triggerschwelle                 
+0836
+Abtastintervall                 
+0837
+Pretrigger                      
+0838
+Startk.fÅr Trace                
+Stop                            
+Start                           
+0839
+Trace D-Block Nr                
+0840
+Tracedaten Kan.0                
+0841
+Tracedaten Kan.1                
+0842
+Tracedaten Kan.2                
+0843
+Tracedaten Kan.3                
+0844
+Tracedaten Kan.4                
+0845
+Tracedaten Kan.5                
+0846
+Tracedaten Kan.6                
+0847
+Tracedaten Kan.7                
+0848
+Tracedaten Kan.8                
+0849
+Tracedaten Kan.9                
+0918
+CB Busadresse                   
+0927
+Parametrierfreig                
+ CB: nein                       
+ CB: ja                         
+ PMU: nein                      
+ PMU: ja                        
+G-SST1/OP1S:nein                
+G-SST1/OP1S: ja                 
+                                
+                                
+ TB: nein                       
+ TB: ja                         
+ G-SST2: nein                   
+ G-SST2: ja                     
+ G-SST3: nein                   
+ G-SST3: ja                     
+0947
+Stîrspeicher                    
+0949
+Stîrwert                        
+0951
+Stîrtextliste                   
+Ausfall El.Spg.                 
+F002                            
+F003                            
+Phasenausf.Anker                
+Fehler Feldkreis                
+Unterspannung                   
+öberspannung                    
+Frequenz < 45Hz                 
+Frequenz > 65Hz                 
+F010                            
+G-SST1 Tlg.Ausf.                
+G-SST2 Tlg.Ausf.                
+G-SST3 Tlg.Ausf.                
+ParSch Tlg.Ausf.                
+F015                            
+F016                            
+F017                            
+öberlast bin.Aus                
+F019                            
+F020                            
+ext. Stîrung 1                  
+ext. Stîrung 2                  
+F023                            
+F024                            
+BÅrstenlÑnge Nok                
+Lagerzustand Nok                
+MotorlÅfter Nok                 
+MotorÅbertemp. 1                
+MotorÅbertemp. 2                
+F030                            
+n-Regler öberw.                 
+F032                            
+F033                            
+F034                            
+Antrieb block.                  
+Ankerkr. unterbr                
+I2t des Motors                  
+öberdrehzahl                    
+I2t des SIMOREG                 
+F040                            
+FDS/HLG-Anwahl ?                
+Tachostîrung                    
+EMK zu hoch                     
+Stîrung an Slave                
+F045                            
+Stîrung Hauptsw.                
+Stîrung an.Ein.1                
+Stîrung Pulsgeb.                
+F049                            
+Opti n. mîglich                 
+F051                            
+Opti abgebrochen                
+F053                            
+F054                            
+keine Feldkennl.                
+wicht.Parameter?                
+F057                            
+Parameter n. ok                 
+Opt. S00 n. frei                
+F060                            
+Thyristorcheck                  
+EEPROM-Stîrung                  
+IO-Abgleich n ok                
+Watchdog                        
+unerl. uP-Zust.                 
+F066                            
+GerÑtekÅhlung ?                 
+Stîrung Anal.Ein                
+MLFB-Daten n ok                 
+F070                            
+F071                            
+F072                            
+F073                            
+F074                            
+F075                            
+F076                            
+F077                            
+F078                            
+F079                            
+CB/TB-Init.Fehl.                
+CB/TB-Heart.Fehl                
+CB/TB-Tlg. Ausf.                
+F083                            
+F084                            
+F085                            
+F086                            
+F087                            
+F088                            
+F089                            
+F090                            
+F091                            
+F092                            
+F093                            
+F094                            
+F095                            
+F096                            
+F097                            
+F098                            
+F099                            
+F100                            
+F101                            
+0952
+Anzahl StîrfÑlle                
+0953
+Warnparameter 1                 
+keine A001                      
+A001                            
+keine A002                      
+A002                            
+keine A003                      
+A003                            
+keine A004                      
+A004                            
+keine A005                      
+A005                            
+keine A006                      
+A006                            
+keine A007                      
+A007                            
+keine A008                      
+A008                            
+0954
+Warnparameter 2                 
+keine A017                      
+A017                            
+kein Kurzschl.BA                
+Kurzschlu· BA                   
+keine A019                      
+A019                            
+keine A020                      
+A020                            
+keine ext.Warn 1                
+ ext. Warnung 1                 
+keine ext.Warn 2                
+ ext. Warnung 2                 
+keine A023                      
+A023                            
+keine A024                      
+A024                            
+0955
+Warnparameter 3                 
+keine A033                      
+A033                            
+keine A034                      
+A034                            
+Antr.block.nicht                
+Antrieb block.                  
+Ankertrom ok                    
+kein Ankerstrom                 
+I2t des Mot. ok                 
+I2t des Motors ?                
+keine öberdrehz.                
+öberdrehzahl                    
+I2t d.SIMOREG ok                
+I2t des SIMOREG?                
+keine A040                      
+A040                            
+0956
+Warnparameter 4                 
+keine A049                      
+A049                            
+keine A050                      
+A050                            
+keine A051                      
+A051                            
+keine A052                      
+A052                            
+keine A053                      
+A053                            
+keine A054                      
+A054                            
+keine A055                      
+A055                            
+keine A056                      
+A056                            
+0957
+Warnparameter 5                 
+keine A065                      
+A065                            
+keine A066                      
+A066                            
+GerÑtekÅhlung ok                
+GerÑtekÅhlung ?                 
+keine A068                      
+A068                            
+keine A069                      
+A069                            
+keine A070                      
+A070                            
+keine A071                      
+A071                            
+keine A072                      
+A072                            
+0958
+Warnparameter 6                 
+keine A081 v. CB                
+A081 von CB                     
+keine A082 v. CB                
+A082 von CB                     
+keine A083 v. CB                
+A083 von CB                     
+keine A084 v. CB                
+A084 von CB                     
+keine A085 v. CB                
+A085 von CB                     
+keine A086 v. CB                
+A086 von CB                     
+keine A087 v. CB                
+A087 von CB                     
+keine A088 v. CB                
+A088 von CB                     
+0959
+Warnparameter 7                 
+keine A097 v. TB                
+A097 von TB                     
+keine A098 v. TB                
+A098 von TB                     
+keine A099 v. TB                
+A099 von TB                     
+keine A100 v. TB                
+A100 von TB                     
+keine A101 v. TB                
+A101 von TB                     
+keine A102 v. TB                
+A102 von TB                     
+keine A103 v. TB                
+A103 von TB                     
+keine A104 v. TB                
+A104 von TB                     
+0960
+Warnparameter 8                 
+keine A113 v. TB                
+A113 von TB                     
+keine A114 v. TB                
+A114 von TB                     
+keine A115 v. TB                
+A115 von TB                     
+keine A116 v. TB                
+A116 von TB                     
+keine A117 v. TB                
+A117 von TB                     
+keine A118 v. TB                
+A118 von TB                     
+keine A119 v. TB                
+A119 von TB                     
+keine A120 v. TB                
+A120 von TB                     
+0967
+Steuerwort 1                    
+0968
+Zustandswort 1                  
+0970
+Werkseinstellung                
+ starten                        
+ inaktiv                        
+0971
+Param. speichern                
+ inaktiv                        
+ starten                        
+0980
+List.vorh.Par. 1                
+0981
+List.vorh.Par. 2                
+0982
+List.vorh.Par. 3                
+0983
+List.vorh.Par. 4                
+0984
+List.vorh.Par. 5                
+0985
+List.vorh.Par. 6                
+0986
+List.vorh.Par. 7                
+0987
+List.vorh.Par. 8                
+0988
+List.vorh.Par. 9                
+0989
+List.vorh.Par.10                
+0990
+List.Ñnd.Par.  1                
+0991
+List.Ñnd.Par.  2                
+0992
+List.Ñnd.Par.  3                
+0993
+List.Ñnd.Par.  4                
+0994
+List.Ñnd.Par.  5                
+0995
+List.Ñnd.Par.  6                
+0996
+List.Ñnd.Par.  7                
+0997
+List.Ñnd.Par.  8                
+0998
+List.Ñnd.Par.  9                
+0999
+List.Ñnd.Par. 10                
+2010
+Konn>BinWa1 Ausg                
+2011
+Konn>BinWa2 Ausg                
+2012
+Konn>BinWa3 Ausg                
+2013
+Bin>KonnWa1 Ausg                
+2014
+Bin>KonnWa2 Ausg                
+2015
+Bin>KonnWa3 Ausg                
+2016
+TeReg Istwert                   
+2017
+TeReg Sollwert                  
+2018
+TeReg Kp-Faktor                 
+2019
+TeReg Ausg begr.                
+2020
+n>v-Rechner Eing                
+2021
+n>v-Rechner Ausg                
+2022
+v>n-Rechner Eing                
+2023
+v>n-Rechner Ausg                
+2100
+Eingang fÅr F023                
+2101
+Eingang fÅr F024                
+2102
+Eingang fÅr F033                
+2103
+Eingang fÅr F034                
+2104
+Eingang fÅr A023                
+2105
+Eingang fÅr A024                
+2106
+Eingang fÅr A033                
+2107
+Eingang fÅr A034                
+2110
+Konn>BinW1 K_Ein                
+2111
+Konn>BinW2 K_Ein                
+2112
+Konn>BinW3 K_Ein                
+2113
+Bin>KonnW1 B_Ein                
+Binektor f.Bit 0                
+Binektor f.Bit 1                
+Binektor f.Bit 2                
+Binektor f.Bit 3                
+Binektor f.Bit 4                
+Binektor f.Bit 5                
+Binektor f.Bit 6                
+Binektor f.Bit 7                
+Binektor f.Bit 8                
+Binektor f.Bit 9                
+Binektor f.Bit10                
+Binektor f.Bit11                
+Binektor f.Bit12                
+Binektor f.Bit13                
+Binektor f.Bit14                
+Binektor f.Bit15                
+2114
+Bin>KonnW2 B_Ein                
+Binektor f.Bit 0                
+Binektor f.Bit 1                
+Binektor f.Bit 2                
+Binektor f.Bit 3                
+Binektor f.Bit 4                
+Binektor f.Bit 5                
+Binektor f.Bit 6                
+Binektor f.Bit 7                
+Binektor f.Bit 8                
+Binektor f.Bit 9                
+Binektor f.Bit10                
+Binektor f.Bit11                
+Binektor f.Bit12                
+Binektor f.Bit13                
+Binektor f.Bit14                
+Binektor f.Bit15                
+2115
+Bin>KonnW3 B_Ein                
+Binektor f.Bit 0                
+Binektor f.Bit 1                
+Binektor f.Bit 2                
+Binektor f.Bit 3                
+Binektor f.Bit 4                
+Binektor f.Bit 5                
+Binektor f.Bit 6                
+Binektor f.Bit 7                
+Binektor f.Bit 8                
+Binektor f.Bit 9                
+Binektor f.Bit10                
+Binektor f.Bit11                
+Binektor f.Bit12                
+Binektor f.Bit13                
+Binektor f.Bit14                
+Binektor f.Bit15                
+2120
+ADD1 K_Eingang                  
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2121
+ADD2 K_Eingang                  
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2122
+ADD3 K_Eingang                  
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2123
+ADD4 K_Eingang                  
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2124
+ADD5 K_Eingang                  
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2125
+ADD6 K_Eingang                  
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2126
+ADD7 K_Eingang                  
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2127
+ADD8 K_Eingang                  
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2128
+ADD9 K_Eingang                  
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2129
+ADD10 K_Eingang                 
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2130
+ADD11 K_Eingang                 
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2131
+ADD12 K_Eingang                 
+Addierwert 1                    
+Addierwert 2                    
+Subtrahierwert                  
+2135
+INV1 K_Eingang                  
+2136
+INV2 K_Eingang                  
+2137
+INV3 K_Eingang                  
+2138
+INV4 K_Eingang                  
+2140
+S-INV1 K_Eingang                
+2141
+S-INV1 B_Eingang                
+2142
+S-INV2 K_Eingang                
+2143
+S-INV2 B_Eingang                
+2145
+DIV1 K_Eingang                  
+Dividend                        
+Divisor                         
+2146
+DIV2 K_Eingang                  
+Dividend                        
+Divisor                         
+2147
+DIV3 K_Eingang                  
+Dividend                        
+Divisor                         
+2150
+MUL1 K_Eingang                  
+Multiplikand                    
+Multiplikator                   
+2151
+MUL2 K_Eingang                  
+Multiplikand                    
+Multiplikator                   
+2152
+MUL3 K_Eingang                  
+Multiplikand                    
+Multiplikator                   
+2153
+MUL4 K_Eingang                  
+Multiplikand                    
+Multiplikator                   
+2155
+MULDIV1 K_Eing.                 
+Multiplikand                    
+Multiplikator                   
+Divisor                         
+2156
+MULDIV2 K_Eing.                 
+Multiplikand                    
+Multiplikator                   
+Divisor                         
+2157
+MULDIV3 K_Eing.                 
+Multiplikand                    
+Multiplikator                   
+Divisor                         
+2160
+Betr+Sieb1K_Eing                
+2161
+Betr+Sieb1 Stw.                 
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+2162
+Betr+Sieb1S-Zeit                
+2163
+Betr+Sieb2K_Eing                
+2164
+Betr+Sieb2 Stw.                 
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+2165
+Betr+Sieb2S-Zeit                
+2166
+Betr+Sieb3K_Eing                
+2167
+Betr+Sieb3 Stw.                 
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+2168
+Betr+Sieb3S-Zeit                
+2169
+Betr+Sieb4K_Eing                
+2170
+Betr+Sieb4 Stw.                 
+vorzeichenrichtg                
+Betrag                          
+invertiert                      
+Betrag invert.                  
+2171
+Betr+Sieb4S-Zeit                
+2175
+Begrenzer1K_Eing                
+K_Eingang                       
+K_obere Grenze                  
+K_untere Grenze                 
+2176
+Begrenzer1Grenze                
+2177
+Begrenzer2K_Eing                
+K_Eingang                       
+K_obere Grenze                  
+K_untere Grenze                 
+2178
+Begrenzer2Grenze                
+2179
+Begrenzer3K_Eing                
+K_Eingang                       
+K_obere Grenze                  
+K_untere Grenze                 
+2180
+Begrenzer3Grenze                
+2185
+GrwMeld1 K_Eing                 
+K_Eingang A                     
+K_Eingang B                     
+2186
+GrwMeld1 Grenze                 
+2187
+GrwMeld1 S-Zeit                 
+2188
+GrwMeld1 Hyster.                
+2189
+GrwMeld2 K_Eing                 
+K_Eingang A                     
+K_Eingang B                     
+2190
+GrwMeld2 Grenze                 
+2191
+GrwMeld2 S-Zeit                 
+2192
+GrwMeld2 Hyster.                
+2193
+GrwMeld3 K_Eing                 
+K_Eingang A                     
+K_Eingang B                     
+2194
+GrwMeld3 Grenze                 
+2195
+GrwMeld3 S-Zeit                 
+2196
+GrwMeld3 Hyster.                
+2197
+GrwMeld4 K_Eing                 
+K_Eingang A                     
+K_Eingang B                     
+2198
+GrwMeld4 Grenze                 
+2199
+GrwMeld4 Hyster.                
+2200
+GrwMeld5 K_Eing                 
+K_Eingang A                     
+K_Eingang B                     
+2201
+GrwMeld5 Grenze                 
+2202
+GrwMeld5 Hyster.                
+2203
+GrwMeld6 K_Eing                 
+K_Eingang A                     
+K_Eingang B                     
+2204
+GrwMeld6 Grenze                 
+2205
+GrwMeld6 Hyster.                
+2206
+GrwMeld7 K_Eing                 
+K_Eingang A                     
+K_Eingang B                     
+2207
+GrwMeld7 Grenze                 
+2208
+GrwMeld7 Hyster.                
+2210
+GrwMeld8 K_Eing                 
+K_Eingang A                     
+K_Eingang B                     
+2211
+GrwMeld8 Grenze                 
+2212
+GrwMeld8 Hyster.                
+2213
+GrwMeld9 K_Eing                 
+K_Eingang A                     
+K_Eingang B                     
+2214
+GrwMeld9 Grenze                 
+2215
+GrwMeld9 Hyster.                
+2216
+GrwMeld10 K_Eing                
+K_Eingang A                     
+K_Eingang B                     
+2217
+GrwMeld11 Grenze                
+2218
+GrwMeld12 Hyster                
+2220
+Maximum K_Eing                  
+K_Eingang x1                    
+K_Eingang x2                    
+K_Eingang x3                    
+2221
+Minimum K_Eing                  
+K_Eingang x1                    
+K_Eingang x2                    
+K_Eingang x3                    
+2222
+Nachf/Spei1K_Ein                
+2223
+Nachf/Spei1B_Ein                
+Track                           
+Store                           
+Reset                           
+2224
+Power On Mode 1                 
+FlÅchtige Speich                
+NichtflÅcht.Spei                
+2225
+Nachf/Spei2K_Ein                
+2226
+Nachf/Spei2B_Ein                
+Track                           
+Store                           
+Reset                           
+2227
+Power On Mode 2                 
+FlÅchtige Speich                
+NichtflÅcht.Spei                
+2228
+Anal.Spei1 K_Ein                
+2229
+Anal.Spei1 B_Ein                
+2230
+Anal.Spei2 K_Ein                
+2231
+Anal.Spei2 B_Ein                
+2240
+Anal.Umsch1K_Ein                
+Signal 0                        
+Signal 1                        
+2241
+Anal.Umsch1B_Ein                
+2242
+Anal.Umsch2K_Ein                
+Signal 0                        
+Signal 1                        
+2243
+Anal.Umsch2B_Ein                
+2244
+Anal.Umsch3K_Ein                
+Signal 0                        
+Signal 1                        
+2245
+Anal.Umsch3B_Ein                
+2246
+Anal.Umsch4K_Ein                
+Signal 0                        
+Signal 1                        
+2247
+Anal.Umsch4B_Ein                
+2248
+Anal.Umsch5K_Ein                
+Signal 0                        
+Signal 1                        
+2249
+Anal.Umsch5B_Ein                
+2250
+Anal.Umsch6K_Ein                
+Signal 0                        
+Signal 1                        
+2251
+Anal.Umsch6B_Ein                
+2252
+Anal.Umsch7K_Ein                
+Signal 0                        
+Signal 1                        
+2253
+Anal.Umsch7B_Ein                
+2254
+Anal.Umsch8K_Ein                
+Signal 0                        
+Signal 1                        
+2255
+Anal.Umsch8B_Ein                
+2256
+Anal.Umsch9K_Ein                
+Signal 0                        
+Signal 1                        
+2257
+Anal.Umsch9B_Ein                
+2258
+Anal.Um.10 K_Ein                
+Signal 0                        
+Signal 1                        
+2259
+Anal.Um.10 B_Ein                
+2260
+Integrator1K_Ein                
+2261
+Integrierzeit 1                 
+2262
+Integrator1B_Ein                
+Stoppen                         
+Setzen                          
+2263
+Setzwert 1                      
+2264
+Integrator2K_Ein                
+2265
+Integrierzeit 2                 
+2266
+Integrator2B_Ein                
+Stoppen                         
+Setzen                          
+2267
+Setzwert 2                      
+2268
+Integrator3K_Ein                
+2269
+Integrierzeit 3                 
+2270
+Integrator3B_Ein                
+Stoppen                         
+Setzen                          
+2271
+Setzwert 3                      
+2272
+DT1-Glied1 K_Ein                
+2273
+Vorhaltezeit 1                  
+2274
+DT1-Siebzeit 1                  
+2275
+DT1-Glied2 K_Ein                
+2276
+Vorhaltezeit 2                  
+2277
+DT1-Siebzeit 2                  
+2278
+DT1-Glied3 K_Ein                
+2279
+Vorhaltezeit 3                  
+2280
+DT1-Siebzeit 3                  
+2281
+Kennlinie1 K_Ein                
+2282
+Kennl.1: X-Werte                
+2283
+Kennl.1: Y-Werte                
+2284
+Kennlinie2 K_Ein                
+2285
+Kennl.2: X-Werte                
+2286
+Kennl.2: Y-Werte                
+2287
+Kennlinie3 K_Ein                
+2288
+Kennl.3: X-Werte                
+2289
+Kennl.3: Y-Werte                
+2290
+Totbereich1K_Ein                
+2291
+Totzone 1                       
+2292
+Totbereich2K_Ein                
+2293
+Totzone 2                       
+2294
+Totbereich3K_Ein                
+2295
+Totzone 3                       
+2296
+Sollw.Sch. K_Ein                
+2297
+Sollw.Sch. Min.                 
+2298
+Sollw.Sch. Max.                 
+2299
+Sollw.Sch. Hyst.                
+2300
+EHLG K_Eingang                  
+2301
+EHLG B_Eingang                  
+ÅberbrÅcken                     
+stoppen                         
+freigeben                       
+2302
+EHLG Hochlaufz.                 
+2303
+EHLG RÅcklaufz.                 
+2318
+Decoder1 B_Eing.                
+i0                              
+i1                              
+i2                              
+2319
+Decoder2 B_Eing.                
+i0                              
+i1                              
+i2                              
+2320
+UND1 B_Eingang                  
+2321
+UND2 B_Eingang                  
+2322
+UND3 B_Eingang                  
+2323
+UND4 B_Eingang                  
+2324
+UND5 B_Eingang                  
+2325
+UND6 B_Eingang                  
+2326
+UND7 B_Eingang                  
+2327
+UND8 B_Eingang                  
+2328
+UND9 B_Eingang                  
+2329
+UND10 B_Eingang                 
+2330
+UND11 B_Eingang                 
+2331
+UND12 B_Eingang                 
+2332
+UND13 B_Eingang                 
+2333
+UND14 B_Eingang                 
+2334
+UND15 B_Eingang                 
+2335
+UND16 B_Eingang                 
+2336
+UND17 B_Eingang                 
+2337
+UND18 B_Eingang                 
+2338
+UND19 B_Eingang                 
+2339
+UND20 B_Eingang                 
+2340
+UND21 B_Eingang                 
+2341
+UND22 B_Eingang                 
+2342
+UND23 B_Eingang                 
+2343
+UND24 B_Eingang                 
+2344
+UND25 B_Eingang                 
+2345
+UND26 B_Eingang                 
+2346
+UND27 B_Eingang                 
+2347
+UND28 B_Eingang                 
+2350
+ODER1 B_Eingang                 
+2351
+ODER2 B_Eingang                 
+2352
+ODER3 B_Eingang                 
+2353
+ODER4 B_Eingang                 
+2354
+ODER5 B_Eingang                 
+2355
+ODER6 B_Eingang                 
+2356
+ODER7 B_Eingang                 
+2357
+ODER8 B_Eingang                 
+2358
+ODER9 B_Eingang                 
+2359
+ODER10 B_Eingang                
+2360
+ODER11 B_Eingang                
+2361
+ODER12 B_Eingang                
+2362
+ODER13 B_Eingang                
+2363
+ODER14 B_Eingang                
+2364
+ODER15 B_Eingang                
+2365
+ODER16 B_Eingang                
+2366
+ODER17 B_Eingang                
+2367
+ODER18 B_Eingang                
+2368
+ODER19 B_Eingang                
+2369
+ODER20 B_Eingang                
+2370
+XOR1 B_Eingang                  
+2371
+XOR2 B_Eingang                  
+2372
+XOR3 B_Eingang                  
+2373
+XOR4 B_Eingang                  
+2380
+INV1 B_Eingang                  
+2381
+INV2 B_Eingang                  
+2382
+INV3 B_Eingang                  
+2383
+INV4 B_Eingang                  
+2384
+INV5 B_Eingang                  
+2385
+INV6 B_Eingang                  
+2386
+INV7 B_Eingang                  
+2387
+INV8 B_Eingang                  
+2388
+INV9 B_Eingang                  
+2389
+INV10 B_Eingang                 
+2390
+INV11 B_Eingang                 
+2391
+INV12 B_Eingang                 
+2392
+INV13 B_Eingang                 
+2393
+INV14 B_Eingang                 
+2394
+INV15 B_Eingang                 
+2395
+INV16 B_Eingang                 
+2400
+NAND1 B_Eingang                 
+2401
+NAND2 B_Eingang                 
+2402
+NAND3 B_Eingang                 
+2403
+NAND4 B_Eingang                 
+2404
+NAND5 B_Eingang                 
+2405
+NAND6 B_Eingang                 
+2406
+NAND7 B_Eingang                 
+2407
+NAND8 B_Eingang                 
+2408
+NAND9 B_Eingang                 
+2409
+NAND10 B_Eingang                
+2410
+NAND11 B_Eingang                
+2411
+NAND12 B_Eingang                
+2415
+RS-FF1 B_Eingang                
+Set                             
+Reset                           
+2416
+RS-FF2 B_Eingang                
+Set                             
+Reset                           
+2417
+RS-FF3 B_Eingang                
+Set                             
+Reset                           
+2418
+RS-FF4 B_Eingang                
+Set                             
+Reset                           
+2419
+RS-FF5 B_Eingang                
+Set                             
+Reset                           
+2420
+RS-FF6 B_Eingang                
+Set                             
+Reset                           
+2421
+RS-FF7 B_Eingang                
+Set                             
+Reset                           
+2422
+RS-FF8 B_Eingang                
+Set                             
+Reset                           
+2423
+RS-FF9 B_Eingang                
+Set                             
+Reset                           
+2424
+RS-FF10B_Eingang                
+Set                             
+Reset                           
+2425
+RS-FF11B_Eingang                
+Set                             
+Reset                           
+2426
+RS-FF12B_Eingang                
+Set                             
+Reset                           
+2427
+RS-FF13B_Eingang                
+Set                             
+Reset                           
+2428
+RS-FF14B_Eingang                
+Set                             
+Reset                           
+2430
+D-FF1 B_Eingang                 
+Set                             
+D                               
+Clock                           
+Reset                           
+2431
+D-FF2 B_Eingang                 
+Set                             
+D                               
+Clock                           
+Reset                           
+2432
+D-FF3 B_Eingang                 
+Set                             
+D                               
+Clock                           
+Reset                           
+2433
+D-FF4 B_Eingang                 
+Set                             
+D                               
+Clock                           
+Reset                           
+2440
+TIMER1 B_Eingang                
+2441
+TIMER1 Zeit                     
+2442
+TIMER1 Mode                     
+Einschaltverzîg.                
+Ausschaltverzîg.                
+Ein-/Ausschaltv.                
+Impulsbildner                   
+2443
+TIMER2 B_Eingang                
+2444
+TIMER2 Zeit                     
+2445
+TIMER2 Mode                     
+Einschaltverzîg.                
+Ausschaltverzîg.                
+Ein-/Ausschaltv.                
+Impulsbildner                   
+2446
+TIMER3 B_Eingang                
+2447
+TIMER3 Zeit                     
+2448
+TIMER3 Mode                     
+Einschaltverzîg.                
+Ausschaltverzîg.                
+Ein-/Ausschaltv.                
+Impulsbildner                   
+2449
+TIMER4 B_Eingang                
+2450
+TIMER4 Zeit                     
+2451
+TIMER4 Mode                     
+Einschaltverzîg.                
+Ausschaltverzîg.                
+Ein-/Ausschaltv.                
+Impulsbildner                   
+2452
+TIMER5 B_Eingang                
+2453
+TIMER5 Zeit                     
+2454
+TIMER5 Mode                     
+Einschaltverzîg.                
+Ausschaltverzîg.                
+Ein-/Ausschaltv.                
+Impulsbildner                   
+2455
+TIMER6 B_Eingang                
+2456
+TIMER6 Zeit                     
+2457
+TIMER6 Mode                     
+Einschaltverzîg.                
+Ausschaltverzîg.                
+Ein-/Ausschaltv.                
+Impulsbildner                   
+2458
+TIMER7 B_Eingang                
+2459
+TIMER7 Zeit                     
+2460
+TIMER7 Mode                     
+Einschaltverzîg.                
+Ausschaltverzîg.                
+Ein-/Ausschaltv.                
+Impulsbildner                   
+2461
+TIMER8 B_Eingang                
+2462
+TIMER8 Zeit                     
+2463
+TIMER8 Mode                     
+Einschaltverzîg.                
+Ausschaltverzîg.                
+Ein-/Ausschaltv.                
+Impulsbildner                   
+2464
+TIMER9 B_Eingang                
+2465
+TIMER9 Zeit                     
+2466
+TIMER9 Mode                     
+Einschaltverzîg.                
+Ausschaltverzîg.                
+Ein-/Ausschaltv.                
+Impulsbildner                   
+2467
+TIMER10B_Eingang                
+2468
+TIMER10 Zeit                    
+2469
+TIMER10 Mode                    
+Einschaltverzîg.                
+Ausschaltverzîg.                
+Ein-/Ausschaltv.                
+Impulsbildner                   
+2470
+B-Um1 B_Eingang                 
+Umschaltsignal                  
+Signal bei 0                    
+Signal bei 1                    
+2471
+B-Um2 B_Eingang                 
+Umschaltsignal                  
+Signal bei 0                    
+Signal bei 1                    
+2472
+B-Um3 B_Eingang                 
+Umschaltsignal                  
+Signal bei 0                    
+Signal bei 1                    
+2473
+B-Um4 B_Eingang                 
+Umschaltsignal                  
+Signal bei 0                    
+Signal bei 1                    
+2474
+B-Um5 B_Eingang                 
+Umschaltsignal                  
+Signal bei 0                    
+Signal bei 1                    
+2480
+TeReg K_Istwert                 
+2481
+TeReg Istsieb_s                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2482
+TeReg Vorhalt_s                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2483
+TeReg Vorh.*1000                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+Wert *1                         
+Wert *1000                      
+2484
+TeReg K_Sollwert                
+2485
+TeReg K_ZusSollw                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2486
+TeReg B_ZusSollw                
+2487
+TeReg Sollsieb_s                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2488
+TeReg KP                        
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2489
+TeReg K_KPadapt                 
+2490
+TeReg KPadapt_x1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2491
+TeReg KPadapt_x2                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2492
+TeReg KPadapt_y1                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2493
+TeReg KPadapt_y2                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2494
+TeReg TN                        
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2495
+TeReg TN *1000                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+Wert *1                         
+Wert *1000                      
+2496
+TeReg B_Statik                  
+2497
+TeReg Statik_Prz                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2498
+TeReg Statik B+                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2499
+TeReg Statik B-                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2500
+TeReg B_Freigabe                
+2502
+TeRegIst/SID Stw                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+Istwert sieben                  
+SID sieben                      
+2503
+TeReg P-Ant Stw.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+ausgeschaltet                   
+eingeschaltet                   
+2504
+TeReg I-Ant Stw.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+ausgeschaltet                   
+eingeschaltet                   
+2505
+TeReg K_IntSetzw                
+2506
+TeReg B_IntSetzn                
+2507
+TeReg K_Ausg. B+                
+2508
+TeReg Ausg. B+                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2509
+TeReg K_Ausg. B-                
+2510
+TeReg Ausg. B-                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2511
+TeReg K_AusgSkal                
+2512
+TeReg AusgSkal                  
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2515
+n>v-Rechner Eing                
+2516
+v>n-Rechner Eing                
+2517
+v>n-Rech Durchm.                
+2518
+v>n min. Durchm.                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2519
+v>n öbersetzung                 
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2520
+v>n Nenndrehzahl                
+Fkt-Datensatz 1                 
+Fkt-Datensatz 2                 
+Fkt-Datensatz 3                 
+Fkt-Datensatz 4                 
+2710
+CB/TB Konfig.                   
+1. CB                           
+2. CB                           
+Neukonfigurier.                 
+inaktiv                         
+2711
+CB Parameter 1                  
+1. CB                           
+2. CB                           
+2712
+CB Parameter 2                  
+1. CB                           
+2. CB                           
+2713
+CB Parameter 3                  
+1. CB                           
+2. CB                           
+2714
+CB Parameter 4                  
+1. CB                           
+2. CB                           
+2715
+CB Parameter 5                  
+1. CB                           
+2. CB                           
+2716
+CB Parameter 6                  
+1. CB                           
+2. CB                           
+2717
+CB Parameter 7                  
+1. CB                           
+2. CB                           
+2718
+CB Parameter 8                  
+1. CB                           
+2. CB                           
+2719
+CB Parameter 9                  
+1. CB                           
+2. CB                           
+2720
+CB Parameter10                  
+1. CB                           
+2. CB                           
+2721
+CB Parameter11                  
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2722
+CB/TB Tlg.Ausz.                 
+1. CB                           
+2. CB                           
+2732
+CB/TB Diagnose                  
+2733
+CB/TB Empf.dat.                 
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2734
+CB/TB SendAusw.1                
+2735
+CB/TB Send.anz.                 
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2736
+CB/TB SendAusw.2                
+2738
+CB/TB PKW-Auftr.                
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2739
+CB/TB PKW-Antw.                 
+1. CB                           
+1. CB                           
+1. CB                           
+1. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2. CB                           
+2800
+ParSch Anwahl                   
+abgeschaltet                    
+ohne ZÅndimpulse                
+mit ZÅndimpulsen                
+2804
+ParSch Istwerte                 
+ 1. Proze·datum                 
+ 2. Proze·datum                 
+ 3. Proze·datum                 
+ 4. Proze·datum                 
+ 5. Proze·datum                 
+2805
+ParSchBusabschl.                
+EIN                             
+AUS                             
+2806
+ParSchBusadresse                
+                                
+                                
+Slave 2                         
+Slave 3                         
+Slave 4                         
+Slave 5                         
+Slave 6                         
+                                
+                                
+                                
+                                
+                                
+Master:Slave 2                  
+Master:Slaves2-3                
+Master:Slaves2-4                
+Master:Slaves2-5                
+Master:Slaves2-6                
+2807
+ParSchTlg.Aus.Zt                
+2808
+ParSchQ.Stîr.Aus                
+2809
+ParSch Diagnose                 
+richtige Telegr.                
+fehlerh. Telegr.                
+Transmit Errors                 
+Receive Errors                  
+Phase Errors                    
+Baudrate Errors                 
+BCC Errors                      
+Timeout Errors                  
+Kennung Errors                  
+2810
+aktive Teilnehm.                
+2812
+ParSchEmpf.Daten                
+1.Wort von Sl. 2                
+2.Wort von Sl. 2                
+3.Wort von Sl. 2                
+4.Wort von Sl. 2                
+5.Wort von Sl. 2                
+1.Wort von Sl. 3                
+2.Wort von Sl. 3                
+3.Wort von Sl. 3                
+4.Wort von Sl. 3                
+5.Wort von Sl. 3                
+1.Wort von Sl. 4                
+2.Wort von Sl. 4                
+3.Wort von Sl. 4                
+4.Wort von Sl. 4                
+5.Wort von Sl. 4                
+1.Wort von Sl. 5                
+2.Wort von Sl. 5                
+3.Wort von Sl. 5                
+4.Wort von Sl. 5                
+5.Wort von Sl. 5                
+1.Wort von Sl. 6                
+2.Wort von Sl. 6                
+3.Wort von Sl. 6                
+4.Wort von Sl. 6                
+5.Wort von Sl. 6                
+2813
+ParSchSendeDaten                
+ 1. Proze·datum                 
+ 2. Proze·datum                 
+ 3. Proze·datum                 
+ 4. Proze·datum                 
+ 5. Proze·datum                 
+2900
+GerÑteinformat.1                
+2901
+GerÑteinformat.2                
+2905
+GerÑteinfo Stw.                 
+2960
+Rechenfolge_1                   
+kein Baustein                   
+SpannungsÅberw.                 
+Stîrungsaus.F023                
+Stîrungsaus.F024                
+Stîrungsaus.F033                
+Stîrungsaus.F034                
+Warnungsaus.A023                
+Warnungsaus.A024                
+Warnungsaus.A033                
+Warnungsaus.A034                
+Konn>BinWandler1                
+Konn>BinWandler2                
+Konn>BinWandler3                
+Bin>KonnWandler1                
+Bin>KonnWandler2                
+Bin>KonnWandler3                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Addierer/Subtr.1                
+Addierer/Subtr.2                
+Addierer/Subtr.3                
+Addierer/Subtr.4                
+Addierer/Subtr.5                
+Addierer/Subtr.6                
+Addierer/Subtr.7                
+Addierer/Subtr.8                
+Addierer/Subtr.9                
+Addierer/Subt.10                
+Addierer/Subt.11                
+Addierer/Subt.12                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Vorz.Invertier.1                
+Vorz.Invertier.2                
+Vorz.Invertier.3                
+Vorz.Invertier.4                
+kein Baustein                   
+S-Vorz.Invert. 1                
+S-Vorz.Invert. 2                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Dividierer 1                    
+Dividierer 2                    
+Dividierer 3                    
+kein Baustein                   
+kein Baustein                   
+Multiplizierer 1                
+Multiplizierer 2                
+Multiplizierer 3                
+Multiplizierer 4                
+kein Baustein                   
+Multipl/Divid. 1                
+Multipl/Divid. 2                
+Multipl/Divid. 3                
+kein Baustein                   
+kein Baustein                   
+Betrag+Siebung 1                
+Betrag+Siebung 2                
+Betrag+Siebung 3                
+Betrag+Siebung 4                
+kein Baustein                   
+Begrenzer 1                     
+Begrenzer 2                     
+Begrenzer 3                     
+kein Baustein                   
+kein Baustein                   
+GrwMel+Siebung 1                
+GrwMel+Siebung 2                
+GrwMel+Siebung 3                
+Grenzwertmelder4                
+Grenzwertmelder5                
+Grenzwertmelder6                
+Grenzwertmelder7                
+Grenzwertmelder8                
+Grenzwertmelder9                
+Grenzwertmeld.10                
+Maximumauswahl                  
+Minimumauswahl                  
+Nachf./Speicher1                
+Nachf./Speicher2                
+Anal. Speicher 1                
+Anal. Speicher 2                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Anal.Umschalt. 1                
+Anal.Umschalt. 2                
+Anal.Umschalt. 3                
+Anal.Umschalt. 4                
+Anal.Umschalt. 5                
+Anal.Umschalt. 6                
+Anal.Umschalt. 7                
+Anal.Umschalt. 8                
+Anal.Umschalt. 9                
+Anal.Umschalt.10                
+Integrator 1                    
+Integrator 2                    
+Integrator 3                    
+Differenzierer 1                
+Differenzierer 2                
+Differenzierer 3                
+freieKennlinie 1                
+freieKennlinie 2                
+freieKennlinie 3                
+Totbereich 1                    
+Totbereich 2                    
+Totbereich 3                    
+Sollwertscherung                
+Einfachhochlaufg                
+Technologieregl.                
+n>v/v>n Rechner                 
+kein Baustein                   
+kein Baustein                   
+Decoder/Demult.1                
+Decoder/Demult.2                
+UND-Gatter 1                    
+UND-Gatter 2                    
+UND-Gatter 3                    
+UND-Gatter 4                    
+UND-Gatter 5                    
+UND-Gatter 6                    
+UND-Gatter 7                    
+UND-Gatter 8                    
+UND-Gatter 9                    
+UND-Gatter 10                   
+UND-Gatter 11                   
+UND-Gatter 12                   
+UND-Gatter 13                   
+UND-Gatter 14                   
+UND-Gatter 15                   
+UND-Gatter 16                   
+UND-Gatter 17                   
+UND-Gatter 18                   
+UND-Gatter 19                   
+UND-Gatter 20                   
+UND-Gatter 21                   
+UND-Gatter 22                   
+UND-Gatter 23                   
+UND-Gatter 24                   
+UND-Gatter 25                   
+UND-Gatter 26                   
+UND-Gatter 27                   
+UND-Gatter 28                   
+kein Baustein                   
+kein Baustein                   
+ODER-Gatter 1                   
+ODER-Gatter 2                   
+ODER-Gatter 3                   
+ODER-Gatter 4                   
+ODER-Gatter 5                   
+ODER-Gatter 6                   
+ODER-Gatter 7                   
+ODER-Gatter 8                   
+ODER-Gatter 9                   
+ODER-Gatter 10                  
+ODER-Gatter 11                  
+ODER-Gatter 12                  
+ODER-Gatter 13                  
+ODER-Gatter 14                  
+ODER-Gatter 15                  
+ODER-Gatter 16                  
+ODER-Gatter 17                  
+ODER-Gatter 18                  
+ODER-Gatter 19                  
+ODER-Gatter 20                  
+XOR-Gatter 1                    
+XOR-Gatter 2                    
+XOR-Gatter 3                    
+XOR-Gatter 4                    
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Inverter 1                      
+Inverter 2                      
+Inverter 3                      
+Inverter 4                      
+Inverter 5                      
+Inverter 6                      
+Inverter 7                      
+Inverter 8                      
+Inverter 9                      
+Inverter 10                     
+Inverter 11                     
+Inverter 12                     
+Inverter 13                     
+Inverter 14                     
+Inverter 15                     
+Inverter 16                     
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+NAND-Gatter 1                   
+NAND-Gatter 2                   
+NAND-Gatter 3                   
+NAND-Gatter 4                   
+NAND-Gatter 5                   
+NAND-Gatter 6                   
+NAND-Gatter 7                   
+NAND-Gatter 8                   
+NAND-Gatter 9                   
+NAND-Gatter 10                  
+NAND-Gatter 11                  
+NAND-Gatter 12                  
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+RS-Flip-Flop 1                  
+RS-Flip-Flop 2                  
+RS-Flip-Flop 3                  
+RS-Flip-Flop 4                  
+RS-Flip-Flop 5                  
+RS-Flip-Flop 6                  
+RS-Flip-Flop 7                  
+RS-Flip-Flop 8                  
+RS-Flip-Flop 9                  
+RS-Flip-Flop 10                 
+RS-Flip-Flop 11                 
+RS-Flip-Flop 12                 
+RS-Flip-Flop 13                 
+RS-Flip-Flop 14                 
+kein Baustein                   
+D-Flip-Flop 1                   
+D-Flip-Flop 2                   
+D-Flip-Flop 3                   
+D-Flip-Flop 4                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Zeitglied 1                     
+Zeitglied 2                     
+Zeitglied 3                     
+Zeitglied 4                     
+Zeitglied 5                     
+Zeitglied 6                     
+Zeitglied 7                     
+Zeitglied 8                     
+Zeitglied 9                     
+Zeitglied 10                    
+BinÑrs. Umsch. 1                
+BinÑrs. Umsch. 2                
+BinÑrs. Umsch. 3                
+BinÑrs. Umsch. 4                
+2961
+Rechenfolge_2                   
+kein Baustein                   
+SpannungsÅberw.                 
+Stîrungsaus.F023                
+Stîrungsaus.F024                
+Stîrungsaus.F033                
+Stîrungsaus.F034                
+Warnungsaus.A023                
+Warnungsaus.A024                
+Warnungsaus.A033                
+Warnungsaus.A034                
+Konn>BinWandler1                
+Konn>BinWandler2                
+Konn>BinWandler3                
+Bin>KonnWandler1                
+Bin>KonnWandler2                
+Bin>KonnWandler3                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Addierer/Subtr.1                
+Addierer/Subtr.2                
+Addierer/Subtr.3                
+Addierer/Subtr.4                
+Addierer/Subtr.5                
+Addierer/Subtr.6                
+Addierer/Subtr.7                
+Addierer/Subtr.8                
+Addierer/Subtr.9                
+Addierer/Subt.10                
+Addierer/Subt.11                
+Addierer/Subt.12                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Vorz.Invertier.1                
+Vorz.Invertier.2                
+Vorz.Invertier.3                
+Vorz.Invertier.4                
+kein Baustein                   
+S-Vorz.Invert. 1                
+S-Vorz.Invert. 2                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Dividierer 1                    
+Dividierer 2                    
+Dividierer 3                    
+kein Baustein                   
+kein Baustein                   
+Multiplizierer 1                
+Multiplizierer 2                
+Multiplizierer 3                
+Multiplizierer 4                
+kein Baustein                   
+Multipl/Divid. 1                
+Multipl/Divid. 2                
+Multipl/Divid. 3                
+kein Baustein                   
+kein Baustein                   
+Betrag+Siebung 1                
+Betrag+Siebung 2                
+Betrag+Siebung 3                
+Betrag+Siebung 4                
+kein Baustein                   
+Begrenzer 1                     
+Begrenzer 2                     
+Begrenzer 3                     
+kein Baustein                   
+kein Baustein                   
+GrwMel+Siebung 1                
+GrwMel+Siebung 2                
+GrwMel+Siebung 3                
+Grenzwertmelder4                
+Grenzwertmelder5                
+Grenzwertmelder6                
+Grenzwertmelder7                
+Grenzwertmelder8                
+Grenzwertmelder9                
+Grenzwertmeld.10                
+Maximumauswahl                  
+Minimumauswahl                  
+Nachf./Speicher1                
+Nachf./Speicher2                
+Anal. Speicher 1                
+Anal. Speicher 2                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Anal.Umschalt. 1                
+Anal.Umschalt. 2                
+Anal.Umschalt. 3                
+Anal.Umschalt. 4                
+Anal.Umschalt. 5                
+Anal.Umschalt. 6                
+Anal.Umschalt. 7                
+Anal.Umschalt. 8                
+Anal.Umschalt. 9                
+Anal.Umschalt.10                
+Integrator 1                    
+Integrator 2                    
+Integrator 3                    
+Differenzierer 1                
+Differenzierer 2                
+Differenzierer 3                
+freieKennlinie 1                
+freieKennlinie 2                
+freieKennlinie 3                
+Totbereich 1                    
+Totbereich 2                    
+Totbereich 3                    
+Sollwertscherung                
+Einfachhochlaufg                
+Technologieregl.                
+n>v/v>n Rechner                 
+kein Baustein                   
+kein Baustein                   
+Decoder/Demult.1                
+Decoder/Demult.2                
+UND-Gatter 1                    
+UND-Gatter 2                    
+UND-Gatter 3                    
+UND-Gatter 4                    
+UND-Gatter 5                    
+UND-Gatter 6                    
+UND-Gatter 7                    
+UND-Gatter 8                    
+UND-Gatter 9                    
+UND-Gatter 10                   
+UND-Gatter 11                   
+UND-Gatter 12                   
+UND-Gatter 13                   
+UND-Gatter 14                   
+UND-Gatter 15                   
+UND-Gatter 16                   
+UND-Gatter 17                   
+UND-Gatter 18                   
+UND-Gatter 19                   
+UND-Gatter 20                   
+UND-Gatter 21                   
+UND-Gatter 22                   
+UND-Gatter 23                   
+UND-Gatter 24                   
+UND-Gatter 25                   
+UND-Gatter 26                   
+UND-Gatter 27                   
+UND-Gatter 28                   
+kein Baustein                   
+kein Baustein                   
+ODER-Gatter 1                   
+ODER-Gatter 2                   
+ODER-Gatter 3                   
+ODER-Gatter 4                   
+ODER-Gatter 5                   
+ODER-Gatter 6                   
+ODER-Gatter 7                   
+ODER-Gatter 8                   
+ODER-Gatter 9                   
+ODER-Gatter 10                  
+ODER-Gatter 11                  
+ODER-Gatter 12                  
+ODER-Gatter 13                  
+ODER-Gatter 14                  
+ODER-Gatter 15                  
+ODER-Gatter 16                  
+ODER-Gatter 17                  
+ODER-Gatter 18                  
+ODER-Gatter 19                  
+ODER-Gatter 20                  
+XOR-Gatter 1                    
+XOR-Gatter 2                    
+XOR-Gatter 3                    
+XOR-Gatter 4                    
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Inverter 1                      
+Inverter 2                      
+Inverter 3                      
+Inverter 4                      
+Inverter 5                      
+Inverter 6                      
+Inverter 7                      
+Inverter 8                      
+Inverter 9                      
+Inverter 10                     
+Inverter 11                     
+Inverter 12                     
+Inverter 13                     
+Inverter 14                     
+Inverter 15                     
+Inverter 16                     
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+NAND-Gatter 1                   
+NAND-Gatter 2                   
+NAND-Gatter 3                   
+NAND-Gatter 4                   
+NAND-Gatter 5                   
+NAND-Gatter 6                   
+NAND-Gatter 7                   
+NAND-Gatter 8                   
+NAND-Gatter 9                   
+NAND-Gatter 10                  
+NAND-Gatter 11                  
+NAND-Gatter 12                  
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+RS-Flip-Flop 1                  
+RS-Flip-Flop 2                  
+RS-Flip-Flop 3                  
+RS-Flip-Flop 4                  
+RS-Flip-Flop 5                  
+RS-Flip-Flop 6                  
+RS-Flip-Flop 7                  
+RS-Flip-Flop 8                  
+RS-Flip-Flop 9                  
+RS-Flip-Flop 10                 
+RS-Flip-Flop 11                 
+RS-Flip-Flop 12                 
+RS-Flip-Flop 13                 
+RS-Flip-Flop 14                 
+kein Baustein                   
+D-Flip-Flop 1                   
+D-Flip-Flop 2                   
+D-Flip-Flop 3                   
+D-Flip-Flop 4                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Zeitglied 1                     
+Zeitglied 2                     
+Zeitglied 3                     
+Zeitglied 4                     
+Zeitglied 5                     
+Zeitglied 6                     
+Zeitglied 7                     
+Zeitglied 8                     
+Zeitglied 9                     
+Zeitglied 10                    
+BinÑrs. Umsch. 1                
+BinÑrs. Umsch. 2                
+BinÑrs. Umsch. 3                
+BinÑrs. Umsch. 4                
+2962
+Rechenfolge_3                   
+kein Baustein                   
+SpannungsÅberw.                 
+Stîrungsaus.F023                
+Stîrungsaus.F024                
+Stîrungsaus.F033                
+Stîrungsaus.F034                
+Warnungsaus.A023                
+Warnungsaus.A024                
+Warnungsaus.A033                
+Warnungsaus.A034                
+Konn>BinWandler1                
+Konn>BinWandler2                
+Konn>BinWandler3                
+Bin>KonnWandler1                
+Bin>KonnWandler2                
+Bin>KonnWandler3                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Addierer/Subtr.1                
+Addierer/Subtr.2                
+Addierer/Subtr.3                
+Addierer/Subtr.4                
+Addierer/Subtr.5                
+Addierer/Subtr.6                
+Addierer/Subtr.7                
+Addierer/Subtr.8                
+Addierer/Subtr.9                
+Addierer/Subt.10                
+Addierer/Subt.11                
+Addierer/Subt.12                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Vorz.Invertier.1                
+Vorz.Invertier.2                
+Vorz.Invertier.3                
+Vorz.Invertier.4                
+kein Baustein                   
+S-Vorz.Invert. 1                
+S-Vorz.Invert. 2                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Dividierer 1                    
+Dividierer 2                    
+Dividierer 3                    
+kein Baustein                   
+kein Baustein                   
+Multiplizierer 1                
+Multiplizierer 2                
+Multiplizierer 3                
+Multiplizierer 4                
+kein Baustein                   
+Multipl/Divid. 1                
+Multipl/Divid. 2                
+Multipl/Divid. 3                
+kein Baustein                   
+kein Baustein                   
+Betrag+Siebung 1                
+Betrag+Siebung 2                
+Betrag+Siebung 3                
+Betrag+Siebung 4                
+kein Baustein                   
+Begrenzer 1                     
+Begrenzer 2                     
+Begrenzer 3                     
+kein Baustein                   
+kein Baustein                   
+GrwMel+Siebung 1                
+GrwMel+Siebung 2                
+GrwMel+Siebung 3                
+Grenzwertmelder4                
+Grenzwertmelder5                
+Grenzwertmelder6                
+Grenzwertmelder7                
+Grenzwertmelder8                
+Grenzwertmelder9                
+Grenzwertmeld.10                
+Maximumauswahl                  
+Minimumauswahl                  
+Nachf./Speicher1                
+Nachf./Speicher2                
+Anal. Speicher 1                
+Anal. Speicher 2                
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Anal.Umschalt. 1                
+Anal.Umschalt. 2                
+Anal.Umschalt. 3                
+Anal.Umschalt. 4                
+Anal.Umschalt. 5                
+Anal.Umschalt. 6                
+Anal.Umschalt. 7                
+Anal.Umschalt. 8                
+Anal.Umschalt. 9                
+Anal.Umschalt.10                
+Integrator 1                    
+Integrator 2                    
+Integrator 3                    
+Differenzierer 1                
+Differenzierer 2                
+Differenzierer 3                
+freieKennlinie 1                
+freieKennlinie 2                
+freieKennlinie 3                
+Totbereich 1                    
+Totbereich 2                    
+Totbereich 3                    
+Sollwertscherung                
+Einfachhochlaufg                
+Technologieregl.                
+n>v/v>n Rechner                 
+kein Baustein                   
+kein Baustein                   
+Decoder/Demult.1                
+Decoder/Demult.2                
+UND-Gatter 1                    
+UND-Gatter 2                    
+UND-Gatter 3                    
+UND-Gatter 4                    
+UND-Gatter 5                    
+UND-Gatter 6                    
+UND-Gatter 7                    
+UND-Gatter 8                    
+UND-Gatter 9                    
+UND-Gatter 10                   
+UND-Gatter 11                   
+UND-Gatter 12                   
+UND-Gatter 13                   
+UND-Gatter 14                   
+UND-Gatter 15                   
+UND-Gatter 16                   
+UND-Gatter 17                   
+UND-Gatter 18                   
+UND-Gatter 19                   
+UND-Gatter 20                   
+UND-Gatter 21                   
+UND-Gatter 22                   
+UND-Gatter 23                   
+UND-Gatter 24                   
+UND-Gatter 25                   
+UND-Gatter 26                   
+UND-Gatter 27                   
+UND-Gatter 28                   
+kein Baustein                   
+kein Baustein                   
+ODER-Gatter 1                   
+ODER-Gatter 2                   
+ODER-Gatter 3                   
+ODER-Gatter 4                   
+ODER-Gatter 5                   
+ODER-Gatter 6                   
+ODER-Gatter 7                   
+ODER-Gatter 8                   
+ODER-Gatter 9                   
+ODER-Gatter 10                  
+ODER-Gatter 11                  
+ODER-Gatter 12                  
+ODER-Gatter 13                  
+ODER-Gatter 14                  
+ODER-Gatter 15                  
+ODER-Gatter 16                  
+ODER-Gatter 17                  
+ODER-Gatter 18                  
+ODER-Gatter 19                  
+ODER-Gatter 20                  
+XOR-Gatter 1                    
+XOR-Gatter 2                    
+XOR-Gatter 3                    
+XOR-Gatter 4                    
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Inverter 1                      
+Inverter 2                      
+Inverter 3                      
+Inverter 4                      
+Inverter 5                      
+Inverter 6                      
+Inverter 7                      
+Inverter 8                      
+Inverter 9                      
+Inverter 10                     
+Inverter 11                     
+Inverter 12                     
+Inverter 13                     
+Inverter 14                     
+Inverter 15                     
+Inverter 16                     
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+NAND-Gatter 1                   
+NAND-Gatter 2                   
+NAND-Gatter 3                   
+NAND-Gatter 4                   
+NAND-Gatter 5                   
+NAND-Gatter 6                   
+NAND-Gatter 7                   
+NAND-Gatter 8                   
+NAND-Gatter 9                   
+NAND-Gatter 10                  
+NAND-Gatter 11                  
+NAND-Gatter 12                  
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+RS-Flip-Flop 1                  
+RS-Flip-Flop 2                  
+RS-Flip-Flop 3                  
+RS-Flip-Flop 4                  
+RS-Flip-Flop 5                  
+RS-Flip-Flop 6                  
+RS-Flip-Flop 7                  
+RS-Flip-Flop 8                  
+RS-Flip-Flop 9                  
+RS-Flip-Flop 10                 
+RS-Flip-Flop 11                 
+RS-Flip-Flop 12                 
+RS-Flip-Flop 13                 
+RS-Flip-Flop 14                 
+kein Baustein                   
+D-Flip-Flop 1                   
+D-Flip-Flop 2                   
+D-Flip-Flop 3                   
+D-Flip-Flop 4                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+kein Baustein                   
+Zeitglied 1                     
+Zeitglied 2                     
+Zeitglied 3                     
+Zeitglied 4                     
+Zeitglied 5                     
+Zeitglied 6                     
+Zeitglied 7                     
+Zeitglied 8                     
+Zeitglied 9                     
+Zeitglied 10                    
+BinÑrs. Umsch. 1                
+BinÑrs. Umsch. 2                
+BinÑrs. Umsch. 3                
+BinÑrs. Umsch. 4                
+2969
+Stw. Rechenfolge                
+inaktiv                         
+Werkseinstellung                
+2977
+PIN f.Option S00                
+2978
+FreischaltungS00                
+2980
+List.vorh.Par.11                
+2981
+List.vorh.Par.12                
+2982
+List.vorh.Par.13                
+2983
+List.vorh.Par.14                
+2984
+List.vorh.Par.15                
+2985
+List.vorh.Par.16                
+2986
+List.vorh.Par.17                
+2987
+List.vorh.Par.18                
+2988
+List.vorh.Par.19                
+2989
+List.vorh.Par.20                
+2990
+List.Ñnd.Par. 11                
+2991
+List.Ñnd.Par. 12                
+2992
+List.Ñnd.Par. 13                
+2993
+List.Ñnd.Par. 14                
+2994
+List.Ñnd.Par. 15                
+2995
+List.Ñnd.Par. 16                
+2996
+List.Ñnd.Par. 17                
+2997
+List.Ñnd.Par. 18                
+2998
+List.Ñnd.Par. 19                
+2999
+List.Ñnd.Par. 20                

@@ -1,0 +1,553 @@
+[Popup]
+Menu=参数组(&P)
+
+[Popup2]
+Menu=诊断(&D)
+
+[Toolbar]
+
+[诊断(&D)]
+Menu=&ManualMode,|,M&essages,|,Pr&ofibus,|,Signalvalue&1..4,Signalvalue&5..7,&Signalword,|,&Analog output,|,&TestParameters
+
+	[&ManualMode]
+	View=Parliste
+	Parameter=1860,1861,1862,1863,1864,1865
+
+	[M&essages]
+	View=Parliste
+	Parameter= 15,1400,1401,1402,1403,1404,1405,1406,1407,1408,1409,1410,1411,1412,1413,1414,1415,1416,1417,1418,1419,1420,1421,1422,1423,1424,1425,1426,1427,1428,1429,1430,1431,1432,1433,1434,1435,1436,1437,1438,1439
+		
+	[Pr&ofibus]
+	View=Parliste
+	Parameter=918,1970,1971,1972,1973,1974
+
+	[Signalvalue&1..4]
+	View=Parliste
+	Parameter=1802,1803,1804,1805,1806,1807,1808,1809,1810,1811,1812,1813,1814,1815,1816,1817
+	
+	[Signalvalue&5..7]
+	View=Parliste
+	Parameter=1818,1819,1820,1821,1822,1823,1824,1825,1826,1827,1828,1829
+
+	[&Signalword]
+	View=Parliste
+	Parameter=1830,1840,1831,1841,1832,1842,1833,1844,1834,1844,1835,1845,1836,1846,1837,1847,1838
+
+	[&Analog output]
+	View=Parliste
+	Parameter=1850,1851,1852,1853
+
+	[&TestParameters]
+	View=Parliste
+	Parameter=1991,1992,1993,1994
+
+[参数组(&P)]						
+Menu=&Gerneral observation parameters,General 参数组(&P),|,Device &configuration,Device &data,|,&Motor data,Motor param&eters,Motor p&rotection,|,N/&f-controller,&Setpoint channel,|,CB contro&l ,Converter mo&nitoring,&Excitation,Synchroni&zier,Au&xiliaries,|,Control&word BICOs,Setpo&int BICOs,&Actual value BICOs,Output &BICOs,Stateword_&3,|,Interfa&ces,Op&tions,|,&Observation parameters				   
+	
+	[&Gerneral observation parameters]
+	View=Parliste
+	Parameter=1,2,3,4,5,6,7,8,9,13,15,16,201,202,203,204,205,896,899
+
+	[General 参数组(&P)]
+	View=Parliste
+	Parameter=14,13,50,51,52
+
+	[Device &configuration]
+	View=Parliste
+	Parameter=70,72,75,76,80,85,86,90,91,95,918
+
+	[Device &data]
+	View=Parliste
+	Parameter=72,1996,1997,1979,1998,1999
+
+	[&Motor data]
+	Menu=Motor data &1,Motor data &2,Motor data &3,Motor data &4
+
+		[Motor data &1]
+		View=Parliste
+		Parameter=600,601,603,604,606,607,608
+
+		[Motor data &2]
+		View=Parliste
+		Parameter=1600,1601,1603,1604,1606,1607,1608
+
+		[Motor data &3]
+		View=Parliste
+		Parameter=620,621,623,624,626,627,628
+
+		[Motor data &4]
+		View=Parliste
+		Parameter=1620,1621,1623,1624,1626,1627,1628
+
+	[Motor param&eters]
+	Menu=Motor parameters &1,Motor parameters &2,Motor parameters &3,Motor parameters &4
+
+		[Motor parameters &1]
+		View=Parliste
+		Parameter=610,611,612,613,614,615
+
+		[Motor parameters &2]
+		View=Parliste
+		Parameter=1610,1611,1612,1613,1614,1615
+		
+		[Motor parameters &3]	
+		View=Parliste
+		Parameter=630,631,632,633,634,635
+
+		[Motor parameters &4]
+		View=Parliste
+		Parameter=1630,1631,1632,1633,1634,1635
+
+	[Motor p&rotection]
+	Menu=General protection&1,General protection&2,General protection&3,General protection&4		
+		
+		[General protection&1]
+		View=Parliste
+		Parameter=322,323,325,326,327,328,320,1320,720,1720,321,1321,721,1721,324,1324,724,1724,337
+
+		[General protection&2]	
+		View=Parliste
+		Parameter=1322,1323,325,326,327,1328,320,1320,720,1720,321,1321,721,1721,324,1324,724,1724,337
+
+		[General protection&3]	
+		View=Parliste
+		Parameter=722,723,325,326,327,728,320,1320,720,1720,321,1321,721,1721,324,1324,724,1724,337
+
+		[General protection&4]	
+		View=Parliste
+		Parameter=1722,1723,325,326,327,1728,320,1320,720,1720,321,1321,721,1721,324,1324,724,1724,337
+
+	[n/&f-controller]
+	Menu=n/f-controller motor&1,n/f-controller motor&2,n/f-controller motor&3,n/f-controller motor&4
+		
+		[n/f-controller motor&1]
+		View=Parliste
+		Parameter=298,370,371,372,374,375,1374,1375,381,373,385,386,1385,1386,387,376,377,378,384,379,380,382,383
+
+		[n/f-controller motor&2]
+		View=Parliste
+		Parameter=1298,1370,1371,1372,374,375,1374,1375,381,1373,385,386,1385,1386,387,1376,1377,1378,384,379,380,382,383
+
+		[n/f-controller motor&3]
+		View=Parliste
+		Parameter=698,770,771,772,374,375,1374,1375,381,773,385,386,1385,1386,387,776,777,778,384,379,380,382,383
+
+		[n/f-controller motor&4]
+		View=Parliste
+		Parameter=1698,1770,1771,1772,374,375,1374,1375,381,1773,385,386,1385,1386,387,1776,1777,1778,384,379,380,382,383
+
+	[&Setpoint channel]
+	Menu=&Masterdrive,&Slavedrive,Monitorin&g
+
+		[Monitorin&g]
+		View=Parliste
+		Parameter=326,327,329,330,331,332,333,334,1334,734,1734,337
+
+		[&Slavedrive]
+		Menu=&Base-Torque setpoint,&Spare-Torque setpoint	 
+	
+			[&Base-Torque setpoint]
+			Menu=Base-Mset_SDS_&1,Base-Mset_SDS_&2,Base-Mset_SDS_&3,Base-Mset_SDS_&4	
+
+				[Base-Mset_SDS_&1]
+				View=Parliste
+				Parameter=260,261,262,263,264,265,297,266,267,268,269,270,271,272,273,274,275,276,277,278,347,348,349,350,351,352,340,341,342,343,344,345,346,355,356,357,358,359,360,361
+
+				[Base-Mset_SDS_&2]
+				View=Parliste
+				Parameter=260,261,262,263,264,265,1297,266,267,268,269,270,271,272,273,274,275,276,277,278,347,348,349,350,351,352,1340,1341,1342,1343,1344,1345,1346,1355,1356,1357,1358,1359,1360,1361
+
+				[Base-Mset_SDS_&3]
+				View=Parliste
+				Parameter=260,261,262,263,264,265,1297,266,267,268,269,270,271,272,273,274,275,276,277,278,347,348,349,350,351,352,740,741,742,743,744,745,746,755,756,757,758,759,760,761
+
+				[Base-Mset_SDS_&4]
+				View=Parliste
+				Parameter=260,261,262,263,264,265,1297,266,267,268,269,270,271,272,273,274,275,276,277,278,347,348,349,350,351,352,1740,1741,1742,1743,1744,1745,1746,1755,1756,1757,1758,1759,1760,1761
+
+			[&Spare-Torque setpoint]
+			Menu=Spare-Mset_SDS_&1,Spare-Mset_SDS_&2,Spare-Mset_SDS_&3,Spare-Mset_SDS_&4			
+			
+				[Spare-Mset_SDS_&1]				
+				View=Parliste
+				Parameter=1260,1261,262,1263,1264,265,297,1266,1267,268,1269,1270,271,1272,1273,274,1275,1276,277,278,347,348,349,350,351,352,340,341,342,343,344,345,346,355,356,357,358,359,360,361
+
+				[Spare-Mset_SDS_&2]				
+				View=Parliste
+				Parameter=1260,1261,262,1263,1264,265,1297,1266,1267,268,1269,1270,271,1272,1273,274,1275,1276,277,278,347,348,349,350,351,352,1340,1341,1342,1343,1344,1345,1346,1355,1356,1357,1358,1359,1360,1361
+
+
+				[Spare-Mset_SDS_&3]				
+				View=Parliste
+				Parameter=1260,1261,262,1263,1264,265,1297,1266,1267,268,1269,1270,271,1272,1273,274,1275,1276,277,278,347,348,349,350,351,352,740,741,742,743,744,745,746,755,756,757,758,759,760,761
+
+				[Spare-Mset_SDS_&4]				
+				View=Parliste
+				Parameter=1260,1261,262,1263,1264,265,1297,1266,1267,268,1269,1270,271,1272,1273,274,1275,1276,277,278,347,348,349,350,351,352,1740,1741,1742,1743,1744,1745,1746,1755,1756,1757,1758,1759,1760,1761
+
+		[&Masterdrive]
+		Menu=&Base-setpoints/limits,&Spare-setpoints/limits,|,&Motorpoti,&Ramp function generator
+
+			[&Base-setpoints/limits]		
+			Menu=Base setpoints SDS&1,Base setpoints SDS&2,Base setpoints SDS&3,Base setpoints SDS&4,|,Base &limits SDS1,Base l&imits SDS2,Base li&mits SDS3,Base limi&ts SDS4
+	
+				[Base setpoints SDS&1]
+				View=Parliste
+				Parameter=250,251,252,253,254,255,256,257,258,263,264,265,290,291,292,293,294,295,296,320,321,324,335,336
+
+				[Base setpoints SDS&2]
+				View=Parliste
+				Parameter=250,251,252,253,254,255,256,257,258,263,264,265,290,1291,1292,1293,1294,295,296,1320,1321,1324,335,336
+
+				[Base setpoints SDS&3]
+				View=Parliste
+				Parameter=250,251,252,253,254,255,256,257,258,263,264,265,290,691,692,693,694,295,296,720,721,724,335,336
+
+				[Base setpoints SDS&4]
+				View=Parliste
+				Parameter=250,251,252,253,254,255,256,257,258,263,264,265,290,1691,1692,1693,1694,295,296,1720,1721,1724,335,336
+
+				[Base &limits SDS1]
+				View=Parliste
+				Parameter=266,267,268,269,270,271,272,273,274,275,276,277,347,348,349,350,351,352,340,341,342,343,344,345,346,355,356,357,358,359,360,361
+
+				[Base l&imits SDS2]
+				View=Parliste
+				Parameter=266,267,268,269,270,271,272,273,274,275,276,277,347,348,349,350,351,352,1340,1341,1342,1343,1344,1345,1346,1355,1356,1357,1358,1359,1360,1361
+
+				[Base li&mits SDS3]
+				View=Parliste
+				Parameter=266,267,268,269,270,271,272,273,274,275,276,277,347,348,349,350,351,352,740,741,742,743,744,745,746,755,756,757,758,759,760,761
+
+				[Base limi&ts SDS4]
+				View=Parliste
+				Parameter=266,267,268,269,270,271,272,273,274,275,276,277,347,348,349,350,351,352,1740,1741,1742,1743,1744,1745,1746,1755,1756,1757,1758,1759,1760,1761
+
+
+			[&Spare-setpoints/limits]		
+			Menu=Spare setpoints SDS&1,Spare setpoints SDS&2,Spare setpoints SDS&3,Spare setpoints SDS&4,|,Spare &limits SDS1,Spare l&imits SDS2,Spare li&mits SDS3,Spare limi&ts SDS4
+
+				[Spare setpoints SDS&1]	
+				View=Parliste
+				Parameter=1250,1251,252,1253,1254,255,1256,1257,258,1263,1264,265,1290,291,292,293,294,295,296,320,321,324,335,336
+
+				[Spare setpoints SDS&2]	
+				View=Parliste
+				Parameter=1250,1251,252,1253,1254,255,1256,1257,258,1263,1264,265,1290,1291,1292,1293,1294,295,296,1320,1321,1324,335,336
+
+				[Spare setpoints SDS&3]	
+				View=Parliste
+				Parameter=1250,1251,252,1253,1254,255,1256,1257,258,1263,1264,265,690,691,692,693,694,295,296,720,721,724,335,336
+
+				[Spare setpoints SDS&4]	
+				View=Parliste
+				Parameter=1250,1251,252,1253,1254,255,1256,1257,258,1263,1264,265,1690,1691,1692,1693,1694,295,296,1720,1721,1724,335,336
+
+				[Spare &limits SDS1]
+				View=Parliste
+				Parameter=1266,1267,268,1269,1270,271,1272,1273,274,1275,1276,277,347,348,349,350,351,352,340,341,342,343,344,345,346,355,356,357,358,359,360,361
+
+				[Spare l&imits SDS2]
+				View=Parliste
+				Parameter=1266,1267,268,1269,1270,271,1272,1273,274,1275,1276,277,347,348,349,350,351,352,1340,1341,1342,1343,1344,1345,1346,1355,1356,1357,1358,1359,1360,1361
+
+				[Spare li&mits SDS3]
+				View=Parliste
+				Parameter=1266,1267,268,1269,1270,271,1272,1273,274,1275,1276,277,347,348,349,350,351,352,740,741,742,743,744,745,746,755,756,757,758,759,760,761
+
+				[Spare limi&ts SDS4]
+				View=Parliste
+				Parameter=1266,1267,268,1269,1270,271,1272,1273,274,1275,1276,277,347,348,349,350,351,352,1740,1741,1742,1743,1744,1745,1746,1755,1756,1757,1758,1759,1760,1761
+
+			[&Motorpoti]
+			Menu=Motorpoti SDS&1,Motorpoti SDS&2,Motorpoti SDS&3,Motorpoti SDS&4
+
+				[Motorpoti SDS&1]
+				View=Parliste
+				Parameter=229,230,1229,1230,300,301,302,303  
+
+				[Motorpoti SDS&2]
+				View=Parliste
+				Parameter=229,230,1229,1230,300,1301,1302,1303
+
+				[Motorpoti SDS&3]
+				View=Parliste
+				Parameter=229,230,1229,1230,300,701,702,703
+
+				[Motorpoti SDS&4]
+				View=Parliste
+				Parameter=229,230,1229,1230,300,1701,1702,1703
+
+
+			[&Ramp function generator]
+			Menu=RFG_SDS_&1,RFG_SDS_&2,RFG_SDS_&3,RFG_SDS_&4
+			
+				[RFG_SDS_&1]
+				View=Parliste
+				Parameter=305,306,307,308,310,311,312,313,314,315     
+
+				[RFG_SDS_&2]
+				View=Parliste
+				Parameter=305,306,307,1308,1310,1311,1312,1313,1314,315     
+		
+				[RFG_SDS_&3]
+				View=Parliste
+				Parameter=305,306,307,708,710,711,712,713,714,315     
+		
+				[RFG_SDS_&4]
+				View=Parliste
+				Parameter=305,306,307,1708,1710,1711,1712,1713,1714,315     
+		
+
+	[CB contro&l]
+	Menu=&Line breaker,&Inrush breaker,&Filter breaker,&Motor breaker
+	
+		[&Line breaker]
+		View=Parliste
+		Parameter=390,392,393,394,395,396,397,398,399,400
+
+		[&Inrush breaker]
+		View=Parliste
+		Parameter=510,512,513,514,516,517
+
+		[&Filter breaker]
+		View=Parliste
+		Parameter=520,522,523,524,526,527
+
+		[&Motor breaker]
+		View=Parliste
+		Parameter=500,502,503,504,506,507,509
+
+
+	[Converter mo&nitoring]
+	Menu=Converter &protection,Converter &cooling,Converter &general
+
+		[Converter &protection]
+		View=Parliste
+		Parameter=554
+
+		[Converter &cooling]
+		View=Parliste
+		Parameter=405,406,408,409,410,416,417,418,419,450,451,452,453,454,455,456,457,458,459
+
+		[Converter &general]
+		View=Parliste
+		Parameter=411,412,413,414,422,423,425,426,427,428,429,1980
+	
+	[&Excitation]	
+	Menu=&Simotras,E&xt.Excitation
+
+		[&Simotras]
+		View=Parliste
+		Parameter=836,16,868,869
+
+		[E&xt.Excitation]
+		View=Parliste
+		Parameter=836,16,897,871,872,876,880,881,882,883,884,885,886,887,888,889,890,891
+
+	[Synchroni&zier]
+	View=Parliste
+	Parameter=870,871,872,873,874,875,876
+
+	[Au&xiliaries]
+	View=Parliste
+	Parameter=1870,1871,1872,1873,1875
+	
+	[Control&word BICOs]
+	Menu=&Base mode,&Spare mode,&AUR controlword
+
+		[&Base mode]
+		Menu=Base controlword&1,Base controlword&2
+		
+			[Base controlword&1]	
+			View=Parliste
+			Parameter=211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,247,201
+			
+			[Base controlword&2]	
+			View=Parliste
+			Parameter=232,233,234,235,236,237,238,210,239,240,241,242,243,244,245,246,247,202
+		
+		[&Spare mode]
+		Menu=Spare controlword&1,Spare controlword&2
+		
+			[Spare controlword&1]	
+			View=Parliste
+			Parameter=1211,1212,1213,1214,1215,1216,1217,1218,1219,1220,1221,1222,1223,1224,1225,1226,1227,1228,1229,1230,1231,1247,201
+			
+			[Spare controlword&2]	
+			View=Parliste
+			Parameter=1232,1233,1234,1235,1236,1237,1238,1210,1239,1240,1241,1242,1243,1244,245,1246,1247,202
+		
+		[&AUR controlword]
+		View=Parliste
+		Parameter=880,881,882,883,884,885,886,887,888,889,890,890,891,896
+
+	[Setpo&int BICOs]
+	Menu=&Base setpoints,&Spare setpoints,&Clock
+		
+		[&Base setpoints]
+		View=Parliste
+		Parameter=250,253,256,260,263,266,269,272,275,374,385
+			
+		[&Spare setpoints]
+		View=Parliste			
+		Parameter=1250,1253,1256,1260,1263,1266,1269,1272,1275,1374,1385
+		
+		[&Clock]
+		View=Parliste			
+		Parameter=1985,1986,1987
+	
+	[&Actual value BICOs]	
+	View=Parliste			
+	Parameter=897,1790,1791
+
+	[Output &BICOs]
+	Menu=&Standard terminal,&Remote terminal,Pro&fibus,&Technology
+		
+		[&Standard terminal]
+		View=Parliste
+		Parameter=1490,1491,1492,1493,1900,1904,1908,1912
+
+		[&Remote terminal]
+		View=Parliste
+		Parameter=430,434,438,442,1440,1441,1442,1443,1444,1445,1446,1446,1447,1448,1449,1450,1451,1452,1453,1454,1455,1457,1458,1459,1460,1461,1462,1463,1464,1465,1466			
+		
+		[Pro&fibus]
+		View=Parliste			
+		Parameter=460,461,462,463,464,465,467,468,469,470,471
+	
+		[&Technology]
+		View=Parliste			
+		Parameter=480,482,483,484,485,486,487,488,489,490,491,492
+		
+	[Stateword_&3]
+	View=Parliste
+	Parameter=1470,1480,1471,1481,1472,1482,1473,1483,1474,1484,1475,1485,1475,1486,1477,1487,205
+
+	[Interfa&ces]
+	Menu=&Terminals,Profi&bus,Technolog&y
+
+		[&Terminals]
+		Menu=&Configure,Circuit &breaker,&Heat exchanger,&Converter,C&ontrol cubicle,&Auxiliaries
+			
+			[&Configure]
+			View=Parliste
+			Parameter=96,199,1199
+
+			[Circuit &breaker]
+			View=Parliste
+			Parameter=390,397,398,500,507,510,517,520,527
+
+			[&Heat exchanger]
+			View=Parliste
+			Parameter=416,417,418,419
+			
+			[&Converter]
+			View=Parliste
+			Parameter=412,413,426,427,428,429,450,451,452,453,454,455,456,457,458,459
+
+			[C&ontrol cubicle]
+			View=Parliste
+			Parameter=408,411,422,423,425,1490,1491,1492,1493,1900,1901,1902,1903,1904,1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1915
+
+			[&Auxiliaries]
+			View=Parliste
+			Parameter=1872,1873,1875
+			
+		[Profi&bus]
+		View=Parliste
+		Parameter=460,461,462,463,464,465,466,467,468,469,470,471,918,1970,1971,1972,1973,1974
+
+		[Technolog&y]
+		View=Parliste
+		Parameter=480,482,483,484,485,486,487,488,489,490,491,492
+
+	[Op&tions]
+	Menu=&Remote terminal,&Input transformer monitor,&Ouput transformer monitor,&Motor monitor,&Synchronizier terminal  
+
+		[&Remote terminal]
+		Menu=&Inputs,&Outputs
+			
+			[&Inputs]
+			View=Parliste
+			Parameter=190,191,192,193,194,195,196,197,198,199,1199
+
+			[&Outputs]
+			View=Parliste
+			Parameter=446,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,1440,1441,1442,1443,1444,1445,1446,1446,1447,1448,1449,1450,1451,1452,1453,1454,1455,1456,1457,1458,1459,1460,1461,1462,1463,1464,1465,1466,1467
+
+		[&Input transformer monitor]
+		Menu=Inp.transf.&config.,Inp.transf.&Temp.,Inp.transf.&DI
+
+			[Inp.transf.&config.]
+			View=Parliste
+			Parameter=85,95,199,1199
+
+			[Inp.transf.&Temp.]
+			View=Parliste
+			Parameter=97,530,531,532,533,534,535,536,537,540,541,542,543,544,545,546,547,548,549,550,551
+
+			[Inp.transf.&DI]
+			View=Parliste
+			Parameter=552,553
+
+		[&Ouput transformer monitor]
+		Menu=Outp.transf.&config.,Outp.transf.&Temp.,Outp.transf.&DI
+
+			[Outp.transf.&config.]
+			View=Parliste
+			Parameter=86,95,199,1199
+				
+			[Outp.transf.&Temp.]
+			View=Parliste
+			Parameter=98,560,561,562,563,564,565,566,567,570,571,572,573,574,575,576,577,578,579,570,571
+				
+			[Outp.transf.&DI]
+			View=Parliste
+			Parameter=582,583
+					
+		[&Motor monitor]	
+		Menu=&Configuration,&Bearing temp.,&Winding temp.,&Cool medium temp.,&Other temp.,&Digital inputs 
+			
+			[&Configuration]
+			View=Parliste
+			Parameter=95,99,199,1199
+
+			[&Bearing temp.]
+			View=Parliste
+			Parameter=99,640,641,800,801,642,643,802
+			
+			[&Winding temp.]
+			View=Parliste
+			Parameter=99,648,649,808,809,810,811,812,813,650,651,814,815,816
+			
+			[&Cool medium temp.]
+			View=Parliste
+			Parameter=99,644,645,803,804,805,646,647,806,807
+
+			[&Other temp.]
+			View=Parliste
+			Parameter=99,652,653,817,818,819,820,821
+
+			[&Digital inputs]
+			View=Parliste
+			Parameter=657,655,822,656,823
+
+		[&Synchronizier terminal]
+		View=Parliste
+		Parameter=95,870,871,872,873,874,875,876
+
+	[&Observation parameters]	
+	Menu=El.&Motor actual values,El.&Converter actual values	
+		
+		[El.&Motor actual values]
+		View=Parliste
+		Parameter=2,3,4,6,7,8,9,830,831,837,832,833,834,835,836,16
+
+		[El.&Converter actual values]
+		View=Parliste
+		Parameter=842,840,841,5,845,846,843,844,837,847,848
+
+
+
+

@@ -1,0 +1,1050 @@
+0001
+Main Ref                        
+0002
+Main Fbk                        
+0003
+Anal In1                        
+0004
+Anal In2                        
+0005
+Anal In3                        
+0006
+Anl.Out1                        
+0007
+Anl.Out2                        
+0008
+Anl.Out3                        
+0009
+Anl.Out4                        
+0010
+Bin.Inp                         
+0011
+Bin.Outp                        
+0012
+CaseTemp                        
+0013
+Mot.Temp                        
+0014
+BrushLen                        
+0015
+Arm.Ln.V                        
+0016
+Fld.Ln.V                        
+0017
+Ln.Freq.                        
+0018
+à-Armat.                        
+0019
+Ia Fbk.                         
+0020
+Ia Ref.                         
+0021
+T.Ref.aL                        
+0022
+T.Ref.bL                        
+0023
+Spd.Err.                        
+0024
+Sp.Fbk.D                        
+0025
+Spd.Fbk.                        
+0026
+Spd.Ref.                        
+0027
+Ramp Out                        
+0028
+RmpIn aL                        
+0029
+RmpIn bL                        
+0030
+PrRegOut                        
+0032
+PrRegFbk                        
+0033
+PrRegRef                        
+0034
+à-Field                         
+0035
+If Fbk.                         
+0036
+If Ref.                         
+0037
+Cal.CEMF                        
+0038
+Arm.Volt                        
+0039
+CEMF Ref                        
+0040
+Lmt.Stat                        
+0041
+P861.01C                        
+0042
+P861.02C                        
+0043
+P044 Con                        
+0044
+P043 Sel                        
+0045
+sel.disp.par.2                  
+0046
+P045 sel.                       
+0047
+Fault/diag.memory               
+0048
+Operating hours                 
+0049
+alarms 00-14                    
+0050
+Alarms 15-30                    
+0052
+Par.Dspl                        
+0053
+Par.Stor                        
+0054
+ParSetSl                        
+0055
+Cpy.Par.                        
+0056
+                                
+0057
+StartSrc                        
+0060
+SW Vers.                        
+0064
+Dsp.Ln.1                        
+0065
+Dsp.Ln.2                        
+0066
+I-PB Use                        
+0067
+O-PB Use                        
+0070
+Unit Vol                        
+0071
+Line Vol                        
+0072
+Unit Ia                         
+0073
+Unit If                         
+0074
+P.Sec.Ty                        
+0075
+ThOvCtrl                        
+0076
+P.Sec.Ty                        
+0077
+ThRedFac                        
+0078
+Line volt. field                
+0080
+BrakeTyp                        
+0082
+FieldCtr                        
+0083
+SpdFbkSl                        
+0084
+Spd/Torq                        
+0085
+Jog Dely                        
+0086
+Rstrt.Tm                        
+0087
+Brk.Op.T                        
+0088
+Brk.Cl.T                        
+0089
+V.Dly T1                        
+0090
+V.Dly T2                        
+0091
+o6MnRfTh                        
+0092
+FldRvDly                        
+0093
+Line cont. delay                
+0094
+off del. auxil.                 
+0095
+DC-Cont. closing time           
+0096
+Con.Val1                        
+0097
+Con.Val2                        
+0098
+Con.Val3                        
+0099
+Con.Val4                        
+0100
+Motor Ia                        
+0101
+Mot.Am.V                        
+0102
+Motor If                        
+0103
+MotorIfM                        
+0104
+Spd.Pt.1                        
+0105
+Ia Pnt.1                        
+0106
+Spd.Pt.2                        
+0107
+Ia Pnt.2                        
+0108
+MaxSpeed                        
+0109
+Spd-I Lm                        
+0110
+Arm.Res.                        
+0111
+Arm.Ind.                        
+0112
+Fld.Res.                        
+0114
+Mt.Th.TC                        
+0115
+Mx.SpdVF                        
+0117
+Fld.Char                        
+0118
+Crs.Vol.                        
+0119
+Fld.T.Sp                        
+0120
+If Pt. 0                        
+0121
+If Pt. 1                        
+0122
+If Pt. 2                        
+0123
+If Pt. 3                        
+0124
+If Pt. 4                        
+0125
+If Pt. 5                        
+0126
+If Pt. 6                        
+0127
+If Pt. 7                        
+0128
+If Pt. 8                        
+0129
+If Pt. 9                        
+0130
+If Pt.10                        
+0131
+If Pt.11                        
+0132
+If Pt.12                        
+0133
+If Pt.13                        
+0134
+If Pt.14                        
+0135
+If Pt.15                        
+0136
+If Pt.16                        
+0137
+If Pt.17                        
+0138
+If Pt.18                        
+0139
+If Pt.19                        
+0140
+Dg.T.Typ                        
+0141
+Puls/Rev                        
+0142
+Dg.T.Ctl                        
+0143
+Max. RPM                        
+0144
+Dg.T.Ctl                        
+0145
+Mot.Intf                        
+0146
+Temp.Det                        
+0147
+Warn.Tmp                        
+0148
+Flt.Tmp.                        
+0150
+à-Am.Min                        
+0151
+à-Am.Max                        
+0152
+LnFqFl-A                        
+0153
+IaRgFFwd                        
+0154
+IaRgCtrl                        
+0155
+IaRgProp                        
+0156
+IaRgT.C.                        
+0157
+IaRfChCl                        
+0158
+IaRfIntT                        
+0159
+T.ChgDBd                        
+0160
+DdTimRev                        
+0170
+T./I.Ctl                        
+0171
+Ia +Lmt                         
+0172
+Ia -Lmt                         
+0180
+T. +Lmt1                        
+0181
+T. -Lmt1                        
+0182
+T. +Lmt2                        
+0183
+T. -Lmt2                        
+0184
+Spd/TLmt                        
+0200
+Fbk.Filt                        
+0201
+BdRj1-fo                        
+0202
+BdRej1-Q                        
+0203
+BdRj2-fo                        
+0204
+BdRej2-Q                        
+0205
+Fbk.Derv                        
+0220
+SpdRgIC1                        
+0222
+SpRgPI/P                        
+0223
+SpFFwdSl                        
+0224
+SpRgCtrl                        
+0225
+SpRgProp                        
+0226
+SpRgT.C.                        
+0227
+SpRgDroo                        
+0228
+SpRefFil                        
+0229
+M/SlvCtl                        
+0250
+à-Fd.Min                        
+0251
+à-Fd.Max                        
+0252
+LnFqFl-F                        
+0253
+IfRgFFwd                        
+0254
+IfRgCtrl                        
+0255
+IfRgProp                        
+0256
+IfRgT.C.                        
+0257
+Econ.%If                        
+0258
+IfEconTm                        
+0273
+CfRgFFwd                        
+0274
+CfRgCtrl                        
+0275
+CfRgProp                        
+0276
+CfRgT.C.                        
+0277
+CfRgDroo                        
+0300
+SpRf+Lim                        
+0301
+SpRf-Lim                        
+0302
+Rmp.Ctrl                        
+0303
+Rmp1UpTm                        
+0304
+Rmp1DnTm                        
+0305
+Rmp1BgRn                        
+0306
+Rmp1EdRn                        
+0307
+Rmp2UpTm                        
+0308
+Rmp2DnTm                        
+0309
+Rmp2BgRn                        
+0310
+Rmp2EdRn                        
+0311
+Rmp3UpTm                        
+0312
+Rmp3DnTm                        
+0313
+Rmp3BgRn                        
+0314
+Rmp3EdRn                        
+0315
+RmpIn +L                        
+0316
+RmpIn -L                        
+0317
+Max.Spd.                        
+0318
+Min.Spd.                        
+0319
+RmpIn+Lr                        
+0320
+RmpIn-Lr                        
+0351
+LoVolThr                        
+0352
+HiVolThr                        
+0353
+OpnPhThr                        
+0354
+OverSpd.                        
+0355
+MotStlTm                        
+0357
+TachLThr                        
+0362
+SpRgMnTh                        
+0363
+SpRgMnTm                        
+0364
+IaRgMnTh                        
+0365
+IaRgMnTm                        
+0366
+CfRgMnTh                        
+0367
+CfRgMnTm                        
+0368
+IfRgMnTh                        
+0369
+IfRgMnTm                        
+0370
+MinSpdSt                        
+0371
+MinSpdHy                        
+0373
+Spd1 Set                        
+0374
+Spd1 Hys                        
+0376
+Spd2 Set                        
+0377
+Spd2 Hys                        
+0379
+Spd3 Set                        
+0380
+Spd3 Hys                        
+0382
+Spd4 Set                        
+0383
+Spd4 Hys                        
+0385
+Spd5 Set                        
+0386
+Spd5 Hys                        
+0391
+Iarm Set                        
+0392
+Iarm Hys                        
+0394
+MinIfSet                        
+0395
+MinIfHys                        
+0396
+SpdDirHy                        
+0401
+Prs.Ref1                        
+0402
+Prs.Ref2                        
+0403
+Prs.Ref3                        
+0404
+Prs.Ref4                        
+0405
+Prs.Ref5                        
+0406
+Prs.Ref6                        
+0409
+Ref.Jog                         
+0410
+Ref.JogR                        
+0411
+Ref.Thr                         
+0412
+Ref.ThrR                        
+0413
+Ref.PrRf                        
+0414
+Ref.PrRR                        
+0415
+Ref.AddP                        
+0416
+Ref.AddR                        
+0417
+Ref.AddS                        
+0418
+Ref.AddL                        
+0419
+Ref.AddC                        
+0420
+PrRgInFl                        
+0421
+PrRgDerv                        
+0422
+PrRgRfFl                        
+0424
+PrRgCtrl                        
+0425
+PrRgProp                        
+0426
+PrRgT.C.                        
+0427
+PrRgDroo                        
+0428
+PrRgScal                        
+0430
+PrRg+Lim                        
+0431
+PrRg-Lim                        
+0432
+PrRgDr+L                        
+0433
+PrRgDr-L                        
+0450
+MxSpGear                        
+0451
+MxSpGrFn                        
+0452
+MaxRPMFn                        
+0460
+MOP Mode                        
+0461
+MOP FolS                        
+0462
+MOP RmpU                        
+0463
+MOP RmpD                        
+0464
+MOP Scal                        
+0465
+MOP TScl                        
+0466
+MOPPrest                        
+0470
+D/RtMode                        
+0471
+D/RtFact                        
+0480
+DithSpd1                        
+0481
+DithTim1                        
+0482
+DithSpd2                        
+0483
+DithTim2                        
+0500
+I/T MdRf                        
+0520
+Fr.0%Spd                        
+0521
+Fr10%Spd                        
+0522
+Fr20%Spd                        
+0523
+Fr30%Spd                        
+0524
+Fr40%Spd                        
+0525
+Fr50%Spd                        
+0526
+Fr60%Spd                        
+0527
+Fr70%Spd                        
+0528
+Fr80%Spd                        
+0529
+Fr90%Spd                        
+0530
+Fr100%Sp                        
+0540
+ICompScl                        
+0541
+SpFFwScl                        
+0543
+SpdErrFF                        
+0544
+SpFFwdRf                        
+0545
+SpRgCpSl                        
+0546
+SpRgCpFl                        
+0550
+SRgPAdPt                        
+0551
+SRgTAdPt                        
+0552
+SRgDAdPt                        
+0553
+SRgPAdCV                        
+0554
+SRgTAdCV                        
+0555
+SRgDAdCV                        
+0556
+SRgPAdT1                        
+0557
+SRgTAdT1                        
+0558
+SRgDAdT1                        
+0559
+SRgPAdT2                        
+0560
+SRgTAdT2                        
+0561
+SRgDAdT2                        
+0600
+IaGtInSl                        
+0601
+TRefaLSl                        
+0602
+Ia FbkSl                        
+0603
+Ia+LmtSl                        
+0604
+Ia-LmtSl                        
+0605
+T.+LmtSl                        
+0606
+T.-LmtSl                        
+0607
+TRefbLSl                        
+0608
+SpdRefSl                        
+0609
+SpdFbkSl                        
+0610
+IfGtInSl                        
+0611
+If RefSl                        
+0612
+If FbkSl                        
+0613
+IfMxLmSl                        
+0614
+IfMnLmSl                        
+0615
+CEMFRfSl                        
+0616
+CEMFFbSl                        
+0620
+SpRf+LSl                        
+0621
+SpRf-LSl                        
+0622
+SpRfSlaR                        
+0623
+SpRfSlbR                        
+0624
+Rmp1Redu                        
+0625
+RmIn+LSl                        
+0626
+RmIn-LSl                        
+0627
+SpRfSlaE                        
+0628
+SpRfSlbE                        
+0629
+RmpPrest                        
+0630
+PrRgRfSl                        
+0631
+PrRgFbSl                        
+0632
+MxPrRgSl                        
+0633
+PrRgScSl                        
+0634
+MnPrRgSl                        
+0635
+SpFFwdRf                        
+0640
+Cmd.Sel.                        
+0641
+Cmd.Sel.                        
+0642
+Bit.Sel.                        
+0650
+Add1 Inp                        
+0651
+Mul1 InA                        
+0652
+Mul1 InB                        
+0653
+Div In A                        
+0654
+Div In B                        
+0655
+Inv1 Inp                        
+0656
+Sw1 InpA                        
+0657
+Sw1 InpB                        
+0658
+Abs1 Inp                        
+0659
+LmDt1InA                        
+0660
+LmDt1InB                        
+0661
+Add2 Inp                        
+0662
+Mul2 InA                        
+0663
+Mul2 InB                        
+0664
+FnGenInp                        
+0665
+Inv2 Inp                        
+0666
+Sw2 InpA                        
+0667
+Sw2 InpB                        
+0668
+Lmtr Inp                        
+0669
+Abs2 Inp                        
+0670
+LmDt2InA                        
+0671
+LmDt2InB                        
+0672
+Add3 Inp                        
+0673
+Mul3 InA                        
+0674
+Mul3 InB                        
+0675
+Inv3 Inp                        
+0676
+Sw3 InpA                        
+0677
+Sw3 InpB                        
+0679
+Deadband                        
+0680
+Mul1FxVl                        
+0681
+Mul2FxVl                        
+0682
+Mul3FxVl                        
+0683
+min. Dia                        
+0684
+Div Ctrl                        
+0686
+Lmtr UpL                        
+0687
+Lmtr DnL                        
+0688
+Abs1Ctrl                        
+0689
+Abs1Filt                        
+0690
+Abs2Ctrl                        
+0691
+Abs2Filt                        
+0692
+LmDt1Ctl                        
+0693
+LmDt1Hys                        
+0694
+LmDt2Ctl                        
+0695
+LmDt2Hys                        
+0696
+LnSpdRng                        
+0697
+D_actRng                        
+0698
+FnGenXpt                        
+0699
+FnGenYpt                        
+0700
+MnRefRes                        
+0701
+MnRefRng                        
+0702
+MnRefOff                        
+0703
+MnRefCtl                        
+0704
+MnRefFil                        
+0706
+MnFbkRng                        
+0707
+MnFbkOff                        
+0708
+MnFbkCtl                        
+0709
+MnFbkFil                        
+0710
+AnIn1Res                        
+0711
+AnIn1Rng                        
+0712
+AnIn1Off                        
+0713
+AnIn1Ctl                        
+0714
+AnIn1Fil                        
+0716
+AnIn2Rng                        
+0717
+AnIn2Off                        
+0718
+AnIn2Ctl                        
+0719
+AnIn2Fil                        
+0721
+AnIn3Rng                        
+0722
+AnIn3Off                        
+0723
+AnIn3Ctl                        
+0724
+AnIn3Fil                        
+0739
+IaFbkCtl                        
+0740
+AOut1Sel                        
+0741
+AOut1Ctl                        
+0742
+AOut1Fil                        
+0743
+AOut1Off                        
+0744
+AOut1Scl                        
+0745
+AOut2Sel                        
+0746
+AOut2Ctl                        
+0747
+AOut2Fil                        
+0748
+AOut2Off                        
+0749
+AOut2Scl                        
+0750
+AOut3Sel                        
+0751
+AOut3Ctl                        
+0752
+AOut3Fil                        
+0753
+AOut3Off                        
+0754
+AOut3Scl                        
+0755
+AOut4Sel                        
+0756
+AOut4Ctl                        
+0757
+AOut4Fil                        
+0758
+AOut4Off                        
+0759
+AOut4Scl                        
+0761
+B.In1Sel                        
+0762
+B.In2Sel                        
+0763
+B.In3Sel                        
+0764
+B.In4Sel                        
+0765
+B.In5Sel                        
+0766
+B.In6Sel                        
+0767
+Warn.Del                        
+0769
+TermCtrl                        
+0770
+B.OutCtl                        
+0771
+B.Out1Sl                        
+0772
+B.Out2Sl                        
+0773
+B.Out3Sl                        
+0774
+B.Out4Sl                        
+0775
+B.Out1Dl                        
+0776
+B.Out2Dl                        
+0777
+B.Out3Dl                        
+0778
+B.Out4Dl                        
+0780
+Port0Sel                        
+0781
+Prt0PDNo                        
+0782
+Prt0PrNo                        
+0783
+Port0BdR                        
+0784
+Prt0TDat                        
+0786
+Port0Adr                        
+0787
+Prt0USTm                        
+0788
+ptp ustm                        
+0790
+Port1Sel                        
+0791
+Prt1PDNo                        
+0792
+Prt1PrNo                        
+0793
+Port1BdR                        
+0794
+Prt1TDat                        
+0796
+Port1Adr                        
+0797
+Prt1MoTm                        
+0798
+Port1Ctl                        
+0840
+DgnCount                        
+0841
+DiagBuf1                        
+0842
+DiagBuf2                        
+0843
+DiagBuf3                        
+0844
+DiagBuf4                        
+0845
+DiagBuf5                        
+0846
+DiagBuf6                        
+0847
+DiagBuf7                        
+0848
+DiagBuf8                        
+0849
+DgTrgLoc                        
+0850
+FltSuppr                        
+0855
+SpoSuppr                        
+0860
+ThyDgCtl                        
+0861
+DiagCnSl                        
+0862
+DiagTrCn                        
+0863
+DiagTrMd                        
+0864
+DiagTrVl                        
+0865
+DiagScTm                        
+0866
+DiagTrDl                        
+0867
+DiagCtrl                        
+0868
+DgAnOtSp                        
+0869
+DgAnOtSp                        
+0870
+DgOutMod                        
+0871
+EE-Acc.                         
+0872
+EEP-Acc.                        
+0880
+PrevFlts                        
+0881
+SHOW_SEG                        
+0882
+SHOW_OFF                        
+0883
+SHOW_VAL                        
+0884
+OffIfFbk                        
+0885
+Off1MnFb                        
+0886
+Off2MnFb                        
+0887
+OffLine                         
+0900
+HW_Conf                         
+0902
+CBP1 Sel                        
+0903
+CBP1 Lng                        
+0904
+CBP1 Adr                        
+0905
+CBP1 BdR                        
+0906
+CBP2 Sel                        
+0907
+CBP2 Lng                        
+0908
+CBP2 Adr                        
+0909
+CBP2 BdR                        
+0910
+ParChEna                        
+0911
+PrDaEnab                        
+0916
+CBP1TDat                        
+0924
+CBP1PDNo                        
+0925
+CBP1PENo                        
+0926
+CBP1MoTm                        
+0927
+CBP2PDNo                        
+0928
+CBP2PENo                        
+0929
+CBP2MoTm                        
+0930
+SDRminTm                        
+0931
+SlotTime                        
+0932
+AutRefTm                        
+0971
+CBP2TDat                        

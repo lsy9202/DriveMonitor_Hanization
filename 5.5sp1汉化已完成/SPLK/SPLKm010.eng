@@ -1,0 +1,91 @@
+[Popup]
+Menu=参数组(&P)
+
+[Popup2]
+Menu=诊断(&D)
+
+[参数组(&P)]
+Menu=G&eneral Parameters,Fre&quency settings, &Operation Modes,|,&General Observation Parameters,|,&Drive Data,&Hardware Configuration,|,&Control,&Functions,&Setpoint Channel,|,C&ontrol and Status Word,A&nalog Input/Output,Communica&tions,D&iagnostic Functions,Mod&ulator,|,F&actory Parameters,|,P&rofile Parameters,
+
+[Fre&quency settings]
+View=Parliste
+Parameter=1
+
+[&Operation Modes]
+View=Parliste
+Parameter=1
+
+[诊断(&D)]
+Menu=&Faults,&Alarms,&Display Messages,SC&B/CB/TB
+
+[&Faults]
+View=Parliste
+Parameter=748,947,949,951,952
+
+[&Alarms]
+View=Parliste
+Parameter=953,954,955,956,957,958,959,960
+
+[&Display Messages]
+View=Parliste
+Parameter=720,721,722,723,725
+
+[SC&B/CB/TB]
+View=Parliste
+Parameter=730,731
+
+[&General Observation Parameters]
+View=Parliste
+Parameter=1,4,6,10,11,12,13,30,32,
+
+[G&eneral Parameters]
+View=Parliste
+Parameter=50,51,52,53,54,
+
+[&Drive Data]
+View=Parliste
+Parameter=70,71,72,73,74,77,78,80,81,82,83,84,85,89,
+
+[&Hardware Configuration]
+View=Parliste
+Parameter=89,90,91,
+
+[&Control]
+View=Parliste
+Parameter=120,122,123,124,125,126,129,130,131,139,150,152,155,160,161,164,173,174,179,255,256,263,264,303,308,325,326,
+
+[&Functions]
+View=Parliste
+Parameter=366,387,408,409,
+
+[&Setpoint Channel]
+View=Parliste
+Parameter=443,444,447,457,486,487,490,517,518,
+
+[C&ontrol and Status Word]
+View=Parliste
+Parameter=550,551,552,553,554,555,556,557,561,565,566,567,568,569,572,575,576,578,586,587,588,589,590,600,601,602,603,604,606,607,608,611,612,614,618,619,620,621,622,623,624,629,631,
+
+[A&nalog Input/Output]
+View=Parliste
+Parameter=655,656,657,660,661,662,664,665,666,
+
+[Communica&tions]
+View=Parliste
+Parameter=680,682,683,684,685,686,687,689,690,694,695,696,697,698,699,700,701,702,703,704,705,706,
+
+[D&iagnostic Functions]
+View=Parliste
+Parameter=720,721,722,723,725,730,731,748,
+
+[Mod&ulator]
+View=Parliste
+Parameter=764,
+
+[F&actory Parameters]
+View=Parliste
+Parameter=799,
+
+[P&rofile Parameters]
+View=Parliste
+Parameter=918,927,928,947,949,951,952,953,954,955,956,957,958,959,960,964,965,967,968,970,971,980,981,982,983,984,985,986,

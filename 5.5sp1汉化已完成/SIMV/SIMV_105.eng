@@ -1,0 +1,1580 @@
+0001
+Drive state                     
+0002
+Output voltage                  
+0003
+Output current                  
+0004
+Output frequency                
+0005
+DC-link voltage                 
+0006
+El. motor power                 
+0007
+El. motor torque                
+0008
+Motor pwr factor                
+0009
+Motor speed                     
+0013
+Operating time                  
+0014
+SetOperat.time                  
+0015
+Error code                      
+0050
+Language                        
+0051
+Access level                    
+0052
+Mode selector                   
+0070
+MLFB input                      
+0071
+ConvRatedVoltage                
+0072
+ConvRatedCurrent                
+0073
+RatedDC-LinkVolt                
+0190
+AI1(Tsmoothing)                 
+0191
+AI1(offset)                     
+0192
+AI_(monitoring)                 
+0193
+AI2(Tsmoothing)                 
+0194
+AI2(offset)                     
+0201
+Controlword1                    
+0202
+Controlword2                    
+0203
+Stateword1                      
+0204
+Stateword2                      
+0211
+Sb.ON/OFF1                      
+0212
+Sb1.OFF2                        
+0213
+Sb2.OFF2                        
+0214
+Sb3.OFF2                        
+0215
+Sb1.OFF3                        
+0216
+Sb2.OFF3                        
+0217
+Sb3.OFF3                        
+0218
+Sb.Enable                       
+0219
+Sb.RFG-Enable                   
+0220
+Sb.NoRFG-Stop                   
+0221
+Sb.Setp.Enable                  
+0222
+Sb1.Acknowledge                 
+0223
+Sb2.Acknowledge                 
+0224
+Sb3.Acknowledge                 
+0225
+Sb.Jog speed1                   
+0226
+Sb.Jog speed2                   
+0227
+Sb.Clockw.RF                    
+0228
+Sb.Cnt.Clockw.RF                
+0229
+Sb.Motp.rise                    
+0230
+Sb.Motp.lower                   
+0231
+Sb.Ext.Fault1                   
+0232
+Sb.SetpDatSet                   
+0234
+Sb.MotDatSet                    
+0236
+Sb.FSP.Bit0                     
+0237
+Sb.FSP.Bit1                     
+0238
+Sb.Enable Flying Restart        
+0239
+Sb.Enable Static/Technology ctrl
+0240
+Sb.Ctrl.enable                  
+0241
+Sb1.Ext.Fault3                  
+0242
+Sb.m-Ctrl.Drive                 
+0243
+Sb.Ext.Alarm1                   
+0244
+Sb.Ext.Alarm2                   
+0245
+S.Base/Spare                    
+0247
+b.CtrlwErrClass                 
+0250
+Sb.Main setpoint                
+0251
+Kpb.MainSetpoint                
+0252
+MainSetpoint                    
+0253
+Sb.AddSetpoint1                 
+0254
+Kpb.AddSetpoint1                
+0255
+AddSetpoint1                    
+0256
+Sb.AddSetpoint2                 
+0257
+Kpb.AddSetpoint2                
+0258
+AddSetpoint2                    
+0260
+Sb.M-Setpoint                   
+0261
+Kpb.M-Setpoint                  
+0262
+M-Setpoint                      
+0263
+Sb.M-AddSetpoint                
+0264
+Kpb.M-AddSetpt.                 
+0265
+M-AddSetpoint                   
+0266
+Sb.Mmot Limit1                  
+0267
+Kpb.Mmot Limit1                 
+0268
+Mmot Limit1                     
+0269
+Sb.Mgen Limit1                  
+0270
+Kpb.Mgen Limit1                 
+0271
+Mgen Limit1                     
+0272
+Sb.Mmot Limit2                  
+0273
+Kpb.Mmot Limit2                 
+0274
+Mmot Limit2                     
+0275
+Sb.Mgen Limit2                  
+0276
+Kpb.Mgen Limit2                 
+0277
+Mgen Limit2                     
+0290
+b.BaseSetpoint                  
+0291
+a.FixedSetpoint1                
+0292
+a.FixedSetpoint2                
+0293
+a.FixedSetpoint3                
+0294
+a.FixedSetpoint4                
+0295
+JogSetpoint1                    
+0296
+JogSetpoint2                    
+0297
+a.M-FixedSetpt.                 
+0298
+1.Add.torque for heavy start    
+0300
+Motpot(mode)                    
+0301
+a.Motpot.Strtfrq                
+0302
+a.Motpot.Set                    
+0303
+a.Motpot(Tact)                  
+0305
+RFG-State                       
+0306
+RFG-Input                       
+0307
+RFG-Output                      
+0308
+a.Ramp-up time                  
+0310
+a.Up-rounding                   
+0311
+a.Ramp-down time                
+0312
+a.OFF3 Down time                
+0313
+a.Down-Rounding                 
+0314
+a.RFG Tracking.                 
+0315
+RFG active(hys)                 
+0320
+a.MaskOutfreq.                  
+0321
+a.MaskOutRange                  
+0322
+1Maxfreq.(CW)                   
+0323
+1Maxfreq.(CCW)                  
+0324
+a.Minfrequency                  
+0325
+Max(Hysteresis)                 
+0326
+SpeedDeviation                  
+0327
+DeviationDelay                  
+0328
+1BlockDelay                     
+0329
+Compare                         
+0330
+Compare(f1hys)                  
+0331
+Compare(f2)                     
+0332
+Compare(f2hys)                  
+0333
+Off(f)                          
+0334
+a.OffDelay                      
+0335
+setpoint,sum1                   
+0336
+setpoint,sum2                   
+0337
+Delay time motor torque > max   
+0340
+a.Mmot Limit                    
+0341
+a.Mmot Limit(y1)                
+0342
+a.Mmot Limit(y2)                
+0343
+a.Mmot Limit(y3)                
+0344
+a.Mmot Limit(y4)                
+0345
+a.Mmot Limit(y5)                
+0346
+a.Mmot Limit(y6)                
+0347
+M Limit(x1)                     
+0348
+M Limit(x2)                     
+0349
+M Limit(x3)                     
+0350
+M Limit(x4)                     
+0351
+M Limit(x5)                     
+0352
+M Limit(x6)                     
+0355
+a.Mgen Limit                    
+0356
+a.Mgen Limit(y1)                
+0357
+a.Mgen Limit(y2)                
+0358
+a.Mgen Limit(y3)                
+0359
+a.Mgen Limit(y4)                
+0360
+a.Mgen Limit(y5)                
+0361
+a.Mgen Limit(y6)                
+0370
+1n/f-forward(kp)                
+0371
+1n/f-forward(Ts)                
+0372
+1n/f-control(kp)                
+0373
+1n/f-control(Tn)                
+0374
+Sb.n/f-ctrladpt                 
+0375
+Kpb.n/f-ctrladpt                
+0376
+1static(mode)                   
+0377
+1static(Tg)                     
+0378
+1static(kp)                     
+0379
+n/f-ctrl MaxLim                 
+0380
+n/f-ctrl MinLim                 
+0381
+n/f-ctrl(kp)                    
+0382
+n/f-ctrl MaxLim                 
+0383
+n/f-forward op                  
+0384
+n/f-static                      
+0385
+Sb.n/f-ctrl(Tn) Adaption        
+0386
+Kpb.n/f-ctrl(Tn) Adaption       
+0387
+n/f-ctrl(Tn)                    
+0390
+CB(Input_Mask)                  
+0391
+CB(Output_Mask)                 
+0392
+CB(Mode)                        
+0393
+CB(T_Checkback)                 
+0394
+CB(T_Control)                   
+0395
+CB(T_Rush)                      
+0396
+CB(Input)                       
+0397
+CB(Output)                      
+0398
+CB(Message)                     
+0399
+CB(T_Turn off)                  
+0405
+Fan/Cooling unit(Off delay)     
+0406
+Fan/Cooling unit(T_Startup)     
+0407
+Fan_Redundancy                  
+0408
+Fan(Input_Mask)                 
+0409
+Fan(Runtime)                    
+0410
+Fan(Max.Runtime)                
+0411
+Max Precharging                 
+0412
+Conv(Input_Mask)                
+0413
+Conv(Input)                     
+0414
+Conv(Out_Mask)                  
+0415
+Conv(Output)                    
+0416
+Hxchg(In_Mask)                  
+0417
+Hxchg(Input)                    
+0418
+Hxchg(Out_Mask)                 
+0419
+Hxchg(Output)                   
+0420
+Conv(Message)                   
+0421
+Convcool(Msg.)                  
+0422
+Ctrl.Temp(Lim1)                 
+0423
+Ctrl.Temp(Lim2)                 
+0424
+Ctrl.Temp(Tg)                   
+0425
+Ctrl.Temperature                
+0426
+Conv.Temp(lim1)                 
+0427
+Conv.Temp(lim2)                 
+0428
+Conv.Temp(Tsmth)                
+0429
+Conv.Temperature                
+0430
+D.AO1                           
+0431
+AO1(gain)                       
+0432
+AO1(offset)                     
+0433
+AO1(Tsmoothing)                 
+0434
+D.AO2                           
+0435
+AO2(gain)                       
+0436
+AO2(offset)                     
+0437
+AO2(Tsmoothing)                 
+0438
+D.AO3                           
+0439
+AO3(gain)                       
+0440
+AO3(offset)                     
+0441
+AO3(Tsmoothing)                 
+0442
+D.AO4                           
+0443
+AO4(gain)                       
+0444
+AO4(offset)                     
+0445
+AO4(Tsmoothing)                 
+0450
+D.DO1                           
+0451
+D.DO2                           
+0452
+D.DO3                           
+0453
+D.DO4                           
+0454
+D.DO5                           
+0455
+D.DO6                           
+0456
+D.DO7                           
+0457
+D.DO8                           
+0458
+Invert digital outputs          
+0460
+D.PZD3                          
+0461
+D.PZD4.word                     
+0462
+D.PZD5                          
+0463
+D.PZD6                          
+0464
+D.PZD7                          
+0465
+D.PZD8                          
+0466
+D.PZD9                          
+0467
+D.PZD9.word                     
+0468
+D.PZD10                         
+0469
+D.PZD10.word                    
+0470
+PZD scaling                     
+0471
+PZD monitoring                  
+0480
+T.PZD.Enable                    
+0482
+T.PZD3.word2                    
+0483
+T.PZD4.word1                    
+0484
+T.PZD4.word2                    
+0485
+T.PZD9                          
+0486
+T.PZD10                         
+0487
+T.PZD11                         
+0488
+T.PZD12                         
+0489
+T.PZD13                         
+0490
+T.PZD14                         
+0491
+T.PZD15                         
+0492
+T.PZD16                         
+0500
+Fine adj.(Ir)                   
+0501
+Fine adj.(It)                   
+0502
+Fine adj.(Urs)                  
+0503
+Fine adj.(Uts)                  
+0504
+Fine adj.(Udc+)                 
+0505
+Fine adj.(Udc-)                 
+0506
+AV MDE1 VSA                     
+0507
+AV MDE1 VSB                     
+0518
+Adaption(I,U)                   
+0520
+Adaption(T)                     
+0521
+Adaption(Tn)                    
+0524
+Adaption(Set_d)                 
+0525
+Adaption(Set_q)                 
+0526
+Adaption(-lim_d)                
+0527
+Adaption(+lim_d)                
+0528
+Adaption(-lim_q)                
+0529
+Adaption(+lim_q)                
+0530
+1Nact(pulses)                   
+0531
+1Nact(Encoder)                  
+0532
+1Nact(ZeroPos)                  
+0533
+1Nact(Tg)                       
+0534
+1Nact(Tdead)                    
+0535
+1Nact(Filter)                   
+0536
+1.(n=0) sensing, speed encoder  
+0545
+Ipeak(Tbase)                    
+0550
+Ie(min)                         
+0551
+Udc-Ink(asym.)                  
+0553
+Udc-Ink(min)                    
+0554
+Max. absolute current (limit)   
+0556
+Vdc-control (enable)            
+0557
+Vdc-control (setpoint)          
+0558
+Vdc-control (gain)              
+0559
+Vdc-control (max. gen. torque)  
+0560
+dn/dt-monitoring                
+0561
+switch frequency without filter 
+0562
+switch frequency with filter    
+0600
+1Motortype                      
+0603
+1Motor(U_rated)                 
+0604
+1Motor(I_rated)                 
+0605
+1Motor(Pwrfact)                 
+0606
+1Motor(N_rated)                 
+0607
+1Motor(f_rated)                 
+0608
+1Motor polpairs                 
+0609
+1Motor(Eta)                     
+0610
+1Motor Rs                       
+0611
+1Motor Xs                       
+0612
+1Motor Xdh_ns                   
+0613
+1Motor Xqh_ns                   
+0614
+1Motor Xdh_s                    
+0615
+1Motor Xqh_s                    
+0616
+1Motor Rd_rotor                 
+0617
+1Motor Rq_rotor                 
+0618
+1Motor Xd_rotor                 
+0619
+1Motor Xq_rotor                 
+0620
+KIP (kinetic buffering) enable  
+0621
+Vdc KIP (kin. buffering) start  
+0622
+Vdc KIP (kin. buffer.) setpoint 
+0623
+Vdc KIP (kin. buffer.) stop o.k.
+0624
+Vdc KIP (kin.buffer.) stop error
+0625
+Kp KIP                          
+0630
+1Motor component                
+0631
+1Motor R_cabel                  
+0632
+1Motor X_cabel                  
+0633
+1Motor step up                  
+0634
+1Motor C_Filter                 
+0640
+1Mot_I2T(Mode)                  
+0641
+1Mot_I2T(T)                     
+0642
+1Mot_I2T(Lim1)                  
+0643
+1Mot_I2T(Lim2)                  
+0644
+1Mot_I2T(Load)                  
+0645
+Mot_I2T(Message)                
+0700
+GSVTest(T)                      
+0701
+GSVTest(Tmin)                   
+0703
+1Positioning(T)                 
+0704
+1Exciting(T)                    
+0705
+GSVTest(nmin)                   
+0706
+GSVTest(Iemin)                  
+0707
+GSVTest(Udcmin)                 
+0710
+1Uset(Tsmooth)                  
+0711
+1Psiset(Tsmooth)                
+0712
+1Modulat. ratio                 
+0713
+1Modulat.back-up                
+0714
+1Prohibit range                 
+0715
+1Prange(Minlim)                 
+0716
+1Prange(Maxlim)                 
+0717
+1Prange(Modul.)                 
+0718
+1I(RampBase-n)                  
+0719
+1I(RampFieldwk.)                
+0720
+1U(Ti,mul)                      
+0721
+1EMF(Ti,mul)                    
+0722
+1EMF(Weigthing)                 
+0723
+1Fieldweak(Mode)                
+0724
+1Psi(Tn,mul)                    
+0725
+1Psi(kp,mul)                    
+0726
+1Psi(kpp,mul)                   
+0728
+1U(Tn,mul)                      
+0729
+1U(kp,mul)                      
+0730
+1U(kpp,mul)                     
+0732
+1EMF(Tn,mul)                    
+0733
+1EMF(kp,mul)                    
+0734
+1EMF(kpp,mul)                   
+0735
+1Psi(set,min)                   
+0736
+1Psi(act.Tsmth)                 
+0737
+1Upole(mul)                     
+0740
+1Iu(U).x1                       
+0741
+1Iu(U).x2                       
+0742
+1Iu(U).x3                       
+0743
+1Iu(U).y1                       
+0744
+1Iu(U).y2                       
+0745
+1Iu(U).y3                       
+0746
+1Iu(Rrotor,mul)                 
+0747
+1Iu(Tdamp,mul)                  
+0748
+1Iu(set,add)                    
+0750
+1Pwrf(f_lim)                    
+0751
+1Pwrf(Imin)                     
+0752
+1Ie(min)                        
+0753
+1Ie(min,kp)                     
+0754
+1Imagn(max)                     
+0755
+1Pwrf(alpha)                    
+0756
+1Pwrf(Tg,mul)                   
+0760
+1Iasmod(RL,mul)                 
+0761
+1Iamod(Xh,mul)                  
+0762
+1Ismod(Dyn.,mul)                
+0763
+1Ismod(Xhd,mul)                 
+0764
+1Ismod(Xhq,mul)                 
+0765
+1Ismod(Rrotd,m.)                
+0766
+1Ismod(Rrotq,m.)                
+0767
+1Ismod(tracking)                
+0769
+1Umod(Rs,mul)                   
+0770
+1Umod(Xs,mul)                   
+0771
+1Umod(f_chgover)                
+0772
+1Umod(damping)                  
+0780
+1f(down,cut-out)                
+0781
+1f(up,cut-out)                  
+0782
+1smoothing angular diff. (Tg)   
+0783
+1Psi_angle(Tg)                  
+0784
+1fact(Tg)                       
+0785
+1fset(Tg)                       
+0790
+1Ufeedf(Rsd,mul)                
+0791
+1Ufeedf(Rsq,mul)                
+0792
+1Ufeedf(Lsd,mul)                
+0793
+1Ufeedf(Lsq,mul)                
+0794
+1Ufeedf(Xsd,mul)                
+0795
+1Ufeedf(Xsq,mul)                
+0796
+1Ufeedf(EMF,mul)                
+0797
+1Ufeedf(I,mul)                  
+0800
+1Ictrl(dynamic)                 
+0801
+1Ictrl(Tn,mul)                  
+0802
+1Ictrl(kp_d,mul)                
+0803
+1Ictrl(kp_q,mul)                
+0804
+1Ictrl(Tn_d,mul)                
+0805
+1Ictrl(Tn_q,mul)                
+0806
+1Ictrl(kd_d,mul)                
+0807
+1Ictrl(kd_q,mul)                
+0808
+1Ictrl(fcut,dwn)                
+0809
+1Ictrl(fcut,up)                 
+0810
+1Ictrl(int.lim)                 
+0811
+1Ictrl(Ts.ov,m.)                
+0812
+1Ictrl(Ts.b,mul)                
+0813
+1Ictrl(Vs.ov,mul                
+0814
+1Ictrl(Vs.b,mul)                
+0815
+1Ictrl(EnSharm)                 
+0816
+1Ictrl(Vs.,f_lim                
+0817
+1Ictrl(Udc,Tg)                  
+0821
+1Flyr.f(Tg)                     
+0822
+1Smoothing time f. search curr. 
+0823
+1Restart-on-fly, freq.stab.lim. 
+0824
+1Search rate                    
+0825
+1Adapt the search current       
+0826
+1Restart mode                   
+0832
+I_search                        
+0835
+AutoRstrt(Mode)                 
+0836
+AutoRstrt(Twait)                
+0837
+Vsync rated                     
+0838
+fsync rated                     
+0839
+delta Vsync Min (line supply OK)
+0840
+delta fsync Min (line supply OK)
+0841
+U/f(fchgover)                   
+0842
+U/f(RZA)                        
+0844
+Filtered line supply angle [rad]
+0845
+Filtered line supply freq. [%]  
+0846
+Smoothed abs.line supp.volt.[%] 
+0850
+PHIwBforeIu=f(U)                
+0851
+PHIwAfterIu=f(U)                
+0852
+Imagn(w)                        
+0853
+Phi_act U-model                 
+0854
+Phi_act I-model                 
+0855
+I_Phi1_act                      
+0856
+I_Phi2_act                      
+0857
+Torque(w)                       
+0858
+Iw-M-komp.                      
+0859
+U_w phi_2                       
+0860
+U_w phi_1                       
+0861
+I_phi1 ctrl.out.                
+0862
+I_phi2 ctrl.out.                
+0863
+DC-link voltage                 
+0864
+U_w abs.value                   
+0865
+Modulation ratio                
+0866
+EMF-abs.value                   
+0870
+Setp(mode)                      
+0873
+Setplctrl(kp)                   
+0874
+Setplctrl(Tn)                   
+0875
+Setp(Umax)                      
+0876
+Setp(Umin)                      
+0877
+Setp(alpha)                     
+0878
+Setp(Uangle)                    
+0879
+Setp(Uw)                        
+0880
+Setp(Iw)                        
+0881
+Setp(Iw_max)                    
+0882
+Setp(Iw_Tu)                     
+0883
+Setp(Iw_Td)                     
+0884
+Setp(fw)                        
+0885
+Setp(fmax)                      
+0886
+Setp(fmin)                      
+0887
+Setp(fw_Tu)                     
+0888
+Setp(fw_Td)                     
+0889
+setp(Iew)                       
+0918
+CB Busaddress                   
+1211
+Ss.ON/OFF1                      
+1212
+Ss1.OFF2                        
+1213
+Ss2.OFF2                        
+1214
+Ss3.OFF2                        
+1215
+Ss1.OFF3                        
+1216
+Ss2.OFF3                        
+1217
+Ss3.OFF3                        
+1218
+Ss.Enable                       
+1219
+Ss.RFG-Enable                   
+1220
+Ss.no RFG-Stop                  
+1221
+Ss.Setp.Enable                  
+1222
+Ss1.acknowledge                 
+1223
+Ss2.acknowledge                 
+1224
+Ss3.acknowledge                 
+1225
+Ss.Jog speed1                   
+1226
+Ss.Jog speed2                   
+1227
+Ss.clockwise RF                 
+1228
+Ss.Cnt.clockw.RF                
+1229
+Ss.motorp.rise                  
+1230
+Ss.motorp.lower                 
+1231
+Ss.ext.fault1                   
+1232
+Ss.SetpDatSet                   
+1234
+Ss.MotDatSet                    
+1236
+Ss.FSP.Bit0                     
+1237
+Ss.FSP.Bit1                     
+1238
+Ss.Enable Flying Restart        
+1239
+Ss.Enable Static/Technology ctrl
+1240
+Ss.Ctrl.enable                  
+1241
+Ss1.ext.fault3                  
+1242
+Ss.m-ctrl.drive                 
+1243
+Ss.ext.alarm1                   
+1244
+Ss.ext.alarm2                   
+1247
+s.CtrlwErrClass                 
+1250
+Ss.MainSetpoint                 
+1251
+Kps.MainSetp.                   
+1253
+Ss.AddSetpoint1                 
+1254
+Kps.AddSetpoint1                
+1256
+Ss.AddSetpoint2                 
+1257
+Kps.AddSetpoint2                
+1260
+Ss.M-Setpoint                   
+1261
+Kps.M-setpoint                  
+1263
+Ss.M-AddSetpoint                
+1264
+Kps.M-AddSetp.                  
+1266
+Ss.Mmot Limit1                  
+1267
+Kps.Mmot Limit1                 
+1269
+Ss.Mgen Limit1                  
+1270
+Kps.Mgen Limit1                 
+1272
+Ss.Mmot Limit2                  
+1273
+Kps.Mmot Limit2                 
+1275
+Ss.Mgen Limit2                  
+1276
+Kps.Mgen Limit2                 
+1290
+s.BaseSetpoint                  
+1291
+b.FixedSetp.1                   
+1292
+b.FixedSetp.2                   
+1293
+b.FixedSetp.3                   
+1294
+b.FixedSetp.4                   
+1297
+b.FixedSetp.                    
+1298
+2.Add.torque for heavy start    
+1301
+b.Motpot.Strtfrq                
+1302
+b.Motpot.Set                    
+1303
+b.Motpot(Tact)                  
+1308
+b.Ramp-up time                  
+1310
+b.Up-Rounding                   
+1311
+b.Ramp-down time                
+1312
+b.OFF3 Down time                
+1313
+b.Down-Rounding                 
+1314
+b.RFG Tracking                  
+1320
+b.MaskOutfreq.                  
+1321
+b.MaskOutRange                  
+1322
+2Maxfreq.(CW)                   
+1323
+2Maxfreq.(CCW)                  
+1324
+b.Minfrequency                  
+1328
+2Set-act(Tblock)                
+1334
+b.Shut down(T)                  
+1340
+b.Mmot Limit                    
+1341
+b.Mmot Limit(y1)                
+1342
+b.Mmot Limit(y2)                
+1343
+b.Mmot Limit(y3)                
+1344
+b.Mmot Limit(y4)                
+1345
+b.Mmot Limit(y5)                
+1346
+b.Mmot Limit(y6)                
+1355
+b.Mgen Limit                    
+1356
+b.Mgen Limit(y1)                
+1357
+b.Mgen Limit(y2)                
+1358
+b.Mgen Limit(y3)                
+1359
+b.Mgen Limit(y4)                
+1360
+b.Mgen Limit(y5)                
+1361
+b.Mgen Limit(y6)                
+1370
+2n/f-forward(kp)                
+1371
+2n/f-forward(Ts)                
+1372
+2n/f-control(kp)                
+1373
+2n/f-control(Tn)                
+1374
+Ss.n/f-ctrladpt                 
+1375
+Kpb.n/f-ctrladpt                
+1376
+2statik(mode)                   
+1377
+2statik(Tg)                     
+1378
+2statik(kp)                     
+1385
+Ss.n/f-ctrl(Tn) Adaption        
+1386
+Kps.n/f-ctrl(Tn) Adaption       
+1530
+2Nact(pulses)                   
+1531
+2Nact(Encoder)                  
+1532
+2Nact(ZeroPos)                  
+1533
+2Nact(Tg)                       
+1534
+2Nact(Tdead)                    
+1535
+2Nact(Filter)                   
+1536
+2.(n=0) sensing, speed encoder  
+1600
+2Motortype                      
+1603
+2Motor(U_rated)                 
+1604
+2Motor(I_rated                  
+1605
+2Motor(pwrfact)                 
+1606
+2Motor(N_rated)                 
+1607
+2Motor(f_rated)                 
+1608
+2Motor polpairs                 
+1609
+2Motor(Eta)                     
+1610
+2Motor Rs                       
+1611
+2Motor Xs                       
+1612
+2Motor Xdh_ns                   
+1613
+2Motor Xqh_ns                   
+1614
+2Motor Xdh_s                    
+1615
+2Motor Xqh_s                    
+1616
+2Motor Rd_rotor                 
+1617
+2Motor Rq_rotor                 
+1618
+2Motor Xd_rotor                 
+1619
+2Motor Xq_rotor                 
+1630
+2Motor component                
+1631
+2Motor R_cable                  
+1632
+2Motor X_cable                  
+1633
+2Motor step up                  
+1634
+2Motor C_Filter                 
+1640
+2Mot_I2T(Mode)                  
+1641
+2Mot_I2T(T)                     
+1642
+2Mot_I2T(Lim1)                  
+1643
+2Mot_I2T(Lim2)                  
+1644
+2Mot_I2T(Load)                  
+1703
+2PositioningT)                  
+1704
+2Exciting(T)                    
+1710
+2Uset(Tsmthg)                   
+1711
+2Psiset(Tsmthg)                 
+1712
+2Modulat.ratio                  
+1713
+2Modulat.back-up                
+1714
+2Prohibit range                 
+1715
+2Prange(Minlim)                 
+1716
+2Prange(Maxlim)                 
+1717
+2Prange(Modul.)                 
+1718
+2I(RampBase-n)                  
+1719
+2I(RampFieldwk.)                
+1720
+2U(Ti,mul)                      
+1721
+2EMF(Ti,Mul)                    
+1722
+2EMFWeighting)                  
+1723
+2Fieldweak(mode)                
+1724
+2Psi(Tn,mul)                    
+1725
+2Psi(kp,mul)                    
+1726
+2Psi(kpp,mul)                   
+1728
+2U(Tn,mul)                      
+1729
+2U(kp,mul)                      
+1730
+2U(kpp,mul)                     
+1732
+2EMF(Tn,mul)                    
+1733
+2EMF(kp,mul)                    
+1734
+2EMF(kpp,mul)                   
+1735
+2Psi(soll,min)                  
+1736
+2Psi(ist,Tg)                    
+1737
+2Upole(mul)                     
+1740
+2Iu(U).x1                       
+1741
+2Iu(U).x2                       
+1742
+2Iu(U).x3                       
+1743
+2Iu(U).y1                       
+1744
+2Iu(U).y2                       
+1745
+2Iu(U).y3                       
+1746
+2Iu(Rrotor,mul)                 
+1747
+2Iu(Tdamp,mul)                  
+1748
+2Iu(set,add)                    
+1750
+2Pwrf(f_lim)                    
+1751
+2Pwrf(Imin)                     
+1752
+2Ie(min)                        
+1753
+2Ie(min,kp)                     
+1754
+2Imagn(max)                     
+1755
+2Pwrf(alpha)                    
+1756
+2Pwrf(Tg,mul)                   
+1760
+2Iasmod(RL,mul)                 
+1761
+2Iasmod(Xh,mul)                 
+1762
+2Ismod(dyn,mul)                 
+1763
+2Ismod(Xhd,mul)                 
+1764
+2Ismod(Xhq,mul)                 
+1765
+2Ismod(RLd,mul)                 
+1766
+2Ismod(RLq,mul)                 
+1767
+2Ismod(tracking)                
+1769
+2Umod(Rs,mul)                   
+1770
+2Umod(Xs,mul)                   
+1771
+2Umod(f_chgover)                
+1772
+2Umod(damping)                  
+1780
+2f(down,cut-out)                
+1781
+2f(up,cut-out)                  
+1782
+2smoothing angular diff. (Tg)   
+1783
+2Psi_angle(Tg)                  
+1784
+2fact(Tg)                       
+1785
+2fset(Tg)                       
+1790
+2Ufeedf(Rsd,mul)                
+1791
+2Ufeedf(Rsq,mul)                
+1792
+2Ufeedf(Lsd,mul)                
+1793
+2Ufeedf(Lsq,mul)                
+1794
+2Ufeedf(Xsd,mul)                
+1795
+2Ufeedf(Xsq,mul)                
+1796
+2Ufeedf(EMF,mul)                
+1797
+2Ufeedf(I,mul)                  
+1800
+2Ictrl(dynamik)                 
+1801
+2ctrl(Tn,mul)                   
+1802
+2Ictrl(kp_d,mul)                
+1803
+2ctrl(kp_q,mul)                 
+1804
+2Ictrl(Tn_d,mul)                
+1805
+2ctrl(Tn_q,mul)                 
+1806
+2Irctrl(kd_d,mul                
+1807
+2Ictrl(kd_q,mul)                
+1808
+2Ictrl(fcut,down                
+1809
+2Ictrl(fcut,up)                 
+1810
+2Ictrl(int.lim)                 
+1811
+2Ictrl(Ts.ov,m.)                
+1812
+2Ictrl(Ts.b,mul)                
+1813
+2Ictrl(Vs.ov,mul                
+1814
+2Ictrl(Vs.b,mul)                
+1815
+2Ictrl(EnSharm)                 
+1816
+2ctrl(Vs.,f_lim)                
+1817
+2Ictrl(Udc,Tg)                  
+1821
+2Flyr.f(Tg)                     
+1822
+2.Smoothing time f. search curr.
+1823
+2Flyr.f(Min)                    
+1824
+2Search rate                    
+1825
+2Adaptation of the search curr. 
+1826
+2Restart-on-the-fly mode        
+1870
+Ext. auxiliaries, run-on time   
+1871
+Ext. auxiliaries, starting time 
+1872
+Ext. auxiliaries(Input_Mask)    
+1873
+Ext. auxiliaries(Input)         
+1874
+Ext. auxiliaries(Output_Mask)   
+1875
+Ext. auxiliaries(Output)        
+1876
+Ext. auxiliaries(Message)       
+1877
+Transformer fault classes       
+1878
+Motor fault classes             
+1880
+D.Ext.AUX output 1              
+1881
+D.Ext.AUX output 2              
+1882
+D.Ext.AUX output 3              
+1883
+D.Ext.AUX output 4              
+1900
+D.Display1                      
+1901
+Display1(kp)                    
+1902
+Display1(offset)                
+1903
+Display1(Tsmthg)                
+1904
+D.Display2                      
+1905
+Display2(kp)                    
+1906
+Display2(offset)                
+1907
+Display2(Tsmthg)                
+1908
+D.Display3                      
+1909
+Display3(kp)                    
+1910
+Display3(offset)                
+1911
+Display3(Tsmthg)                
+1912
+D.Display4                      
+1913
+Display4(kp)                    
+1914
+Display4(offset)                
+1915
+Display4(Tsmthg)                
+1920
+ITSP_A D/A1(Offset)             
+1921
+ITSP_A D/A2(Offset)             
+1922
+ITSP_A D/A3(Offset)             
+1923
+ITSP_A D/A4(Offset)             
+1924
+ITSP_A D/A5(Offset)             
+1925
+ITSP_A D/A6(Offset)             
+1926
+ITSP_A D/A7(Offset)             
+1927
+ITSP_A D/A8(Offset)             
+1928
+ITSP_A D/A1(AND-Mask)           
+1929
+ITSP_A D/A2(AND-Mask)           
+1930
+ITSP_A D/A3(AND-Mask)           
+1931
+ITSP_A D/A4(AND-Mask)           
+1932
+ITSP_A D/A5(AND-Mask)           
+1933
+ITSP_A D/A6(AND-Mask)           
+1934
+ITSP_A D/A7(AND-Mask)           
+1935
+ITSP_A D/A8(AND-Mask)           
+1936
+ITSP_A Address DAC-Signal 5     
+1937
+ITSP_A Address DAC-Signal 6     
+1938
+ITSP_A Address DAC-Signal 7     
+1939
+ITSP_A Address DAC-Signal 8     
+1940
+ITSP_A Trace(Mode)              
+1941
+ITSP_A Adr.Tracesignal 1        
+1942
+ITSP_A Adr.Tracesignal 2        
+1943
+ITSP_A Adr.Tracesignal 3        
+1944
+ITSP_A Adr.Tracesignal 4        
+1945
+ITSP_A Adr.Triggerword          
+1946
+ITSP_A Triggermask              
+1947
+ITSP_A Adr.Triggersig.          
+1948
+ITSP_A Trig.Threshold           
+1949
+ITSP_A Trace State              
+1951
+ITSP_A Debug Address 1          
+1952
+ITSP_A Debug Signal 1           
+1953
+ITSP_A Debug Address 2          
+1954
+ITSP_A Debug Signal 2           
+1955
+ITSP_A Debug Address 3          
+1956
+ITSP_A Debug Signal 3           
+1957
+ITSP_A Debug Address 4          
+1958
+ITSP_A Debug Signal 4 (low word)
+1959
+ITSP_A Debug Sign. 4 (high word)
+1961
+ITSP_A D/A1(Scaling)            
+1962
+ITSP_A D/A2(Scaling)            
+1963
+ITSP_A D/A3(Scaling)            
+1964
+ITSP_A D/A4(Scaling)            
+1965
+ITSP_A D/A5(Scaling)            
+1966
+ITSP_A D/A6(Scaling)            
+1967
+ITSP_A D/A7(Scaling)            
+1968
+ITSP_A D/A8(Scaling)            
+1970
+DP/USS Selection                
+1971
+USS Baudrate                    
+1972
+USS Number PKW                  
+1973
+USS Number PZD                  
+1974
+USS Monitoring                  
+1979
+OP7-Version                     
+1980
+OP7-monitoring                  
+1985
+Set:Year/Month                  
+1986
+Set:Day/Hour                    
+1991
+Integer_Value_1                 
+1992
+Integer_Value_2                 
+1995
+Unit type                       
+1996
+Load P1                         
+1997
+MV-Version                      
+1998
+Unit type                       
+1999
+SW-ID-DriveES                   

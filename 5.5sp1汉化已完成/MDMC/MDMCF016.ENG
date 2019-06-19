@@ -1,0 +1,5189 @@
+0469
+F0001|0000|Test Func T2                    
+                
+F0002|0000|Test Func T3                    
+                
+F0003|0000|Test Func T4                    
+                
+F0004|0000|Test Func T5                    
+                
+F0005|0000|Test Func T6                    
+                
+F0006|0000|Test Func T7                    
+                
+F0007|0000|Test Func T8                    
+                
+F0008|0000|Test Func T9                    
+                
+F0009|0000|Test Func T10                   
+                
+F0010|0000|SCom1 Setp                      
+                
+F0011|0000|1st CB Setp                     
+                
+F0012|0000|SLB Setpoints                   
+                
+F0013|0000|Basic Unit DI                   
+                
+F0014|0000|SCom2 Setpoints                 
+                
+F0015|0000|2nd CB Setp                     
+                
+F0017|0000|Pos Machine Enc                 
+                
+F0018|0000|Abs Enc Mach                    
+                
+F0019|0000|Abs Enc Motor                   
+                
+F0020|0000|SCom1 ActV                      
+                
+F0021|0000|1st CB ActV                     
+                
+F0022|0000|Fine Sync                       
+                
+F0023|0000|Basic Unit DO                   
+                
+F0024|0000|SCom2 ActV                      
+                
+F0025|0000|2nd CB ActV                     
+                
+F0031|0000|FixSetp 17                      
+                
+F0032|0000|FixSetp 18                      
+                
+F0033|0000|FixSetp 19                      
+                
+F0034|0000|FixSetp 20                      
+                
+F0035|0000|FixSetp 21                      
+                
+F0036|0000|FixSetp 22                      
+                
+F0037|0000|FixSetp 23                      
+                
+F0038|0000|FixSetp 24                      
+                
+F0039|0000|FixSetp 25                      
+                
+F0040|0000|FixSetp 26                      
+                
+F0041|0000|FixSetp 27                      
+                
+F0042|0000|FixSetp 28                      
+                
+F0043|0000|FixSetp 29                      
+                
+F0044|0000|FixSetp 30                      
+                
+F0045|0000|FixSetp 31                      
+                
+F0046|0000|FixSetp 32                      
+                
+F0047|0000|FixSetp 33                      
+                
+F0048|0000|FixBit 1                        
+                
+F0049|0000|FixBit 2                        
+                
+F0050|0000|FixBit 3                        
+                
+F0051|0000|FixBit 4                        
+                
+F0052|0000|FixBit 5                        
+                
+F0053|0000|FixBit 6                        
+                
+F0054|0000|FixBit 7                        
+                
+F0055|0000|FixBit 8                        
+                
+F0056|0000|Conn/DConnConv                  
+                
+F0057|0000|Conn/Bin Conv1                  
+                
+F0058|0000|Conn/Bin Conv2                  
+                
+F0059|0000|Conn/Bin Conv3                  
+                
+F0060|0000|CamConGroup 1+2                 
+                
+F0061|0000|CamConGroup 3+4                 
+                
+F0062|0000|Demultiplexer                   
+                
+F0063|0000|AnaDelayEl 1                    
+                
+F0064|0000|AnaDelayEl 2                    
+                
+F0065|0000|PulseGen 1                      
+                
+F0066|0000|SampTimeChange1                 
+                
+F0067|0000|SampTimeChange2                 
+                
+F0068|0000|SampTimeChange3                 
+                
+F0069|0000|SampTimeChange4                 
+                
+F0070|0000|SampTimeChange5                 
+                
+F0071|0000|SampTimeChange6                 
+                
+F0072|0000|Multiplexer 2                   
+                
+F0073|0000|PosTrackResult                  
+                
+F0074|0000|PosTrackEncoder                 
+                
+F0075|0000|AbsValueGen1                    
+                
+F0076|0000|Track/Store 1                   
+                
+F0077|0000|Store 1                         
+                
+F0078|0000|AND element 1                   
+                
+F0079|0000|AND element 2                   
+                
+F0083|0000|Adder1 1Word                    
+                
+F0084|0000|SignInv1 1Word                  
+                
+F0085|0000|Switch1 1Word                   
+                
+F0086|0000|Switch1 2Word                   
+                
+F0087|0000|Switch2 2Word                   
+                
+F0088|0000|Deadzone                        
+                
+F0089|0000|AND element 3                   
+                
+F0090|0000|OR element 1                    
+                
+F0091|0000|OR element 2                    
+                
+F0092|0000|NAND element 1                  
+                
+F0093|0000|EXOR 1                          
+                
+F0094|0000|Binary Switch 1                 
+                
+F0095|0000|Timer 1                         
+                
+F0096|0000|EXOR 2                          
+                
+F0097|0000|Binary Switch 2                 
+                
+F0101|0000|Adder2 1Word                    
+                
+F0102|0000|Subtr1 1Word                    
+                
+F0103|0000|SignInv1 2Word                  
+                
+F0104|0000|Multipl 1 1Word                 
+                
+F0105|0000|Divider1 1Word                  
+                
+F0106|0000|Mult/Div1 1Word                 
+                
+F0107|0000|Curve 1                         
+                
+F0108|0000|Inverter 1                      
+                
+F0109|0000|AND element 4                   
+                
+F0110|0000|Inverter 2                      
+                
+F0111|0000|Inverter 3                      
+                
+F0112|0000|MulDiv32 1                      
+                
+F0115|0000|Adder1 2Word                    
+                
+F0116|0000|Subtr1 2Word                    
+                
+F0117|0000|SignInv2 1Word                  
+                
+F0118|0000|LmtVMon1 1Word                  
+                
+F0119|0000|Switch2 1Word                   
+                
+F0120|0000|Switch3 2Word                   
+                
+F0121|0000|Switch3 1Word                   
+                
+F0122|0000|AND element 5                   
+                
+F0123|0000|OR element 3                    
+                
+F0124|0000|NAND element 2                  
+                
+F0125|0000|D Flipflop1                     
+                
+F0129|0000|Adder2 2Word                    
+                
+F0130|0000|SwSignInv 1Word                 
+                
+F0131|0000|Multipl1 2Word                  
+                
+F0132|0000|Mult/Div2 1Word                 
+                
+F0133|0000|Curve 2                         
+                
+F0134|0000|RS Flipflop1                    
+                
+F0135|0000|AND element 6                   
+                
+F0136|0000|RS Flipflop 2                   
+                
+F0137|0000|Inverter 4                      
+                
+F0138|0000|Counter                         
+                
+F0142|0000|Adder3 1Word                    
+                
+F0143|0000|Divider1 2Word                  
+                
+F0144|0000|AND element 7                   
+                
+F0145|0000|OR element 4                    
+                
+F0146|0000|Inverter 5                      
+                
+F0147|0000|NAND element 3                  
+                
+F0148|0000|Binary Switch 3                 
+                
+F0149|0000|RS Flipflop 3                   
+                
+F0150|0000|Timer 7                         
+                
+F0151|0000|Comfort RGen                    
+                
+F0153|0000|Integrator32 1                  
+                
+F0154|0000|Pampf 32_2                      
+                
+F0157|0000|4fold Adder                     
+                
+F0158|0000|Subtr2 1Word                    
+                
+F0159|0000|Multipl2 1Word                  
+                
+F0160|0000|Switch4 1Word                   
+                
+F0161|0000|AND element 8                   
+                
+F0162|0000|AND element 9                   
+                
+F0163|0000|OR element 5                    
+                
+F0164|0000|Inverter 6                      
+                
+F0165|0000|Binary Switch 4                 
+                
+F0166|0000|RS Flipflop 4                   
+                
+F0167|0000|Timer 2                         
+                
+F0168|0000|Sample&Hold 1                   
+                
+F0169|0000|Sample&Hold 2                   
+                
+F0170|0000|Sample&Hold 3                   
+                
+F0172|0000|Modulo 2^16 Add                 
+                
+F0173|0000|Mult/Div3 1Word                 
+                
+F0174|0000|Limitr1 1Word                   
+                
+F0175|0000|LmtVMon2 2Word                  
+                
+F0176|0000|Switch5 1Word                   
+                
+F0177|0000|Switch4 2Word                   
+                
+F0178|0000|Multiplexer 1                   
+                
+F0179|0000|AND element 10                  
+                
+F0180|0000|AND element 11                  
+                
+F0181|0000|OR element 6                    
+                
+F0182|0000|RS Flipflop 5                   
+                
+F0183|0000|Timer 5                         
+                
+F0184|0000|Timer 3                         
+                
+F0185|0000|Integrator32 2                  
+                
+F0187|0000|SimpRGen                        
+                
+F0188|0000|Multiplexer 3                   
+                
+F0190|0000|SwSignInv 2Word                 
+                
+F0191|0000|Modulo 2^32 Add                 
+                
+F0192|0000|AND element 12                  
+                
+F0193|0000|OR element 7                    
+                
+F0194|0000|Inverter 7                      
+                
+F0195|0000|NAND element 4                  
+                
+F0196|0000|Binary Switch 5                 
+                
+F0197|0000|RS Flipflop 6                   
+                
+F0198|0000|RS Flipflop 7                   
+                
+F0199|0000|Timer 4                         
+                
+F0201|0000|TeCntr                          
+                
+F0202|0000|WobbleGen                       
+                
+F0203|0000|Shift32_4                       
+                
+F0205|0000|Adder3 2Word                    
+                
+F0206|0000|Subtr3 1Word                    
+                
+F0207|0000|AbsValGen4                      
+                
+F0208|0000|Switch5 2Word                   
+                
+F0209|0000|Curve 3                         
+                
+F0210|0000|OR element 8                    
+                
+F0211|0000|OR element 9                    
+                
+F0212|0000|NAND element 5                  
+                
+F0213|0000|RS Flipflop 8                   
+                
+F0214|0000|RS Flipflop 9                   
+                
+F0215|0000|D Flipflop 2                    
+                
+F0216|0000|Timer 6                         
+                
+F0217|0000|Multiplexer 4                   
+                
+F0220|0000|Adder4 1Word                    
+                
+F0221|0000|Adder4 2Word                    
+                
+F0222|0000|SignInv2 2Word                  
+                
+F0223|0000|Divider2 1Word                  
+                
+F0224|0000|Maximum Select                  
+                
+F0225|0000|Minimum Select                  
+                
+F0226|0000|AND element 13                  
+                
+F0227|0000|NAND element 6                  
+                
+F0228|0000|EXOR 3                          
+                
+F0229|0000|RS Flipflop 10                  
+                
+F0230|0000|RS Flipflop 11                  
+                
+F0231|0000|PT1Elem32 1                     
+                
+F0232|0000|DElem32 1                       
+                
+F0235|0000|Subtr2 2Word                    
+                
+F0236|0000|SignInv3 1Word                  
+                
+F0237|0000|Multipl3 1Word                  
+                
+F0238|0000|Limiter2 1Word                  
+                
+F0239|0000|AND element 14                  
+                
+F0240|0000|OR element 10                   
+                
+F0241|0000|Inverter 8                      
+                
+F0242|0000|NAND element 7                  
+                
+F0243|0000|PT1Elem32 2                     
+                
+F0247|0000|AbsValGen 2                     
+                
+F0248|0000|Limiter1 2Word                  
+                
+F0249|0000|LmtVMon2 1Word                  
+                
+F0250|0000|Store 2                         
+                
+F0251|0000|AND element 15                  
+                
+F0252|0000|AND element 16                  
+                
+F0253|0000|Inverter 9                      
+                
+F0254|0000|AND element 17                  
+                
+F0255|0000|Inverter 10                     
+                
+F0256|0000|Bin/Con Convrt4                 
+                
+F0257|0000|Time slot wait                  
+                
+F0258|0000|Adr/Con Transf                  
+                
+F0259|0000|Fault F148                      
+                
+F0260|0000|Fault F149                      
+                
+F0261|0000|Fault F150                      
+                
+F0262|0000|Fault F151                      
+                
+F0263|0000|Alarm A061                      
+                
+F0264|0000|Alarm A062                      
+                
+F0265|0000|Alarm A063                      
+                
+F0266|0000|Alarm A064                      
+                
+F0267|0000|AbsValGen3                      
+                
+F0268|0000|LmtValMon1 2Wrd                 
+                
+F0269|0000|Track/Store 2                   
+                
+F0270|0000|OR element 11                   
+                
+F0271|0000|RS Flipflop 12                  
+                
+F0272|0000|TraceOut Ch1                    
+                
+F0273|0000|TraceOut Ch2                    
+                
+F0274|0000|TraceOut Ch3                    
+                
+F0275|0000|ConnDisp 1                      
+                
+F0276|0000|ConnDisp 2                      
+                
+F0277|0000|ConnDisp 3                      
+                
+F0278|0000|DConnDisp 1                     
+                
+F0279|0000|DConnDisp 2                     
+                
+F0280|0000|DConnDisp 3                     
+                
+F0281|0000|DConnDisp 4                     
+                
+F0282|0000|BinDisp 1                       
+                
+F0283|0000|BinDisp 2                       
+                
+F0284|0000|BinDisp 3                       
+                
+F0285|0000|BinDisp 4                       
+                
+F0286|0000|ConnDisp Smth                   
+                
+F0287|0000|DConnDisp Smth                  
+                
+F0288|0000|DConn/Conn Conv                 
+                
+F0289|0000|Bin/Conn Conv 1                 
+                
+F0290|0000|Bin/Conn Conv 2                 
+                
+F0291|0000|Bin/Conn Conv 3                 
+                
+F0292|0000|AND element 18                  
+                
+F0293|0000|OR element 12                   
+                
+F0294|0000|NAND element 8                  
+                
+F0295|0000|TraceOut Ch4                    
+                
+F0296|0000|TraceOut Ch5                    
+                
+F0297|0000|Trace Out Ch6                   
+                
+F0298|0000|TraceOut Ch7                    
+                
+F0299|0000|TraceOut Ch8                    
+                
+F0301|0000|1st EB1 AnaIn1                  
+                
+F0302|0000|1st EB1AnaIn2+3                 
+                
+F0303|0000|1st EB1 AnaOut                  
+                
+F0304|0000|1stEB1 DE+DA                    
+                
+F0305|0000|1st EB1 DigIn1                  
+                
+F0306|0000|2nd EB1AnaIn1                   
+                
+F0307|0000|2nd EB1AnaIn2+3                 
+                
+F0308|0000|2nd EB1 AnaOut                  
+                
+F0309|0000|2ndEB1DigIn+Out                 
+                
+F0310|0000|2nd EB1 DigIn1                  
+                
+F0311|0000|1st EB2 AnaIn                   
+                
+F0312|0000|1st EB2 AnaOut                  
+                
+F0313|0000|1st EB2 DigIn                   
+                
+F0314|0000|1st EB2 DigOut                  
+                
+F0315|0000|2nd EB2 AnaIn                   
+                
+F0316|0000|2nd EB2 AnaOut                  
+                
+F0317|0000|2nd EB2 DigIn                   
+                
+F0318|0000|2nd EB2 DigOut                  
+                
+F0320|0000|Send ready sgnl                 
+                
+F0321|0000|Rec ready signl                 
+                
+F0325|0000|SCB Setp                        
+                
+F0326|0000|SCB ActV                        
+                
+F0328|0000|SimolinkEncoder                 
+                
+F0329|0000|Expol.CommError                 
+                
+F0330|0000|ControlSigPos                   
+                
+F0331|0000|RealMaster32_1                  
+                
+F0332|0000|Positioning                     
+                
+F0333|0000|Synchron Module                 
+                
+F0334|0000|Virt.MasterAxis                 
+                
+F0335|0000|VM_Integrator32                 
+                
+F0336|0000|Shift32_1                       
+                
+F0337|0000|Shift32_2                       
+                
+F0338|0000|Shift32_3                       
+                
+F0339|0000|PAmpf 32_1                      
+                
+F0340|0000|TechContrW                      
+                
+F0341|0000|nReg(Droop)                     
+                
+F0342|0000|nReg(Band-Stop)                 
+                
+F0343|0000|nContr(PT1)                     
+                
+F0344|0000|nContr(DT1)                     
+                
+F0345|0000|nContr(total)                   
+                
+F0346|0000|Pre Accel                       
+                
+F0348|0000|BrakeControl                    
+                
+F0350|0000|MasterValCorr                   
+                
+F0351|0000|AdderOffset                     
+                
+F0352|0000|OffsetAdder                     
+                
+F0353|0000|DisplAdder 2                    
+                
+F0354|0000|DisplAdder 3                    
+                
+F0355|0000|InflHlEncoder 1                 
+                
+F0356|0000|InflHlEncoder 2                 
+                
+F0357|0000|32BGear 1                       
+                
+F0358|0000|32BGear 2                       
+                
+F0360|0000|FB Setval/Refvl                 
+                
+F0361|0000|FB Single-Posi                  
+                
+F0362|0000|FB Corr./Ref.                   
+                
+F0364|0000|DP V3 Encod Int                 
+                
+F0370|0000|Noise                           
+                
+F0371|0000|MOP                             
+                
+F0372|0000|Tracer                          
+                
+F0701|0000|Pos CtrlSign                    
+                
+F0702|0000|PosStatusSig                    
+                
+F0703|0000|Pos DigInOff                    
+                
+F0704|0000|PosSensing                      
+                
+F0705|0000|PosSetpoints                    
+                
+F0706|0000|PosSetup                        
+                
+F0707|0000|Item MDI                        
+                
+F0708|0000|PosAutomatic                    
+                
+F0709|0000|PosFaultAlarm                   
+                
+F0710|0000|PosControl                      
+                
+F0711|0000|PosRollFeed                     
+                
+F0712|0000|PosEditAuto                     
+                
+F0713|0000|Pos MachData                    
+                
+F0715|0000|Pos MastVal                     
+                
+F0772|0000|BlockDiagnosis                  
+                
+F0773|0000|StallDiag v/f                   
+                
+F0783|0000|Lowering                        
+                
+F0801|0000|Scom1 B2100..                   
+                
+F0802|0000|Scom1 B2200..                   
+                
+F0803|0000|Scom1 B2300..                   
+                
+F0804|0000|Scom1 B2400..                   
+                
+F0805|0000|Scom1 B2500..                   
+                
+F0806|0000|Scom1 B2600..                   
+                
+F0807|0000|SCom1 B2700..                   
+                
+F0808|0000|SCom1 B2800..                   
+                
+F0809|0000|SCom1 B2900..                   
+                
+F0811|0000|1st CB/TB B3100                 
+                
+F0812|0000|1st CB/TB B3200                 
+                
+F0813|0000|1st CB/TB B3300                 
+                
+F0814|0000|1st CB/TB B3400                 
+                
+F0815|0000|1st CB/TB B3500                 
+                
+F0816|0000|1st CB/TB B3600                 
+                
+F0817|0000|1st CB/TB B3700                 
+                
+F0818|0000|1st CB/TB B3800                 
+                
+F0819|0000|1st CB/TB B3900                 
+                
+F0825|0000|SCB B4500..                     
+                
+F0826|0000|SCB B4600..                     
+                
+F0827|0000|SCB B4700..                     
+                
+F0828|0000|SCB B4800..                     
+                
+F0829|0000|SCB B4900..                     
+                
+F0841|0000|Scom2 B6100..                   
+                
+F0842|0000|Scom2 B6200..                   
+                
+F0843|0000|Scom2 B6300..                   
+                
+F0844|0000|Scom2 B6400..                   
+                
+F0845|0000|Scom2 B6500..                   
+                
+F0846|0000|Scom2 B6600..                   
+                
+F0847|0000|Scom2 B6700..                   
+                
+F0848|0000|Scom2 B6800..                   
+                
+F0849|0000|Scom2 B6900..                   
+                
+F0851|0000|SLB B7100..                     
+                
+F0852|0000|SLB B7200..                     
+                
+F0853|0000|SLB B7300..                     
+                
+F0854|0000|SLB B7400..                     
+                
+F0855|0000|SLB B7500..                     
+                
+F0856|0000|SLB B7600..                     
+                
+F0857|0000|SLB B7700..                     
+                
+F0858|0000|SLB B7800..                     
+                
+F0859|0000|SLB B7900..                     
+                
+F0861|0000|2nd CB/TB B8100                 
+                
+F0862|0000|2nd CB/TB B8200                 
+                
+F0863|0000|2nd CB/TB B8300                 
+                
+F0864|0000|2nd CB/TB B8400                 
+                
+F0865|0000|2nd CB/TB B8500                 
+                
+F0866|0000|2nd CB/TB B8600                 
+                
+F0867|0000|2nd CB/TB B8700                 
+                
+F0868|0000|2nd CB/TB B8800                 
+                
+F0869|0000|2nd CB/TB B8900                 
+                
+F0881|0000|SCI AnaInSlave1                 
+                
+F0882|0000|SCI1AnaInSlave2                 
+                
+F0883|0000|SCI1DigInSl1                    
+                
+F0884|0000|SCI1DigInSl2                    
+                
+F0885|0000|SCI2 DigInSl1                   
+                
+F0886|0000|SCI2 DigInSl2                   
+                
+F0887|0000|SCB USS Setp                    
+                
+F0888|0000|SCBSetpPeer                     
+                
+F0891|0000|SCI1 Slave1 AO                  
+                
+F0892|0000|SCI1 Slave2 AO                  
+                
+F0893|0000|SCI1 Slave1 DO                  
+                
+F0894|0000|SCI1 Slave2 DO                  
+                
+F0895|0000|SCI2 DigOutSl1                  
+                
+F0896|0000|SCI2 DigOutSl2                  
+                
+F0897|0000|SCB USS ActV                    
+                
+F0898|0000|SCB Peer ActV                   
+                
+F0901|0000|Monitor ElecSup                 
+                
+F0902|0000|Binector Disp                   
+                
+F0903|0000|ConnDisp %                      
+                
+F0904|0000|ConnDisp Dec                    
+                
+F0905|0000|ConnDisp Hex                    
+                
+F0906|0000|ConnDisp Amp                    
+                
+F0907|0000|ConnDisp Volt                   
+                
+F0908|0000|ConnDisp Torq                   
+                
+F0909|0000|ConnDisp rpm                    
+                
+F0910|0000|ConnDisp Hertz                  
+                
+F0915|0000|PMU Evaluation                  
+                
+F0916|0000|OP Display                      
+                
+F0917|0000|Basic Unit AI                   
+                
+F0918|0000|Basic Unit AO                   
+                
+F0920|0000|SLB Conf&Diag                   
+                
+F0921|0000|SLB ActV                        
+                
+F0922|0000|Synchronization                 
+                
+F0925|0000|Control Word1                   
+                
+F0926|0000|Control Word2                   
+                
+F0927|0000|Status Word1                    
+                
+F0928|0000|Status Word2                    
+                
+F0930|0000|Resolver Motor                  
+                
+F0931|0000|Encoder Motor                   
+                
+F0932|0000|PulseEnc Motor                  
+                
+F0933|0000|Setpoint Enc                    
+                
+F0934|0000|Encoder Tech                    
+                
+F0935|0000|PulseEnc Mach                   
+                
+F0936|0000|Encoder Mach                    
+                
+F0940|0000|FixSetp 1-16                    
+                
+F0942|0000|SetpProc. 1                     
+                
+F0943|0000|SetpProc. 2                     
+                
+F0944|0000|Diagnostic vals                 
+                
+F0950|0000|Pos MotorEnc                    
+                
+F0951|0000|Pos Cotnroller                  
+                
+F0952|0000|Speed Ctrl                      
+                
+F0953|0000|Torque Limit                    
+                
+F0954|0000|Current Ctrl                    
+                
+F0955|0000|V/f Charac                      
+                
+F0956|0000|Gating Unit                     
+                
+F0957|0000|Kt-Tr Adaption                  
+                
+F0958|0000|Friction Charac                 
+                
+F0959|0000|PosFixedValues                  
+                
+F0960|0000|SetpCh Messages                 
+                
+F0961|0000|Monitors                        
+                
+F0962|0000|Actual Values                   
+                
+F0963|0000|12t Motor Calc                  
+                
+F0964|0000|Alarms                          
+                
+F0965|0000|Fault Memory                    
+                
+F0966|0000|Datasets                        
+                
+F0967|0000|Motor Model                     
+                
+F0968|0000|SeqControl                      
+                
+F0969|0000|MainCont Contr                  
+                
+F0970|0000|Optional Board                  
+                
+F0972|0000|Parameterizatio                 
+                
+F0976|0000|ConnPar Conv                    
+                
+F0980|0000|Sync En/Disen                   
+                
+F0981|0000|PosCorr Sync                    
+                
+F0982|0000|Sync DispSet                    
+                
+F0983|0000|Sync Cam                        
+                
+F0985|0000|Sync Gear                       
+                
+F0986|0000|SyncCurveConf                   
+                
+F0988|0000|Sync                            
+                
+F0997|0000|SEB and Diag                    
+                
+F0999|0000|Internal                        
+                
+0710
+K0000|0020|FixConn 0%                      
+                
+K0001|0040|FixConn 100%                    
+                
+K0002|0041|FixConn 200%                    
+                
+K0003|0040|FixConn -100%                   
+                
+K0004|0041|FixConn -200%                   
+                
+K0005|0040|FixConn 50%                     
+                
+K0006|0040|FixConn 150%                    
+                
+K0007|0040|FixConn -50%                    
+                
+K0008|0040|FixConn -150%                   
+                
+K0010|0042|AnaIn NL Value                  
+                
+K0011|0042|AnaIn Setp                      
+                
+K0015|0040|AnaOut ActV                     
+                
+K0022|0040|I(Abs smooth)                   
+                
+K0030|0020|Control Word 1                  
+                
+K0031|0020|Control Word 2                  
+                
+K0032|0020|Status Word 1                   
+                
+K0033|0020|Status Word 2                   
+                
+K0035|0020|ActiveBICO DSet                 
+                
+K0036|0020|Active FuncDSet                 
+                
+K0040|0041|Curr FixSetp                    
+                
+K0041|0041|FixSetpoint   1                 
+                
+K0042|0041|FixSetpoint   2                 
+                
+K0043|0041|FixSetpoint   3                 
+                
+K0044|0041|FixSetpoint   4                 
+                
+K0045|0041|FixSetpoint   5                 
+                
+K0046|0041|FixSetpoint   6                 
+                
+K0047|0041|FixSetpoint   7                 
+                
+K0048|0041|FixSetpoint   8                 
+                
+K0049|0041|FixSetpoint   9                 
+                
+K0050|0041|FixSetpoint  10                 
+                
+K0051|0041|FixSetpoint  11                 
+                
+K0052|0041|FixSetpoint  12                 
+                
+K0053|0041|FixSetpoint  13                 
+                
+K0054|0041|FixSetpoint  14                 
+                
+K0055|0041|FixSetpoint  15                 
+                
+K0056|0041|FixSetpoint  16                 
+                
+K0057|0041|MOP (Input)                     
+                
+K0058|0041|MOP (Output)                    
+                
+K0070|0043|n(set, sum1)                    
+                
+K0071|0043|n(set, spd sel)                 
+                
+K0072|0043|n(set, RgenIn)                  
+                
+K0073|0043|n(set, RgenOut)                 
+                
+K0074|0043|n(set,sum2)                     
+                
+K0075|0043|n(set,limitr)                   
+                
+K0076|0043|dn/dt (RgenOut)                 
+                
+K0077|0042|Torque(PRE)                     
+                
+K0088|0041|ZeroPtDevExtTot                 
+                
+K0089|0041|ZeroPtDev                       
+                
+K0090|0043|Mech. Angle                     
+                
+K0091|0043|n(act)                          
+                
+K0094|0041|SBP SetpCh1                     
+                
+K0095|0041|SBP SetpCh2                     
+                
+K0096|0043|Resolver Angle                  
+                
+K0099|0043|n.Mix                           
+                
+K0100|0021|PosAbs                          
+                
+K0101|0043|n.ExtEncoder                    
+                
+K0102|0043|n.Difference                    
+                
+K0104|0043|AngleEncExt                     
+                
+K0105|0041|PulseCntMachEn                  
+                
+K0106|0021|PositionAbsMach                 
+                
+K0115|0042|DiagnostWord 1                  
+                
+K0116|0042|DiagnostWord 2                  
+                
+K0120|0043|Pos ActV                        
+                
+K0121|0043|Pos Test                        
+                
+K0122|0043|Pos (Memory)                    
+                
+K0123|0043|PosMVSOffset                    
+                
+K0124|0043|PosMeas RefP                    
+                
+K0125|0041|PosActV MEncod                  
+                
+K0126|0041|MachEncPosTest                  
+                
+K0127|0041|MVal Mem MEncod                 
+                
+K0128|0041|n(act) Mach                     
+                
+K0129|0041|n(act) % Mach                   
+                
+K0130|0043|Pos (Deviation)                 
+                
+K0131|0043|PosReg (Outp)                   
+                
+K0132|0043|PosReg (P-port)                 
+                
+K0133|0043|PosReg (I-port)                 
+                
+K0134|0043|PosRegLimFix                    
+                
+K0135|0043|PosReg T Pre                    
+                
+K0136|0043|Lagereg n-Vorst                 
+                
+K0141|0043|PosFixVal 1                     
+                
+K0142|0043|PosFixVal 2                     
+                
+K0143|0043|PosFixVal 3                     
+                
+K0144|0043|PosFixVal 4                     
+                
+K0145|0043|FixSetpoint%1                   
+                
+K0146|0043|FixSetpoint%2                   
+                
+K0147|0043|FixSetpoint%1                   
+                
+K0148|0043|FixSetpoint%4                   
+                
+K0150|0043|n (set,smooth)                  
+                
+K0151|0043|n(act,smooth)                   
+                
+K0152|0043|n(Deviation)                    
+                
+K0153|0042|M(set, n-Reg)                   
+                
+K0154|0042|n-Reg (P-port)                  
+                
+K0155|0042|n-Reg (I-port)                  
+                
+K0157|0043|n(Droop)                        
+                
+K0158|0043|n(Band-Stop)                    
+                
+K0159|0043|n(DT1 Func)                     
+                
+K0160|0043|n(DT1 Func)inv                  
+                
+K0165|0042|Torq(set,limit)                 
+                
+K0166|0042|Isq(set)                        
+                
+K0167|0042|Isq(set,limitr)                 
+                
+K0168|0042|Isq(set,active)                 
+                
+K0170|0042|Torq(limit1,set                 
+                
+K0171|0042|Torq(limit2,set                 
+                
+K0172|0042|Torq(limit1,act                 
+                
+K0173|0042|Torq(limit2,act                 
+                
+K0175|0040|Imax(perm)                      
+                
+K0176|0042|Isq(max, abs)                   
+                
+K0180|0042|Psi(set)                        
+                
+K0181|0042|Psi(act)                        
+                
+K0182|0042|Isd(act)                        
+                
+K0183|0042|Isd(set,active)                 
+                
+K0184|0042|Isq(act)                        
+                
+K0185|0042|Isq(Deviation)                  
+                
+K0186|0043|Theta(I-Reg)                    
+                
+K0187|0042|kT(ist)                         
+                
+K0188|0042|n(slip)                         
+                
+K0189|0042|U(set,abs)                      
+                
+K0200|0043|f(set,V/f)                      
+                
+K0201|0043|Theta (V/f)                     
+                
+K0202|0040|FSetp AddBoost                  
+                
+K0203|0040|Boost                           
+                
+K0204|0042|U(set,V/f)                      
+                
+K0205|0042|A(set,V/f)                      
+                
+K0206|0043|n(set,V/f)                      
+                
+K0207|0043|f(set,V/f) 1                    
+                
+K0208|0042|I max-Reg.(Out)                 
+                
+K0222|0042|ModDepth (abs)                  
+                
+K0223|0022|Switch-on Time1                 
+                
+K0224|0022|Switch-on Time2                 
+                
+K0225|0022|Switch-on Time3                 
+                
+K0226|0042|Usd(stp,smooth)                 
+                
+K0237|0042|Usq(stp,smooth)                 
+                
+K0240|0040|DC BusVolts act                 
+                
+K0241|0042|Torque(act)                     
+                
+K0242|0040|OutputAmps(rms9                 
+                
+K0245|0040|MotTemp                         
+                
+K0246|0040|Drive Utiliz                    
+                
+K0248|0020|CalcTimeHdroom                  
+                
+K0249|0020|Drive Status                    
+                
+K0250|0020|Flt/Warn #                      
+                
+K0255|0040|LZSendValue                     
+                
+K0256|0040|LZ.Send Slave                   
+                
+K0257|0020|SoL.Rec.ActErr                  
+                
+K0258|0020|SoL.Rec.                        
+                
+K0260|0020|SYNC TimeCount                  
+                
+K0301|0041|PosCorr'nVal p                  
+                
+K0302|0041|PosSetVal P                     
+                
+K0303|0041|PosOffset P                     
+                
+K0306|0041|PosCorrValExt                   
+                
+K0308|0041|Corr'n MasterV                  
+                
+K0310|0041|Pos Setp P                      
+                
+K0311|0040|V-SetpContr P                   
+                
+K0312|0041|Speed Pre P                     
+                
+K0313|0041|Accel Pre P                     
+                
+K0315|0021|Checkback P                     
+                
+K0401|0040|FIXSETP K U001                  
+                
+K0402|0040|FIXSETP K U002                  
+                
+K0403|0040|FIXSETP K U003                  
+                
+K0404|0040|FIXSETP K U004                  
+                
+K0405|0040|FIXSETP K U005                  
+                
+K0406|0040|FIXSETP K U006                  
+                
+K0407|0040|FIXSETP K U007                  
+                
+K0408|0040|FIXSETP K U008                  
+                
+K0409|0020|FIXSETP K U009                  
+                
+K0411|0041|FIXSETP KK U011                 
+                
+K0412|0041|FIXSETP KK U012                 
+                
+K0413|0041|FIXSETP KK U013                 
+                
+K0414|0041|FIXSETP KK U014                 
+                
+K0415|0041|FIXSETP KK U015                 
+                
+K0416|0041|FIXSETP KK U016                 
+                
+K0417|0041|FIXSETP KK U017                 
+                
+K0418|0041|FIXSETP KK U018                 
+                
+K0420|0021|K-> KK CONV   1                 
+                
+K0421|0021|K-> KK CONV   2                 
+                
+K0422|0021|K-> KK CONV   3                 
+                
+K0423|0020|KK-> K CONV   1                 
+                
+K0424|0020|KK-> K CONV   2                 
+                
+K0425|0020|KK-> K CONV   3                 
+                
+K0426|0020|KK-> K CONV   4                 
+                
+K0427|0020|KK-> K CONV   5                 
+                
+K0428|0020|KK-> K CONV   6                 
+                
+K0431|0020|B © K CONV U076                 
+                
+K0432|0020|B © K CONV U078                 
+                
+K0433|0020|B © K CONV U080                 
+                
+K0434|0040|AdrCon        1                 
+                
+K0435|0040|AdrCon        2                 
+                
+K0436|0040|AdrCon        3                 
+                
+K0437|0040|AdrCon        4                 
+                
+K0438|0040|AdrCon        5                 
+                
+K0439|0040|AdrCon        6                 
+                
+K0440|0040|AdrCon        7                 
+                
+K0441|0040|AdrCon        8                 
+                
+K0442|0040|ADD K 0.83                      
+                
+K0443|0040|ADD K 1.01                      
+                
+K0444|0040|ADD K 1.42                      
+                
+K0445|0040|ADD K 2.20                      
+                
+K0446|0040|ADD 4K 1.57                     
+                
+K0447|0040|SUB K 1.02                      
+                
+K0448|0040|SUB K 1.58                      
+                
+K0449|0040|SUB K 2.06                      
+                
+K0450|0041|ADD KK 1.15                     
+                
+K0451|0041|ADD KK 1.29                     
+                
+K0452|0041|ADD KK 2.05                     
+                
+K0453|0041|ADD KK 2.21                     
+                
+K0454|0041|SUB KK 1.16                     
+                
+K0455|0041|SUB KK 2.35                     
+                
+K0456|0020|MOD ADD K 1.72                  
+                
+K0457|0021|MOD ADD KK 1.91                 
+                
+K0458|0040|VZ INV K 0.84                   
+                
+K0459|0040|VZ INV K 1.17                   
+                
+K0460|0040|VZ INV K 2.36                   
+                
+K0461|0041|VZ INV KK 1.03                  
+                
+K0462|0041|VZ INV KK 2.22                  
+                
+K0463|0040|SVZ INV K 1.30                  
+                
+K0464|0020|Wait Time 2.57K                 
+                
+K0465|0041|SVZ INV KK 1.90                 
+                
+K0467|0040|MUL K 1.04                      
+                
+K0468|0040|MUL K 1.59                      
+                
+K0469|0040|MUL K 2.37                      
+                
+K0470|0041|MUL KK 1.31                     
+                
+K0471|0040|DIV K 1.05                      
+                
+K0472|0040|DIV K 2.23                      
+                
+K0473|0041|DIV KK 1.43                     
+                
+K0474|0041|ConnToPar Valu1                 
+                
+K0475|0041|ConnToPar Valu2                 
+                
+K0476|0041|ConnToPar Valu3                 
+                
+K0477|0041|ConnToPar Valu4                 
+                
+K0478|0041|ConnToPar Valu5                 
+                
+K0479|0020|ConnToPar ParNo                 
+                
+K0480|0020|ConnToPar Index                 
+                
+K0481|0040|MULDIV K 1.06                   
+                
+K0482|0041|MULDIV KK 1.06                  
+                
+K0483|0040|MULDIV K 1.32                   
+                
+K0484|0041|MULDIV KK 1.32                  
+                
+K0485|0040|MULDIV K 1.73                   
+                
+K0486|0041|MULDIV KK 1.73                  
+                
+K0490|0020|B->K CONV U057                  
+                
+K0491|0040|ABSVGEN K 0.75                  
+                
+K0492|0040|ABSVGEN K 2,47                  
+                
+K0493|0040|ABSVGEN K 2.67                  
+                
+K0494|0041|ABSVGEN KK 2.07                 
+                
+K0501|0040|LIMITR K 1.74 1                 
+                
+K0502|0040|LIMITR K 1.74 2                 
+                
+K0503|0040|LIMITR K 1.74 3                 
+                
+K0504|0040|LIMITR K 2.38 1                 
+                
+K0505|0040|LIMITR K 2.38 2                 
+                
+K0506|0040|LIMITR K 2.38 3                 
+                
+K0507|0041|LIMITR KK 2.481                 
+                
+K0508|0041|LIMITR KK 2.482                 
+                
+K0509|0041|LIMITR KK 2.483                 
+                
+K0511|0040|LMTMON K 1.18 1                 
+                
+K0512|0040|LMTMON K 1.18 2                 
+                
+K0513|0040|LMTMON K 2.49 1                 
+                
+K0514|0040|LMTMON K 2.49 2                 
+                
+K0515|0041|LMTMON KK 2.681                 
+                
+K0516|0041|LMTMON KK 2.682                 
+                
+K0517|0041|LMTMON KK 1.75                  
+                
+K0521|0040|SWITCH K 0.85                   
+                
+K0522|0040|SWITCH K 1.19                   
+                
+K0523|0040|SWITCH K 1.21                   
+                
+K0524|0040|SWITCH K 1.60                   
+                
+K0525|0040|SWITCH K 1.76                   
+                
+K0526|0041|SWITCH KK 0.86                  
+                
+K0527|0041|SWITCH KK 0.87                  
+                
+K0528|0041|SWITCH KK 1.20                  
+                
+K0529|0041|SWITCH KK 1.77                  
+                
+K0530|0041|SWITCH KK 2.08                  
+                
+K0531|0041|DEMUX KK 0.62 1                 
+                
+K0532|0041|DEMUX KK 0.62 2                 
+                
+K0533|0041|DEMUX KK 0.62 3                 
+                
+K0534|0041|DEMUX KK 0.62 4                 
+                
+K0535|0041|DEMUX KK 0.62 5                 
+                
+K0536|0041|DEMUX KK 0.62 6                 
+                
+K0537|0041|DEMUX KK 0.62 7                 
+                
+K0538|0041|DEMUX KK 0.62 8                 
+                
+K0539|0041|OutpMultiplex 1                 
+                
+K0541|0040|CURVE K 1.07                    
+                
+K0542|0040|CURVE K 1.33                    
+                
+K0543|0040|CURVE K 2.09                    
+                
+K0544|0040|DEADZONE K 0.88                 
+                
+K0545|0041|MAX KK 2.24                     
+                
+K0546|0041|MIN KK 2.25                     
+                
+K0547|0041|OutpMultiplex 2                 
+                
+K0548|0041|OutpMultiplex 3                 
+                
+K0549|0041|OutpMultiplex 4                 
+                
+K0551|0041|TRA/STOR KK 0.7                 
+                
+K0552|0041|TRA/STOR KK 2.6                 
+                
+K0553|0041|STORE KK 0.77                   
+                
+K0554|0041|STORE KK 2.50                   
+                
+K0561|0020|COUNT MIN K U31                 
+                
+K0562|0020|COUNT MAX K U31                 
+                
+K0563|0020|COUNT SET K U31                 
+                
+K0564|0020|COUNT STA K U31                 
+                
+K0565|0020|COUNTER K 1.38                  
+                
+K0570|0041|ComfRGen Input                  
+                
+K0571|0041|ComfRGen Output                 
+                
+K0572|0041|ComfRGen dy/dt                  
+                
+K0573|0041|ComfRGen PosDir                 
+                
+K0574|0041|ComfRGen NegDir                 
+                
+K0577|0040|SimpRGen Output                 
+                
+K0580|0040|TeCntr Set/ActV                 
+                
+K0581|0040|TeCntr Input                    
+                
+K0582|0040|TeCntr D-Comp                   
+                
+K0583|0040|TeCntr P-Comp                   
+                
+K0584|0040|TeCntr I-Comp                   
+                
+K0585|0040|TeCntr CntrOut                  
+                
+K0586|0040|TeCntr UpperLim                 
+                
+K0587|0040|TeCntr LowerLim                 
+                
+K0588|0040|TeCntr Output                   
+                
+K0590|0040|WobbleSignal                    
+                
+K0591|0040|Setp, Wobbled                   
+                
+K0592|0041|TraceValueOutp1                 
+                
+K0593|0041|TraceValueOutp2                 
+                
+K0594|0041|TraceValueOutp3                 
+                
+K0595|0041|TraceValueOutp4                 
+                
+K0596|0041|TraceValueOutp5                 
+                
+K0597|0041|TraceValueOutp6                 
+                
+K0598|0041|TraceValueOutp7                 
+                
+K0599|0041|TraceValueOutp8                 
+                
+K0600|0041|AnaDelayEl 1 KK                 
+                
+K0601|0041|AnaDelayEl 2 KK                 
+                
+K0602|0041|MulDiv KK 1.12                  
+                
+K0603|0041|I32 KK 1.53                     
+                
+K0604|0041|I32 KK 1.85                     
+                
+K0605|0041|PT1Gl KK 2.31                   
+                
+K0606|0041|PT1Gl KK 2.43                   
+                
+K0607|0041|D Elem KK 2.32                  
+                
+K0608|0041|RealMaster KK                   
+                
+K0609|0041|RealMaster T KK                 
+                
+K0610|0041|VM Integr KK                    
+                
+K0611|0020|Integr32_1 Ti                   
+                
+K0612|0020|Integr32_2 Ti                   
+                
+K0613|0020|PulseGen_1 Tp                   
+                
+K0614|0041|RealMaster D KK                 
+                
+K0615|0042|T(Fric)                         
+                
+K0616|0041|PAmpl.32_1 KK                   
+                
+K0617|0041|PAmpf.32_2 KK                   
+                
+K0618|0041|Shift32_1 KK                    
+                
+K0619|0041|Shift32_2 KK                    
+                
+K0620|0041|Shift32_3 KK                    
+                
+K0621|0041|Shift32_4 KK                    
+                
+K0622|0042|T(Accel)                        
+                
+K0623|0042|T(Total)                        
+                
+K0624|0041|V RealMaster KK                 
+                
+K0625|0021|Revs/OvrldEncod                 
+                
+K0627|0021|LTrackMotEncod                  
+                
+K0628|0021|Revs/OvflExEnco                 
+                
+K0629|0021|LTrackExtEncod                  
+                
+K0630|0040|Noise Output                    
+                
+K0640|0041|SH 1.68 KK    1                 
+                
+K0641|0041|SH 1.68 KK    2                 
+                
+K0642|0041|SH 1.68 KK    3                 
+                
+K0643|0041|SH 1.68 KK    4                 
+                
+K0644|0040|SH 1.68 K     1                 
+                
+K0645|0040|SH 1.68 K     2                 
+                
+K0646|0040|SH 1.68 K     3                 
+                
+K0647|0040|SH 1.68 K     4                 
+                
+K0648|0040|SH 1.68 K     5                 
+                
+K0649|0040|SH 1.68 K     6                 
+                
+K0650|0040|SH 1.68 K     7                 
+                
+K0651|0040|SH 1.68 K     8                 
+                
+K0652|0041|SH 1.69 KK    1                 
+                
+K0653|0041|SH 1.69 KK    2                 
+                
+K0654|0041|SH 1.69 KK    3                 
+                
+K0655|0041|SH 1.69 KK    4                 
+                
+K0656|0040|SH 1.69 K     1                 
+                
+K0657|0040|SH 1.69 K     2                 
+                
+K0658|0040|SH 1.69 K     3                 
+                
+K0659|0040|SH 1.69 K     4                 
+                
+K0660|0040|SH 1.69 K     5                 
+                
+K0661|0040|SH 1.69 K     6                 
+                
+K0662|0040|SH 1.69 K     7                 
+                
+K0663|0040|SH 1.69 K     8                 
+                
+K0664|0041|SH 1.70 KK    1                 
+                
+K0665|0041|SH 1.70 KK    2                 
+                
+K0666|0041|SH 1.70 KK    3                 
+                
+K0667|0041|SH 1.70 KK    4                 
+                
+K0668|0040|SH 1.70 K     1                 
+                
+K0669|0040|SH 1.70 K     2                 
+                
+K0670|0040|SH 1.70 K     3                 
+                
+K0671|0040|SH 1.70 K     4                 
+                
+K0672|0040|SH 1.70 K     5                 
+                
+K0673|0040|SH 1.70 K     6                 
+                
+K0674|0040|SH 1.70 K     7                 
+                
+K0675|0040|SH 1.70 K     8                 
+                
+K0801|0041|Catch-up Stop                   
+                
+K0802|0041|Catch-up SetpSp                 
+                
+K0804|0040|Gear Numerator                  
+                
+K0805|0040|Gear Denomin                    
+                
+K0806|0040|Scale X Numer                   
+                
+K0807|0040|Scale X Denomin                 
+                
+K0808|0040|Scale Y Numer                   
+                
+K0809|0040|Scale Y Denomin                 
+                
+K0810|0021|Status_Table1                   
+                
+K0811|0021|Status_Table2                   
+                
+K0812|0041|DisplaceAngle                   
+                
+K0813|0041|Displ Abs                       
+                
+K0814|0041|Displ Relative                  
+                
+K0815|0041|V IN Virt                       
+                
+K0816|0041|V_Virt_Master                   
+                
+K0817|0041|PosSetp VMAxis                  
+                
+K0818|0041|V.SetpVirMast                   
+                
+K0819|0041|SetV VirtMast                   
+                
+K0820|0041|V.VirtMast%                     
+                
+K0822|0041|TG_FK_ClutchPos                 
+                
+K0823|0041|SetVal Table                    
+                
+K0824|0041|X-Pos Table                     
+                
+K0825|0041|Y-Pos Table                     
+                
+K0826|0041|Corr'n Value                    
+                
+K0827|0041|RestVal Offs                    
+                
+K0828|0041|KKSyncCorrVal                   
+                
+K0829|0041|ActSpeedDisplac                 
+                
+K0830|0041|MastVal FN335                   
+                
+K0831|0041|KK MV Corr Rest                 
+                
+K0832|0041|DisplaceAngle                   
+                
+K0833|0041|ResidPath                       
+                
+K0834|0041|DisplaceAngle                   
+                
+K0835|0041|DisplaceSum                     
+                
+K0836|0041|FB_DisplActVal                  
+                
+K0837|0041|KK ActSpeed                     
+                
+K0838|0041|KK CorrSpeed                    
+                
+K0839|0041|ActSpeedPosC                    
+                
+K0840|0021|Status Table 3                  
+                
+K0841|0021|Status Table 4                  
+                
+K0842|0021|Status Table 5                  
+                
+K0843|0021|Status Table 6                  
+                
+K0844|0021|Status Table 7                  
+                
+K0845|0021|Status Table 8                  
+                
+K0846|0041|ExpolPosSetpt                   
+                
+K0847|0041|ExpolSpeed                      
+                
+K0848|0041|SLE Setpoint                    
+                
+K0849|0040|SLE ActVal                      
+                
+K0850|0041|SLE Setpt32Bit                  
+                
+K0851|0040|EHlEncoder1                     
+                
+K0852|0041|EHlEncoder1                     
+                
+K0853|0041|EHlEnco1 Setval                 
+                
+K0854|0040|EHlEncoder2                     
+                
+K0855|0041|EHlEncoder2                     
+                
+K0856|0041|EHlEnco2 Setval                 
+                
+K0857|0041|MasVal pos diff                 
+                
+K0858|0041|LWcor DeltaV LW                 
+                
+K0859|0020|Override.fixed                  
+                
+K0860|0021|Pos CntrSignal                  
+                
+K0861|0041|32BGear 1 POS                   
+                
+K0862|0041|32BGear 1 VSetp                 
+                
+K0863|0041|32BGear 2 POS                   
+                
+K0864|0041|32BGear 2 VSetp                 
+                
+K0866|0041|LWcor DiffVRest                 
+                
+K0867|0041|FB_DisplActVal2                 
+                
+K0868|0041|FB_DisplActVal3                 
+                
+K0870|0041|EPos RFG V out                  
+                
+K0871|0041|Epos RFG S out                  
+                
+K0872|0040|EP Set A Setp 1                 
+                
+K0873|0040|EP Set A Setp 2                 
+                
+K0874|0041|EP Set V Setp                   
+                
+K0875|0041|EP Set S Setp                   
+                
+K0876|0041|EP FK V Setp                    
+                
+K0877|0040|EP FK A Setp  1                 
+                
+K0878|0040|EP FK A Setp  2                 
+                
+K0879|0041|EP FK S Setp                    
+                
+K0880|0041|EP FK REF                       
+                
+K0881|0041|EP V Setp                       
+                
+K0882|0041|EP PosSetp                      
+                
+K0883|0041|EP S ActVal out                 
+                
+K0884|0041|EP delta S Corr                 
+                
+K0885|0041|EP  CorrVal POS                 
+                
+K0886|0040|EPSet StatusIN                  
+                
+K0887|0040|EP SETStatusOUT                 
+                
+K0888|0040|EP POS StatusIN                 
+                
+K0889|0040|EPos Status OUT                 
+                
+K0890|0041|EPos_Diag     1                 
+                
+K0891|0041|EPos_Diag     2                 
+                
+K0892|0041|EPos_Diag     3                 
+                
+K0893|0041|EPos_Diag     4                 
+                
+K0910|0020|DP V3 G1_ZSW                    
+                
+K0911|0020|DP V3 G2_ZSW                    
+                
+K0912|0041|DP V3 G1_XIST2                  
+                
+K0913|0041|DP V3 G2_XIST2                  
+                
+K2001|0044|SCom1 Word    1                 
+                
+K2002|0044|SCom1 Word    2                 
+                
+K2003|0044|SCom1 Word    3                 
+                
+K2004|0044|SCom1 Word    4                 
+                
+K2005|0044|SCom1 Word    5                 
+                
+K2006|0044|SCom1 Word    6                 
+                
+K2007|0044|SCom1 Word    7                 
+                
+K2008|0044|SCom1 Word    8                 
+                
+K2009|0044|SCom1 Word    9                 
+                
+K2010|0044|SCom1 Word   10                 
+                
+K2011|0044|SCom1 Word   11                 
+                
+K2012|0044|SCom1 Word   12                 
+                
+K2013|0044|SCom1 Word   13                 
+                
+K2014|0044|SCom1 Word   14                 
+                
+K2015|0044|SCom1 Word   15                 
+                
+K2016|0044|SCom1 Word   16                 
+                
+K2031|0045|SCom1 DWord   1                 
+                
+K2032|0045|SCom1 DWord   2                 
+                
+K2033|0045|SCom1 DWord   3                 
+                
+K2034|0045|SCom1 DWord   4                 
+                
+K2035|0045|SCom1 DWord   5                 
+                
+K2036|0045|SCom1 DWord   6                 
+                
+K2037|0045|SCom1 DWord   7                 
+                
+K2038|0045|SCom1 DWord   8                 
+                
+K2039|0045|SCom1 DWord   9                 
+                
+K2040|0045|SCom1 DWord  10                 
+                
+K2041|0045|SCom1 DWord  11                 
+                
+K2042|0045|SCom1 DWord  12                 
+                
+K2043|0045|SCom1 DWord  13                 
+                
+K2044|0045|SCom1 DWord  14                 
+                
+K2045|0045|SCom1 DWord  15                 
+                
+K3001|0048|CB/TB Word    1                 
+                
+K3002|0048|CB/TB Word    2                 
+                
+K3003|0048|CB/TB Word    3                 
+                
+K3004|0048|CB/TB Word    4                 
+                
+K3005|0048|CB/TB Word    5                 
+                
+K3006|0048|CB/TB Word    6                 
+                
+K3007|0048|CB/TB Word    7                 
+                
+K3008|0048|CB/TB Word    8                 
+                
+K3009|0048|CB/TB Word    9                 
+                
+K3010|0048|CB/TB Word   10                 
+                
+K3011|0048|CB/TB Word   11                 
+                
+K3012|0048|CB/TB Word   12                 
+                
+K3013|0048|CB/TB Word   13                 
+                
+K3014|0048|CB/TB Word   14                 
+                
+K3015|0048|CB/TB Word   15                 
+                
+K3016|0048|CB/TB Word   16                 
+                
+K3031|0049|CB/TB DWord   1                 
+                
+K3032|0049|CB/TB DWord   2                 
+                
+K3033|0049|CB/TB DWord   3                 
+                
+K3034|0049|CB/TB DWord   4                 
+                
+K3035|0049|CB/TB DWord   5                 
+                
+K3036|0049|CB/TB DWord   6                 
+                
+K3037|0049|CB/TB DWord   7                 
+                
+K3038|0049|CB/TB DWord   8                 
+                
+K3039|0049|CB/TB DWord   9                 
+                
+K3040|0049|CB/TB DWord  10                 
+                
+K3041|0049|CB/TB DWord  11                 
+                
+K3042|0049|CB/TB DWord  12                 
+                
+K3043|0049|CB/TB DWord  13                 
+                
+K3044|0049|CB/TB DWord  14                 
+                
+K3045|0049|CB/TB DWord  15                 
+                
+K4101|0040|SCI Sl.1 AnaIn1                 
+                
+K4102|0040|SCI Sl.1 AnaIn2                 
+                
+K4103|0040|SCI Sl.1 AnaIn3                 
+                
+K4201|0040|SCI Sl.2 AnaIn1                 
+                
+K4202|0040|SCI Sl.2 AnaIn2                 
+                
+K4203|0040|SCI Sl.2 AnaIn3                 
+                
+K4501|004c|SCB Word      1                 
+                
+K4502|004c|SCB Word      2                 
+                
+K4503|004c|SCB Word      3                 
+                
+K4504|004c|SCB Word      4                 
+                
+K4505|004c|SCB Word      5                 
+                
+K4506|004c|SCB Word      6                 
+                
+K4507|004c|SCB Word      7                 
+                
+K4508|004c|SCB Word      8                 
+                
+K4509|004c|SCB Word      9                 
+                
+K4510|004c|SCB Word     10                 
+                
+K4511|004c|SCB Word     11                 
+                
+K4512|004c|SCB Word     12                 
+                
+K4513|004c|SCB Word     13                 
+                
+K4514|004c|SCB Word     14                 
+                
+K4515|004c|SCB Word     15                 
+                
+K4516|004c|SCB Word     16                 
+                
+K4531|004d|SCB DWord     1                 
+                
+K4532|004d|SCB DWord     2                 
+                
+K4533|004d|SCB DWord     3                 
+                
+K4534|004d|SCB DWord     4                 
+                
+K4535|004d|SCB DWord     5                 
+                
+K4536|004d|SCB DWord     6                 
+                
+K4537|004d|SCB DWord     7                 
+                
+K4538|004d|SCB DWord     8                 
+                
+K4539|004d|SCB DWord     9                 
+                
+K4540|004d|SCB DWord    10                 
+                
+K4541|004d|SCB DWord    11                 
+                
+K4542|004d|SCB DWord    12                 
+                
+K4543|004d|SCB DWord    13                 
+                
+K4544|004d|SCB DWord    14                 
+                
+K4545|004d|SCB DWord    15                 
+                
+K5101|0040|1st EB1 AnaIn1                  
+                
+K5102|0040|1st EB1 AnaIn2                  
+                
+K5103|0040|1st EB1 AnaIn3                  
+                
+K5104|0040|1st EB1 AnaOut1                 
+                
+K5105|0040|1st EB1 AnaOut2                 
+                
+K5106|0020|1EB1stat.DI/DO                  
+                
+K5111|0040|AnaIn 1st EB2                   
+                
+K5112|0040|AnaIn 1st EB2                   
+                
+K5113|0020|Stat.DI/DO 1EB2                 
+                
+K5201|0040|2nd EB1 AnaIn1                  
+                
+K5202|0040|2nd EB1 AnaIn2                  
+                
+K5203|0040|2nd EB1 AnaIn3                  
+                
+K5204|0040|2nd EB1 AnaOut1                 
+                
+K5205|0040|2nd EB1 AnaOut2                 
+                
+K5206|0020|2EB1stat.DI/DO                  
+                
+K5211|0040|AnaIn 2nd EB2                   
+                
+K5212|0040|AnaIn 2nd EB2                   
+                
+K5213|0020|Stat.DI/DO 2EB2                 
+                
+K6001|0050|SCom2 Word    1                 
+                
+K6002|0050|SCom2 Word    2                 
+                
+K6003|0050|SCom2 Word    3                 
+                
+K6004|0050|SCom2 Word    4                 
+                
+K6005|0050|SCom2 Word    5                 
+                
+K6006|0050|SCom2 Word    6                 
+                
+K6007|0050|SCom2 Word    7                 
+                
+K6008|0050|SCom2 Word    8                 
+                
+K6009|0050|SCom2 Word    9                 
+                
+K6010|0050|SCom2 Word   10                 
+                
+K6011|0050|SCom2 Word   11                 
+                
+K6012|0050|SCom2 Word   12                 
+                
+K6013|0050|SCom2 Word   13                 
+                
+K6014|0050|SCom2 Word   14                 
+                
+K6015|0050|SCom2 Word   15                 
+                
+K6016|0050|SCom2 Word   16                 
+                
+K6031|0051|SCom2 DWord   1                 
+                
+K6032|0051|SCom2 DWord   2                 
+                
+K6033|0051|SCom2 DWord   3                 
+                
+K6034|0051|SCom2 DWord   4                 
+                
+K6035|0051|SCom2 DWord   5                 
+                
+K6036|0051|SCom2 DWord   6                 
+                
+K6037|0051|SCom2 DWord   7                 
+                
+K6038|0051|SCom2 DWord   8                 
+                
+K6039|0051|SCom2 DWord   9                 
+                
+K6040|0051|SCom2 DWord  10                 
+                
+K6041|0051|SCom2 DWord  11                 
+                
+K6042|0051|SCom2 DWord  12                 
+                
+K6043|0051|SCom2 DWord  13                 
+                
+K6044|0051|SCom2 DWord  14                 
+                
+K6045|0051|SCom2 DWord  15                 
+                
+K7001|0054|SLB Word      1                 
+                
+K7002|0054|SLB Word      2                 
+                
+K7003|0054|SLB Word      3                 
+                
+K7004|0054|SLB Word      4                 
+                
+K7005|0054|SLB Word      5                 
+                
+K7006|0054|SLB Word      6                 
+                
+K7007|0054|SLB Word      7                 
+                
+K7008|0054|SLB Word      8                 
+                
+K7009|0054|SLB Word      9                 
+                
+K7010|0054|SLB Word     10                 
+                
+K7011|0054|SLB Word     11                 
+                
+K7012|0054|SLB Word     12                 
+                
+K7013|0054|SLB Word     13                 
+                
+K7014|0054|SLB Word     14                 
+                
+K7015|0054|SLB Word     15                 
+                
+K7016|0054|SLB Word     16                 
+                
+K7031|0055|SLB DWord     1                 
+                
+K7032|0055|SLB DWord     2                 
+                
+K7033|0055|SLB DWord     3                 
+                
+K7034|0055|SLB DWord     4                 
+                
+K7035|0055|SLB DWord     5                 
+                
+K7036|0055|SLB DWord     6                 
+                
+K7037|0055|SLB DWord     7                 
+                
+K7038|0055|SLB DWord     8                 
+                
+K7039|0055|SLB DWord     9                 
+                
+K7040|0055|SLB DWord    10                 
+                
+K7041|0055|SLB DWord    11                 
+                
+K7042|0055|SLB DWord    12                 
+                
+K7043|0055|SLB DWord    13                 
+                
+K7044|0055|SLB DWord    14                 
+                
+K7045|0055|SLB DWord    15                 
+                
+K7081|0020|Ind.Sync-Tgr                    
+                
+K7082|0020|Ind.CRC Error                   
+                
+K7083|0020|Ind.Timeout                     
+                
+K7085|0020|NodeAddrTimeout                 
+                
+K7089|0020|SYNCDeviation                   
+                
+K7091|0020|T0 Counter                      
+                
+K7094|0020|Time Counter                    
+                
+K7101|0040|SIMOLINK SpecD1                 
+                
+K7102|0040|SIMOLINK SpecD2                 
+                
+K7103|0040|SIMOLINK SpecD3                 
+                
+K7104|0040|SIMOLINK SpecD4                 
+                
+K7105|0040|SIMOLINK SpecD5                 
+                
+K7106|0040|SIMOLINK SpecD6                 
+                
+K7107|0040|SIMOLINK SpecD7                 
+                
+K7108|0040|SIMOLINK SpecD8                 
+                
+K7131|0041|SIMOLINK SpecD1                 
+                
+K7132|0041|SIMOLINK SpecD2                 
+                
+K7133|0041|SIMOLINK SpecD3                 
+                
+K7134|0041|SIMOLINK SpecD4                 
+                
+K7135|0041|SIMOLINK SpecD5                 
+                
+K7136|0041|SIMOLINK SpecD6                 
+                
+K7137|0041|SIMOLINK SpecD7                 
+                
+K8001|005c|2 CB Word     1                 
+                
+K8002|005c|2 CB Word     2                 
+                
+K8003|005c|2 CB Word     3                 
+                
+K8004|005c|2 CB Word     4                 
+                
+K8005|005c|2 CB Word     5                 
+                
+K8006|005c|2 CB Word     6                 
+                
+K8007|005c|2 CB Word     7                 
+                
+K8008|005c|2 CB Word     8                 
+                
+K8009|005c|2 CB Word     9                 
+                
+K8010|005c|2 CB Word    10                 
+                
+K8011|005c|2 CB Word    11                 
+                
+K8012|005c|2 CB Word    12                 
+                
+K8013|005c|2 CB Word    13                 
+                
+K8014|005c|2 CB Word    14                 
+                
+K8015|005c|2 CB Word    15                 
+                
+K8016|005c|2 CB Word    16                 
+                
+K8031|005d|2 CB DWord    1                 
+                
+K8032|005d|2 CB DWord    2                 
+                
+K8033|005d|2 CB DWord    3                 
+                
+K8034|005d|2 CB DWord    4                 
+                
+K8035|005d|2 CB DWord    5                 
+                
+K8036|005d|2 CB DWord    6                 
+                
+K8037|005d|2 CB DWord    7                 
+                
+K8038|005d|2 CB DWord    8                 
+                
+K8039|005d|2 CB DWord    9                 
+                
+K8040|005d|2 CB DWord   10                 
+                
+K8041|005d|2 CB DWord   11                 
+                
+K8042|005d|2 CB DWord   12                 
+                
+K8043|005d|2 CB DWord   13                 
+                
+K8044|005d|2 CB DWord   14                 
+                
+K8045|005d|2 CB DWord   15                 
+                
+1414
+B0000|0000|FixBinector 0                   
+                
+B0001|0000|FixBinector 1                   
+                
+B0005|0000|PMU ON/OFF                      
+                
+B0006|0000|PMU Pos Dir                     
+                
+B0007|0000|PMU Neg Dir                     
+                
+B0008|0000|PMU MOP UP                      
+                
+B0009|0000|PMU MOP DOWN                    
+                
+B0010|0000|DigIn 1                         
+                
+B0011|0000|DigIn 1 inv.                    
+                
+B0012|0000|DigIn 2                         
+                
+B0013|0000|DigIn 2 inv.                    
+                
+B0014|0000|DigIn 3                         
+                
+B0015|0000|DigIn 3 inv.                    
+                
+B0016|0000|DigIn 4                         
+                
+B0017|0000|DigIn 4 inv.                    
+                
+B0018|0000|DigIn 5                         
+                
+B0019|0000|DigIn 5 inv.                    
+                
+B0020|0000|DigIn 6                         
+                
+B0021|0000|DigIn 6 inv.                    
+                
+B0025|0000|DigOut 1                        
+                
+B0026|0000|DigOut 2                        
+                
+B0027|0000|DigOut 3                        
+                
+B0028|0000|DigOut 4                        
+                
+B0030|0000|SCom1 TlgOFF                    
+                
+B0035|0000|CB/TB TlgOFF                    
+                
+B0040|0000|SLB TlgOFF                      
+                
+B0041|0000|SIMOLINKTimeout                 
+                
+B0042|0000|SIMOLINK Start                  
+                
+B0043|0000|Drive Sync                      
+                
+B0045|0000|2.CB TlgOFF                     
+                
+B0047|0000|SLB2 Timeout                    
+                
+B0048|0000|SLB2 start                      
+                
+B0050|0000|SCB TlgOFF                      
+                
+B0055|0000|SCom2 TlgOFF                    
+                
+B0060|0000|SBP CtrlTrack                   
+                
+B0061|0000|SBP RoughPulse1                 
+                
+B0062|0000|SBPRoughPulse2                  
+                
+B0063|0000|SBP FinePulse2                  
+                
+B0065|0000|SBPCtrlTrckMaEn                 
+                
+B0066|0000|SBPRoughP1MaEn                  
+                
+B0067|0000|SBPRoughP2MaEn                  
+                
+B0068|0000|SBPFineP2MaEn                   
+                
+B0070|0000|MeasV valid                     
+                
+B0071|0000|MValValidMachEn                 
+                
+B0072|0000|Zero pt acquird                 
+                
+B0073|0000|Z pt mach aqurd                 
+                
+B0089|0000|Status DTComp                   
+                
+B0090|0000|CalcTimeWarn                    
+                
+B0091|0000|FaultCalcTime                   
+                
+B0092|0000|FDS Bit0                        
+                
+B0093|0000|FDS Bit1                        
+                
+B0094|0000|Fault ACK                       
+                
+B0099|0000|No n-Reg Enable                 
+                
+B0100|0000|Rdy for ON                      
+                
+B0101|0000|Not Rdy for ON                  
+                
+B0102|0000|Rdy for Oper                    
+                
+B0103|0000|NotRdy for Oper                 
+                
+B0104|0000|Operation                       
+                
+B0105|0000|Not operating                   
+                
+B0106|0000|Fault                           
+                
+B0107|0000|No fault                        
+                
+B0108|0000|No OFF2                         
+                
+B0109|0000|OFF2                            
+                
+B0110|0000|No OFF3                         
+                
+B0111|0000|OFF3                            
+                
+B0112|0000|Blocked                         
+                
+B0113|0000|Not Blocked                     
+                
+B0114|0000|Warning                         
+                
+B0115|0000|No Warning                      
+                
+B0116|0000|No Deviation                    
+                
+B0117|0000|Deviation                       
+                
+B0120|0000|CompV OK                        
+                
+B0121|0000|CompV not OK                    
+                
+B0122|0000|Low Voltage                     
+                
+B0123|0000|No Low Voltage                  
+                
+B0124|0000|Energize MCon                   
+                
+B0125|0000|N.Energ.MCon                    
+                
+B0126|0000|RampGen active                  
+                
+B0127|0000|RampGen n.act.                  
+                
+B0128|0000|Speed Setp FWD                  
+                
+B0129|0000|Speed Setp REV                  
+                
+B0132|0000|Fly/Exc active                  
+                
+B0133|0000|Fly/Exc n.act.                  
+                
+B0136|0000|Overspeed                       
+                
+B0137|0000|No Overspeed                    
+                
+B0138|0000|Ext Fault 1                     
+                
+B0139|0000|No Ext Fault 1                  
+                
+B0140|0000|Ext Fault 2                     
+                
+B0141|0000|No Ext Fault 2                  
+                
+B0142|0000|Ext Warning                     
+                
+B0143|0000|No Ext Warning                  
+                
+B0144|0000|Ovld Warn Drive                 
+                
+B0145|0000|No OvldWarn Drv                 
+                
+B0146|0000|Tmp Flt Drive                   
+                
+B0147|0000|No Tmp Flt Drv                  
+                
+B0148|0000|TmpWarn Drive                   
+                
+B0149|0000|No TmpWarn Drv                  
+                
+B0150|0000|TmpWarnMotor                    
+                
+B0151|0000|No TmpWarnMotor                 
+                
+B0152|0000|TmpFltMotor                     
+                
+B0153|0000|No TmpFltMotor                  
+                
+B0156|0000|Motor PullOut                   
+                
+B0157|0000|No MotorPullOut                 
+                
+B0158|0000|ChrgRelay close                 
+                
+B0159|0000|ChrgRelay open                  
+                
+B0162|0000|Prechrg active                  
+                
+B0163|0000|Prechrg n.act.                  
+                
+B0200|0000|No SpdDir Sel                   
+                
+B0201|0000|Accel active                    
+                
+B0202|0000|Decel active                    
+                
+B0203|0000|Limitr FWD act.                 
+                
+B0204|0000|Limitr REV act.                 
+                
+B0205|0000|RelPosContrByps                 
+                
+B0210|0000|RefPoint sensed                 
+                
+B0211|0000|Pos Corrected                   
+                
+B0212|0000|PosMem Valid                    
+                
+B0215|0000|MaEnAcknRef                     
+                
+B0216|0000|AckPosCorMEncod                 
+                
+B0217|0000|AckMVal MEncod                  
+                
+B0220|0000|PosReg release                  
+                
+B0221|0000|PosRegFWDLimitr                 
+                
+B0222|0000|PosRegREVLimitr                 
+                
+B0227|0000|Derating                        
+                
+B0230|0000|n-LimitrReg act                 
+                
+B0231|0000|Torq(Lim1)act.                  
+                
+B0232|0000|Torq(Lim2)act.                  
+                
+B0233|0000|AmpLimitr act.                  
+                
+B0234|0000|n-Reg in Limitr                 
+                
+B0241|0000|LZ receive OK                   
+                
+B0242|0000|LZ receive FAIL                 
+                
+B0243|0000|LZ.MasterApCycl                 
+                
+B0250|0000|I-Reg in Limitr                 
+                
+B0251|0000|Field Weakening                 
+                
+B0255|0000|Excitation End                  
+                
+B0270|0000|Energize MCon                   
+                
+B0275|0000|Open Brake                      
+                
+B0276|0000|Close Brake                     
+                
+B0277|0000|SetpRel brake                   
+                
+B0278|0000|InvRel Brake                    
+                
+B0279|0000|Chkbk BrakeCl                   
+                
+B0280|0000|Chkbk BrakeOp                   
+                
+B0281|0000|BrakeThr1 over                  
+                
+B0282|0000|BrakeThr2 under                 
+                
+B0290|0000|DC volts >=thr                  
+                
+B0291|0000|DC volts < thr                  
+                
+B0302|0000|Set Pos P                       
+                
+B0303|0000|Pos Corr'n PosP                 
+                
+B0304|0000|PosCorr'nNegP                   
+                
+B0305|0000|Rel Ctrl P                      
+                
+B0306|0000|PosCorrPos Ext                  
+                
+B0307|0000|Rel Ref P                       
+                
+B0308|0000|Rel MValMem P                   
+                
+B0311|0000|QuickOutp1 P                    
+                
+B0312|0000|QuickOutp2 P                    
+                
+B0313|0000|QuickOutp3 P                    
+                
+B0314|0000|QuickOutp4 P                    
+                
+B0315|0000|FastOutp5.P                     
+                
+B0316|0000|FastOutp6.P                     
+                
+B0330|0000|Simulation                      
+                
+B0350|0000|FaultTechnolog                  
+                
+B0351|0000|ToggleBitOutp                   
+                
+B0352|0000|DwellTimeActive                 
+                
+B0353|0000|StartEnab Outp                  
+                
+B0354|0000|Process Runs                    
+                
+B0355|0000|Pos Reached                     
+                
+B0356|0000|Axis FWD                        
+                
+B0357|0000|Axis BWD                        
+                
+B0358|0000|Function End                    
+                
+B0359|0000|SW LimitSwitch                  
+                
+B0360|0000|Vir Master act.                 
+                
+B0361|0000|Axis Home                       
+                
+B0362|0000|T Change                        
+                
+B0363|0000|Brake closed                    
+                
+B0400|0000|POWER ON                        
+                
+B0401|0000|FixBit U021                     
+                
+B0402|0000|FixBit U022                     
+                
+B0403|0000|FixBit U023                     
+                
+B0404|0000|FixBit U024                     
+                
+B0405|0000|FixBit U025                     
+                
+B0406|0000|FixBit U026                     
+                
+B0407|0000|FixBit U027                     
+                
+B0408|0000|FixBit U028                     
+                
+B0409|0000|OFF&ActV                        
+                
+B0410|0000|K->B CONV1    0                 
+                
+B0411|0000|K->B CONV1    1                 
+                
+B0412|0000|K->B CONV1    2                 
+                
+B0413|0000|K->B CONV1    3                 
+                
+B0414|0000|K->B CONV1    4                 
+                
+B0415|0000|K->B CONV1    5                 
+                
+B0416|0000|K->B CONV1    6                 
+                
+B0417|0000|K->B CONV1    7                 
+                
+B0418|0000|K->B CONV1    8                 
+                
+B0419|0000|K->B CONV1    9                 
+                
+B0420|0000|K->B CONV1   10                 
+                
+B0421|0000|K->B CONV1   11                 
+                
+B0422|0000|K->B CONV1   12                 
+                
+B0423|0000|K->B CONV1   13                 
+                
+B0424|0000|K->B CONV1   14                 
+                
+B0425|0000|K->B CONV1   15                 
+                
+B0430|0000|K->B CONV2    0                 
+                
+B0431|0000|K->B CONV2    1                 
+                
+B0432|0000|K->B CONV2    2                 
+                
+B0433|0000|K->B CONV2    3                 
+                
+B0434|0000|K->B CONV2    4                 
+                
+B0435|0000|K->B CONV2    5                 
+                
+B0436|0000|K->B CONV2    6                 
+                
+B0437|0000|K->B CONV2    7                 
+                
+B0438|0000|K->B CONV2    8                 
+                
+B0439|0000|K->B CONV2    9                 
+                
+B0440|0000|K->B CONV2   10                 
+                
+B0441|0000|K->B CONV2   11                 
+                
+B0442|0000|K->B CONV2   12                 
+                
+B0443|0000|K->B CONV2   13                 
+                
+B0444|0000|K->B CONV2   14                 
+                
+B0445|0000|K->B CONV2   15                 
+                
+B0450|0000|K->B CONV3    0                 
+                
+B0451|0000|K->B CONV3    1                 
+                
+B0452|0000|K->B CONV3    2                 
+                
+B0453|0000|K->B CONV3    3                 
+                
+B0454|0000|K->B CONV3    4                 
+                
+B0455|0000|K->B CONV3    5                 
+                
+B0456|0000|K->B CONV3    6                 
+                
+B0457|0000|K->B CONV3    7                 
+                
+B0458|0000|K->B CONV3    8                 
+                
+B0459|0000|K->B CONV3    9                 
+                
+B0460|0000|K->B CONV3   10                 
+                
+B0461|0000|K->B CONV3   11                 
+                
+B0462|0000|K->B CONV3   12                 
+                
+B0463|0000|K->B CONV3   13                 
+                
+B0464|0000|K->B CONV3   14                 
+                
+B0465|0000|K->B CONV3   15                 
+                
+B0470|0000|LIMITR B 1.74 0                 
+                
+B0471|0000|LIMITR B 1.74 1                 
+                
+B0472|0000|LIMITR B 2.38 0                 
+                
+B0473|0000|LIMITR B 2.38 1                 
+                
+B0474|0000|LIMITR B 2.48 0                 
+                
+B0475|0000|LIMITR B 2.48 1                 
+                
+B0476|0000|LMTMON B 1.18                   
+                
+B0477|0000|LMTMON B 2.49                   
+                
+B0478|0000|LMTMON B 2.68                   
+                
+B0479|0000|LMTMON B 1.75                   
+                
+B0480|0000|CAMCON 0.60   0                 
+                
+B0481|0000|CAMCON 0.60   1                 
+                
+B0482|0000|CAMCON 0.61   0                 
+                
+B0483|0000|CAMCON 0.61   1                 
+                
+B0490|0000|COUNTER 1.36 B0                 
+                
+B0491|0000|COUNTER 1.36 B1                 
+                
+B0501|0000|RS-FF 1.34    0                 
+                
+B0502|0000|RS-FF 1.34    1                 
+                
+B0503|0000|RS-FF 1.36    0                 
+                
+B0504|0000|RS-FF 1.36    1                 
+                
+B0505|0000|RS-FF 1.49    0                 
+                
+B0506|0000|RS-FF 1.49    1                 
+                
+B0507|0000|RS-FF 1.66    0                 
+                
+B0508|0000|RS-FF 1.66    1                 
+                
+B0509|0000|RS-FF 1.82    0                 
+                
+B0510|0000|RS-FF 1.82    1                 
+                
+B0511|0000|RS-FF 1.97    0                 
+                
+B0512|0000|RS-FF 1.97    1                 
+                
+B0513|0000|RS-FF 1.98    0                 
+                
+B0514|0000|RS-FF 1.98    1                 
+                
+B0515|0000|RS-FF 2.13    0                 
+                
+B0516|0000|RS-FF 2.13    1                 
+                
+B0517|0000|RS-FF 2.14    0                 
+                
+B0518|0000|RS-FF 2.14    1                 
+                
+B0519|0000|RS-FF 2.29    0                 
+                
+B0520|0000|RS-FF 2.29    1                 
+                
+B0521|0000|RS-FF 2.30    0                 
+                
+B0522|0000|RS-FF 2.30    1                 
+                
+B0523|0000|RS-FF 2.71    0                 
+                
+B0524|0000|RS-FF 2.71    1                 
+                
+B0525|0000|D-FF 1.25     0                 
+                
+B0526|0000|D-FF 1.25     1                 
+                
+B0527|0000|D-FF 2.15     0                 
+                
+B0528|0000|D-FF 2.15     1                 
+                
+B0530|0000|TIMER 0.95    0                 
+                
+B0531|0000|TIMER 0.95    1                 
+                
+B0532|0000|TIMER 1.67    0                 
+                
+B0533|0000|TIMER 1.67    1                 
+                
+B0534|0000|TIMER 1.84    0                 
+                
+B0535|0000|TIMER 1.84    1                 
+                
+B0536|0000|TIMER 1.99    0                 
+                
+B0537|0000|TIMER 1.99    1                 
+                
+B0538|0000|TIMER 1.83    0                 
+                
+B0539|0000|TIMER 1.83    1                 
+                
+B0540|0000|TIMER 2.16    0                 
+                
+B0541|0000|TIMER 2.16    1                 
+                
+B0542|0000|TIMER 1.50    0                 
+                
+B0543|0000|TIMER 1.50    1                 
+                
+B0544|0000|ConnToParChkbk0                 
+                
+B0545|0000|ConnToParChkbk1                 
+                
+B0546|0000|ConnToParChkbk2                 
+                
+B0547|0000|ConnToParChkbk3                 
+                
+B0548|0000|ConnToParChkbk4                 
+                
+B0550|0000|ComfRGen Out=0                  
+                
+B0551|0000|ComfRGen (y=x)                  
+                
+B0552|0000|ComfRGen First                  
+                
+B0555|0000|TechCtrl lim                    
+                
+B0556|0000|TechCtrl lock                   
+                
+B0560|0000|WobbSlaveSync                   
+                
+B0561|0000|TraceTriggerOu0                 
+                
+B0562|0000|TraceTriggerOu1                 
+                
+B0563|0000|TraceTriggerOu2                 
+                
+B0564|0000|TraceTriggerOu3                 
+                
+B0565|0000|TraceTriggerOu4                 
+                
+B0566|0000|TraceTriggerOu5                 
+                
+B0567|0000|TraceTriggerOu6                 
+                
+B0568|0000|TraceTriggerOu7                 
+                
+B0570|0000|SampTimeChB0.66                 
+                
+B0571|0000|SampTimeChB0.67                 
+                
+B0572|0000|SampTimeChB0.68                 
+                
+B0573|0000|SampTimeChB0.69                 
+                
+B0574|0000|SampTimeChB0.70                 
+                
+B0575|0000|SampTimeChB0.71                 
+                
+B0576|0000|PulsGen1 B 0.65                 
+                
+B0577|0000|I32 OG B 1.53                   
+                
+B0578|0000|I32 UG B 1.53                   
+                
+B0579|0000|I32 OG B 1.85                   
+                
+B0580|0000|I32 UG B 1.85                   
+                
+B0581|0000|RealMaster P OV                 
+                
+B0582|0000|RealMaster N OV                 
+                
+B0585|0000|ErrorTrackMg                    
+                
+B0586|0000|ErrorTrackEg                    
+                
+B0601|0000|AND 0.78                        
+                
+B0602|0000|AND 0.79                        
+                
+B0603|0000|AND 0.89                        
+                
+B0604|0000|AND 1.09                        
+                
+B0605|0000|AND 1.22                        
+                
+B0606|0000|AND 1.35                        
+                
+B0607|0000|AND 1.44                        
+                
+B0608|0000|AND 1.61                        
+                
+B0609|0000|AND 1.62                        
+                
+B0610|0000|AND 1.79                        
+                
+B0611|0000|AND 1.80                        
+                
+B0612|0000|AND 1.92                        
+                
+B0613|0000|AND 2.26                        
+                
+B0614|0000|AND 2.39                        
+                
+B0615|0000|AND 2.51                        
+                
+B0616|0000|AND 2.52                        
+                
+B0617|0000|AND 2.54                        
+                
+B0618|0000|AND 2.92                        
+                
+B0619|0000|OR 0.90                         
+                
+B0620|0000|OR 0.91                         
+                
+B0621|0000|OR 1.23                         
+                
+B0622|0000|OR 1.45                         
+                
+B0623|0000|OR 1.63                         
+                
+B0624|0000|OR 1.81                         
+                
+B0625|0000|OR 1.93                         
+                
+B0626|0000|OR 2.10                         
+                
+B0627|0000|OR 2.11                         
+                
+B0628|0000|OR 2.40                         
+                
+B0629|0000|OR 2.70                         
+                
+B0630|0000|OR 2.93                         
+                
+B0631|0000|SH 1.68 B     0                 
+                
+B0632|0000|SH 1.68 B     1                 
+                
+B0633|0000|SH 1.68 B     2                 
+                
+B0634|0000|SH 1.68 B     3                 
+                
+B0635|0000|SH 1.68 B     4                 
+                
+B0636|0000|SH 1.68 B     5                 
+                
+B0637|0000|SH 1.68 B     6                 
+                
+B0638|0000|SH 1.68 B     7                 
+                
+B0641|0000|INVERTER 1.08                   
+                
+B0642|0000|INVERTER 1.10                   
+                
+B0643|0000|INVERTER 1.11                   
+                
+B0644|0000|INVERTER 1.37                   
+                
+B0645|0000|INVERTER 1.46                   
+                
+B0646|0000|INVERTER 1.64                   
+                
+B0647|0000|INVERTER 1.94                   
+                
+B0648|0000|INVERTER 2.41                   
+                
+B0649|0000|INVERTER 2.53                   
+                
+B0650|0000|INVERTER 2.55                   
+                
+B0651|0000|SH 1.69 B     0                 
+                
+B0652|0000|SH 1.69 B     1                 
+                
+B0653|0000|SH 1.69 B     2                 
+                
+B0654|0000|SH 1.69 B     3                 
+                
+B0655|0000|SH 1.69 B     4                 
+                
+B0656|0000|SH 1.69 B     5                 
+                
+B0657|0000|SH 1.69 B     6                 
+                
+B0658|0000|SH 1.69 B     7                 
+                
+B0661|0000|SWITCH B 0.94                   
+                
+B0662|0000|SWITCH B 0.97                   
+                
+B0663|0000|SWITCH B 1.48                   
+                
+B0664|0000|SWITCH B 1.65                   
+                
+B0665|0000|SWITCH B 1.96                   
+                
+B0666|0000|EXOR 0.93                       
+                
+B0667|0000|EXOR 0.96                       
+                
+B0668|0000|EXOR 2.28                       
+                
+B0669|0000|SH 1.70 B     0                 
+                
+B0670|0000|SH 1.70 B     1                 
+                
+B0671|0000|SH 1.70 B     2                 
+                
+B0672|0000|SH 1.70 B     3                 
+                
+B0673|0000|SH 1.70 B     4                 
+                
+B0674|0000|SH 1.70 B     5                 
+                
+B0675|0000|SH 1.70 B     6                 
+                
+B0676|0000|SH 1.70 B     7                 
+                
+B0681|0000|NAND 0.92                       
+                
+B0682|0000|NAND 1.24                       
+                
+B0683|0000|NAND 1.47                       
+                
+B0684|0000|NAND 1.95                       
+                
+B0685|0000|NAND 2.12                       
+                
+B0686|0000|NAND 2.27                       
+                
+B0687|0000|NAND 2.42                       
+                
+B0688|0000|NAND 2.94                       
+                
+B0690|0000|Plot FricChar                   
+                
+B0800|0000|tg_Cor_Status                   
+                
+B0803|0000|Start/Stop                      
+                
+B0804|0000|TG_Mode 1                       
+                
+B0805|0000|TG_Mode 2                       
+                
+B0806|0000|TG_Function1                    
+                
+B0807|0000|TG_Function2                    
+                
+B0808|0000|Status Homing                   
+                
+B0809|0000|Status Home_inv                 
+                
+B0810|0000|Stat_Dis_An_cor                 
+                
+B0811|0000|Status Sync                     
+                
+B0812|0000|Backstop active                 
+                
+B0813|0000|Backstop n. act                 
+                
+B0815|0000|RGen Active                     
+                
+B0816|0000|RGen RampAct                    
+                
+B0817|0000|RGen_Setp OK                    
+                
+B0818|0000|RGen_A_ACT                      
+                
+B0819|0000|RGen_zero                       
+                
+B0820|0000|CatchUp_end                     
+                
+B0821|0000|Stopping Pos ok                 
+                
+B0822|0000|V CatchUp OK                    
+                
+B0824|0000|FB Release Ref                  
+                
+B0825|0000|FB Rel PosCorr                  
+                
+B0828|0000|Trig. MastV Cor                 
+                
+B0829|0000|Fault Ref. F2                   
+                
+B0830|0000|MasterV Cor Act                 
+                
+B0831|0000|Ramp inactive                   
+                
+B0832|0000|Start active                    
+                
+B0833|0000|Stop active                     
+                
+B0834|0000|Stop at tab end                 
+                
+B0835|0000|B SLE active                    
+                
+B0836|0000|Sync in F1                      
+                
+B0837|0000|Sync.in F2                      
+                
+B0840|0000|Positioning act                 
+                
+B0850|0000|EHIEncoder1 POV                 
+                
+B0851|0000|EHIEncoder1 NOV                 
+                
+B0852|0000|EHIEncoder2 POV                 
+                
+B0853|0000|EHIEncoder1 NOV                 
+                
+B0856|0000|Emerg/lowering                  
+                
+B0858|0000|Uzk>max lower                   
+                
+B0859|0000|Uzk< min lower                  
+                
+B0860|0000|EPos POS OK                     
+                
+B0861|0000|EPos POS_RUN                    
+                
+B0862|0000|EPos RFG_RUN                    
+                
+B0863|0000|EPos RU_ACT                     
+                
+B0864|0000|EPos RD_ACT                     
+                
+B0865|0000|EPos FWD_RUN                    
+                
+B0866|0000|EPos BWD_RUN                    
+                
+B0867|0000|EPos POS_DELTA                  
+                
+B0868|0000|EPos_SW_E_PLUS                  
+                
+B0869|0000|EPos_SW_E_MINUS                 
+                
+B0870|0000|SET_EN_POS_REF                  
+                
+B0871|0000|Epos_SET_REF                    
+                
+B0872|0000|EPos_SET_POS                    
+                
+B0873|0000|EPos_SET_SETUP                  
+                
+B0874|0000|SET_POS_TYP_ACT                 
+                
+B0875|0000|SET_D_FWD_ACT                   
+                
+B0876|0000|SET_D_BWD_ACT                   
+                
+B0877|0000|EPos_SET_PSR                    
+                
+B0878|0000|EPos FBin STW 0                 
+                
+B0879|0000|EPos FBin STW 1                 
+                
+B0880|0000|EPos FBin STW 2                 
+                
+B0881|0000|EPos FBin STW 3                 
+                
+B0882|0000|EPos FBin STW 4                 
+                
+B0883|0000|EPos FBin STW 5                 
+                
+B0884|0000|EPos FBin STW 6                 
+                
+B0885|0000|EPos FBin STW 7                 
+                
+B0886|0000|EPos FBin STW 8                 
+                
+B0887|0000|EPos FBin STW 9                 
+                
+B0888|0000|EPos ARFD                       
+                
+B0889|0000|EPos Ref POV                    
+                
+B0890|0000|EPos Ref NOV                    
+                
+B0891|0000|EPos Frg. IRQ                   
+                
+B0892|0000|EPos Window2                    
+                
+B0893|0000|REF_DRIVE                       
+                
+B0894|0000|EP SPV_RIE_ACKN                 
+                
+B0895|0000|EPos SET REF_D                  
+                
+B0910|0000|DP V3 FCT G1  0                 
+                
+B0911|0000|DP V3 FCT G1  1                 
+                
+B0912|0000|DP V3 FCT G1  2                 
+                
+B0913|0000|DP V3 FCT G1  3                 
+                
+B0914|0000|DP V3 FCT G2  0                 
+                
+B0915|0000|DP V3 FCT G2  1                 
+                
+B0916|0000|DP V3 FCT G2  2                 
+                
+B0917|0000|DP V3 FCT G2  3                 
+                
+B0918|0000|DPV3 EnabRefM                   
+                
+B0919|0000|DPV3 EnabRefE                   
+                
+B0920|0000|DPV3 SetRefPtM                  
+                
+B0921|0000|DPV3 SetRefPtE                  
+                
+B0922|0000|DPV3 MovRefPtM                  
+                
+B0923|0000|DPV3 MovRefPtE                  
+                
+B0924|0000|DPV3 EnaMotMVM                  
+                
+B0925|0000|DPV3 EnaExtMVM                  
+                
+B0926|0000|DPV3 Conf DIN4                  
+                
+B0927|0000|DPV3 Conf DIN5                  
+                
+B0928|0000|DPV3 Ack Fault                  
+                
+B0929|0000|DPV3 EN DIN4                    
+                
+B0930|0000|DPV3 EN DIN5                    
+                
+B0931|0000|DPV3 RoughTrig                  
+                
+B2100|0000|SCom1Word1Bit 0                 
+                
+B2101|0000|SCom1Word1Bit 1                 
+                
+B2102|0000|SCom1Word1Bit 2                 
+                
+B2103|0000|SCom1Word1Bit 3                 
+                
+B2104|0000|SCom1Word1Bit 4                 
+                
+B2105|0000|SCom1Word1Bit 5                 
+                
+B2106|0000|SCom1Word1Bit 6                 
+                
+B2107|0000|SCom1Word1Bit 7                 
+                
+B2108|0000|SCom1Word1Bit 8                 
+                
+B2109|0000|SCom1Word1Bit 9                 
+                
+B2110|0000|SCom1Word1Bit10                 
+                
+B2111|0000|SCom1Word1Bit11                 
+                
+B2112|0000|SCom1Word1Bit12                 
+                
+B2113|0000|SCom1Word1Bit13                 
+                
+B2114|0000|SCom1Word1Bit14                 
+                
+B2115|0000|SCom1Word1Bit15                 
+                
+B2200|0000|SCom1Word2Bit 0                 
+                
+B2201|0000|SCom1Word2Bit 1                 
+                
+B2202|0000|SCom1Word2Bit 2                 
+                
+B2203|0000|SCom1Word2Bit 3                 
+                
+B2204|0000|SCom1Word2Bit 4                 
+                
+B2205|0000|SCom1Word2Bit 5                 
+                
+B2206|0000|SCom1Word2Bit 6                 
+                
+B2207|0000|SCom1Word2Bit 7                 
+                
+B2208|0000|SCom1Word2Bit 8                 
+                
+B2209|0000|SCom1Word2Bit 9                 
+                
+B2210|0000|SCom1Word2Bit10                 
+                
+B2211|0000|SCom1Word2Bit11                 
+                
+B2212|0000|SCom1Word2Bit12                 
+                
+B2213|0000|SCom1Word2Bit13                 
+                
+B2214|0000|SCom1Word2Bit14                 
+                
+B2215|0000|SCom1Word2Bit15                 
+                
+B2300|0000|SCom1Word3Bit 0                 
+                
+B2301|0000|SCom1Word3Bit 1                 
+                
+B2302|0000|SCom1Word3Bit 2                 
+                
+B2303|0000|SCom1Word3Bit 3                 
+                
+B2304|0000|SCom1Word3Bit 4                 
+                
+B2305|0000|SCom1Word3Bit 5                 
+                
+B2306|0000|SCom1Word3Bit 6                 
+                
+B2307|0000|SCom1Word3Bit 7                 
+                
+B2308|0000|SCom1Word3Bit 8                 
+                
+B2309|0000|SCom1Word3Bit 9                 
+                
+B2310|0000|SCom1Word3Bit10                 
+                
+B2311|0000|SCom1Word3Bit11                 
+                
+B2312|0000|SCom1Word3Bit12                 
+                
+B2313|0000|SCom1Word3Bit13                 
+                
+B2314|0000|SCom1Word3Bit14                 
+                
+B2315|0000|SCom1Word3Bit15                 
+                
+B2400|0000|SCom1Word4Bit 0                 
+                
+B2401|0000|SCom1Word4Bit 1                 
+                
+B2402|0000|SCom1Word4Bit 2                 
+                
+B2403|0000|SCom1Word4Bit 3                 
+                
+B2404|0000|SCom1Word4Bit 4                 
+                
+B2405|0000|SCom1Word4Bit 5                 
+                
+B2406|0000|SCom1Word4Bit 6                 
+                
+B2407|0000|SCom1Word4Bit 7                 
+                
+B2408|0000|SCom1Word4Bit 8                 
+                
+B2409|0000|SCom1Word4Bit 9                 
+                
+B2410|0000|SCom1Word4Bit10                 
+                
+B2411|0000|SCom1Word4Bit11                 
+                
+B2412|0000|SCom1Word4Bit12                 
+                
+B2413|0000|SCom1Word4Bit13                 
+                
+B2414|0000|SCom1Word4Bit14                 
+                
+B2415|0000|SCom1Word4Bit15                 
+                
+B2500|0000|SCom1Word5Bit 0                 
+                
+B2501|0000|SCom1Word5Bit 1                 
+                
+B2502|0000|SCom1Word5Bit 2                 
+                
+B2503|0000|SCom1Word5Bit 3                 
+                
+B2504|0000|SCom1Word5Bit 4                 
+                
+B2505|0000|SCom1Word5Bit 5                 
+                
+B2506|0000|SCom1Word5Bit 6                 
+                
+B2507|0000|SCom1Word5Bit 7                 
+                
+B2508|0000|SCom1Word5Bit 8                 
+                
+B2509|0000|SCom1Word5Bit 9                 
+                
+B2510|0000|SCom1Word5Bit10                 
+                
+B2511|0000|SCom1Word5Bit11                 
+                
+B2512|0000|SCom1Word5Bit12                 
+                
+B2513|0000|SCom1Word5Bit13                 
+                
+B2514|0000|SCom1Word5Bit14                 
+                
+B2515|0000|SCom1Word5Bit15                 
+                
+B2600|0000|SCom1Word6Bit 0                 
+                
+B2601|0000|SCom1Word6Bit 1                 
+                
+B2602|0000|SCom1Word6Bit 2                 
+                
+B2603|0000|SCom1Word6Bit 3                 
+                
+B2604|0000|SCom1Word6Bit 4                 
+                
+B2605|0000|SCom1Word6Bit 5                 
+                
+B2606|0000|SCom1Word6Bit 6                 
+                
+B2607|0000|SCom1Word6Bit 7                 
+                
+B2608|0000|SCom1Word6Bit 8                 
+                
+B2609|0000|SCom1Word6Bit 9                 
+                
+B2610|0000|SCom1Word6Bit10                 
+                
+B2611|0000|SCom1Word6Bit11                 
+                
+B2612|0000|SCom1Word6Bit12                 
+                
+B2613|0000|SCom1Word6Bit13                 
+                
+B2614|0000|SCom1Word6Bit14                 
+                
+B2615|0000|SCom1Word6Bit15                 
+                
+B2700|0000|SCom1Word7Bit 0                 
+                
+B2701|0000|SCom1Word7Bit 1                 
+                
+B2702|0000|SCom1Word7Bit 2                 
+                
+B2703|0000|SCom1Word7Bit 3                 
+                
+B2704|0000|SCom1Word7Bit 4                 
+                
+B2705|0000|SCom1Word7Bit 5                 
+                
+B2706|0000|SCom1Word7Bit 6                 
+                
+B2707|0000|SCom1Word7Bit 7                 
+                
+B2708|0000|SCom1Word7Bit 8                 
+                
+B2709|0000|SCom1Word7Bit 9                 
+                
+B2710|0000|SCom1Word7Bit10                 
+                
+B2711|0000|SCom1Word7Bit11                 
+                
+B2712|0000|SCom1Word7Bit12                 
+                
+B2713|0000|SCom1Word7Bit13                 
+                
+B2714|0000|SCom1Word7Bit14                 
+                
+B2715|0000|SCom1Word7Bit15                 
+                
+B2800|0000|SCom1Word8Bit 0                 
+                
+B2801|0000|SCom1Word8Bit 1                 
+                
+B2802|0000|SCom1Word8Bit 2                 
+                
+B2803|0000|SCom1Word8Bit 3                 
+                
+B2804|0000|SCom1Word8Bit 4                 
+                
+B2805|0000|SCom1Word8Bit 5                 
+                
+B2806|0000|SCom1Word8Bit 6                 
+                
+B2807|0000|SCom1Word8Bit 7                 
+                
+B2808|0000|SCom1Word8Bit 8                 
+                
+B2809|0000|SCom1Word8Bit 9                 
+                
+B2810|0000|SCom1Word8Bit10                 
+                
+B2811|0000|SCom1Word8Bit11                 
+                
+B2812|0000|SCom1Word8Bit12                 
+                
+B2813|0000|SCom1Word8Bit13                 
+                
+B2814|0000|SCom1Word8Bit14                 
+                
+B2815|0000|SCom1Word8Bit15                 
+                
+B2900|0000|SCom1Word9Bit 0                 
+                
+B2901|0000|SCom1Word9Bit 1                 
+                
+B2902|0000|SCom1Word9Bit 2                 
+                
+B2903|0000|SCom1Word9Bit 3                 
+                
+B2904|0000|SCom1Word9Bit 4                 
+                
+B2905|0000|SCom1Word9Bit 5                 
+                
+B2906|0000|SCom1Word9Bit 6                 
+                
+B2907|0000|SCom1Word9Bit 7                 
+                
+B2908|0000|SCom1Word9Bit 8                 
+                
+B2909|0000|SCom1Word9Bit 9                 
+                
+B2910|0000|SCom1Word9Bit10                 
+                
+B2911|0000|SCom1Word9Bit11                 
+                
+B2912|0000|SCom1Word9Bit12                 
+                
+B2913|0000|SCom1Word9Bit13                 
+                
+B2914|0000|SCom1Word9Bit14                 
+                
+B2915|0000|SCom1Word9Bit15                 
+                
+B3100|0000|CB/TBWord1Bit 0                 
+                
+B3101|0000|CB/TBWord1Bit 1                 
+                
+B3102|0000|CB/TBWord1Bit 2                 
+                
+B3103|0000|CB/TBWord1Bit 3                 
+                
+B3104|0000|CB/TBWord1Bit 4                 
+                
+B3105|0000|CB/TBWord1Bit 5                 
+                
+B3106|0000|CB/TBWord1Bit 6                 
+                
+B3107|0000|CB/TBWord1Bit 7                 
+                
+B3108|0000|CB/TBWord1Bit 8                 
+                
+B3109|0000|CB/TBWord1Bit 9                 
+                
+B3110|0000|CB/TBWord1Bit10                 
+                
+B3111|0000|CB/TBWord1Bit11                 
+                
+B3112|0000|CB/TBWord1Bit12                 
+                
+B3113|0000|CB/TBWord1Bit13                 
+                
+B3114|0000|CB/TBWord1Bit14                 
+                
+B3115|0000|CB/TBWord1Bit15                 
+                
+B3200|0000|CB/TBWord2Bit 0                 
+                
+B3201|0000|CB/TBWord2Bit 1                 
+                
+B3202|0000|CB/TBWord2Bit 2                 
+                
+B3203|0000|CB/TBWord2Bit 3                 
+                
+B3204|0000|CB/TBWord2Bit 4                 
+                
+B3205|0000|CB/TBWord2Bit 5                 
+                
+B3206|0000|CB/TBWord2Bit 6                 
+                
+B3207|0000|CB/TBWord2Bit 7                 
+                
+B3208|0000|CB/TBWord2Bit 8                 
+                
+B3209|0000|CB/TBWord2Bit 9                 
+                
+B3210|0000|CB/TBWord2Bit10                 
+                
+B3211|0000|CB/TBWord2Bit11                 
+                
+B3212|0000|CB/TBWord2Bit12                 
+                
+B3213|0000|CB/TBWord2Bit13                 
+                
+B3214|0000|CB/TBWord2Bit14                 
+                
+B3215|0000|CB/TBWord2Bit15                 
+                
+B3300|0000|CB/TBWord3Bit 0                 
+                
+B3301|0000|CB/TBWord3Bit 1                 
+                
+B3302|0000|CB/TBWord3Bit 2                 
+                
+B3303|0000|CB/TBWord3Bit 3                 
+                
+B3304|0000|CB/TBWord3Bit 4                 
+                
+B3305|0000|CB/TBWord3Bit 5                 
+                
+B3306|0000|CB/TBWord3Bit 6                 
+                
+B3307|0000|CB/TBWord3Bit 7                 
+                
+B3308|0000|CB/TBWord3Bit 8                 
+                
+B3309|0000|CB/TBWord3Bit 9                 
+                
+B3310|0000|CB/TBWord3Bit10                 
+                
+B3311|0000|CB/TBWord3Bit11                 
+                
+B3312|0000|CB/TBWord3Bit12                 
+                
+B3313|0000|CB/TBWord3Bit13                 
+                
+B3314|0000|CB/TBWord3Bit14                 
+                
+B3315|0000|CB/TBWord3Bit15                 
+                
+B3400|0000|CB/TBWord4Bit 0                 
+                
+B3401|0000|CB/TBWord4Bit 1                 
+                
+B3402|0000|CB/TBWord4Bit 2                 
+                
+B3403|0000|CB/TBWord4Bit 3                 
+                
+B3404|0000|CB/TBWord4Bit 4                 
+                
+B3405|0000|CB/TBWord4Bit 5                 
+                
+B3406|0000|CB/TBWord4Bit 6                 
+                
+B3407|0000|CB/TBWord4Bit 7                 
+                
+B3408|0000|CB/TBWord4Bit 8                 
+                
+B3409|0000|CB/TBWord4Bit 9                 
+                
+B3410|0000|CB/TBWord4Bit10                 
+                
+B3411|0000|CB/TBWord4Bit11                 
+                
+B3412|0000|CB/TBWord4Bit12                 
+                
+B3413|0000|CB/TBWord4Bit13                 
+                
+B3414|0000|CB/TBWord4Bit14                 
+                
+B3415|0000|CB/TBWord4Bit15                 
+                
+B3500|0000|CB/TBWord5Bit 0                 
+                
+B3501|0000|CB/TBWord5Bit 1                 
+                
+B3502|0000|CB/TBWord5Bit 2                 
+                
+B3503|0000|CB/TBWord5Bit 3                 
+                
+B3504|0000|CB/TBWord5Bit 4                 
+                
+B3505|0000|CB/TBWord5Bit 5                 
+                
+B3506|0000|CB/TBWord5Bit 6                 
+                
+B3507|0000|CB/TBWord5Bit 7                 
+                
+B3508|0000|CB/TBWord5Bit 8                 
+                
+B3509|0000|CB/TBWord5Bit 9                 
+                
+B3510|0000|CB/TBWord5Bit10                 
+                
+B3511|0000|CB/TBWord5Bit11                 
+                
+B3512|0000|CB/TBWord5Bit12                 
+                
+B3513|0000|CB/TBWord5Bit13                 
+                
+B3514|0000|CB/TBWord5Bit14                 
+                
+B3515|0000|CB/TBWord5Bit15                 
+                
+B3600|0000|CB/TBWord6Bit 0                 
+                
+B3601|0000|CB/TBWord6Bit 1                 
+                
+B3602|0000|CB/TBWord6Bit 2                 
+                
+B3603|0000|CB/TBWord6Bit 3                 
+                
+B3604|0000|CB/TBWord6Bit 4                 
+                
+B3605|0000|CB/TBWord6Bit 5                 
+                
+B3606|0000|CB/TBWord6Bit 6                 
+                
+B3607|0000|CB/TBWord6Bit 7                 
+                
+B3608|0000|CB/TBWord6Bit 8                 
+                
+B3609|0000|CB/TBWord6Bit 9                 
+                
+B3610|0000|CB/TBWord6Bit10                 
+                
+B3611|0000|CB/TBWord6Bit11                 
+                
+B3612|0000|CB/TBWord6Bit12                 
+                
+B3613|0000|CB/TBWord6Bit13                 
+                
+B3614|0000|CB/TBWord6Bit14                 
+                
+B3615|0000|CB/TBWord6Bit15                 
+                
+B3700|0000|CB/TBWord7Bit 0                 
+                
+B3701|0000|CB/TBWord7Bit 1                 
+                
+B3702|0000|CB/TBWord7Bit 2                 
+                
+B3703|0000|CB/TBWord7Bit 3                 
+                
+B3704|0000|CB/TBWord7Bit 4                 
+                
+B3705|0000|CB/TBWord7Bit 5                 
+                
+B3706|0000|CB/TBWord7Bit 6                 
+                
+B3707|0000|CB/TBWord7Bit 7                 
+                
+B3708|0000|CB/TBWord7Bit 8                 
+                
+B3709|0000|CB/TBWord7Bit 9                 
+                
+B3710|0000|CB/TBWord7Bit10                 
+                
+B3711|0000|CB/TBWord7Bit11                 
+                
+B3712|0000|CB/TBWord7Bit12                 
+                
+B3713|0000|CB/TBWord7Bit13                 
+                
+B3714|0000|CB/TBWord7Bit14                 
+                
+B3715|0000|CB/TBWord7Bit15                 
+                
+B3800|0000|CB/TBWord8Bit 0                 
+                
+B3801|0000|CB/TBWord8Bit 1                 
+                
+B3802|0000|CB/TBWord8Bit 2                 
+                
+B3803|0000|CB/TBWord8Bit 3                 
+                
+B3804|0000|CB/TBWord8Bit 4                 
+                
+B3805|0000|CB/TBWord8Bit 5                 
+                
+B3806|0000|CB/TBWord8Bit 6                 
+                
+B3807|0000|CB/TBWord8Bit 7                 
+                
+B3808|0000|CB/TBWord8Bit 8                 
+                
+B3809|0000|CB/TBWord8Bit 9                 
+                
+B3810|0000|CB/TBWord8Bit10                 
+                
+B3811|0000|CB/TBWord8Bit11                 
+                
+B3812|0000|CB/TBWord8Bit12                 
+                
+B3813|0000|CB/TBWord8Bit13                 
+                
+B3814|0000|CB/TBWord8Bit14                 
+                
+B3815|0000|CB/TBWord8Bit15                 
+                
+B3900|0000|CB/TBWord9Bit 0                 
+                
+B3901|0000|CB/TBWord9Bit 1                 
+                
+B3902|0000|CB/TBWord9Bit 2                 
+                
+B3903|0000|CB/TBWord9Bit 3                 
+                
+B3904|0000|CB/TBWord9Bit 4                 
+                
+B3905|0000|CB/TBWord9Bit 5                 
+                
+B3906|0000|CB/TBWord9Bit 6                 
+                
+B3907|0000|CB/TBWord9Bit 7                 
+                
+B3908|0000|CB/TBWord9Bit 8                 
+                
+B3909|0000|CB/TBWord9Bit 9                 
+                
+B3910|0000|CB/TBWord9Bit10                 
+                
+B3911|0000|CB/TBWord9Bit11                 
+                
+B3912|0000|CB/TBWord9Bit12                 
+                
+B3913|0000|CB/TBWord9Bit13                 
+                
+B3914|0000|CB/TBWord9Bit14                 
+                
+B3915|0000|CB/TBWord9Bit15                 
+                
+B4100|0000|SCI Sl1DigIn  0                 
+                
+B4101|0000|SCI Sl1DigIn  1                 
+                
+B4102|0000|SCI Sl1DigIn  2                 
+                
+B4103|0000|SCI Sl1DigIn  3                 
+                
+B4104|0000|SCI Sl1DigIn  4                 
+                
+B4105|0000|SCI Sl1DigIn  5                 
+                
+B4106|0000|SCI Sl1DigIn  6                 
+                
+B4107|0000|SCI Sl1DigIn  7                 
+                
+B4108|0000|SCI Sl1DigIn  8                 
+                
+B4109|0000|SCI Sl1DigIn  9                 
+                
+B4110|0000|SCI Sl1DigIn 10                 
+                
+B4111|0000|SCI Sl1DigIn 11                 
+                
+B4112|0000|SCI Sl1DigIn 12                 
+                
+B4113|0000|SCI Sl1DigIn 13                 
+                
+B4114|0000|SCI Sl1DigIn 14                 
+                
+B4115|0000|SCI Sl1DigIn 15                 
+                
+B4120|0000|SCI Sl1DigInN 0                 
+                
+B4121|0000|SCI Sl1DigInN 1                 
+                
+B4122|0000|SCI Sl1DigInN 2                 
+                
+B4123|0000|SCI Sl1DigInN 3                 
+                
+B4124|0000|SCI Sl1DigInN 4                 
+                
+B4125|0000|SCI Sl1DigInN 5                 
+                
+B4126|0000|SCI Sl1DigInN 6                 
+                
+B4127|0000|SCI Sl1DigInN 7                 
+                
+B4128|0000|SCI Sl1DigInN 8                 
+                
+B4129|0000|SCI Sl1DigInN 9                 
+                
+B4130|0000|SCI Sl1DigInN10                 
+                
+B4131|0000|SCI Sl1DigInN11                 
+                
+B4132|0000|SCI Sl1DigInN12                 
+                
+B4133|0000|SCI Sl1DigInN13                 
+                
+B4134|0000|SCI Sl1DigInN14                 
+                
+B4135|0000|SCI Sl1DigInN15                 
+                
+B4200|0000|SCI Sl2DigIn  0                 
+                
+B4201|0000|SCI Sl2DigIn  1                 
+                
+B4202|0000|SCI Sl2DigIn  2                 
+                
+B4203|0000|SCI Sl2DigIn  3                 
+                
+B4204|0000|SCI Sl2DigIn  4                 
+                
+B4205|0000|SCI Sl2DigIn  5                 
+                
+B4206|0000|SCI Sl2DigIn  6                 
+                
+B4207|0000|SCI Sl2DigIn  7                 
+                
+B4208|0000|SCI Sl2DigIn  8                 
+                
+B4209|0000|SCI Sl2DigIn  9                 
+                
+B4210|0000|SCI Sl2DigIn 10                 
+                
+B4211|0000|SCI Sl2DigIn 11                 
+                
+B4212|0000|SCI Sl2DigIn 12                 
+                
+B4213|0000|SCI Sl2DigIn 13                 
+                
+B4214|0000|SCI Sl2DigIn 14                 
+                
+B4215|0000|SCI Sl2DigIn 15                 
+                
+B4220|0000|SCI Sl2DigInN 0                 
+                
+B4221|0000|SCI Sl2DigInN 1                 
+                
+B4222|0000|SCI Sl2DigInN 2                 
+                
+B4223|0000|SCI Sl2DigInN 3                 
+                
+B4224|0000|SCI Sl2DigInN 4                 
+                
+B4225|0000|SCI Sl2DigInN 5                 
+                
+B4226|0000|SCI Sl2DigInN 6                 
+                
+B4227|0000|SCI Sl2DigInN 7                 
+                
+B4228|0000|SCI Sl2DigInN 8                 
+                
+B4229|0000|SCI Sl2DigInN 9                 
+                
+B4230|0000|SCI Sl2DigInN10                 
+                
+B4231|0000|SCI Sl2DigInN11                 
+                
+B4232|0000|SCI Sl2DigInN12                 
+                
+B4233|0000|SCI Sl2DigInN13                 
+                
+B4234|0000|SCI Sl2DigInN14                 
+                
+B4235|0000|SCI Sl2DigInN15                 
+                
+B4500|0000|SCB Word1 Bit 0                 
+                
+B4501|0000|SCB Word1 Bit 1                 
+                
+B4502|0000|SCB Word1 Bit 2                 
+                
+B4503|0000|SCB Word1 Bit 3                 
+                
+B4504|0000|SCB Word1 Bit 4                 
+                
+B4505|0000|SCB Word1 Bit 5                 
+                
+B4506|0000|SCB Word1 Bit 6                 
+                
+B4507|0000|SCB Word1 Bit 7                 
+                
+B4508|0000|SCB Word1 Bit 8                 
+                
+B4509|0000|SCB Word1 Bit 9                 
+                
+B4510|0000|SCB Word1 Bit10                 
+                
+B4511|0000|SCB Word1 Bit11                 
+                
+B4512|0000|SCB Word1 Bit12                 
+                
+B4513|0000|SCB Word1 Bit13                 
+                
+B4514|0000|SCB Word1 Bit14                 
+                
+B4515|0000|SCB Word1 Bit15                 
+                
+B4600|0000|SCB Word2 Bit 0                 
+                
+B4601|0000|SCB Word2 Bit 1                 
+                
+B4602|0000|SCB Word2 Bit 2                 
+                
+B4603|0000|SCB Word2 Bit 3                 
+                
+B4604|0000|SCB Word2 Bit 4                 
+                
+B4605|0000|SCB Word2 Bit 5                 
+                
+B4606|0000|SCB Word2 Bit 6                 
+                
+B4607|0000|SCB Word2 Bit 7                 
+                
+B4608|0000|SCB Word2 Bit 8                 
+                
+B4609|0000|SCB Word2 Bit 9                 
+                
+B4610|0000|SCB Word2 Bit10                 
+                
+B4611|0000|SCB Word2 Bit11                 
+                
+B4612|0000|SCB Word2 Bit12                 
+                
+B4613|0000|SCB Word2 Bit13                 
+                
+B4614|0000|SCB Word2 Bit14                 
+                
+B4615|0000|SCB Word2 Bit15                 
+                
+B4700|0000|SCB Word3 Bit 0                 
+                
+B4701|0000|SCB Word3 Bit 1                 
+                
+B4702|0000|SCB Word3 Bit 2                 
+                
+B4703|0000|SCB Word3 Bit 3                 
+                
+B4704|0000|SCB Word3 Bit 4                 
+                
+B4705|0000|SCB Word3 Bit 5                 
+                
+B4706|0000|SCB Word3 Bit 6                 
+                
+B4707|0000|SCB Word3 Bit 7                 
+                
+B4708|0000|SCB Word3 Bit 8                 
+                
+B4709|0000|SCB Word3 Bit 9                 
+                
+B4710|0000|SCB Word3 Bit10                 
+                
+B4711|0000|SCB Word3 Bit11                 
+                
+B4712|0000|SCB Word3 Bit12                 
+                
+B4713|0000|SCB Word3 Bit13                 
+                
+B4714|0000|SCB Word3 Bit14                 
+                
+B4715|0000|SCB Word3 Bit15                 
+                
+B4800|0000|SCB Word4 Bit 0                 
+                
+B4801|0000|SCB Word4 Bit 1                 
+                
+B4802|0000|SCB Word4 Bit 2                 
+                
+B4803|0000|SCB Word4 Bit 3                 
+                
+B4804|0000|SCB Word4 Bit 4                 
+                
+B4805|0000|SCB Word4 Bit 5                 
+                
+B4806|0000|SCB Word4 Bit 6                 
+                
+B4807|0000|SCB Word4 Bit 7                 
+                
+B4808|0000|SCB Word4 Bit 8                 
+                
+B4809|0000|SCB Word4 Bit 9                 
+                
+B4810|0000|SCB Word4 Bit10                 
+                
+B4811|0000|SCB Word4 Bit11                 
+                
+B4812|0000|SCB Word4 Bit12                 
+                
+B4813|0000|SCB Word4 Bit13                 
+                
+B4814|0000|SCB Word4 Bit14                 
+                
+B4815|0000|SCB Word4 Bit15                 
+                
+B4900|0000|SCB Word5 Bit 0                 
+                
+B4901|0000|SCB Word5 Bit 1                 
+                
+B4902|0000|SCB Word5 Bit 2                 
+                
+B4903|0000|SCB Word5 Bit 3                 
+                
+B4904|0000|SCB Word5 Bit 4                 
+                
+B4905|0000|SCB Word5 Bit 5                 
+                
+B4906|0000|SCB Word5 Bit 6                 
+                
+B4907|0000|SCB Word5 Bit 7                 
+                
+B4908|0000|SCB Word5 Bit 8                 
+                
+B4909|0000|SCB Word5 Bit 9                 
+                
+B4910|0000|SCB Word5 Bit10                 
+                
+B4911|0000|SCB Word5 Bit11                 
+                
+B4912|0000|SCB Word5 Bit12                 
+                
+B4913|0000|SCB Word5 Bit13                 
+                
+B4914|0000|SCB Word5 Bit14                 
+                
+B4915|0000|SCB Word5 Bit15                 
+                
+B5101|0000|1EB1WireAnaIn1                  
+                
+B5102|0000|1EB1 U>8VAnaIn2                 
+                
+B5103|0000|1EB1 U>8VAnaIn3                 
+                
+B5104|0000|1stEB1 DI1 inv.                 
+                
+B5105|0000|1stEB1 DI1                      
+                
+B5106|0000|1stEB1 DI2 inv.                 
+                
+B5107|0000|1stEB1 DI2                      
+                
+B5108|0000|1stEB1 DI3 inv.                 
+                
+B5109|0000|1stEB1 DI3                      
+                
+B5110|0000|1stEB1 DI4 inv.                 
+                
+B5111|0000|1stEB1 DI4                      
+                
+B5112|0000|1stEB1 DI5 inv.                 
+                
+B5113|0000|1stEB1 DI5                      
+                
+B5114|0000|1stEB1 DI6 inv.                 
+                
+B5115|0000|1stEB1 DI6                      
+                
+B5116|0000|1stEB1 DI7 inv.                 
+                
+B5117|0000|1stEB1 DI7                      
+                
+B5121|0000|WireBreak1stEB2                 
+                
+B5122|0000|BI1 inv.1stEB2                  
+                
+B5123|0000|BI1 1st EB2                     
+                
+B5124|0000|BI2 inv. 1stEB2                 
+                
+B5125|0000|BI 2 1st EB2                    
+                
+B5201|0000|2EB1WireAnaIn1                  
+                
+B5202|0000|2EB1 U>8VAnaIn2                 
+                
+B5203|0000|2EB1 U>8VAnaIn3                 
+                
+B5204|0000|2ndEB1 DI1 inv.                 
+                
+B5205|0000|2ndEB1 DI1                      
+                
+B5206|0000|2ndEB1 DI2 inv.                 
+                
+B5207|0000|2ndEB1 DI2                      
+                
+B5208|0000|2ndEB1 DI3 inv.                 
+                
+B5209|0000|2ndEB1 DI3                      
+                
+B5210|0000|2ndEB1 DI4 inv.                 
+                
+B5211|0000|2ndEB1 DI4                      
+                
+B5212|0000|2ndEB1 DI5 inv.                 
+                
+B5213|0000|2ndEB1 DI5                      
+                
+B5214|0000|2ndEB1 DI6 inv                  
+                
+B5215|0000|2ndEB1 DI6                      
+                
+B5216|0000|2ndEB1 DI7 inv.                 
+                
+B5217|0000|2ndEB1 DI7                      
+                
+B5221|0000|WireBreak2ndEB2                 
+                
+B5222|0000|BI1 inv. 2ndEB2                 
+                
+B5223|0000|BI 1 2nd EB2                    
+                
+B5224|0000|BI2 inv. 2ndEB2                 
+                
+B5225|0000|BI 2 2nd EB2                    
+                
+B6100|0000|SCom2Word1Bit 0                 
+                
+B6101|0000|SCom2Word1Bit 1                 
+                
+B6102|0000|SCom2Word1Bit 2                 
+                
+B6103|0000|SCom2Word1Bit 3                 
+                
+B6104|0000|SCom2Word1Bit 4                 
+                
+B6105|0000|SCom2Word1Bit 5                 
+                
+B6106|0000|SCom2Word1Bit 6                 
+                
+B6107|0000|SCom2Word1Bit 7                 
+                
+B6108|0000|SCom2Word1Bit 8                 
+                
+B6109|0000|SCom2Word1Bit 9                 
+                
+B6110|0000|SCom2Word1Bit10                 
+                
+B6111|0000|SCom2Word1Bit11                 
+                
+B6112|0000|SCom2Word1Bit12                 
+                
+B6113|0000|SCom2Word1Bit13                 
+                
+B6114|0000|SCom2Word1Bit14                 
+                
+B6115|0000|SCom2Word1Bit15                 
+                
+B6200|0000|SCom2Word2Bit 0                 
+                
+B6201|0000|SCom2Word2Bit 1                 
+                
+B6202|0000|SCom2Word2Bit 2                 
+                
+B6203|0000|SCom2Word2Bit 3                 
+                
+B6204|0000|SCom2Word2Bit 4                 
+                
+B6205|0000|SCom2Word2Bit 5                 
+                
+B6206|0000|SCom2Word2Bit 6                 
+                
+B6207|0000|SCom2Word2Bit 7                 
+                
+B6208|0000|SCom2Word2Bit 8                 
+                
+B6209|0000|SCom2Word2Bit 9                 
+                
+B6210|0000|SCom2Word2Bit10                 
+                
+B6211|0000|SCom2Word2Bit11                 
+                
+B6212|0000|SCom2Word2Bit12                 
+                
+B6213|0000|SCom2Word2Bit13                 
+                
+B6214|0000|SCom2Word2Bit14                 
+                
+B6215|0000|SCom2Word2Bit15                 
+                
+B6300|0000|SCom2Word3Bit 0                 
+                
+B6301|0000|SCom2Word3Bit 1                 
+                
+B6302|0000|SCom2Word3Bit 2                 
+                
+B6303|0000|SCom2Word3Bit 3                 
+                
+B6304|0000|SCom2Word3Bit 4                 
+                
+B6305|0000|SCom2Word3Bit 5                 
+                
+B6306|0000|SCom2Word3Bit 6                 
+                
+B6307|0000|SCom2Word3Bit 7                 
+                
+B6308|0000|SCom2Word3Bit 8                 
+                
+B6309|0000|SCom2Word3Bit 9                 
+                
+B6310|0000|SCom2Word3Bit10                 
+                
+B6311|0000|SCom2Word3Bit11                 
+                
+B6312|0000|SCom2Word3Bit12                 
+                
+B6313|0000|SCom2Word3Bit13                 
+                
+B6314|0000|SCom2Word3Bit14                 
+                
+B6315|0000|SCom2Word3Bit15                 
+                
+B6400|0000|SCom2Word4Bit 0                 
+                
+B6401|0000|SCom2Word4Bit 1                 
+                
+B6402|0000|SCom2Word4Bit 2                 
+                
+B6403|0000|SCom2Word4Bit 3                 
+                
+B6404|0000|SCom2Word4Bit 4                 
+                
+B6405|0000|SCom2Word4Bit 5                 
+                
+B6406|0000|SCom2Word4Bit 6                 
+                
+B6407|0000|SCom2Word4Bit 7                 
+                
+B6408|0000|SCom2Word4Bit 8                 
+                
+B6409|0000|SCom2Word4Bit 9                 
+                
+B6410|0000|SCom2Word4Bit10                 
+                
+B6411|0000|SCom2Word4Bit11                 
+                
+B6412|0000|SCom2Word4Bit12                 
+                
+B6413|0000|SCom2Word4Bit13                 
+                
+B6414|0000|SCom2Word4Bit14                 
+                
+B6415|0000|SCom2Word4Bit15                 
+                
+B6500|0000|SCom2Word5Bit 0                 
+                
+B6501|0000|SCom2Word5Bit 1                 
+                
+B6502|0000|SCom2Word5Bit 2                 
+                
+B6503|0000|SCom2Word5Bit 3                 
+                
+B6504|0000|SCom2Word5Bit 4                 
+                
+B6505|0000|SCom2Word5Bit 5                 
+                
+B6506|0000|SCom2Word5Bit 6                 
+                
+B6507|0000|SCom2Word5Bit 7                 
+                
+B6508|0000|SCom2Word5Bit 8                 
+                
+B6509|0000|SCom2Word5Bit 9                 
+                
+B6510|0000|SCom2Word5Bit10                 
+                
+B6511|0000|SCom2Word5Bit11                 
+                
+B6512|0000|SCom2Word5Bit12                 
+                
+B6513|0000|SCom2Word5Bit13                 
+                
+B6514|0000|SCom2Word5Bit14                 
+                
+B6515|0000|SCom2Word5Bit15                 
+                
+B6600|0000|SCom2Word6Bit 0                 
+                
+B6601|0000|SCom2Word6Bit 1                 
+                
+B6602|0000|SCom2Word6Bit 2                 
+                
+B6603|0000|SCom2Word6Bit 3                 
+                
+B6604|0000|SCom2Word6Bit 4                 
+                
+B6605|0000|SCom2Word6Bit 5                 
+                
+B6606|0000|SCom2Word6Bit 6                 
+                
+B6607|0000|SCom2Word6Bit 7                 
+                
+B6608|0000|SCom2Word6Bit 8                 
+                
+B6609|0000|SCom2Word6Bit 9                 
+                
+B6610|0000|SCom2Word6Bit10                 
+                
+B6611|0000|SCom2Word6Bit11                 
+                
+B6612|0000|SCom2Word6Bit12                 
+                
+B6613|0000|SCom2Word6Bit13                 
+                
+B6614|0000|SCom2Word6Bit14                 
+                
+B6615|0000|SCom2Word6Bit15                 
+                
+B6700|0000|SCom2Word7Bit 0                 
+                
+B6701|0000|SCom2Word7Bit 1                 
+                
+B6702|0000|SCom2Word7Bit 2                 
+                
+B6703|0000|SCom2Word7Bit 3                 
+                
+B6704|0000|SCom2Word7Bit 4                 
+                
+B6705|0000|SCom2Word7Bit 5                 
+                
+B6706|0000|SCom2Word7Bit 6                 
+                
+B6707|0000|SCom2Word7Bit 7                 
+                
+B6708|0000|SCom2Word7Bit 8                 
+                
+B6709|0000|SCom2Word7Bit 9                 
+                
+B6710|0000|SCom2Word7Bit10                 
+                
+B6711|0000|SCom2Word7Bit11                 
+                
+B6712|0000|SCom2Word7Bit12                 
+                
+B6713|0000|SCom2Word7Bit13                 
+                
+B6714|0000|SCom2Word7Bit14                 
+                
+B6715|0000|SCom2Word7Bit15                 
+                
+B6800|0000|SCom2Word8Bit 0                 
+                
+B6801|0000|SCom2Word8Bit 1                 
+                
+B6802|0000|SCom2Word8Bit 2                 
+                
+B6803|0000|SCom2Word8Bit 3                 
+                
+B6804|0000|SCom2Word8Bit 4                 
+                
+B6805|0000|SCom2Word8Bit 5                 
+                
+B6806|0000|SCom2Word8Bit 6                 
+                
+B6807|0000|SCom2Word8Bit 7                 
+                
+B6808|0000|SCom2Word8Bit 8                 
+                
+B6809|0000|SCom2Word8Bit 9                 
+                
+B6810|0000|SCom2Word8Bit10                 
+                
+B6811|0000|SCom2Word8Bit11                 
+                
+B6812|0000|SCom2Word8Bit12                 
+                
+B6813|0000|SCom2Word8Bit13                 
+                
+B6814|0000|SCom2Word8Bit14                 
+                
+B6815|0000|SCom2Word8Bit15                 
+                
+B6900|0000|SCom2Word9Bit 0                 
+                
+B6901|0000|SCom2Word9Bit 1                 
+                
+B6902|0000|SCom2Word9Bit 2                 
+                
+B6903|0000|SCom2Word9Bit 3                 
+                
+B6904|0000|SCom2Word9Bit 4                 
+                
+B6905|0000|SCom2Word9Bit 5                 
+                
+B6906|0000|SCom2Word9Bit 6                 
+                
+B6907|0000|SCom2Word9Bit 7                 
+                
+B6908|0000|SCom2Word9Bit 8                 
+                
+B6909|0000|SCom2Word9Bit 9                 
+                
+B6910|0000|SCom2Word9Bit10                 
+                
+B6911|0000|SCom2Word9Bit11                 
+                
+B6912|0000|SCom2Word9Bit12                 
+                
+B6913|0000|SCom2Word9Bit13                 
+                
+B6914|0000|SCom2Word9Bit14                 
+                
+B6915|0000|SCom2Word9Bit15                 
+                
+B7010|0000|SLB Appl.Flag 0                 
+                
+B7011|0000|SLB Appl.Flag 1                 
+                
+B7012|0000|SLB Appl.Flag 2                 
+                
+B7013|0000|SLB Appl.Flag 3                 
+                
+B7100|0000|SLB Word1 Bit 0                 
+                
+B7101|0000|SLB Word1 Bit 1                 
+                
+B7102|0000|SLB Word1 Bit 2                 
+                
+B7103|0000|SLB Word1 Bit 3                 
+                
+B7104|0000|SLB Word1 Bit 4                 
+                
+B7105|0000|SLB Word1 Bit 5                 
+                
+B7106|0000|SLB Word1 Bit 6                 
+                
+B7107|0000|SLB Word1 Bit 7                 
+                
+B7108|0000|SLB Word1 Bit 8                 
+                
+B7109|0000|SLB Word1 Bit 9                 
+                
+B7110|0000|SLB Word1 Bit10                 
+                
+B7111|0000|SLB Word1 Bit11                 
+                
+B7112|0000|SLB Word1 Bit12                 
+                
+B7113|0000|SLB Word1 Bit13                 
+                
+B7114|0000|SLB Word1 Bit14                 
+                
+B7115|0000|SLB Word1 Bit15                 
+                
+B7200|0000|SLB Word2 Bit 0                 
+                
+B7201|0000|SLB Word2 Bit 1                 
+                
+B7202|0000|SLB Word2 Bit 2                 
+                
+B7203|0000|SLB Word2 Bit 3                 
+                
+B7204|0000|SLB Word2 Bit 4                 
+                
+B7205|0000|SLB Word2 Bit 5                 
+                
+B7206|0000|SLB Word2 Bit 6                 
+                
+B7207|0000|SLB Word2 Bit 7                 
+                
+B7208|0000|SLB Word2 Bit 8                 
+                
+B7209|0000|SLB Word2 Bit 9                 
+                
+B7210|0000|SLB Word2 Bit10                 
+                
+B7211|0000|SLB Word2 Bit11                 
+                
+B7212|0000|SLB Word2 Bit12                 
+                
+B7213|0000|SLB Word2 Bit13                 
+                
+B7214|0000|SLB Word2 Bit14                 
+                
+B7215|0000|SLB Word2 Bit15                 
+                
+B7300|0000|SLB Word3 Bit 0                 
+                
+B7301|0000|SLB Word3 Bit 1                 
+                
+B7302|0000|SLB Word3 Bit 2                 
+                
+B7303|0000|SLB Word3 Bit 3                 
+                
+B7304|0000|SLB Word3 Bit 4                 
+                
+B7305|0000|SLB Word3 Bit 5                 
+                
+B7306|0000|SLB Word3 Bit 6                 
+                
+B7307|0000|SLB Word3 Bit 7                 
+                
+B7308|0000|SLB Word3 Bit 8                 
+                
+B7309|0000|SLB Word3 Bit 9                 
+                
+B7310|0000|SLB Word3 Bit10                 
+                
+B7311|0000|SLB Word3 Bit11                 
+                
+B7312|0000|SLB Word3 Bit12                 
+                
+B7313|0000|SLB Word3 Bit13                 
+                
+B7314|0000|SLB Word3 Bit14                 
+                
+B7315|0000|SLB Word3 Bit15                 
+                
+B7400|0000|SLB Word4 Bit 0                 
+                
+B7401|0000|SLB Word4 Bit 1                 
+                
+B7402|0000|SLB Word4 Bit 2                 
+                
+B7403|0000|SLB Word4 Bit 3                 
+                
+B7404|0000|SLB Word4 Bit 4                 
+                
+B7405|0000|SLB Word4 Bit 5                 
+                
+B7406|0000|SLB Word4 Bit 6                 
+                
+B7407|0000|SLB Word4 Bit 7                 
+                
+B7408|0000|SLB Word4 Bit 8                 
+                
+B7409|0000|SLB Word4 Bit 9                 
+                
+B7410|0000|SLB Word4 Bit10                 
+                
+B7411|0000|SLB Word4 Bit11                 
+                
+B7412|0000|SLB Word4 Bit12                 
+                
+B7413|0000|SLB Word4 Bit13                 
+                
+B7414|0000|SLB Word4 Bit14                 
+                
+B7415|0000|SLB Word4 Bit15                 
+                
+B7500|0000|SLB Word5 Bit 0                 
+                
+B7501|0000|SLB Word5 Bit 1                 
+                
+B7502|0000|SLB Word5 Bit 2                 
+                
+B7503|0000|SLB Word5 Bit 3                 
+                
+B7504|0000|SLB Word5 Bit 4                 
+                
+B7505|0000|SLB Word5 Bit 5                 
+                
+B7506|0000|SLB Word5 Bit 6                 
+                
+B7507|0000|SLB Word5 Bit 7                 
+                
+B7508|0000|SLB Word5 Bit 8                 
+                
+B7509|0000|SLB Word5 Bit 9                 
+                
+B7510|0000|SLB Word5 Bit10                 
+                
+B7511|0000|SLB Word5 Bit11                 
+                
+B7512|0000|SLB Word5 Bit12                 
+                
+B7513|0000|SLB Word5 Bit13                 
+                
+B7514|0000|SLB Word5 Bit14                 
+                
+B7515|0000|SLB Word5 Bit15                 
+                
+B7600|0000|SLB Word6 Bit 0                 
+                
+B7601|0000|SLB Word6 Bit 1                 
+                
+B7602|0000|SLB Word6 Bit 2                 
+                
+B7603|0000|SLB Word6 Bit 3                 
+                
+B7604|0000|SLB Word6 Bit 4                 
+                
+B7605|0000|SLB Word6 Bit 5                 
+                
+B7606|0000|SLB Word6 Bit 6                 
+                
+B7607|0000|SLB Word6 Bit 7                 
+                
+B7608|0000|SLB Word6 Bit 8                 
+                
+B7609|0000|SLB Word6 Bit 9                 
+                
+B7610|0000|SLB Word6 Bit10                 
+                
+B7611|0000|SLB Word6 Bit11                 
+                
+B7612|0000|SLB Word6 Bit12                 
+                
+B7613|0000|SLB Word6 Bit13                 
+                
+B7614|0000|SLB Word6 Bit14                 
+                
+B7615|0000|SLB Word6 Bit15                 
+                
+B7700|0000|SLB Word7 Bit 0                 
+                
+B7701|0000|SLB Word7 Bit 1                 
+                
+B7702|0000|SLB Word7 Bit 2                 
+                
+B7703|0000|SLB Word7 Bit 3                 
+                
+B7704|0000|SLB Word7 Bit 4                 
+                
+B7705|0000|SLB Word7 Bit 5                 
+                
+B7706|0000|SLB Word7 Bit 6                 
+                
+B7707|0000|SLB Word7 Bit 7                 
+                
+B7708|0000|SLB Word7 Bit 8                 
+                
+B7709|0000|SLB Word7 Bit 9                 
+                
+B7710|0000|SLB Word7 Bit10                 
+                
+B7711|0000|SLB Word7 Bit11                 
+                
+B7712|0000|SLB Word7 Bit12                 
+                
+B7713|0000|SLB Word7 Bit13                 
+                
+B7714|0000|SLB Word7 Bit14                 
+                
+B7715|0000|SLB Word7 Bit15                 
+                
+B7800|0000|SLB Word8 Bit 0                 
+                
+B7801|0000|SLB Word8 Bit 1                 
+                
+B7802|0000|SLB Word8 Bit 2                 
+                
+B7803|0000|SLB Word8 Bit 3                 
+                
+B7804|0000|SLB Word8 Bit 4                 
+                
+B7805|0000|SLB Word8 Bit 5                 
+                
+B7806|0000|SLB Word8 Bit 6                 
+                
+B7807|0000|SLB Word8 Bit 7                 
+                
+B7808|0000|SLB Word8 Bit 8                 
+                
+B7809|0000|SLB Word8 Bit 9                 
+                
+B7810|0000|SLB Word8 Bit10                 
+                
+B7811|0000|SLB Word8 Bit11                 
+                
+B7812|0000|SLB Word8 Bit12                 
+                
+B7813|0000|SLB Word8 Bit13                 
+                
+B7814|0000|SLB Word8 Bit14                 
+                
+B7815|0000|SLB Word8 Bit15                 
+                
+B7900|0000|SLB Word9 Bit 0                 
+                
+B7901|0000|SLB Word9 Bit 1                 
+                
+B7902|0000|SLB Word9 Bit 2                 
+                
+B7903|0000|SLB Word9 Bit 3                 
+                
+B7904|0000|SLB Word9 Bit 4                 
+                
+B7905|0000|SLB Word9 Bit 5                 
+                
+B7906|0000|SLB Word9 Bit 6                 
+                
+B7907|0000|SLB Word9 Bit 7                 
+                
+B7908|0000|SLB Word9 Bit 8                 
+                
+B7909|0000|SLB Word9 Bit 9                 
+                
+B7910|0000|SLB Word9 Bit10                 
+                
+B7911|0000|SLB Word9 Bit11                 
+                
+B7912|0000|SLB Word9 Bit12                 
+                
+B7913|0000|SLB Word9 Bit13                 
+                
+B7914|0000|SLB Word9 Bit14                 
+                
+B7915|0000|SLB Word9 Bit15                 
+                
+B8100|0000|2ndCBWord1Bit 0                 
+                
+B8101|0000|2ndCBWord1Bit 1                 
+                
+B8102|0000|2ndCBWord1Bit 2                 
+                
+B8103|0000|2ndCBWord1Bit 3                 
+                
+B8104|0000|2ndCBWord1Bit 4                 
+                
+B8105|0000|2ndCBWord1Bit 5                 
+                
+B8106|0000|2ndCBWord1Bit 6                 
+                
+B8107|0000|2ndCBWord1Bit 7                 
+                
+B8108|0000|2ndCBWord1Bit 8                 
+                
+B8109|0000|2ndCBWord1Bit 9                 
+                
+B8110|0000|2ndCBWord1Bit10                 
+                
+B8111|0000|2ndCBWord1Bit11                 
+                
+B8112|0000|2ndCBWord1Bit12                 
+                
+B8113|0000|2ndCBWord1Bit13                 
+                
+B8114|0000|2ndCBWord1Bit14                 
+                
+B8115|0000|2ndCBWord1Bit15                 
+                
+B8200|0000|2ndCBWord1Bit 0                 
+                
+B8201|0000|2ndCBWord1Bit 1                 
+                
+B8202|0000|2ndCBWord1Bit 2                 
+                
+B8203|0000|2ndCBWord1Bit 3                 
+                
+B8204|0000|2ndCBWord1Bit 4                 
+                
+B8205|0000|2ndCBWord1Bit 5                 
+                
+B8206|0000|2ndCBWord1Bit 6                 
+                
+B8207|0000|2ndCBWord1Bit 7                 
+                
+B8208|0000|2ndCBWord1Bit 8                 
+                
+B8209|0000|2ndCBWord1Bit 9                 
+                
+B8210|0000|2ndCBWord1Bit10                 
+                
+B8211|0000|2ndCBWord1Bit11                 
+                
+B8212|0000|2ndCBWord1Bit12                 
+                
+B8213|0000|2ndCBWord1Bit13                 
+                
+B8214|0000|2ndCBWord1Bit14                 
+                
+B8215|0000|2ndCBWord1Bit15                 
+                
+B8300|0000|2ndCBWord1Bit 0                 
+                
+B8301|0000|2ndCBWord1Bit 1                 
+                
+B8302|0000|2ndCBWord1Bit 2                 
+                
+B8303|0000|2ndCBWord1Bit 3                 
+                
+B8304|0000|2ndCBWord1Bit 4                 
+                
+B8305|0000|2ndCBWord1Bit 5                 
+                
+B8306|0000|2ndCBWord1Bit 6                 
+                
+B8307|0000|2ndCBWord1Bit 7                 
+                
+B8308|0000|2ndCBWord1Bit 8                 
+                
+B8309|0000|2ndCBWord1Bit 9                 
+                
+B8310|0000|2ndCBWord1Bit10                 
+                
+B8311|0000|2ndCBWord1Bit11                 
+                
+B8312|0000|2ndCBWord1Bit12                 
+                
+B8313|0000|2ndCBWord1Bit13                 
+                
+B8314|0000|2ndCBWord1Bit14                 
+                
+B8315|0000|2ndCBWord1Bit15                 
+                
+B8400|0000|2ndCBWord1Bit 0                 
+                
+B8401|0000|2ndCBWord1Bit 1                 
+                
+B8402|0000|2ndCBWord1Bit 2                 
+                
+B8403|0000|2ndCBWord1Bit 3                 
+                
+B8404|0000|2ndCBWord1Bit 4                 
+                
+B8405|0000|2ndCBWord1Bit 5                 
+                
+B8406|0000|2ndCBWord1Bit 6                 
+                
+B8407|0000|2ndCBWord1Bit 7                 
+                
+B8408|0000|2ndCBWord1Bit 8                 
+                
+B8409|0000|2ndCBWord1Bit 9                 
+                
+B8410|0000|2ndCBWord1Bit10                 
+                
+B8411|0000|2ndCBWord1Bit11                 
+                
+B8412|0000|2ndCBWord1Bit12                 
+                
+B8413|0000|2ndCBWord1Bit13                 
+                
+B8414|0000|2ndCBWord1Bit14                 
+                
+B8415|0000|2ndCBWord1Bit15                 
+                
+B8500|0000|2ndCBWord1Bit 0                 
+                
+B8501|0000|2ndCBWord1Bit 1                 
+                
+B8502|0000|2ndCBWord1Bit 2                 
+                
+B8503|0000|2ndCBWord1Bit 3                 
+                
+B8504|0000|2ndCBWord1Bit 4                 
+                
+B8505|0000|2ndCBWord1Bit 5                 
+                
+B8506|0000|2ndCBWord1Bit 6                 
+                
+B8507|0000|2ndCBWord1Bit 7                 
+                
+B8508|0000|2ndCBWord1Bit 8                 
+                
+B8509|0000|2ndCBWord1Bit 9                 
+                
+B8510|0000|2ndCBWord1Bit10                 
+                
+B8511|0000|2ndCBWord1Bit11                 
+                
+B8512|0000|2ndCBWord1Bit12                 
+                
+B8513|0000|2ndCBWord1Bit13                 
+                
+B8514|0000|2ndCBWord1Bit14                 
+                
+B8515|0000|2ndCBWord1Bit15                 
+                
+B8600|0000|2ndCBWord1Bit 0                 
+                
+B8601|0000|2ndCBWord1Bit 1                 
+                
+B8602|0000|2ndCBWord1Bit 2                 
+                
+B8603|0000|2ndCBWord1Bit 3                 
+                
+B8604|0000|2ndCBWord1Bit 4                 
+                
+B8605|0000|2ndCBWord1Bit 5                 
+                
+B8606|0000|2ndCBWord1Bit 6                 
+                
+B8607|0000|2ndCBWord1Bit 7                 
+                
+B8608|0000|2ndCBWord1Bit 8                 
+                
+B8609|0000|2ndCBWord1Bit 9                 
+                
+B8610|0000|2ndCBWord1Bit10                 
+                
+B8611|0000|2ndCBWord1Bit11                 
+                
+B8612|0000|2ndCBWord1Bit12                 
+                
+B8613|0000|2ndCBWord1Bit13                 
+                
+B8614|0000|2ndCBWord1Bit14                 
+                
+B8615|0000|2ndCBWord1Bit15                 
+                
+B8700|0000|2ndCBWord1Bit 0                 
+                
+B8701|0000|2ndCBWord1Bit 1                 
+                
+B8702|0000|2ndCBWord1Bit 2                 
+                
+B8703|0000|2ndCBWord1Bit 3                 
+                
+B8704|0000|2ndCBWord1Bit 4                 
+                
+B8705|0000|2ndCBWord1Bit 5                 
+                
+B8706|0000|2ndCBWord1Bit 6                 
+                
+B8707|0000|2ndCBWord1Bit 7                 
+                
+B8708|0000|2ndCBWord1Bit 8                 
+                
+B8709|0000|2ndCBWord1Bit 9                 
+                
+B8710|0000|2ndCBWord1Bit10                 
+                
+B8711|0000|2ndCBWord1Bit11                 
+                
+B8712|0000|2ndCBWord1Bit12                 
+                
+B8713|0000|2ndCBWord1Bit13                 
+                
+B8714|0000|2ndCBWord1Bit14                 
+                
+B8715|0000|2ndCBWord1Bit15                 
+                
+B8800|0000|2ndCBWord1Bit 0                 
+                
+B8801|0000|2ndCBWord1Bit 1                 
+                
+B8802|0000|2ndCBWord1Bit 2                 
+                
+B8803|0000|2ndCBWord1Bit 3                 
+                
+B8804|0000|2ndCBWord1Bit 4                 
+                
+B8805|0000|2ndCBWord1Bit 5                 
+                
+B8806|0000|2ndCBWord1Bit 6                 
+                
+B8807|0000|2ndCBWord1Bit 7                 
+                
+B8808|0000|2ndCBWord1Bit 8                 
+                
+B8809|0000|2ndCBWord1Bit 9                 
+                
+B8810|0000|2ndCBWord1Bit10                 
+                
+B8811|0000|2ndCBWord1Bit11                 
+                
+B8812|0000|2ndCBWord1Bit12                 
+                
+B8813|0000|2ndCBWord1Bit13                 
+                
+B8814|0000|2ndCBWord1Bit14                 
+                
+B8815|0000|2ndCBWord1Bit15                 
+                
+B8900|0000|2ndCBWord1Bit 0                 
+                
+B8901|0000|2ndCBWord1Bit 1                 
+                
+B8902|0000|2ndCBWord1Bit 2                 
+                
+B8903|0000|2ndCBWord1Bit 3                 
+                
+B8904|0000|2ndCBWord1Bit 4                 
+                
+B8905|0000|2ndCBWord1Bit 5                 
+                
+B8906|0000|2ndCBWord1Bit 6                 
+                
+B8907|0000|2ndCBWord1Bit 7                 
+                
+B8908|0000|2ndCBWord1Bit 8                 
+                
+B8909|0000|2ndCBWord1Bit 9                 
+                
+B8910|0000|2ndCBWord1Bit10                 
+                
+B8911|0000|2ndCBWord1Bit11                 
+                
+B8912|0000|2ndCBWord1Bit12                 
+                
+B8913|0000|2ndCBWord1Bit13                 
+                
+B8914|0000|2ndCBWord1Bit14                 
+                
+B8915|0000|2ndCBWord1Bit15                 
+                

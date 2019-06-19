@@ -1,0 +1,1702 @@
+[T0035]
+T351=T
+T352=Mode
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/OFF delay
+T2954=Pulse encoder
+[T0022]
+T5=Track
+T6=Store
+T7=Reset (y=0)
+[T0019]
+T4=Set\n(y=x)
+T5=Reset\n(y=0)
+T6=Power on
+[FB0002]
+T2=1="Fault F023"
+[FB0003]
+T2=1="Fault F024"
+[FB0004]
+T2=1="Fault F033"
+[FB0005]
+T2=1="Fault F034"
+[FB0006]
+T2=1="Alarm A023"
+[FB0007]
+T2=1="Alarm A024"
+[FB0008]
+T2=1="Alarm A033"
+[FB0009]
+T2=1="Alarm F034"
+[FB0010]
+T330=Bit field 1
+T331=Connector/binector converter 1
+[FB0011]
+T330=Bit field 2
+T331=Connector/binector converter 2
+[FB0012]
+T330=Bit field 3
+T331=Connector/binector converter 3
+[FB0013]
+T4=Bit field 4
+T5=Binector/connector converter 4
+[FB0014]
+T4=Bit field 5
+T5=Binector/connector converter 5
+[FB0015]
+T4=Bit field 6
+T5=Binector/connector converter 6
+[FB0082]
+T5=TRACK
+T6=STORE
+T7=RESET (y=0)
+[FB0083]
+T5=TRACK
+T6=STORE
+T7=RESET (y=0)
+[FB0084]
+T5=SET
+T6=POWER ON 
+T7=RESET (y=0)
+[FB0085]
+T5=SET
+T6=POWER ON
+T7=RESET (y=0)
+[FB0115]
+T1=Actual velocity
+[FB0230]
+T490=STORE
+T491=SET
+T492=RESET (Q=0)
+T493=POWER ON
+[FB0231]
+T490=STORE
+T491=SET
+T492=RESET (Q=0)
+T493=POWER ON
+[FB0232]
+T490=STORE
+T491=SET
+T492=RESET (Q=0)
+T493=POWER ON
+[FB0233]
+T490=STORE
+T491=SET
+T492=RESET (Q=0)
+T493=POWER ON
+[FB0240]
+T351=T
+T352=Mode
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/OFF delay
+T2954=Pulse generator
+[FB0241]
+T351=T
+T352=Mode
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/OFF delay
+T2954=Pulse generator
+[FB0242]
+T351=T
+T352=Mode
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/OFF delay
+T2954=Pulse generator
+[FB0243]
+T351=T
+T352=Mode
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/OFF delay
+T2954=Pulse generator
+[FB0244]
+T351=T
+T352=Mode
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/OFF delay
+T2954=Pulse generator
+[FB0245]
+T351=T
+T352=Mode
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/OFF delay
+T2954=Pulse generator
+[FB0246]
+T351=T
+T352=Mode
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/OFF delay
+T2954=Pulse generator
+[FB0247]
+T351=T
+T352=Mode
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/OFF delay
+T2954=Pulse generator
+[FB0248]
+T351=T
+T352=Mode
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/OFF delay
+T2954=Pulse generator
+[FB0249]
+T351=T
+T352=Mode
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/OFF delay
+T2954=Pulse generator
+
+[FB0301]
+T300=Signal typ
+T301=Hardware\smoothing\n220µs
+T302=13 bits+sign
+T303=Standardization
+T304=Time constant
+T305=10V=100%%\n20mA=100%
+T306=Open circuit (i<2mA)
+T307=Offset
+T308=Sign reversal
+T309=Smoothing
+T310=Analog input\nconnection
+[FB0302]
+T300=Digital input
+T301=Hardware\nsmoothing\n220µs
+T302=13 bits+sign
+T303=Standardization
+T304=Time constant
+T305=10V=100%%
+T306=High at input (voltage at term. 52>8V)
+T307=Offset
+T308=Sign reversal
+T309=Smoothing
+T310=Analog input\nconnection
+[FB0303]
+T300=Digital input
+T301=Hardware\nsmoothing\n220µs
+T302=13 bits+sign
+T303=Standardization
+T304=Time constant
+T305=10V=100%%
+T306=High at input (voltage at term. 52>8V)
+T307=Offset
+T308=Sign reversal
+T309=Smoothing
+T310=Analog input\nconnection
+T311=Digital inputs\n24V
+T312=Analog inputs\n+/-10V
+[FB0304]
+T300=Time constant
+T301=Standardization
+T302=Offset
+T303=11 bits+sign
+[FB0305]
+T300=Time constant
+T301=Standardization
+T302=Offset
+T303=11 bits+sign
+[FB0313]
+T300=Signal type
+T301=Hardware\nsmoothing\n220µs
+T302=13 bits+sign
+T303=Standardization
+T304=Time constant
+T305=10V=100%%\n20mA=100%
+T306=Open circuit (i<2mA)
+T307=Offset
+T308=Sign reversal
+T309=Smoothing
+T310=Analog input\nconnection
+[FB0314]
+T300=Digital input
+T301=Hardware\nsmoothing\n220µs
+T302=13 bits+sign
+T303=Standardization
+T304=Time constant
+T305=10V=100%%
+T306=High at input (voltage at term. 53>8V)
+T307=Offset
+T308=Sign reversal
+T309=Smoothing
+T310=Analog input\nconnection
+[FB0315]
+T300=Digital input
+T301=Hardware\nsmoothing\n220µs
+T302=13 bits+sign
+T303=Standardization
+T304=Time constant
+T305=10V=100%%
+T306=High am Eingang (Spannung an Kl. 53>8V)
+T307=Offset
+T308=Sign reversal
+T309=Smoothing
+T310=Analog input\nconnection
+T311=Digital inputs\n24V
+T312=Analog inputs\n+/-10V
+[FB0316]
+T300=Time constant
+T301=Standardization
+T302=Offset
+T303=11 bits+sign
+[FB0317]
+T300=Time constant
+T301=Standardization
+T302=Offset
+T303=11 bits+sign
+[FB0325]
+T300=Signal type
+T301=Hardware\nsmoothing\n220µs
+T302=11 bits+sign
+T303=Standardization
+T304=Time constant
+T305=10V=100%%\n20mA=100%
+T306=Open circuit (i<2mA)
+T307=Offset
+T308=Sign reversal
+T309=Smoothing
+T310=Analog input\nconnection
+[FB0326]
+T300=9 bits+sign
+T301=Uout=-10V ... +10V
+[FB0329]
+T300=Signaltyp
+T301=Hardware\nsmoothing\n220µs
+T302=11 bits+sign
+T303=Standardization
+T304=Time constant
+T305=10V=100%%\n20mA=100%
+T306=Open circuit (i<2mA)
+T307=Offset
+T308=Sign reversal
+T309=Smoothing
+T310=Analog input\nconnection
+[FB0330]
+T300=9 bits+sign
+T301=Uout=-10V ... +10V
+[FB0333]
+T300=+ Vpp
+T301=- Vpp
+T302=- Temp
+T303=+ Temp
+T304=Ground coarse/fine
+T305=Coarse pulse 1
+T306=Coarse pulse 2
+T307=Fine pulse 2
+T308=Track A +
+T309=Track A -
+T310=Track B +
+T311=Track B -
+T312=Zero pulse +
+T313=Zero pulse -
+T314=CTRL +
+T315=CTRL - =M
+[FB0334]
+T300=SLB configuration
+T301=Fault massage trigger
+T302=General\nsection
+T303=1="Fault F015"
+T304=Monitoring is activated after the first valid telegram
+T305=Dispatcher\nspecific\nsection
+T306=Module\naddress=0
+[FB0335]
+T300=SLB diagnosis
+T301=Dispatcher\nspecific\nsection
+T302=Modul\naddresse=0
+T303=Alarm massage trigger\n"SIMOLINK starting alarm"
+T304=1="Alarm A015"
+T305=Starting alarm
+T306=Time out
+[FB0336]
+T300=Word 1
+T301=Word 2
+T302=Word 3
+T303=Word 4
+T304=Word 5
+T305=Word 6
+T306=Word 7
+T307=Word 8
+T308=Word 9
+T309=Word 10
+T310=Word 11
+T311=Word 12
+T312=Word 13
+T313=Word 14
+T314=Word 15
+T315=Word 16
+T316=Special\ndata\n<1>
+T317=Receive\nSLB application flags
+T318=<1> Special data can only be transmitted\nby the SIMOLINK Master
+T319=B7100
+T320=B7115
+T321=B7200
+T322=B7215
+T323=B7300
+T324=B7315
+T325=B7400
+T326=B7415
+T327=B7500
+T328=B7515
+T329=B7600
+T330=B7615
+T331=B7700
+T332=B7715
+T333=B7800
+T334=B7815
+T335=B7900
+T336=B7915
+T337=Next screen
+T338=RxD Receive
+[FB0337]
+T300=Word 1
+T301=Word 2
+T302=Word 3
+T303=Word 4
+T304=Word 5
+T305=Word 6
+T306=Word 7
+T307=Word 8
+T308=Word 9
+T309=Word 10
+T310=Word 11
+T311=Word 12
+T312=Word 13
+T313=Word 14
+T314=Word 15
+T315=Word 16
+T316=Transmit\nSLB application flags
+T317=Channel 0
+T318=Channel 1
+T319=Channel 2
+T320=Channel 3
+T321=Channel 4
+T322=Channel 5
+T323=Channel 6
+T324=Channel 7
+
+[FB0340]
+T300=Return
+[FB0341]
+T300=Return
+[FB0342]
+T300=Return
+[FB0343]
+T300=Return
+[FB0344]
+T300=Return
+[FB0345]
+T300=Return
+[FB0346]
+T300=Return
+[FB0347]
+T300=Return
+[FB0348]
+T300=Return
+
+[FB0840]
+T300=Return
+[FB0841]
+T300=Return
+[FB0842]
+T300=Return
+[FB0843]
+T300=Return
+[FB0844]
+T300=Return
+[FB0845]
+T300=Return
+[FB0846]
+T300=Return
+[FB0847]
+T300=Return
+[FB0848]
+T300=Return
+[FB0849]
+T300=Return
+[FB0850]
+T300=Return
+[FB0851]
+T300=Return
+[FB0852]
+T300=Return
+[FB0853]
+T300=Return
+[FB0854]
+T300=Return
+[FB0855]
+T300=Return
+[FB0856]
+T300=Return
+[FB0857]
+T300=Return
+[FB0858]
+T300=Return
+[FB0859]
+T300=Return
+[FB0860]
+T300=Return
+[FB0861]
+T300=Return
+[FB0862]
+T300=Return
+[FB0863]
+T300=Return
+[FB0864]
+T300=Return
+[FB0865]
+T300=Return
+[FB0866]
+T300=Return
+[FB0867]
+T300=Return
+[FB0868]
+T300=Return
+[FB0869]
+T300=Return
+[FB0870]
+T300=Return
+[FB0871]
+T300=Return
+[FB0872]
+T300=Return
+[FB0873]
+T300=Return
+[FB0874]
+T300=Return
+[FB0875]
+T300=Return
+[FB0876]
+T300=Return
+[FB0877]
+T300=Return
+[FB0878]
+T300=Return
+[FB0879]
+T300=Return
+[FB0880]
+T300=Return
+[FB0881]
+T300=Return
+[FB0882]
+T300=Return
+[FB0883]
+T300=Return
+[FB0884]
+T300=Return
+[FB0885]
+T300=Return
+[FB0886]
+T300=Return
+[FB0887]
+T300=Return
+[FB0888]
+T300=Return
+[FB0889]
+T300=Return
+[FB0890]
+T300=Return
+
+[FB0903]
+T300=Switch-on/Shutdown
+[FB0904]
+T300=Enable operation
+[FB0905]
+T300=IRES
+[FB0910]
+T300=ON/OFF delay
+T301=Inversion
+T303=Power\nON
+T304=Line contactor
+[FB0911]
+T300=ON/OFF delay
+T301=Inversion
+T303=Power\nON
+T304=Line contactor
+[FB0912]
+T300=ON/OFF delay
+T301=Inversion
+T303=Power\nON
+T304=Line contactor
+[FB0913]
+T300=ON/OFf delay
+T301=Inversion
+T303=Power\nON
+T304=Line contactor
+[FB0914]
+T300=Resolution
+T301=Normalization
+T302=Offset
+T303=Hardware\nSmoothing 1ms
+T304=Filter time [ms]
+T305=Signal type
+T306=Open circuit (i=<2mA)
+T307=1="Fault F046"
+T308=Sign reversal
+T309=Filtering
+T310=Switch in\nanalog input
+T311=Analog\nselect input\nmain setpoint
+T317=10V=100%%\n20mA=100%%
+[FB0915]
+T300=Normalization
+T301=Offset
+T304=Filter time [ms]
+T307=Sign reversal
+T308=Filtering
+T309=Switch in\nanalog input
+T310=Analog\ninput\nmain\nactual value
+[FB0916]
+T300=Resolution
+T301=Normalization
+T302=Offset
+T303=Hardware\nGlättung 1ms
+T304=Filter time [ms]
+T305=Signal type
+T306=Open circuit (i=<2mA)
+T307=1="Fault F046"
+T308=Sign reversal
+T309=Filtering
+T310=Switch in\nanalog input
+T311=Analog\nselect input 1
+T316=Sign type
+T317=10V=100%%\n20mA=100%%
+[FB0917]
+T300=Analog\nselect input 2
+T301=1ms
+T302=10V=100%
+T303=Normalization
+T304=Offset
+T308=Filter time [ms]
+T311=Hardware-\nsmoothing
+T312=Sign reversal
+T313=Filtering
+[FB0918]
+T300=analog select\ninput 3
+T301=1ms
+T302=10V=100%
+T303=Normalization
+T304=Offset
+T307=Filter time [ms]
+T310=Hardware-\nsmoothing
+T311=Sign reversal
+T312=Filter time
+[FB0919]
+T302=Filter time
+T304=Normalization
+T305=Offset
+T306=Analog output 1
+[FB0920]
+T302=Filter time
+T304=Normalization
+T305=Offset
+T306=Analog output 2
+[FB0921]
+T302=Filter time
+T304=Normalization
+T305=Offset
+T306=Analog output 3
+[FB0922]
+T302=Filter time
+T304=Normalization
+T305=Offset
+T306=Analog output 4
+[FB0951]
+T300=Setpoint
+T301=Acceleration time
+T302=Deceleration time
+T303=Time difference
+T305=MOP min.
+T306=MOP max.
+T307=Ramp-function generator
+T308=Setpoint from MOP
+T309=Output=0
+T310=MOP Starting value
+T311=Acceleration/deceleration completed
+T313=Setting value
+T314=Decrease motorized potentiometer\nfrom control word 1
+T315=Increase motorized potentiometer\nfrom control word 1
+T316=Clockwise/Countercl.
+T317=Manuel/Automatic
+T318=Set motorized\npotentiometer
+[FB0952]
+T300=Select fixed setpoint 0\nfrom control word 2
+T301=Select fixed setpoint 1\nfrom control word 2
+T302= Select injection\nof fixed\nsetpoint
+T303=Select\nsetpoint
+T304=Bypass ramp-function generator\nto sheet "Ramp-function generator"
+[FB0953]
+T300=When forcing is active (select with P0510nd\npress P key), the square-wave generator is started with\nthe UP key (i.e. it begins with P480) and stopped with\nthe DOWN key (i.e. reset to0)
+T302=Forcing\n(select with P051=24 and press\nSELECT or P key, start with UP key\nand stop with DOWN key)
+T305=Time 1
+T306=Time 2
+T307=Setpoint 1
+T308=Setpoint 2
+[FB0954]
+T300=Inching, bit 0\nfrom control word 1
+T301=Inching, bit 1\nfrom control word 1
+T302=Bypass ramp-function generator\nto sheet "Ramp-function generator"
+T303=Select injection\nof inching\nsetpoint
+T304=On command\from INCH\n(to control word 1)
+T305=On command\n(from ON/OFF1\n"Crawing setpoint"
+T306=Select\nsetpoint
+[FB0955]
+T300=Selecteion for\nswitch-on/shut-down
+T301=Level/edge
+T302=Switch-on command\nfrom ON/OFF1\n(to control word 1)
+T303=Switch-on/shut-down\from terminal 37\n(from Sheet "Binary inputs 1")
+T304=to sheet\n"Ramp-function generator"
+T305=Selection for\nshut-down
+T306=Bypass ramp-function generator\nto sheet "Ramp-function generator"
+T307=Select\nincetction of\ncrawling setpoint
+T308=ON command from\nCRAWL\n(to control word 1)
+T309=Select\ncrawing setpoint
+T310=<1> Flip-Flops are reset when\nP445=0 
+[FB0956]
+T300=Enable positive direction of rotation from control word 1
+T301=Enable negative direction of rotation from control word 2
+T302=Minimum
+T304=to ramp-function generator input
+T305=no direction of rotation\nenabled
+T306=Maximum
+T307=<1> When P643.0x=9, the limit\nselected via P642.0x acts\nwith inverted sign as a\nnegative limit
+T309=<1>
+[FB0957]
+T300=Ramp-up time
+T301=Ramp-down time
+T302=Lower transition\nrounding
+T303=Upper transition\nrounding
+T304=RFG-setting 2
+T305=Ramp-up/down\ntime
+T306=Rounding
+T307=Parameter selection
+T308=Time difference
+T309=This changeover to RFG settings 2 and 3\nhas priority over the input of RFG setting 3\nby the starting integration control
+T310=RFG setting 3
+T311=from starting integrator control
+T312=Ramp-function\ngenerator input
+T313=RFG status
+T315=Ramp-function generator\nstart from control word 1
+T317=Enable setpoint from\ncontrol word 1
+T318=Setting value
+T320=RFG active to status word 2
+T321=1=operating status >=o1
+T322=Set ramp function generator (y=setting value)
+T323=Enable ramp-function generator from\ncontrol word 1 (with "0"-Signal: y=0)
+T324=Bypass ramp-function generator from\nsheets "Fixed setpoint", "Inching\nsetpoint","Crowling setpoint"
+T326=Enable changeover of starting inegrator
+T327=K0190
+T328=RFG output
+T329=B0161
+T330=Shutdown
+[FB0958]
+T300=Positive\nsetpoint limit
+T301=Minimum
+T302=Lowest positive\nsetpoint limit
+T303=Speed setpoint
+T304=Limitation after\nRFG has responded
+T305=Highest negative\nsetpoint limit
+T306=Maximum
+T307=<1>
+T308=negative\nsetpoint limit
+T309=<1> When P633.0x=9 the positive limit\nselected via P632.0x acts with inverted\nsign as negative limit
+[FB0959]
+T300=Automatic switchover\nof measuring time
+T301=Pulse encoder\nsupply
+T302=200 mA max.
+T303=Multiple\nevalution of\nencoder signals
+T304=Aut. switchover\nof multiple\nevaluation
+T305=Speed measurement
+T306=1="Fault F048"\nwith faul value 1
+T307=Track 1
+T308=Pulse encoder evalutaion
+T309=Maximum-\nspeed
+T310=Mearsuring\ntime
+T311=Fault in speed measurement\nwith pulse encoder
+T312=Track 2
+T313=Zero marker
+T314=Pulse encoder faulty
+T315=1="Fault F048"\nwith fault value 2
+T316=Adjustment to\npulse encoder\nsupply\n5V/15V\n(0/1)
+T317=Pulse\nencoder\type
+T318=No. of\nencoder\npulses
+T319=Pulse encoder\nmonitoring\nON/OFF
+T320=Postition sensing
+T321=Reset position counter\n(dependent on setting\nin parameter P450)\n(0=reset)
+T322=IRES (see also "Binary inputs 1")
+T323=Reset\nposition counter
+T324=Postion counter\nhysteresis
+T325=Enable counter\nfor zero markers\n(1=enable)
+T326=(see also sheet "Binary inputs 2)
+[FB0960]
+T300=Enable droop from\ncontrol word 2
+T301=n contr. Kp(act)
+T302=Master/Slave drive from control word 2:\nMake I component follow on slave drive\nso that M(set, n contr.)=M(set, limit) and set\nspeed setpoint=actual speed value (K0179)
+T303=K0166
+T305=dn(droop)
+T306=n contr. Kp1
+T307=n contr. Kp2
+T308=Adapt. point 1
+T309=Adapt. point 2
+T310=n contr. Tn
+T311=Fast stop
+T312=Smooth. n(act)
+T313=Main actual value
+T314=Fast stop
+T315=Speed controller\nsetpoint/act. va. deviation
+T316=Cont. dev.
+T317=Smooth. n(act)
+T318=n(act)
+T319=Actual value from\npulse encoder
+T320=Internal\nactual EMF\nvalue
+T321=T1
+T322=Tv
+T323=Stop I component when alphaG-limitation,\ncurrent limitaion, torque limitation, speed\nlimitation controller reached
+T324=Enable speed controller from\ncontrol word 2 and sequencing control
+T325=Friction and\moment of\ninertia\compensation
+T326=Switchover speed
+T327=K13
+T328=Switchover to\nP controller
+T329=Resonant frequency
+T330=Quality
+T331=Resonant frequency
+T332=n(act)
+T333=Quality
+T334=K40
+T335=M(set,n contr. )
+[FB0961]
+T300=K179
+T302=Friction characteristic
+T303=Friction moment\nand moment of inertia\ncompensation
+T304=Compensation of moment of inertia (dv/dt injection)
+T305=dv/dt * P542\nfrom ramp-function generator
+T306=K191
+T307=Filter time
+T308=n controller setpoint
+T309=K168
+T310=Enable dv/dt\ninjection
+T311=Setp./act. val. diff.
+T312=K164
+T313=Threshold
+[FB0962]
+T300=Changeover speed
+T301=K166
+T302=Absolute actual speed
+T303=<2>
+T304=K290
+T305=Motor flux
+T306=Minimum
+T307=Master/Slave drive\nfrom control word 2\n(0=master, 1=slave)
+T308=Rated motor current\n-----------------------\nRated converter current
+T310=<1>
+T311=Maximim
+T312=Motor flux
+T313=K148
+T314=B111
+T315=<1> When P606.0x=9 the positive limit\nselected via P605.0x acts with inverted\nsing as a negative limit
+T316=<2> With this Parameters, 100%% corresponds\nto the rated armature current (P100)
+[FB0963]
+T301=n(max,neg. rot)
+T302=Kp
+T303=n(max.pos. rot)
+T304=Limit controller aktive
+T305=Speed limit controller
+T306=Motor flux
+T307=K290
+T308=Iset
+T309=Changeover between\ncurrent control\nand torque control
+[FB0964]
+T300=Shutdown
+T301=B161
+T302=Absolute actual speed
+T303=K166
+T304=Speed-depend. current limit
+T305=Emergency stop
+T306=B111
+T307=Minimum
+T308=pos. current limit
+T309=I^2 t monitoring of\npower selection
+T310=Minimum
+T311=Lowest pos.\ncurrent limit\n"+la_limit"
+T312=Armature current controller\nsetpoint before current limitaion
+T313=Minimum
+T314=Armature\ncurrent setpoint
+T315=K147
+T316=Current limitaion\nactive
+T317=9=neg. signal effective\nacc. to P603.xx
+T318=Maximum
+T319=Maximum
+T320=Highest pos.\ncurrent limit\n"-la_limit"
+T321=neg. current\nlimit
+T322=1Q/4Q converter
+T323=(4Q converter)
+T324=(1Q converter)
+T325=With parameters P171 und P172,\n 100%% corresponds to the\nrated motor armature current (P100)
+[FB0965]
+T300=Motor flux
+T301=K290
+T302=Actual torque
+T303=Absolut actual\naramture current
+T304=Changeover\nthreshold
+T305=Requested torque direction
+T306="Enable a torque\ndirection with torque\ndirection changeover"
+T307=0...Enable signal for M0 or MII\n1...Enable signal for M0 or MI
+T308=I=0 signal
+T309=Average value over\n6 current peaks
+T310=Average value over\n1 current peak
+T311=Internal actual armature current
+T312=Actual value
+T313=Current controller-armature
+T314=Auto-reversing stage
+T315=Enabled torque direction\nfor parallel drive
+T316=Switchover between reduced\ngearbox stressing and\ncurrent setpoint integrator
+T317=Setpoint
+T318=I component:=0
+T319=0=Reset\nP comp.
+T320=0=Reset\nI comp.
+T321=Armature\ngating unit
+T322=Set armature current
+T323=K120
+T324=Acceleration time for\nreduced gearbox stressing or\ncurrent setpoint integrator
+T325=Shutdown
+T326=B161
+T327=Fast stop
+T328=B111
+T329=Control word\narmature precontrol
+T330=EMF controller precontrol
+T331=Line voltage (armature)
+T332=K305
+T333=Current limitation
+T334=B200
+T335=Limitation controller
+T336=B201
+T337=Upper torque limit
+T338=B202
+T339=Lower torque limit active
+T340=B203
+T341=Limitation\nactive on\nspeed controller
+T342=Correction of\nzero passages
+T344=Short/long\npulses
+T345=Measured actual EMF value
+T346=K123
+T347=Calculated EMF
+T348=K124
+T349=Filtering/\naveraging
+T350=Requested torque direction
+T351=Line frequenz
+T352=K306
+T353=Armature circuit\nresistance
+T354=Armature circuit\ninductance
+[FB0966]
+T300=Ra
+T301=EMF
+T302=Minimum
+T303=Rated motor\nfield current
+T304=Minimum
+T305=Actual value
+T306=EMF controller
+T307=Setpoint
+T308=ua...measured armature voltage\nia...measured armature current
+T309=Stop I component
+T310=Ia_rated
+T311=Ua_rated
+T312=0=Reset\nP component to zero
+T313=0=Reset\nI component to zero
+T315=P151-5 degrees\nor (pulsating)\n165 degrees-5 degrees
+T316=EMF controller\nprecontrol
+T317=Maximum
+T318=alpha
+T319=K101
+T320=Automatic field reducion if\nEMF too high for braking operation
+T321=Absolute actual speed
+T322=K166
+T323=EMF_rated
+T324=n_rated
+T325=Minimum
+T326=With operating status>=o10:\nSetpoint upper limit="old" K265
+T327=With operating status>05:\nSetpoint upper limit=200%%\n("Release")
+T328=Minimum motor\nfield current
+T329=La
+T333=Field current\nsetpoint limitation
+T334=Next screen
+[FB0967]
+T300=K268
+T301=K293
+T302=Motor flux
+T303=Internal actual\nfield current
+T304=Actual value
+T305=Current controller field
+T306=alpha_G or alpha_W\nlimitation reached
+T307=Stop\nI component
+T308=0=Reset\nP comp.
+T309=0=Reset\nI comp.
+T310=Field current setpoint
+T311=K275
+T312=Standstill field
+T313=Firing pulse 1/3
+T314=Firing pulse 2/4
+T315=Line contactor CLOSED
+T316=B124
+T317=Line voltage (field)
+T318=K304
+T319=Field precontrol
+T320=Next screen
+T321=1=Disable field firing pulse
+[FB0968]
+T300=B2100
+T301=B2115
+T302=B2200
+T303=B2215
+T305=B2300
+T306=B2315
+T307=B2400
+T308=B2415
+T309=B2500
+T310=B2515
+T311=B2600
+T312=B2615
+T313=B2700
+T314=B2715
+T315=B2800
+T316=B2815
+T317=B2900
+T318=B2915
+T319=Next screen
+T320=P780 (2)
+T321=P787 (0.000s)
+T322=P786 (0)
+T323=P783 (6)
+T324=P781 (2)
+T325=P782 (127)
+T326=r789
+T327=P927
+T328=1="Fault F011"
+T329=fault message trigger
+T330=Word 1
+T331=Word 2
+T332=Word 3
+T333=Word 4
+T334=Word 5
+T335=Word 6
+T336=Word 7
+T337=Word 8
+T338=Word 9
+T339=Word 10
+T340=Word 11
+T341=Word 12
+T342=Word 13
+T343=Word 14
+T344=Word 15
+T345=Word 16
+T346=USS On/Off
+T347=Telegram monitoring time
+T348=Slave address
+T349=Baud rate
+T350=Length process data
+T351=Length parameter data
+T352=USS diagnostic parameter
+T353=Enable parameterization
+T354=Process Data\nto USS interface
+T355=Binector/connector\nconverter
+[FB0969]
+T300=B6100
+T301=B6115
+T302=B6200
+T303=B6215
+T305=B6300
+T306=B6315
+T307=B6400
+T308=B6415
+T309=B6500
+T310=B6515
+T311=B6600
+T312=B6615
+T313=B6700
+T314=B6715
+T315=B6800
+T316=B6815
+T317=B6900
+T318=B6915
+T319=Next screen
+T320=P790 (0)
+T321=P797 (0.000s)
+T322=P796 (0)
+T323=P793 (6)
+T324=P791 (2)
+T325=P792 (127)
+T326=r799
+T327=P927
+T328=1="Fault F012"
+T329=Fault message trigger
+T330=Word 1
+T331=Word 2
+T332=Word 3
+T333=Word 4
+T334=Word 5
+T335=Word 6
+T336=Word 7
+T337=Word 8
+T338=Word 9
+T339=Word 10
+T340=Word 11
+T341=Word 12
+T342=Word 13
+T343=Word 14
+T344=Word 15
+T345=Word 16
+T346=USS On/Off
+T347=Telegram monitoring timeout
+T348=Slave address
+T349=Baud rate
+T350=Length process data
+T351=Lenght parameter data
+T352=USS diagnostic parameter
+T353=Enable parameterization
+T354=Process data\nto USS interface
+T355=Binector/connector\nconverter
+[FB0970]
+T300=B9100
+T301=B9115
+T302=B9200
+T303=B9215
+T305=B9300
+T306=B9315
+T307=B9400
+T308=B9415
+T309=B9500
+T310=B9515
+T311=B9600
+T312=B9615
+T313=B9700
+T314=B9715
+T315=B9800
+T316=B9815
+T317=B9900
+T318=B9150
+T319=Next screen
+T320=P800 (0)
+T321=P807 (0.000s)
+T322=P806 (0)
+T323=P803 (6)
+T324=P801 (2)
+T325=P802 (127)
+T326=r809
+T327=P927
+T328=1="Fault F013"
+T329=Fault message trigger
+T330=Word 1
+T331=Word 2
+T332=Word 3
+T333=Word 4
+T334=Word 5
+T335=Word 6
+T336=Word 7
+T337=Word 8
+T338=Word 9
+T339=Word 10
+T340=Word 11
+T341=Word 12
+T342=Word 13
+T343=Word 14
+T344=Word 15
+T345=Word 16
+T346=USS On/Off
+T347=Telegram monitoring time
+T348=Slave address
+T349=Baud rate
+T350=Lenght process data
+T351=Lenght parameter data
+T352=USS diagnostic parameter
+T353=Enable parameterization
+T354=Process data\nto USS interface
+T355=Binector/Connector\nconverter
+[FB0971]
+T300=Receive data
+T301=Transmit data
+T302=Word 1
+T303=Word 2
+T304=Word 3
+T305=Word 4
+T306=Word 5
+T307=P790 (0)
+T308=P797 (0.000s)
+T309=P793 (6)
+T310=P791 (2)
+T311=r799
+T312=Peer-to-Peer On/Off
+T313=Telegram monitoring time
+T314=Baud rate
+T315=No. of Words (1...5)
+T316=Peer-to-Peer-diagnostic parameter
+T317=B6100
+T318=B6115
+T319=B6200
+T320=B6215
+T321=B6300
+T322=B6315
+T323=B6400
+T324=B6415
+T325=B6500
+T326=B6515
+T327=Next screen
+T328=Parameters for\nPeer-to-Peer-interface:
+T329=Bus terminator
+T330=from preceding\ndrive
+T331=to following\ndrive
+T332=<1> Binector=0:\nOutput drives are high resistance
+T333=<2> Binector=0:\nTelegram sign-of-life monitoring is not active
+T334=Fault signal trip
+T335=1="Fault F012"
+T336=Binector/connektor\nconverter
+T337=K6020
+[FB0972]
+T300=Receive data
+T301=Transmit data
+T302=Word 1
+T303=Word 2
+T304=Word 3
+T305=Word 4
+T306=Word 5
+T307=P800 (0)
+T308=P807 (0.000s)
+T309=P803 (6)
+T310=P801 (2)
+T311=r809
+T312=Peer-to-Peer On/Off
+T313=Telegram monitoring time
+T314=Baud rate
+T315=No. of words (1...5)
+T316=Peer-to-Peer diagnostic parameter
+T317=B9100
+T318=B9115
+T319=B9200
+T320=B9215
+T321=B9300
+T322=B9315
+T323=B9400
+T324=B9415
+T325=B9500
+T326=B9515
+T327=Next screen
+T328=Parameters for\npeer-to-peer interface:
+T329=Bus terminator
+T330=from preceding\ndrive
+T331=to following\ndrive
+T332=<1> Binector=0:\nOutput drivers are high resistance
+T333=<2> Binektor=0:\nTelegram sign-of-life monitoring is not active
+T334=Fault signal trip
+T335=1="Fault F013"
+T336=Binector/connector\nconverter
+T337=K8020
+[FB0973]
+T300=Receive data
+T301=Word 1
+T302=Word 2
+T303=Word 3
+T304=Word 4
+T305=Word 5
+T306=Word 6
+T307=Word 7
+T308=Word 8
+T309=Word 9
+T310=Word 10
+T311=Word 11
+T312=Word 12
+T313=Word 13
+T314=Word 14
+T315=Word 15
+T316=Word 16
+T317=Transmit data
+T318=from supplementary board
+T319=to supplementary board
+T320=Message monitoring for received process data:
+T321=1="Telegram monitoring timeout"
+T322=Fault message trigger
+T323=1="Fault F082"
+T324=B3100
+T325=B3115
+T326=B3200
+T327=B3215
+T328=B3300
+T329=B3315
+T330=B3400
+T331=B3415
+T332=B3500
+T333=B3515
+T334=B3100
+T335=B3115
+T336=B3200
+T337=B3215
+T338=B3300
+T339=B3315
+T340=B3400
+T341=B3415
+T342=Next screen
+T343=Next screen
+[FB0974]
+T300=Receive data
+T301=Word 1
+T302=Word 2
+T303=Word 3
+T304=Word 4
+T305=Word 5
+T306=Word 6
+T307=Word 7
+T308=Word 8
+T309=Word 9
+T310=Word 10
+T311=Word 11
+T312=Word 12
+T313=Word 13
+T314=Word 14
+T315=Word 15
+T316=Word 16
+T317=Transmit data
+T318=from supplementary board
+T319=to supplementary board
+T320=Message monitoring for received process data:
+T321=1="Telegram monitoring timeout"
+T322=Fault message trigger
+T323=1="Fault F082"
+T324=B8100
+T325=B8115
+T326=B8200
+T327=B8215
+T328=B8300
+T329=B8315
+T330=B8400
+T331=B8415
+T332=B8500
+T333=B8515
+T334=B8100
+T335=B8115
+T336=B8200
+T337=B8215
+T338=B8300
+T339=B8315
+T340=B8400
+T341=B8415
+T342=Next screen
+T343=Next screen
+[FB0975]
+T300=Copy function data set
+T301=Switchover between function parameters
+T302=active function data set
+T303=011...244
+T304=Function data set bit 0\nfrom control word 2
+T305=Parameter-\nnumber
+T306=Index 1
+T307=Index 2
+T308=Index 3
+T309=Index 4
+T310=Target data set (1...4)
+T311=Source data set (1...4)
+T312=Function data set bit 1\nfrom control word 2
+T313=Note:\nThe applicable parameters\nare identified by the\ncode ".F"
+T314=Switchover between binector\nand connector parameters
+T315=Active Bico data set
+T316=Copy Bico data set
+T317=011...222
+T318=Bico data set\nfrom control word 2
+T319=Parameter-\nnumber
+T320=Index 1
+T321=Index 2
+T322=Target data set (1/2)
+T323=Source data set (1/2)
+T324=Note:\nThe applicable parameters\nare identified by the\ncode ".F"
+[FB0976]
+T300=Switch-on command from\nON/OFF 1
+T301=P648=9: bit-serial input of control bits (P654 to 675 are effectiv)\nP648<>9:word-serial input of control bits (P654 bis 675 are not effective)
+T302=Switch-on command from CRAWL
+T303=Switch-on command from INCHING
+T304=Bit No.
+T305=Bit 0
+T306=Bit 1
+T307=Bit 2
+T308=Bit 3
+T309=Bit 4
+T310=Bit 5
+T311=Bit 6
+T312=Bit 7
+T313=Bit 8
+T314=Bit 9
+T315=Bit 10
+T316=Bit 11
+T317=Bit 12
+T318=Bit 13
+T319=Bit 14
+T320=Bit 15
+T321=Meaning
+T322=0=OFF 1, shutdown via ramp-function generator followed by pulse disable\n1=ON, operating condition (edge-controlled)
+T323=0=OFF 2, pulse disable, motor coasts to standstill\n1=operating condition 
+T324=0=OFF 3, fast stop\n1=operating condition
+T325=1=Enable, enable pulses\n0=pulse disable
+T326=1=Enable ramp-function generator\nSet ramp-function generator to 0
+T327=1=Ramp-function generator start\n0=Ramp-function generator stop
+T328=1=Enable setpoint\n0=Disable setpoint
+T329=0=>1 edge Acknowledge
+T330=1=Inching bit 0
+T331=1=Inching bit 1
+T332=1=Control requested <1>\n0=No control requested
+T333=1=Enable positive direction of rotation\n0=Positive direction of rotation disabled
+T334=1=Enable negative direction of rotation\n0=Negative direction of rotation disabled
+T335=1=Increase motorized potentiometer
+T336=1=Decrease motorized potentiometer
+T337=0=External fault 1 (F021)\n1=No external fault
+T338=Enable operation\n(from sheet "Binary inputs 1")
+T339=E-Stop 
+T340=150ms
+T341=Pulse generator
+T342=Control word 1
+T343=to sequencing control,\nto brake control
+T344=to sequencing control
+T345=to sequencing control,\nto brake control
+T346=to sequencing control
+T347=to sheet "Ramp-function generator"
+T348=to sheet "Ramp-function generator"
+T349=to sheet "Ramp-function generator"
+T350=to sequencing control
+T351=to sheet "Inching setpoint"
+T352=to sheet "Inching setpoint"
+T353=to sheet "Setpoint processing"
+T354=to sheet "Setpoint processing"
+T355=to sheet "Motorized potentiometer"
+T356=to sheet "Motorized potentiometer"
+T357=External fault 1
+T358=1="Fault F021"
+T360=<1>\Note:\nBit 10 must be set in the first PZD word\not the telegram received via the serial\ninterfaces to ensure that the process data\nwill be accepted as valid (cf. USS,\nProfibus, etc.)
+[FB0977]
+T300=When P649=9: bit-serial input of control bits (P679 to P691 are effective)\nWhen P649<>9: word-serial input of control bits (P676 to P691 are not effective)
+T301=Bit No.
+T302=Bit 16
+T303=Bit 17
+T304=Bit 18
+T305=Bit 19
+T306=Bit 20
+T307=Bit 21
+T308=Bit 22
+T309=Bit 23
+T310=Bit 24
+T311=Bit 25
+T312=Bit 26
+T313=Bit 27
+T314=Bit 28
+T315=Bit 29
+T316=Bit 30
+T317=Bit 31
+T318=Meaning
+T319=Select function data set bit 0
+T320=Select function data set bit 1
+T321=Spare
+T322=Spare
+T323=Select fixed setpoint 0
+T324=Select fixed setpoint 1
+T325=Spare
+T326=Spare
+T327=1=Enable speed controller droop\n0=Speed sontroller droop disabled
+T328=1=Enable speed sontroller\n0=Speed controller disabled
+T329=0=External fault 2\n1=No external fault 2
+T330=0=Master drive (speed control)\n1=Slave drive (torque control)
+T331=0=External alarm 1 (A021)\n1=No external alarm 1
+T332=0=External alarm 2 (A022)\n1=No external alarm 2
+T333=0=Select Bico data set 1\n1=Select Bico data set 2
+T334=Mein contactor check-back signal
+T335=Control word 2
+T336=to sheet "Data sets"
+T337=to sheet "Data sets"
+T338=to sheet "Fixed setpoint"
+T339=to sheet "Fixed setpoint"
+T340=to sheet "Speed controller"
+T341=to sheet "Speed controller"
+T342=to sheet "Torque limitation" and\n"Speed controller"
+T343=to sheet "Data sets"
+T344=to sequencing control
+T345=External fault 2
+T346=1="Fault F022"
+T347=external alarm 1
+T348=1="Alarm A021"
+T349=external alarm 2
+T350=1="Alarm A022"
+[FB0978]
+T300=Bit No.
+T301=Bit 0
+T302=Bit 1
+T303=Bit 2
+T304=Bit 3
+T305=Bit 4
+T306=Bit 5
+T307=Bit 6
+T308=Bit 7
+T309=Bit 8
+T310=Bit 9
+T311=Bit 10
+T312=Bit 11
+T313=Bit 12
+T314=Bit 13
+T315=Bit 14
+T316=Bit 15
+T317=Meaning
+T318=1=Ready to switch on\n0=Not ready to switch on
+T319=1=Ready to operate (pulses disabled)\n0=Not ready to operate
+T320=1=Run  (output terminals energized)\n0=Pulse disabled
+T321=1=Fault is active (pulses disabled)\n0=No fault is active
+T322=0=OFF2 applied\n1=No OFF2 applied
+T323=0=OFF3 applied\n1=No OFF3 applied
+T324=1=Switch-on inhibit\n0=No switch-on inhibit (converter can be switched on)
+T325=1=Alarm is active\n1=No alarm ist active
+T326=0=Setpoint/actual value deviation detected\n1=No setpoint/actual value deviation detected
+T327=1=PZD control requests (always 1)
+T328=1=Comparison setpoint reached\n0=Comparison setpoint not reached
+T329=1=Undervoltage fault\n0=No undervoltage fault is active
+T330=1=Request to energize main contactor\n0=Request not to energize main contactor
+T331=1=Ramp-function generator active\n0=Ramp-function generator not active
+T332=1=Positive speed setpoint\n0=Negative speed setpoint
+T333=Spare
+T334=from sequencing control
+T335=from sequencing control
+T336=from sequencing control
+T337=from fault processing
+T338=from sequencing control
+T339=from sequencing control
+T340=from sequencing control
+T341=from alarm processing
+T342=from sheet "Signals"
+T343=from sequencing control
+T344=from sheet "Signals"
+T345=from fault processing
+T346=from sequencing control
+T347=from setpoint processing (part 2)
+T348=from sheet "Signals"
+T349=Status word 1
+[FB0979]
+T300=Bit No.
+T301=Bit 16
+T302=Bit 17
+T303=Bit 18
+T304=Bit 19
+T305=Bit 20
+T306=Bit 21
+T307=Bit 22
+T308=Bit 23
+T309=Bit 24
+T310=Bit 25
+T311=Bit 26
+T312=Bit 27
+T313=Bit 28
+T314=Bit 29
+T315=Bit 30
+T316=Bit 31
+T317=Meaning
+T318=Spare
+T319=Spare
+T320=0=Overspeed (A038 and F038)\n1=No overspeed
+T321=1=External fault 1 active (F021)\n0=No external fault 1 active
+T322=1=External fault 2 active (F022)\n0=No external fault 2 active
+T323=1=External alarm active  (A021 und A022)\n0=No external alarm active
+T324=1=Power section overload alarm active (A039)\n0=No overload alarm active
+T325=1=Power section overtemperature fault active (F067)\n0=No overtemperature fault active
+T326=1=Power section overtemperature alarm active (A067)\n0=No overtemperature alarm active
+T327=1=Motor overtemperature alarm active (A029)\n0=No motor overtemperature alarm active
+T328=1=Motor overtemperature fault active (F029)\n0=No motor overtemperature fault active
+T329=Spare
+T330=1=Motor locked fault active (F035)\n0=No motor locked fault active
+T331=Spare
+T332=Spare
+T333=Spare
+T336=from sheet "Signals"
+T337=from sequencing control
+T338=from sequencing control
+T339=from sequencing control
+T340=from alarm processing
+T341=from fault processing
+T342=from alarm processing
+T343=from alarm processing
+T344=from fault processing
+T345=from fault processing
+T346=from fault processing
+T349=Status word 2
+[FB0980]
+T300=(PTC Alarm) 01:1\n(PTC trip) 02:1\n(KTY84) 15:1
+T301=Motor temperature\nfault analog 1
+T302=Motor temperature\nalarm analog 1
+T303=Motor temperature\nalarm (analog)
+T304=1="Alarm A029"
+T305=(PTC alarm) 01:1\n(PTC trip) 02:1\n(KTY84) 15:1
+T306=Motor temperature\nfault analog 2
+T307=Motor temperature\nfault (analog)
+T308=1="Fault F029"
+T309=Motor temperature\nanalog 2
+[FB0981]
+T300=Brush length\nmonitoring (binary)\n0=Fault
+T301=For display of terminal states\non 7-segment display, see\nblock diagram "Binary inputs (1)"
+T302=<1> If parameter is set to 0, the associated\nbinary input can be used as a select input\nfor any desired application
+T303=10s ON delay
+T304=<1>
+T305=Brush length alarm (binary)
+T306=1="Alarm A025"
+T307=Brush length fault (binary)
+T308=1="Fault F025"
+T309=Bearing condition\nmonitoring (binary\n1=Fault
+T310=2s ON delay
+T311=Bearing condition\nalarm (binary)
+T312=1="Alarm A026"
+T313=Bearing condition fault (binary)
+T314=1="Fault F026"
+T315=Motor fan\nmonitoring (binary)
+T316=Air-flow\nmonitor
+T317=Operating\nstatus <o6
+T318=40s ON delay
+T319=Motor fan alarm
+T320=1="Alarm A027"
+T321=Motor fan fault
+T322=1="Fault F027"
+T323=Motor temperature\nmonitoring (binary)\n0=Fault
+T324=10s ON delay
+T325=Motor temperature alarm (binary)
+T326=1="Alarm A028"
+T327=Motor temperature fault (binary)
+T328=1=Fault F028"
+T329=SPM\nAlarm box
+[FB0982]
+T300=OFF delay
+T301=Setpoint/act. value deviation\nto status word 1, bit 8
+T302=0="Fault F031"
+T303=0="Alarm A031"
+[FB0983]
+T300=OFF delay
+T301=Comparison setpoint reached\nto status word 1, bit 10
+[FB0984]
+T300=OFF1 or OFF3 from\nsequencing control
+T301=OFF delay
+T302=Firing pulse disable
+[FB0985]
+T300=Positive speed setpoint\nto status word 1, bit 14
+[FB0986]
+T300=1="Fault F038"
+T302=1="Alarm A038"
+T303=Overspeed to\nstatus word 2, bit 18
+[FB0987]
+T300=Fault trip from\nsequencing control
+T301=Fault time (hours run)
+T302=Fault No.
+T303=Fault value
+T304=Operation from\nsequencing control
+T305=Hours\nrun\nmeter
+T306=Hours run
+T307=Current fault
+T308=1. acknowledged fault
+T309=2. acknowledged fault
+T310=3. acknowledged fault
+T311=4. acknowledged fault
+T312=5. acknowledged fault
+T313=6. acknowledged fault
+T314=7. acknowledged fault
+[FB0988]
+T300=Internal summation\nfiring pulse
+T301=Summeration firing pulse
+T302=Internal firing pulse
+T303=from Master
+T304=Torque direction\nthyristor selection
+T305=Imp.,alpha
+T306=Firing pulse
+T307=from Master
+T308=Word 1
+T309=Word 2
+T310=Word 3
+T311=Word 4
+T312=Word 5
+T313=from Slave 3
+T314=from Slave 2
+T315=from Slave 4
+T316=from Slave 5
+T317=from Slave 6
+T318=CLK to Slaves
+T319=CLK from Master
+T320=Parameters for paralleling interface:
+T321=U800 (0)
+T322=U806 (2)
+T323=U807 (0,000s)
+T324=n809
+T325=n810
+T326=On/Off
+T327=Bus address
+T328=Telegram monitoring time
+T329=Diagnostic parameter
+T330=Display active slaves
+T331=Fault signal trip
+T332=1="Fault F014"
+T333=1="Telegram monitoring\ntimeout"
+T334=B6220
+T335=B6235
+T336=B6320
+T337=B6335
+T338=B6420
+T339=B6435
+T340=B6520
+T341=B6535
+T342=B6620
+T343=B6635
+T344=Next screen
+T345=Internal firing pulse
+[FB0989]
+T300=U710 Index.01
+T301=U711-U720 Index.01
+T302=U721 Index.01-.05
+T303=n732 Index.01-.32
+T304=n738 Index.01-.04
+T305=n738 Index.09-.12
+T306=n739 Index.01-.04
+T307=n739 Index.09-.12
+T308=P918 Index.01
+T309=P927
+T310=Initialize link to supplementary boards
+T311=CB parameters 1 to 10
+T312=CB parameter 11
+T313=CB or TB diagnose
+T314=Display parameter job (PKW) from CB
+T315=Display parameter job (PKW) from TB
+T316=Display parameter response (PKW) to CB
+T317=Display parameter response (PKW) to TB
+T318=Bus address
+T319=Enable parameterization
+T320=Return
+[FB0990]
+T300=U710 Index.02
+T301=U711-U720 Index.02
+T302=U721 Index.06-.10
+T303=n732 Index.33-.64
+T304=n738 Index.05-.08
+T305=n739 Index.05-.08
+T306=P918 Index.02
+T307=P927
+T310=Initialize link to supplementary boards
+T311=CB parameters 1 to 10
+T312=CB parameter 11
+T313=CB or TB-Diagnose
+T314=Displayparameter job (PKW) from CB
+T315=Display parameter response (PKW) to CB
+T316=Bus address
+T317=Enable parameterization
+T320=Return
+[FB0992]
+T300=Return
+T301=100%%
+[FB0993]
+T300=Return
+T301=100%%
+[FB0994]
+T300=Control logic\nfor\nfield reversal
+[FB0995]
+T300=Automatical restart
+T301=B104
+T302=Priority:\n1. RESET\n2. SET
+T303=B164
+T304=1=n<n_min
+T305=OFF1 or OFF3\nfrom sequencing control
+T306=Firing pulse disable\n(1=firing pulse disabled)

@@ -1,0 +1,2538 @@
+0002
+Drive state                     
+Commissioning mode (P0010 != 0) 
+Drive ready                     
+Drive fault active              
+Drive starting (Vdc precharging)
+Drive running                   
+Stopping (ramping down)         
+0003
+User access level               
+User defined parameter list     
+Standard                        
+Extended                        
+Expert                          
+Service: Password protected     
+0004
+Parameter filter                
+All parameters                  
+not defined                     
+Inverter                        
+Motor                           
+not defined                     
+not defined                     
+not defined                     
+Commands, binary I/O            
+ADC and DAC                     
+not defined                     
+Setpoint channel / RFG          
+not defined                     
+Drive features                  
+Motor control                   
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Communication                   
+Alarms / warnings / monitoring  
+Technology controller (e.g. PID)
+0005
+Display selection               
+0006
+Display mode                    
+Alternate: Setpoint / Outp freq.
+Ready: Setpoint Run: Outp. freq.
+Alternate: P0005 / r0020        
+Alternate: r0002 / r0020        
+Always display P0005            
+0007
+Backlight delay time            
+0010
+Commissioning parameter filter  
+Ready                           
+Quick commissioning             
+Inverter                        
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Download                        
+Factory setting                 
+0011
+Lock for user defined parameter 
+0012
+Key for user defined parameter  
+0013
+User defined parameter          
+0018
+Firmware version                
+0019
+CO/BO: BOP control word         
+ON/OFF1 NO                      
+ON/OFF1 YES                     
+OFF2: Electrical stop YES       
+OFF2: Electrical stop NO        
+OFF3: Fast stop YES             
+OFF3: Fast stop NO              
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+JOG right NO                    
+JOG right YES                   
+JOG left NO                     
+JOG left YES                    
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Reverse (setpoint inversion) NO 
+Reverse (setpoint inversion) YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Motor potentiometer MOP up NO   
+Motor potentiometer MOP up YES  
+Motor potentiometer MOP down NO 
+Motor potentiometer MOP down YES
+0020
+CO: Act. frequency setpoint     
+0021
+CO: Act. frequency              
+0022
+Act. rotor speed                
+0024
+CO: Act. output frequency       
+0025
+CO: Act. output voltage         
+0026
+CO: Act. DC-link voltage        
+0027
+CO: Act. output current         
+0034
+CO: Motor temperature (i2t)     
+0036
+CO:Inverter overload utilization
+0037
+CO: Inverter temperature [°C]   
+0039
+CO: Energy consumpt. meter [kWh]
+0040
+Reset energy consumption meter  
+No reset                        
+Reset r0039 to 0                
+0052
+CO/BO: Act. status word 1       
+Drive ready NO                  
+Drive ready YES                 
+Drive ready to run NO           
+Drive ready to run YES          
+Drive running NO                
+Drive running YES               
+Drive fault active NO           
+Drive fault active YES          
+OFF2 active YES                 
+OFF2 active NO                  
+OFF3 active YES                 
+OFF3 active NO                  
+ON inhibit active NO            
+ON inhibit active YES           
+Drive warning active NO         
+Drive warning active YES        
+Deviation setp. / act. value YES
+Deviation setp. / act. value NO 
+PZD control NO                  
+PZD control YES                 
+Maximum frequency reached NO    
+Maximum frequency reached YES   
+Warning: Motor current limit YES
+Warning: Motor current limit NO 
+Motor holding brake active NO   
+Motor holding brake active YES  
+Motor overload YES              
+Motor overload NO               
+Motor runs direction right NO   
+Motor runs direction right YES  
+Inverter overload YES           
+Inverter overload NO            
+0053
+CO/BO: Act. status word 2       
+DC brake active NO              
+DC brake active YES             
+Act. freq. r0024   >  P2167 NO  
+Act. freq. r0024   >  P2167 YES 
+Act. freq. r0024   >  P1080 NO  
+Act. freq. r0024   >  P1080 YES 
+Act. current r0027 >= P2170 NO  
+Act. current r0027 >= P2170 YES 
+Act. freq. r0024   >  P2155 NO  
+Act. freq. r0024   >  P2155 YES 
+Act. freq. r0024   <= P2155 NO  
+Act. freq. r0024   <= P2155 YES 
+Act. freq. r0024 >= setpoint NO 
+Act. freq. r0024 >= setpoint YES
+Act. Vdc r0026 <  P2172 NO      
+Act. Vdc r0026 <  P2172 YES     
+Act. Vdc r0026 >  P2172 NO      
+Act. Vdc r0026 >  P2172 YES     
+Ramping finished NO             
+Ramping finished YES            
+PID output r2294  <  P2291 NO   
+PID output r2294  <  P2291 YES  
+PID output r2294  >= P2291 NO   
+PID output r2294  >= P2291 YES  
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Download data set 0 from AOP NO 
+Download data set 0 from AOP YES
+Download data set 1 from AOP NO 
+Download data set 1 from AOP YES
+0054
+CO/BO: Act. control word 1      
+ON/OFF1 NO                      
+ON/OFF1 YES                     
+OFF2: Electrical stop YES       
+OFF2: Electrical stop NO        
+OFF3: Fast stop YES             
+OFF3: Fast stop NO              
+Pulse enable NO                 
+Pulse enable YES                
+RFG enable NO                   
+RFG enable YES                  
+RFG start NO                    
+RFG start YES                   
+Setpoint enable NO              
+Setpoint enable YES             
+Fault acknowledge NO            
+Fault acknowledge YES           
+JOG right NO                    
+JOG right YES                   
+JOG left NO                     
+JOG left YES                    
+Control from PLC NO             
+Control from PLC YES            
+Reverse (setpoint inversion) NO 
+Reverse (setpoint inversion) YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Motor potentiometer MOP up NO   
+Motor potentiometer MOP up YES  
+Motor potentiometer MOP down NO 
+Motor potentiometer MOP down YES
+Local / Remote NO               
+Local / Remote YES              
+0055
+CO/BO: Add. act. control word   
+Fixed frequency Bit 0 NO        
+Fixed frequency Bit 0 YES       
+Fixed frequency Bit 1 NO        
+Fixed frequency Bit 1 YES       
+Fixed frequency Bit 2 NO        
+Fixed frequency Bit 2 YES       
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+PID enabled NO                  
+PID enabled YES                 
+DC brake enabled NO             
+DC brake enabled YES            
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+External fault 1 YES            
+External fault 1 NO             
+0056
+CO/BO: Status of motor control  
+Init. control finished NO       
+Init. control finished YES      
+Motor demagnetizing finished NO 
+Motor demagnetizing finished YES
+Pulses enabled NO               
+Pulses enabled YES              
+Voltage soft start select NO    
+Voltage soft start select YES   
+Motor excitation finished NO    
+Motor excitation finished YES   
+Starting boost active NO        
+Starting boost active YES       
+Acceleration boost active NO    
+Acceleration boost active YES   
+Frequency is negative NO        
+Frequency is negative YES       
+Field weakening active NO       
+Field weakening active YES      
+Volts setpoint limited NO       
+Volts setpoint limited YES      
+Slip frequency limited NO       
+Slip frequency limited YES      
+F_out > F_max  Freq. limited NO 
+F_out > F_max  Freq. limited YES
+Phase reversal selected NO      
+Phase reversal selected YES     
+I-max controller active NO      
+I-max controller active YES     
+Vdc-max controller active NO    
+Vdc-max controller active YES   
+Vdc-min controller active NO    
+Vdc-min controller active YES   
+0067
+CO: Act. output current limit   
+0071
+CO: Max. output voltage         
+0078
+CO: Act. current Isq            
+0084
+CO: Act. air gap flux           
+0086
+CO: Act. active current         
+0100
+Europe / North America          
+Europe [kW],        50 Hz       
+North America [hp], 60 Hz       
+North America [kW], 60 Hz       
+0200
+Act. power stack code number    
+0201
+Power stack code number         
+0203
+Act. inverter type              
+not defined                     
+MICROMASTER 420                 
+MICROMASTER 440                 
+MICRO- / COMBIMASTER 411        
+MICROMASTER 410                 
+Reserved                        
+0204
+Power stack features            
+DC input voltage NO             
+DC input voltage YES            
+RFI filter NO                   
+RFI filter YES                  
+0206
+Rated inverter power [kW] / [hp]
+0207
+Rated inverter current          
+0208
+Rated inverter voltage          
+0209
+Maximum inverter current        
+0210
+Supply voltage                  
+0231
+Max. cable length               
+Max. unscreened cable length    
+Max. screened   cable length    
+0290
+Inverter overload reaction      
+Output frequency reduction      
+Trip (F0004)                    
+Pulse & output freq. reduct.    
+Pulse freq reduct. then trip    
+0291
+Config. of inverter protection  
+Pulse freq reduced below 2Hz NO 
+Pulse freq reduced below 2Hz YES
+0292
+Inverter overload warning       
+0294
+Inverter I2t overload warning   
+0295
+Inverter fan off delay time     
+0300
+Select motor type               
+not defined                     
+Asynchronous motor              
+Synchronous  motor              
+0304
+Rated motor voltage             
+0305
+Rated motor current             
+0307
+Rated motor power               
+0308
+Rated motor cosPhi              
+0309
+Rated motor efficiency          
+0310
+Rated motor frequency           
+0311
+Rated motor speed               
+0313
+Motor pole pairs                
+0320
+Motor magnetizing current       
+0330
+Rated motor slip                
+0331
+Rated magnetization current     
+0332
+Rated power factor              
+0335
+Motor cooling                   
+Self-cooled                     
+Force-cooled                    
+0340
+Calculation of motor parameters 
+No calculation                  
+Complete parameterization       
+0344
+Motor weight                    
+0346
+Magnetization time              
+0347
+Demagnetization time            
+0350
+Stator resistance (line-to-line)
+0370
+Stator resistance [%]           
+0372
+Cable resistance [%]            
+0373
+Rated stator resistance [%]     
+0374
+Rotor resistance [%]            
+0376
+Rated rotor resistance [%]      
+0377
+Total leakage reactance [%]     
+0382
+Main reactance [%]              
+0384
+Rotor time constant             
+0386
+Total leakage time constant     
+0395
+CO: Total stator resistance [%] 
+0610
+Motor I2t temperature reaction  
+No reaction, warning only       
+Warning and Imax reduction      
+Warning and trip (F0011)        
+0611
+Motor I2t time constant         
+0614
+Motor I2t overload warning level
+0640
+Motor overload factor [%]       
+0700
+Selection of command source     
+Factory default setting         
+BOP (keypad)                    
+Terminal                        
+not defined                     
+USS on BOP link                 
+USS on COM link                 
+CB  on COM link                 
+0701
+Function of digital input 1     
+Digital input disabled          
+ON/OFF1                         
+ON reverse /OFF1                
+OFF2    - coast to standstill   
+OFF3    - quick ramp-down       
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Fault acknowledge               
+JOG right                       
+JOG left                        
+Reverse                         
+MOP up   (increase freq.)       
+MOP down (decrease freq.)       
+Fixed setp. (Direct selection)  
+Fixed setp. (Direct select + ON)
+Fixed setp. (Binary select + ON)
+not defined                     
+not defined                     
+not defined                     
+Local/remote                    
+not defined                     
+not defined                     
+not defined                     
+DC brake enable                 
+not defined                     
+not defined                     
+not defined                     
+External trip                   
+not defined                     
+not defined                     
+not defined                     
+Disable additional freq setpoint
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Enable BICO parameterization    
+0702
+Function of digital input 2     
+Digital input disabled          
+ON/OFF1                         
+ON reverse /OFF1                
+OFF2    - coast to standstill   
+OFF3    - quick ramp-down       
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Fault acknowledge               
+JOG right                       
+JOG left                        
+Reverse                         
+MOP up   (increase freq.)       
+MOP down (decrease freq.)       
+Fixed setp. (Direct selection)  
+Fixed setp. (Direct select + ON)
+Fixed setp. (Binary select + ON)
+not defined                     
+not defined                     
+not defined                     
+Local/remote                    
+not defined                     
+not defined                     
+not defined                     
+DC brake enable                 
+not defined                     
+not defined                     
+not defined                     
+External trip                   
+not defined                     
+not defined                     
+not defined                     
+Disable additional freq setpoint
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Enable BICO parameterization    
+0703
+Function of digital input 3     
+Digital input disabled          
+ON/OFF1                         
+ON reverse /OFF1                
+OFF2    - coast to standstill   
+OFF3    - quick ramp-down       
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Fault acknowledge               
+JOG right                       
+JOG left                        
+Reverse                         
+MOP up   (increase freq.)       
+MOP down (decrease freq.)       
+Fixed setp. (Direct selection)  
+Fixed setp. (Direct select + ON)
+Fixed setp. (Binary select + ON)
+not defined                     
+not defined                     
+not defined                     
+Local/remote                    
+not defined                     
+not defined                     
+not defined                     
+DC brake enable                 
+not defined                     
+not defined                     
+not defined                     
+External trip                   
+not defined                     
+not defined                     
+not defined                     
+Disable additional freq setpoint
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Enable BICO parameterization    
+0704
+Function of digital input 4     
+Digital input disabled          
+ON/OFF1                         
+ON reverse /OFF1                
+OFF2    - coast to standstill   
+OFF3    - quick ramp-down       
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Fault acknowledge               
+JOG right                       
+JOG left                        
+Reverse                         
+MOP up   (increase freq.)       
+MOP down (decrease freq.)       
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Local/remote                    
+not defined                     
+not defined                     
+not defined                     
+DC brake enable                 
+not defined                     
+not defined                     
+not defined                     
+External trip                   
+not defined                     
+not defined                     
+not defined                     
+Disable additional freq setpoint
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Enable BICO parameterization    
+0719
+Selection of cmd. & freq. setp. 
+1st Control source (Remote)     
+2nd Control source (Local)      
+Cmd=BICO param. Setp=BICO param.
+Cmd=BICO param. Setp=MOP setp.  
+Cmd=BICO param. Setp=Analog setp
+Cmd=BICO param. Setp=Fixed freq.
+Cmd=BICO param. Setp=USS BOPlink
+Cmd=BICO param. Setp=USS COMlink
+Cmd=BICO param. Setp=CB  COMlink
+not defined                     
+not defined                     
+not defined                     
+Cmd=BOP         Setp=BICO param.
+Cmd=BOP         Setp=MOP setp.  
+Cmd=BOP         Setp=Analog setp
+Cmd=BOP         Setp=Fixed freq.
+Cmd=BOP         Setp=USS BOPlink
+Cmd=BOP         Setp=USS COMlink
+Cmd=BOP         Setp=CB  COMlink
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Cmd=USS BOPlink Setp=BICO param.
+Cmd=USS BOPlink Setp=MOP setp.  
+Cmd=USS BOPlink Setp=Analog setp
+Cmd=USS BOPlink Setp=Fixed freq.
+Cmd=USS BOPlink Setp=USS BOPlink
+Cmd=USS BOPlink Setp=USS COMlink
+Cmd=USS BOPlink Setp=CB  COMlink
+not defined                     
+not defined                     
+not defined                     
+Cmd=USS COMlink Setp=BICO param.
+Cmd=USS COMlink Setp=MOP setp.  
+Cmd=USS COMlink Setp=Analog setp
+Cmd=USS COMlink Setp=Fixed freq.
+Cmd=USS COMlink Setp=USS BOPlink
+Cmd=USS COMlink Setp=USS COMlink
+Cmd=USS COMlink Setp=CB  COMlink
+not defined                     
+not defined                     
+not defined                     
+Cmd=CB  COMlink Setp=BICO param.
+Cmd=CB  COMlink Setp=MOP setp.  
+Cmd=CB  COMlink Setp=Analog setp
+Cmd=CB  COMlink Setp=Fixed freq.
+Cmd=CB  COMlink Setp=USS BOPlink
+Cmd=CB  COMlink Setp=USS COMlink
+Cmd=CB  COMlink Setp=CB  COMlink
+0720
+Number of digital inputs        
+0722
+CO/BO: Binary input values      
+Digital input 1 OFF             
+Digital input 1 ON              
+Digital input 2 OFF             
+Digital input 2 ON              
+Digital input 3 OFF             
+Digital input 3 ON              
+Digital input 4 (via ADC) OFF   
+Digital input 4 (via ADC) ON    
+0724
+Debounce time for digital inputs
+No debounce time                
+ 2.5 ms debounce time           
+ 8.2 ms debounce time           
+12.3 ms debounce time           
+0725
+PNP / NPN digital inputs        
+NPN mode ==> low active         
+PNP mode ==> high active        
+0730
+Number of digital outputs       
+0731
+BI: Function of digital output 1
+0747
+CO/BO: State of digital outputs 
+Digital output 1 energized NO   
+Digital output 1 energized YES  
+0748
+Invert digital outputs          
+Invert digital output 1 NO      
+Invert digital output 1 YES     
+0750
+Number of ADCs                  
+0751
+BO: Status word of ADC          
+Signal lost on ADC 1 NO         
+Signal lost on ADC 1 YES        
+0752
+Act. input of ADC [V]           
+0753
+Smooth time ADC                 
+0754
+Act. ADC value after scaling [%]
+0755
+CO: Act. ADC after scal. [4000h]
+0756
+Type of ADC                     
+Unip. volt. inp. (0 to +10 V)   
+Unip. volt. inp. monitored      
+0757
+Value x1 of ADC scaling [V]     
+0758
+Value y1 of ADC scaling         
+0759
+Value x2 of ADC scaling [V]     
+0760
+Value y2 of ADC scaling         
+0761
+Width of ADC deadband [V]       
+0762
+Delay for loss of signal action 
+0770
+Number of DACs                  
+0771
+CI: DAC                         
+0773
+Smooth time DAC                 
+0774
+Act. DAC value [mA]             
+0776
+Type of DAC                     
+Current output                  
+0777
+Value x1 of DAC scaling         
+0778
+Value y1 of DAC scaling         
+0779
+Value x2 of DAC scaling         
+0780
+Value y2 of DAC scaling         
+0781
+Width of DAC deadband           
+0800
+BI: Download parameter set 0    
+0801
+BI: Download parameter set 1    
+0810
+BI: CDS bit 0 (Local / Remote)  
+0840
+BI: ON/OFF1                     
+0842
+BI: ON/OFF1 reverse             
+0844
+BI: 1. OFF2                     
+0845
+BI: 2. OFF2                     
+0848
+BI: 1. OFF3                     
+0849
+BI: 2. OFF3                     
+0852
+BI: Pulse enable                
+0918
+CB address                      
+0927
+Parameter changeable via        
+PROFIBUS / CB NO                
+PROFIBUS / CB YES               
+BOP NO                          
+BOP YES                         
+USS on BOP link NO              
+USS on BOP link YES             
+USS on COM link NO              
+USS on COM link YES             
+0947
+Last fault code                 
+Recent fault trip --, fault 1   
+Recent fault trip --, fault 2   
+Recent fault trip -1, fault 3   
+Recent fault trip -1, fault 4   
+Recent fault trip -2, fault 5   
+Recent fault trip -2, fault 6   
+Recent fault trip -3, fault 7   
+Recent fault trip -3, fault 8   
+0948
+Fault time                      
+Recent trip --, sec. + minutes  
+Recent trip --, hours + days    
+Recent trip --, month + year    
+Recent trip -1, sec. + minutes  
+Recent trip -1, hours + days    
+Recent trip -1, month + year    
+Recent trip -2, sec. + minutes  
+Recent trip -2, hours + days    
+Recent trip -2, month + year    
+Recent trip -3, sec. + minutes  
+Recent trip -3, hours + days    
+Recent trip -3, month + year    
+0949
+Fault value                     
+Recent trip --, fault value 1   
+Recent trip --, fault value 2   
+Recent trip -1, fault value 3   
+Recent trip -1, fault value 4   
+Recent trip -2, fault value 5   
+Recent trip -2, fault value 6   
+Recent trip -3, fault value 7   
+Recent trip -3, fault value 8   
+0952
+Total number of faults          
+0964
+Firmware version data           
+Company (Siemens = 42)          
+Product type                    
+Firmware version                
+Firmware date (year)            
+Firmware date (day/month)       
+0965
+Profibus profile                
+0967
+Control word 1                  
+ON/OFF1 NO                      
+ON/OFF1 YES                     
+OFF2: Electrical stop YES       
+OFF2: Electrical stop NO        
+OFF3: Fast stop YES             
+OFF3: Fast stop NO              
+Pulse enable NO                 
+Pulse enable YES                
+RFG enable NO                   
+RFG enable YES                  
+RFG start NO                    
+RFG start YES                   
+Setpoint enable NO              
+Setpoint enable YES             
+Fault acknowledge NO            
+Fault acknowledge YES           
+JOG right NO                    
+JOG right YES                   
+JOG left NO                     
+JOG left YES                    
+Control from PLC NO             
+Control from PLC YES            
+Reverse (setpoint inversion) NO 
+Reverse (setpoint inversion) YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Motor potentiometer MOP up NO   
+Motor potentiometer MOP up YES  
+Motor potentiometer MOP down NO 
+Motor potentiometer MOP down YES
+Local / Remote NO               
+Local / Remote YES              
+0968
+Status word 1                   
+Drive ready NO                  
+Drive ready YES                 
+Drive ready to run NO           
+Drive ready to run YES          
+Drive running NO                
+Drive running YES               
+Drive fault active NO           
+Drive fault active YES          
+OFF2 active YES                 
+OFF2 active NO                  
+OFF3 active YES                 
+OFF3 active NO                  
+ON inhibit active NO            
+ON inhibit active YES           
+Drive warning active NO         
+Drive warning active YES        
+Deviation setp. / act. value YES
+Deviation setp. / act. value NO 
+PZD control NO                  
+PZD control YES                 
+Maximum frequency reached NO    
+Maximum frequency reached YES   
+Warning: Motor current limit YES
+Warning: Motor current limit NO 
+Motor holding brake active NO   
+Motor holding brake active YES  
+Motor overload YES              
+Motor overload NO               
+Motor runs direction right NO   
+Motor runs direction right YES  
+Inverter overload YES           
+Inverter overload NO            
+0970
+Factory reset                   
+Disabled                        
+Parameter reset                 
+0971
+Transfer data from RAM to EEPROM
+Disabled                        
+Start transfer                  
+1000
+Selection of frequency setpoint 
+No main setpoint                
+MOP setpoint                    
+Analog setpoint                 
+Fixed frequency                 
+USS on BOPlink                  
+USS on COMlink                  
+CB  on COMlink                  
+not defined                     
+not defined                     
+not defined                     
+No main setp.   + MOP setpoint  
+MOP setpoint    + MOP setpoint  
+Analog setpoint + MOP setpoint  
+Fixed frequency + MOP setpoint  
+USS on BOPlink  + MOP setpoint  
+USS on COMlink  + MOP setpoint  
+CB  on COMlink  + MOP setpoint  
+not defined                     
+not defined                     
+not defined                     
+No main setp.   + Analog setp.  
+MOP setpoint    + Analog setp.  
+Analog setpoint + Analog setp.  
+Fixed frequency + Analog setp.  
+USS on BOPlink  + Analog setp.  
+USS on COMlink  + Analog setp.  
+CB  on COMlink  + Analog setp.  
+not defined                     
+not defined                     
+not defined                     
+No main setp.   + Fixed freq.   
+MOP setpoint    + Fixed freq.   
+Analog setpoint + Fixed freq.   
+Fixed frequency + Fixed freq.   
+USS on BOPlink  + Fixed freq.   
+USS on COMlink  + Fixed freq.   
+CB  on COMlink  + Fixed freq.   
+not defined                     
+not defined                     
+not defined                     
+No main setp.   + USS on BOPlink
+MOP setpoint    + USS on BOPlink
+Analog setpoint + USS on BOPlink
+Fixed frequency + USS on BOPlink
+USS on BOPlink  + USS on BOPlink
+USS on COMlink  + USS on BOPlink
+CB  on COMlink  + USS on BOPlink
+not defined                     
+not defined                     
+not defined                     
+No main setp.   + USS on COMlink
+MOP setpoint    + USS on COMlink
+Analog setpoint + USS on COMlink
+Fixed frequency + USS on COMlink
+USS on BOPlink  + USS on COMlink
+USS on COMlink  + USS on COMlink
+CB  on COMlink  + USS on COMlink
+not defined                     
+not defined                     
+not defined                     
+No main setp.   + CB  on COMlink
+MOP setpoint    + CB  on COMlink
+Analog setpoint + CB  on COMlink
+Fixed frequency + CB  on COMlink
+USS on BOPlink  + CB  on COMlink
+USS on COMlink  + CB  on COMlink
+CB  on COMlink  + CB  on COMlink
+1001
+Fixed frequency 1               
+1002
+Fixed frequency 2               
+1003
+Fixed frequency 3               
+1004
+Fixed frequency 4               
+1005
+Fixed frequency 5               
+1006
+Fixed frequency 6               
+1007
+Fixed frequency 7               
+1016
+Fixed frequency mode - Bit 0    
+not defined                     
+Direct selection                
+Direct selection + ON command   
+Binary coded selection + ON cmd 
+1017
+Fixed frequency mode - Bit 1    
+not defined                     
+Direct selection                
+Direct selection + ON command   
+Binary coded selection + ON cmd 
+1018
+Fixed frequency mode - Bit 2    
+not defined                     
+Direct selection                
+Direct selection + ON command   
+Binary coded selection + ON cmd 
+1020
+BI: Fixed freq. selection Bit 0 
+1021
+BI: Fixed freq. selection Bit 1 
+1022
+BI: Fixed freq. selection Bit 2 
+1024
+CO: Act. fixed frequency        
+1031
+Setpoint memory of the MOP      
+MOP setp. not stored            
+MOP setp. stored in P1040       
+1032
+Inhibit reverse direction of MOP
+Reserve direction is allowed    
+Reserve direction inhibited     
+1035
+BI: Enable MOP (UP-command)     
+1036
+BI: Enable MOP (DOWN-command)   
+1040
+Setpoint of the MOP             
+1050
+CO: Act. Output freq. of the MOP
+1055
+BI: Enable JOG right            
+1056
+BI: Enable JOG left             
+1058
+JOG frequency right             
+1059
+JOG frequency left              
+1060
+JOG ramp-up time                
+1061
+JOG ramp-down time              
+1070
+CI: Main setpoint               
+1071
+CI: Main setpoint scaling       
+1074
+BI: Disable additional setpoint 
+1075
+CI: Additional setpoint         
+1076
+CI: Additional setpoint scaling 
+1078
+CO: Total frequency setpoint    
+1079
+CO: Selected frequency setpoint 
+1080
+Min. frequency                  
+1082
+Max. frequency                  
+1091
+Skip frequency 1                
+1092
+Skip frequency 2                
+1093
+Skip frequency 3                
+1094
+Skip frequency 4                
+1101
+Skip frequency bandwidth        
+1110
+BI: Inhibit neg. freq. setpoint 
+1113
+BI: Reverse                     
+1114
+CO: Freq. setp. after dir. ctrl.
+1119
+CO: Freq. setpoint before RFG   
+1120
+Ramp-up time                    
+1121
+Ramp-down time                  
+1124
+BI: Enable JOG ramp times       
+1130
+Ramp-up initial rounding time   
+1131
+Ramp-up final rounding time     
+1132
+Ramp-down initial rounding time 
+1133
+Ramp-down final rounding time   
+1134
+Rounding type                   
+Continuous smoothing            
+Discontinuous smoothing         
+1135
+OFF3 ramp-down time             
+1140
+BI: RFG enable                  
+1141
+BI: RFG start                   
+1142
+BI: RFG enable setpoint         
+1170
+CO: Frequency setpoint after RFG
+1200
+Flying start                    
+Disabled                        
+Always                          
+Fault/OFF2/Power on             
+Fault/OFF2                      
+Always, setpoint direction only 
+Fault/OFF2/Pow on, setp dir only
+Fault/OFF2, setp. direction only
+1202
+Motor-current: Flying start     
+1203
+Search rate: Flying start       
+1204
+Status word: Flying start       
+Current applied NO              
+Current applied YES             
+Current could not be applied NO 
+Current could not be applied YES
+Voltage reduced NO              
+Voltage reduced YES             
+Slope-filter started NO         
+Slope-filter started YES        
+Current less threshold NO       
+Current less threshold YES      
+Current-minimum NO              
+Current-minimum YES             
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Speed could not be found NO     
+Speed could not be found YES    
+1210
+Automatic restart               
+Disabled                        
+Trip reset after power on       
+Mains break, power on           
+Mains break, fault: P1211 enabl.
+Mains break only    P1211 enabl.
+Mains break, power on, fault    
+1211
+Number of restart attempts      
+1215
+Holding brake enable            
+Motor holding brake disabled    
+Motor holding brake enabled     
+1216
+Holding brake release delay     
+1217
+Holding time after ramp down    
+1230
+BI: Enable DC braking           
+1232
+DC braking current              
+1233
+Duration of DC braking          
+1236
+Compound braking current        
+1240
+Configuration of Vdc controller 
+Vdc controller disabled         
+Vdc-max controller enabled      
+1242
+CO: Switch-on level of Vdc-max  
+1243
+Dynamic factor of Vdc-max       
+1250
+Gain of Vdc-controller          
+1251
+Integration time Vdc-controller 
+1252
+Differential time Vdc-controller
+1253
+Vdc-controller output limitation
+1254
+Auto detect Vdc switch-on levels
+Disabled                        
+Enabled                         
+1300
+Control mode                    
+V/f with linear charac.         
+V/f with FCC                    
+V/f with parabolic charac.      
+V/f with programmable charac.   
+1310
+Continuous boost                
+1311
+Acceleration boost              
+1312
+Starting boost                  
+1315
+CO: Total boost voltage         
+1316
+Boost end frequency             
+1320
+Programmable V/f freq. coord. 1 
+1321
+Programmable V/f volt. coord. 1 
+1322
+Programmable V/f freq. coord. 2 
+1323
+Programmable V/f volt. coord. 2 
+1324
+Programmable V/f freq. coord. 3 
+1325
+Programmable V/f volt. coord. 3 
+1333
+Start frequency for FCC         
+1335
+Slip compensation               
+1336
+Slip limit                      
+1337
+CO: V/f slip frequency          
+1338
+Resonance damping gain V/f      
+1340
+Imax controller prop. gain      
+1341
+Imax controller integral time   
+1343
+CO: Imax controller freq. output
+1344
+CO: Imax controller volt. output
+1350
+Voltage soft start              
+OFF                             
+ON                              
+1800
+Pulse frequency                 
+1801
+CO: Act. switching frequency    
+1802
+Modulator mode                  
+SVM/ASVM automatic mode         
+Asymmetric SVM                  
+Space vector modulation         
+1803
+Max. modulation                 
+1820
+Reverse output phase sequence   
+OFF                             
+ON                              
+1910
+Select motor data identification
+Disabled                        
+Rs ident. with    param. change 
+Rs ident. without param. change 
+1912
+Identified stator resistance    
+2000
+Reference frequency             
+2001
+Reference voltage               
+2002
+Reference current               
+2009
+USS normalization               
+Serial interface COM link       
+Serial interface BOP link       
+Disabled                        
+Enabled                         
+2010
+USS baudrate                    
+Serial interface COM link       
+Serial interface BOP link       
+not defined                     
+not defined                     
+not defined                     
+  1200 baud                     
+  2400 baud                     
+  4800 baud                     
+  9600 baud                     
+ 19200 baud                     
+ 38400 baud                     
+ 57600 baud                     
+2011
+USS address                     
+Serial interface COM link       
+Serial interface BOP link       
+2012
+USS PZD length                  
+Serial interface COM link       
+Serial interface BOP link       
+2013
+USS PKW length                  
+Serial interface COM link       
+Serial interface BOP link       
+No words                        
+not defined                     
+not defined                     
+ 3 words                        
+ 4 words                        
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Variable                        
+2014
+USS telegram off time           
+Serial interface COM link       
+Serial interface BOP link       
+2015
+CO: PZD from BOP link (USS)     
+Received word 0                 
+Received word 1                 
+Received word 2                 
+Received word 3                 
+2016
+CI: PZD to BOP link (USS)       
+Transmitted word 0              
+Transmitted word 1              
+Transmitted word 2              
+Transmitted word 3              
+2018
+CO: PZD from COM link (USS)     
+Received word 0                 
+Received word 1                 
+Received word 2                 
+Received word 3                 
+2019
+CI: PZD to COM link (USS)       
+Transmitted word 0              
+Transmitted word 1              
+Transmitted word 2              
+Transmitted word 3              
+2024
+USS error-free telegrams        
+Serial interface COM link       
+Serial interface BOP link       
+2025
+USS rejected telegrams          
+Serial interface COM link       
+Serial interface BOP link       
+2026
+USS character frame error       
+Serial interface COM link       
+Serial interface BOP link       
+2027
+USS overrun error               
+Serial interface COM link       
+Serial interface BOP link       
+2028
+USS parity error                
+Serial interface COM link       
+Serial interface BOP link       
+2029
+USS start not identified        
+Serial interface COM link       
+Serial interface BOP link       
+2030
+USS BCC error                   
+Serial interface COM link       
+Serial interface BOP link       
+2031
+USS length error                
+Serial interface COM link       
+Serial interface BOP link       
+2032
+BO: CtrlWrd1 from BOP link (USS)
+ON/OFF1 NO                      
+ON/OFF1 YES                     
+OFF2: Electrical stop YES       
+OFF2: Electrical stop NO        
+OFF3: Fast stop YES             
+OFF3: Fast stop NO              
+Pulse enable NO                 
+Pulse enable YES                
+RFG enable NO                   
+RFG enable YES                  
+RFG start NO                    
+RFG start YES                   
+Setpoint enable NO              
+Setpoint enable YES             
+Fault acknowledge NO            
+Fault acknowledge YES           
+JOG right NO                    
+JOG right YES                   
+JOG left NO                     
+JOG left YES                    
+Control from PLC NO             
+Control from PLC YES            
+Reverse (setpoint inversion) NO 
+Reverse (setpoint inversion) YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Motor potentiometer MOP up NO   
+Motor potentiometer MOP up YES  
+Motor potentiometer MOP down NO 
+Motor potentiometer MOP down YES
+Local / Remote NO               
+Local / Remote YES              
+2033
+BO: CtrlWrd2 from BOP link (USS)
+Fixed frequency Bit 0 NO        
+Fixed frequency Bit 0 YES       
+Fixed frequency Bit 1 NO        
+Fixed frequency Bit 1 YES       
+Fixed frequency Bit 2 NO        
+Fixed frequency Bit 2 YES       
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+PID enabled NO                  
+PID enabled YES                 
+DC brake enabled NO             
+DC brake enabled YES            
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+External fault 1 YES            
+External fault 1 NO             
+2036
+BO: CtrlWrd1 from COM link (USS)
+ON/OFF1 NO                      
+ON/OFF1 YES                     
+OFF2: Electrical stop YES       
+OFF2: Electrical stop NO        
+OFF3: Fast stop YES             
+OFF3: Fast stop NO              
+Pulse enable NO                 
+Pulse enable YES                
+RFG enable NO                   
+RFG enable YES                  
+RFG start NO                    
+RFG start YES                   
+Setpoint enable NO              
+Setpoint enable YES             
+Fault acknowledge NO            
+Fault acknowledge YES           
+JOG right NO                    
+JOG right YES                   
+JOG left NO                     
+JOG left YES                    
+Control from PLC NO             
+Control from PLC YES            
+Reverse (setpoint inversion) NO 
+Reverse (setpoint inversion) YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Motor potentiometer MOP up NO   
+Motor potentiometer MOP up YES  
+Motor potentiometer MOP down NO 
+Motor potentiometer MOP down YES
+Local / Remote NO               
+Local / Remote YES              
+2037
+BO: CtrlWrd2 from COM link (USS)
+Fixed frequency Bit 0 NO        
+Fixed frequency Bit 0 YES       
+Fixed frequency Bit 1 NO        
+Fixed frequency Bit 1 YES       
+Fixed frequency Bit 2 NO        
+Fixed frequency Bit 2 YES       
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+PID enabled NO                  
+PID enabled YES                 
+DC brake enabled NO             
+DC brake enabled YES            
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+External fault 1 YES            
+External fault 1 NO             
+2040
+CB telegram off time            
+2041
+CB parameter                    
+CB parameter 0                  
+CB parameter 1                  
+CB parameter 2                  
+CB parameter 3                  
+CB parameter 4                  
+2050
+CO: PZD from CB                 
+Received word 0                 
+Received word 1                 
+Received word 2                 
+Received word 3                 
+2051
+CI: PZD to CB                   
+Transmitted word 0              
+Transmitted word 1              
+Transmitted word 2              
+Transmitted word 3              
+2053
+CB identification               
+CB type (PROFIBUS = 1)          
+Firmware version                
+Firmware version detail         
+Firmware date (year)            
+Firmware date (day/month)       
+No CB option board              
+PROFIBUS DP                     
+DeviceNet                       
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+2054
+CB diagnosis                    
+CB diagnosis 0                  
+CB diagnosis 1                  
+CB diagnosis 2                  
+CB diagnosis 3                  
+CB diagnosis 4                  
+CB diagnosis 5                  
+CB diagnosis 6                  
+2090
+BO: Control word 1 from CB      
+ON/OFF1 NO                      
+ON/OFF1 YES                     
+OFF2: Electrical stop YES       
+OFF2: Electrical stop NO        
+OFF3: Fast stop YES             
+OFF3: Fast stop NO              
+Pulse enable NO                 
+Pulse enable YES                
+RFG enable NO                   
+RFG enable YES                  
+RFG start NO                    
+RFG start YES                   
+Setpoint enable NO              
+Setpoint enable YES             
+Fault acknowledge NO            
+Fault acknowledge YES           
+JOG right NO                    
+JOG right YES                   
+JOG left NO                     
+JOG left YES                    
+Control from PLC NO             
+Control from PLC YES            
+Reverse (setpoint inversion) NO 
+Reverse (setpoint inversion) YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Motor potentiometer MOP up NO   
+Motor potentiometer MOP up YES  
+Motor potentiometer MOP down NO 
+Motor potentiometer MOP down YES
+Local / Remote NO               
+Local / Remote YES              
+2091
+BO: Control word 2 from CB      
+Fixed frequency Bit 0 NO        
+Fixed frequency Bit 0 YES       
+Fixed frequency Bit 1 NO        
+Fixed frequency Bit 1 YES       
+Fixed frequency Bit 2 NO        
+Fixed frequency Bit 2 YES       
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+PID enabled NO                  
+PID enabled YES                 
+DC brake enabled NO             
+DC brake enabled YES            
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+External fault 1 YES            
+External fault 1 NO             
+2100
+Alarm number selection          
+2101
+Stop reaction value             
+No reaction, no display         
+OFF1 stop reaction              
+OFF2 stop reaction              
+OFF3 stop reaction              
+No reaction warning only        
+2103
+BI: 1. Faults acknowledgement   
+2104
+BI: 2. Faults acknowledgement   
+2106
+BI: External fault              
+2110
+Warning number                  
+Recent Warnings --, warning 1   
+Recent Warnings --, warning 2   
+Recent Warnings -1, warning 3   
+Recent Warnings -1, warning 4   
+2111
+Total number of warnings        
+2114
+Run time counter                
+2115
+AOP real time clock             
+2120
+Indication counter              
+2150
+Hysteresis frequency f_hys      
+2155
+Threshold frequency f_1         
+2156
+Delay time of threshold freq f_1
+2164
+Hysteresis frequency deviation  
+2167
+Switch-off frequency f_off      
+2168
+Delay time T_off                
+2170
+Threshold current I_thresh      
+2171
+Delay time current              
+2172
+Threshold DC-link voltage       
+2173
+Delay time DC-link voltage      
+2179
+Current limit for no load ident.
+2180
+Delay time for no load ident.   
+2197
+CO/BO: Monitoring word 1        
+Act. freq. r0024  <=  P1080 NO  
+Act. freq. r0024  <=  P1080 YES 
+Act. freq. r0024  <=  P2155 NO  
+Act. freq. r0024  <=  P2155 YES 
+Act. freq. r0024  >   P2155 NO  
+Act. freq. r0024  >   P2155 YES 
+Act. freq. r0024  >   zero NO   
+Act. freq. r0024  >   zero YES  
+Act. freq. r0024  >=  setp. NO  
+Act. freq. r0024  >=  setp. YES 
+Act. freq. r0024  <=  P2167 NO  
+Act. freq. r0024  <=  P2167 YES 
+Act. freq. r0024  >=  P1082 NO  
+Act. freq. r0024  >=  P1082 YES 
+Act. freq. r0024  ==  setp. NO  
+Act. freq. r0024  ==  setp. YES 
+Act. current r0027 >= P2170 NO  
+Act. current r0027 >= P2170 YES 
+Act. unfilt. Vdc   <  P2172 NO  
+Act. unfilt. Vdc   <  P2172 YES 
+Act. unfilt. Vdc   >  P2172 NO  
+Act. unfilt. Vdc   >  P2172 YES 
+No load condition NO            
+No load condition YES           
+2200
+BI: Enable PID controller       
+2201
+Fixed PID setpoint 1            
+2202
+Fixed PID setpoint 2            
+2203
+Fixed PID setpoint 3            
+2204
+Fixed PID setpoint 4            
+2205
+Fixed PID setpoint 5            
+2206
+Fixed PID setpoint 6            
+2207
+Fixed PID setpoint 7            
+2216
+Fixed PID setpoint mode - Bit 0 
+not defined                     
+Direct selection                
+Direct selection + ON command   
+Binary coded selection + ON cmd 
+2217
+Fixed PID setpoint mode - Bit 1 
+not defined                     
+Direct selection                
+Direct selection + ON command   
+Binary coded selection + ON cmd 
+2218
+Fixed PID setpoint mode - Bit 2 
+not defined                     
+Direct selection                
+Direct selection + ON command   
+Binary coded selection + ON cmd 
+2220
+BI: Fixed PID setp. select Bit 0
+2221
+BI: Fixed PID setp. select Bit 1
+2222
+BI: Fixed PID setp. select Bit 2
+2224
+CO: Act. fixed PID setpoint     
+2231
+Setpoint memory of PID-MOP      
+PID-MOP setp. not stored        
+PID-MOP setp. stored in P2240   
+2232
+Inhibit rev. direct. of PID-MOP 
+Reserve direction is allowed    
+Reserve direction inhibited     
+2235
+BI: Enable PID-MOP (UP-cmd)     
+2236
+BI: Enable PID-MOP (DOWN-cmd)   
+2240
+Setpoint of PID-MOP             
+2250
+CO: Output setpoint of PID-MOP  
+2253
+CI: PID setpoint                
+2254
+CI: PID trim source             
+2255
+PID setpoint gain factor        
+2256
+PID trim gain factor            
+2257
+Ramp-up time for PID setpoint   
+2258
+Ramp-down time for PID setpoint 
+2260
+CO: Act. PID setpoint           
+2261
+PID setpoint filter timeconstant
+2262
+CO: Act. PID filtered setpoint  
+2264
+CI: PID feedback                
+2265
+PID feedback filter timeconstant
+2266
+CO: PID filtered feedback       
+2267
+Max. value for PID feedback     
+2268
+Min. value for PID feedback     
+2269
+Gain applied to PID feedback    
+2270
+PID feedback function selector  
+Disabled                        
+Square root  (root(x))          
+Square       (x*x)              
+Cube         (x*x*x)            
+2271
+PID tranducer type              
+Disabled                        
+Inversion of PID feedback signal
+2272
+CO: PID scaled feedback         
+2273
+CO: PID error                   
+2280
+PID proportional gain           
+2285
+PID integral time               
+2291
+PID output upper limit          
+2292
+PID output lower limit          
+2293
+Ramp-up /-down time of PID limit
+2294
+CO: Act. PID output             
+3900
+End of quick commissioning      
+No quick commissioning          
+Quick commis. & factory reset   
+Quick commissioning             
+Quick commis. : motor data only 
+3950
+Access of hidden parameter      
+3954
+CM version and GUI ID           
+CM version (major release)      
+CM version (minor release)      
+CM version (baselevel or patch) 
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID major release            
+GUI ID minor release            
+3955
+Version for DriveMonitor        
+3980
+Commissioning command selection 
+Cmd=BICO param. Setp=BICO param.
+Cmd=BICO param. Setp=MOP setp.  
+Cmd=BICO param. Setp=Analog setp
+Cmd=BICO param. Setp=Fixed freq.
+Cmd=BICO param. Setp=USS BOPlink
+Cmd=BICO param. Setp=USS COMlink
+Cmd=BICO param. Setp=CB  COMlink
+not defined                     
+not defined                     
+not defined                     
+Cmd=BOP         Setp=BICO param.
+Cmd=BOP         Setp=MOP setp.  
+Cmd=BOP         Setp=Analog setp
+Cmd=BOP         Setp=Fixed freq.
+Cmd=BOP         Setp=USS BOPlink
+Cmd=BOP         Setp=USS COMlink
+Cmd=BOP         Setp=CB  COMlink
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+not defined                     
+Cmd=USS BOPlink Setp=BICO param.
+Cmd=USS BOPlink Setp=MOP setp.  
+Cmd=USS BOPlink Setp=Analog setp
+Cmd=USS BOPlink Setp=Fixed freq.
+Cmd=USS BOPlink Setp=USS BOPlink
+Cmd=USS BOPlink Setp=USS COMlink
+Cmd=USS BOPlink Setp=CB  COMlink
+not defined                     
+not defined                     
+not defined                     
+Cmd=USS COMlink Setp=BICO param.
+Cmd=USS COMlink Setp=MOP setp.  
+Cmd=USS COMlink Setp=Analog setp
+Cmd=USS COMlink Setp=Fixed freq.
+Cmd=USS COMlink Setp=USS BOPlink
+Cmd=USS COMlink Setp=USS COMlink
+Cmd=USS COMlink Setp=CB  COMlink
+not defined                     
+not defined                     
+not defined                     
+Cmd=CB  COMlink Setp=BICO param.
+Cmd=CB  COMlink Setp=MOP setp.  
+Cmd=CB  COMlink Setp=Analog setp
+Cmd=CB  COMlink Setp=Fixed freq.
+Cmd=CB  COMlink Setp=USS BOPlink
+Cmd=CB  COMlink Setp=USS COMlink
+Cmd=CB  COMlink Setp=CB  COMlink
+3981
+Reset active fault              
+No fault reset                  
+Reset fault                     
+3986
+Number of parameters            
+Read only                       
+Read & write                    

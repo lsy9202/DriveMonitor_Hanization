@@ -1,0 +1,11 @@
+C:\Program Files\Common Files\Siemens\USSDRC\p7vrussb.dll
+C:\SIEMENS\DriveMonitor\P7vrvisx\system\p7vrvisb.dll
+
+
+
+
+HKEY_LOCAL_MACHINE\SOFTWARE\SIEMENS\AUTSW\DriveMonitor
+MainFile=C:\Siemens\DriveMonitor\P7vrvisx\system\p7vrvisx.exe
+
+HKEY_LOCAL_MACHINE\SOFTWARE\SIEMENS\AUTSW\Global
+SharedPath=C:\Siemens\Common

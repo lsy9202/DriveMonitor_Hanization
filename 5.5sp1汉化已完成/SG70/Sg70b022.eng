@@ -1,0 +1,4806 @@
+0862
+K0000|0040|FixValue 0                      
+                
+K0001|0040|FixValue 100                    
+                
+K0002|0040|FixValue 200                    
+                
+K0003|0040|FixValue -100                   
+                
+K0004|0040|FixValue -200                   
+                
+K0005|0040|FixValue 50                     
+                
+K0006|0040|FixValue 150                    
+                
+K0007|0040|FixValue -50                    
+                
+K0008|0040|FixValue -150                   
+                
+K0009|0040|Block-specific                  
+                
+K0010|0040|Mn.stp rw signal                
+                
+K0011|0040|Main setpoint                   
+                
+K0012|0040|Main actval rw s                
+                
+K0013|0040|Main act. value                 
+                
+K0014|0040|Sel inpt 1 raw s                
+                
+K0015|0040|Anal sel input 1                
+                
+K0016|0040|Sel inpt 2 raw s                
+                
+K0017|0040|Anal sel input 2                
+                
+K0018|0040|Sel inpt 3 raw s                
+                
+K0019|0040|Anal sel input 3                
+                
+K0020|01A0|Binary inputs                   
+                
+K0021|01A0|Binary outputs                  
+                
+K0026|0040|Anal sel outpt 1                
+                
+K0027|0040|Anal sel outpt 2                
+                
+K0028|0040|Anal sel outpt 3                
+                
+K0029|0040|Anal sel outpt 4                
+                
+K0030|01A0|Control word 1                  
+                
+K0031|01A0|Control word 2                  
+                
+K0032|01A0|Status word 1                   
+                
+K0033|01A0|Status word 2                   
+                
+K0034|0120|Active FDS                      
+                
+K0035|0120|Active BDS                      
+                
+K0036|0121|Actual position                 
+                
+K0038|0140|nact pulse encod                
+                
+K0039|0040|nact pulse encod                
+                
+K0040|0040|nact pulse encod                
+                
+K0041|0040|nact p enc abs v                
+                
+K0042|0020|Position fine                   
+                
+K0043|0020|Position coarse                 
+                
+K0044|0020|No. zero markers                
+                
+K0046|0121|Actual position                 
+                
+K0047|0121|Braking dist.                   
+                
+K0048|0140|nact pulse encod                
+                
+K0050|0040|Heatsink temper.                
+                
+K0051|0040|Motor temperat.1                
+                
+K0052|0040|Motor temperat.2                
+                
+K0100|0040|Fir. angle (arm)                
+                
+K0101|0040|Unlim fir.angl A                
+                
+K0102|0040|Prec+Ia cntr otp                
+                
+K0103|0020|Current flux                    
+                
+K0105|0120|Pulse number                    
+                
+K0106|0120|Torque direction                
+                
+K0107|0040|Ia MeanValMotor                 
+                
+K0109|0040|Averag Ia act vl                
+                
+K0110|0040|Ia contrl output                
+                
+K0111|0040|Ia contrl P comp                
+                
+K0112|0040|Ia contrl I comp                
+                
+K0113|0040|Ia control SAD                  
+                
+K0114|0040|Alt.av.Ia act vl                
+                
+K0115|0040|Ia cntr act val                 
+                
+K0116|0020|Ia abs act value                
+                
+K0117|0040|Ia act value                    
+                
+K0118|0040|Ia cntr abs stpt                
+                
+K0119|0040|Ia cntr setpoint                
+                
+K0120|0040|Ia stp bef rd GS                
+                
+K0121|0040|Ia cntrl precntr                
+                
+K0122|0040|EMF for precntrl                
+                
+K0123|0040|Measured EMF                    
+                
+K0124|0040|Calculated EMF                  
+                
+K0125|0040|Ia contr. setp.                 
+                
+K0131|0040|Pos. Ia limit                   
+                
+K0132|0040|Neg. Ia limit                   
+                
+K0133|0040|Ia setp bf limit                
+                
+K0134|0040|Ia stp bf addstp                
+                
+K0136|0040|M lim 1 n limitr                
+                
+K0137|0040|M lim 2 n limitr                
+                
+K0140|0040|Torque setpoint                 
+                
+K0141|0040|M setp aft. limt                
+                
+K0142|0040|Actual torque                   
+                
+K0143|0040|Pos. M limit                    
+                
+K0144|0040|Neg. M limit                    
+                
+K0145|0040|M setp bef. limt                
+                
+K0147|0040|Msetp bf add stp                
+                
+K0148|0040|Prec+n cntr outp                
+                
+K0149|0040|Torque act.val.                 
+                
+K0150|0040|d(nset)/dt*P540                 
+                
+K0152|0040|d(nSAD)/dt*P541                 
+                
+K0160|0040|n cntr output                   
+                
+K0161|0040|n cntr P comp.                  
+                
+K0162|0040|n cntr I comp.                  
+                
+K0164|0040|n cntr SAD                      
+                
+K0165|0040|nset - nact                     
+                
+K0166|0020|nact abs. value                 
+                
+K0167|0040|Actual speed                    
+                
+K0168|0040|nact D comp. inv                
+                
+K0169|0040|nact D comp.                    
+                
+K0170|0040|n cntr setpoint                 
+                
+K0171|0040|n cntr precontrl                
+                
+K0172|0040|Friction compens                
+                
+K0173|0040|Mom inert compen                
+                
+K0174|0040|n contr setpoint                
+                
+K0176|0040|n contr droop                   
+                
+K0177|0040|Outp bnd-stop 1                 
+                
+K0178|0040|Outp bnd-stop 2                 
+                
+K0179|0040|n contr act val                 
+                
+K0181|0040|Pos. speed limit                
+                
+K0182|0040|Neg. speed limit                
+                
+K0183|0040|n setp bef limit                
+                
+K0190|0040|RFG output                      
+                
+K0191|0040|RFG speed                       
+                
+K0192|0040|RFG input                       
+                
+K0193|0040|RFG inpt bf stnd                
+                
+K0194|0040|RFG inpt aft lim                
+                
+K0195|0040|RFG inpt bf red                 
+                
+K0196|0040|Pos. RFG setp lm                
+                
+K0197|0040|Neg. RFG setp lm                
+                
+K0198|0040|RFG inpt bf limt                
+                
+K0201|0040|Crawling setpnt                 
+                
+K0202|0040|Inching setpoint                
+                
+K0203|0040|Oscill setpoint                 
+                
+K0204|0040|Fixed setpoint                  
+                
+K0206|0040|Stp aft crwl stp                
+                
+K0207|0040|Stp aft inch stp                
+                
+K0208|0040|Stp aft osci stp                
+                
+K0209|0040|Stp aft fix setp                
+                
+K0230|0040|CON SelSwt1 Outp                
+                
+K0231|0040|CON SelSwt2 Outp                
+                
+K0240|0040|Mot pot output                  
+                
+K0241|0040|Motor pot dy/dt                 
+                
+K0242|0040|Motor pot input                 
+                
+K0250|0040|Fir. angle (fld)                
+                
+K0251|0040|Unlm fir.angle F                
+                
+K0252|0040|Prec+Icntr outpt                
+                
+K0260|0040|If contrl outpt                 
+                
+K0261|0040|If cntrl P comp.                
+                
+K0262|0040|If cntrl I comp.                
+                
+K0263|0040|If contrl SAD...                
+                
+K0265|0040|If cntrl act.val                
+                
+K0266|0020|If cntr abs actv                
+                
+K0268|0040|If contrl setpnt                
+                
+K0271|0040|If cntrl precntr                
+                
+K0273|0040|Pos. If limit                   
+                
+K0274|0040|Neg. If limit                   
+                
+K0275|0040|Ifcntr stp bf sf                
+                
+K0276|0040|Ifcntr stp bf lm                
+                
+K0277|0040|Prctr+EMFctr/100                
+                
+K0278|0040|Prctr+EMFctr otp                
+                
+K0280|0040|EMF contr output                
+                
+K0281|0040|EMF contr P comp                
+                
+K0282|0040|EMF contr I comp                
+                
+K0283|0040|EMF contr SAD                   
+                
+K0284|0040|EMFcntrSAD af dr                
+                
+K0285|0020|EMF cntr act val                
+                
+K0286|0020|EMF abs act val                 
+                
+K0287|0040|EMF actual value                
+                
+K0288|0040|EMF cntr setpnt                 
+                
+K0289|0040|EMF setpoint                    
+                
+K0290|0020|Machine flux                    
+                
+K0291|0020|Va abs act value                
+                
+K0292|0040|Va act value                    
+                
+K0293|0040|EMFcntr prct out                
+                
+K0301|0020|Line volts U-V                  
+                
+K0302|0020|Line volts V-W                  
+                
+K0303|0020|Line volts W-U                  
+                
+K0304|0020|Line volts field                
+                
+K0305|0020|Line volts averg                
+                
+K0306|0020|Line frequency                  
+                
+K0307|0020|Motor output                    
+                
+K0309|0020|Motor temp rise                 
+                
+K0310|0020|Thyrs temp rise                 
+                
+K0311|0120|Hours run                       
+                
+K0401|0040|Fixed setpoint 1                
+                
+K0402|0040|Fixed setpoint 2                
+                
+K0403|0040|Fixed setpoint 3                
+                
+K0404|0040|Fixed setpoint 4                
+                
+K0405|0040|Fixed setpoint 5                
+                
+K0406|0040|Fixed setpoint 6                
+                
+K0407|0040|Fixed setpoint 7                
+                
+K0408|0040|Fixed setpoint 8                
+                
+K0409|0040|Fixed setpoint 9                
+                
+K0410|0040|Fixed setpoint10                
+                
+K0411|0040|Fixed setpoint11                
+                
+K0412|0040|Fixed setpoint12                
+                
+K0413|0040|Fixed setpoint13                
+                
+K0414|0040|Fixed setpoint14                
+                
+K0415|0040|Fixed setpoint15                
+                
+K0416|0040|Fixed setpoint16                
+                
+K0451|0040|SetVal1Icmp nCtr                
+                
+K0452|0040|SetVal1Icmp nCtr                
+                
+K0453|0040|SetVal2Icmp nCtr                
+                
+K0454|0040|SetVal Icmp nCtr                
+                
+K0510|0040|Ref fr MasterCtr                
+                
+K0574|01A0|CCP status                      
+                
+K0575|0020|CCP I2t chopper1                
+                
+K0576|0020|CCP I2t chopper2                
+                
+K0577|01A0|                                
+                
+K0800|0120|Operating status                
+                
+K0801|0120|Cur.Flt/Wrng No.                
+                
+K0810|01A0|Limiting bits                   
+                
+K0900|0040|Setpnt0 of optim                
+                
+K0901|0040|Setpnt1 of optim                
+                
+K0902|0040|Setpnt2 of optim                
+                
+K0903|0040|Setpnt3 of optim                
+                
+K0904|0040|Setpnt4 of optim                
+                
+K0910|0120|MeasTime PulsEnc                
+                
+K0911|0120|QtyPuls  PulsEnc                
+                
+K0912|01A0|State of PulsEnc                
+                
+K0960|0140|0cross deviation                
+                
+K0970|0120|Pos. 0 cross UV                 
+                
+K0971|0120|Neg. 0 cross WU                 
+                
+K0972|0120|Pos. 0 cross VW                 
+                
+K0973|0120|Neg. 0 cross UV                 
+                
+K0974|0120|Pos. 0 cross WU                 
+                
+K0975|0120|Neg. 0 cross VW                 
+                
+K0976|0120|Pos. 0 cross F                  
+                
+K0977|0120|Neg. 0 cross F                  
+                
+K0984|0120|Lst app 0cross F                
+                
+K0985|0120|F firing instant                
+                
+K0986|0120|Lst app 0cross A                
+                
+K0987|0120|A firing instant                
+                
+K0988|0120|Cycle time                      
+                
+K0989|0120|Diagn.gating unt                
+                
+K0990|0020|Proc util. C167                 
+                
+K0991|0020|Proc util C167mx                
+                
+K0992|0020|Proc util C167 B                
+                
+K0993|0020|Proc util C167 F                
+                
+K0994|0020|Proc util C167 A                
+                
+K2001|0040|1ST PZD G-SST1                  
+                
+K2002|0040|2ND PZD G-SST1                  
+                
+K2003|0040|3RD PZD G-SST1                  
+                
+K2004|0040|4TH PZD G-SST1                  
+                
+K2005|0040|5TH PZD G-SST1                  
+                
+K2006|0040|6TH PZD G-SST1                  
+                
+K2007|0040|7TH PZD G-SST1                  
+                
+K2008|0040|8TH PZD G-SST1                  
+                
+K2009|0040|9TH PZD G-SST1                  
+                
+K2010|0040|10TH PZD G-SST1                 
+                
+K2011|0040|11TH PZD G-SST1                 
+                
+K2012|0040|12TH PZD G-SST1                 
+                
+K2013|0040|13TH PZD G-SST1                 
+                
+K2014|0040|14TH PZD G-SST1                 
+                
+K2015|0040|15TH PZD G-SST1                 
+                
+K2016|0040|16TH PZD G-SST1                 
+                
+K2020|01A0|S1 Bin>Con  Out                 
+                
+K2031|0041| 1.+ 2.PCD/IF1                  
+                
+K2032|0041| 2.+ 3.PCD/IF1                  
+                
+K2033|0041| 3.+ 4.PCD/IF1                  
+                
+K2034|0041| 4.+ 5.PCD/IF1                  
+                
+K2035|0041| 5.+ 6.PCD/IF1                  
+                
+K2036|0041| 6.+ 7.PCD/IF1                  
+                
+K2037|0041| 7.+ 8.PCD/IF1                  
+                
+K2038|0041| 8.+ 9.PCD/IF1                  
+                
+K2039|0041| 9.+10.PCD/IF1                  
+                
+K2040|0041|10.+11.PCD/IF1                  
+                
+K2041|0041|11.+12.PCD/IF1                  
+                
+K2042|0041|12.+13.PCD/IF1                  
+                
+K2043|0041|13.+14.PCD/IF1                  
+                
+K2044|0041|14.+15.PCD/IF1                  
+                
+K2045|0041|15.+16.PCD/IF1                  
+                
+K3001|0040| 1ST PZD CB/TB1                 
+                
+K3002|0040| 2ND PZD CB/TB1                 
+                
+K3003|0040| 3RD PZD CB/TB1                 
+                
+K3004|0040| 4TH PZD CB/TB1                 
+                
+K3005|0040| 5TH PZD CB/TB1                 
+                
+K3006|0040| 6TH PZD CB/TB1                 
+                
+K3007|0040| 7TH PZD CB/TB1                 
+                
+K3008|0040| 8TH PZD CB/TB1                 
+                
+K3009|0040| 9TH PZD CB/TB1                 
+                
+K3010|0040|10TH PZD CB/TB1                 
+                
+K3011|0040|11TH PZD CB/TB1                 
+                
+K3012|0040|12TH PZD CB/TB1                 
+                
+K3013|0040|13TH PZD CB/TB1                 
+                
+K3014|0040|14TH PZD CB/TB1                 
+                
+K3015|0040|15TH PZD CB/TB1                 
+                
+K3016|0040|16TH PZD CB/TB1                 
+                
+K3020|01A0|Bin>Conn Outp1CB                
+                
+K3031|0041| 1.+ 2.PCD/CB/TB                
+                
+K3032|0041| 2.+ 3.PCD/CB/TB                
+                
+K3033|0041| 3.+ 4.PCD/CB/TB                
+                
+K3034|0041| 4.+ 5.PCD/CB/TB                
+                
+K3035|0041| 5.+ 6.PCD/CB/TB                
+                
+K3036|0041| 6.+ 7.PCD/CB/TB                
+                
+K3037|0041| 7.+ 8.PCD/CB/TB                
+                
+K3038|0041| 8.+ 9.PCD/CB/TB                
+                
+K3039|0041| 9.+10.PCD/CB/TB                
+                
+K3040|0041|10.+11.PCD/CB/TB                
+                
+K3041|0041|11.+12.PCD/CB/TB                
+                
+K3042|0041|12.+13.PCD/CB/TB                
+                
+K3043|0041|13.+14.PCD/CB/TB                
+                
+K3044|0041|14.+15.PCD/CB/TB                
+                
+K3045|0041|15.+16.PCD/CB/TB                
+                
+K4101|0040|SCI-Sl.1 AI1                    
+                
+K4102|0040|SCI-Sl.1 AI2                    
+                
+K4103|0040|SCI-Sl.1 AI3                    
+                
+K4201|0040|SCI-Sl.2 AI1                    
+                
+K4202|0040|SCI-Sl.2 AI2                    
+                
+K4203|0040|SCI-Sl.2 AI3                    
+                
+K5101|0040|Anal.Inp1  1.EB1                
+                
+K5102|0040|Anal.Inp2  1.EB1                
+                
+K5103|0040|Anal.Inp3  1.EB1                
+                
+K5104|0040|Anal.Outp1 1.EB1                
+                
+K5105|0040|Anal.Outp2 1.EB1                
+                
+K5106|01A0|Bin. InOut 1.EB1                
+                
+K5111|0040|Anal input 1.EB2                
+                
+K5112|0040|Anal outpt 1.EB2                
+                
+K5113|01A0|Bin. InOut 1.EB2                
+                
+K5201|0040|1.Anal in  2.EB1                
+                
+K5202|0040|2.Anal in  2.EB1                
+                
+K5203|0040|3.Anal in  2.EB1                
+                
+K5204|0040|1.Anal out 2.EB1                
+                
+K5205|0040|2.Anal out 2.EB1                
+                
+K5206|01A0|Bin. InOut 2.EB1                
+                
+K5211|0040|Anal input 2.EB2                
+                
+K5212|0040|Anal outpt 2.EB2                
+                
+K5213|01A0|Bin. InOut 2.EB2                
+                
+K6001|0040| 1st PZD G-SST2                 
+                
+K6002|0040| 2nd PZD G-SST2                 
+                
+K6003|0040| 3rd PZD G-SST2                 
+                
+K6004|0040| 4th PZD G-SST2                 
+                
+K6005|0040| 5th PZD G-SST2                 
+                
+K6006|0040| 6th PZD G-SST2                 
+                
+K6007|0040| 7th PZD G-SST2                 
+                
+K6008|0040| 8th PZD G-SST2                 
+                
+K6009|0040| 9th PZD G-SST2                 
+                
+K6010|0040|10th PZD G-SST2                 
+                
+K6011|0040|11th PZD G-SST2                 
+                
+K6012|0040|12th PZD G-SST2                 
+                
+K6013|0040|13th PZD G-SST2                 
+                
+K6014|0040|14th PZD G-SST2                 
+                
+K6015|0040|15th PZD G-SST2                 
+                
+K6016|0040|16th PZD G-SST2                 
+                
+K6020|01A0|S2 Bin>Con  Out                 
+                
+K6021|0040| 1st PZD Slave2                 
+                
+K6022|0040| 2nd PZD Slave2                 
+                
+K6023|0040| 3rd PZD Slave2                 
+                
+K6024|0040| 4th PZD Slave2                 
+                
+K6025|0040| 5th PZD Slave2                 
+                
+K6031|0040| 1st PZD Slave3                 
+                
+K6032|0040| 2nd PZD Slave3                 
+                
+K6033|0040| 3rd PZD Slave3                 
+                
+K6034|0040| 4th PZD Slave3                 
+                
+K6035|0040| 5th PZD Slave3                 
+                
+K6041|0040| 1st PZD Slave4                 
+                
+K6042|0040| 2nd PZD Slave4                 
+                
+K6043|0040| 3rd PZD Slave4                 
+                
+K6044|0040| 4th PZD Slave4                 
+                
+K6045|0040| 5th PZD Slave4                 
+                
+K6051|0040| 1st PZD Slave5                 
+                
+K6052|0040| 2nd PZD Slave5                 
+                
+K6053|0040| 3rd PZD Slave5                 
+                
+K6054|0040| 4th PZD Slave5                 
+                
+K6055|0040| 5th PZD Slave5                 
+                
+K6061|0040| 1st PZD Slave6                 
+                
+K6062|0040| 2nd PZD Slave6                 
+                
+K6063|0040| 3rd PZD Slave6                 
+                
+K6064|0040| 4th PZD Slave6                 
+                
+K6065|0040| 5th PZD Slave6                 
+                
+K6081|0041| 1.+ 2.PCD/IF2                  
+                
+K6082|0041| 2.+ 3.PCD/IF2                  
+                
+K6083|0041| 3.+ 4.PCD/IF2                  
+                
+K6084|0041| 4.+ 5.PCD/IF2                  
+                
+K6085|0041| 5.+ 6.PCD/IF2                  
+                
+K6086|0041| 6.+ 7.PCD/IF2                  
+                
+K6087|0041| 7.+ 8.PCD/IF2                  
+                
+K6088|0041| 8.+ 9.PCD/IF2                  
+                
+K6089|0041| 9.+10.PCD/IF2                  
+                
+K6090|0041|10.+11.PCD/IF2                  
+                
+K6091|0041|11.+12.PCD/IF2                  
+                
+K6092|0041|12.+13.PCD/IF2                  
+                
+K6093|0041|13.+14.PCD/IF2                  
+                
+K6094|0041|14.+15.PCD/IF2                  
+                
+K6095|0041|15.+16.PCD/IF2                  
+                
+K7001|0040| 1st PZD SLB                    
+                
+K7002|0040| 2nd PZD SLB                    
+                
+K7003|0040| 3rd PZD SLB                    
+                
+K7004|0040| 4th PZD SLB                    
+                
+K7005|0040| 5th PZD SLB                    
+                
+K7006|0040| 6th PZD SLB                    
+                
+K7007|0040| 7th PZD SLB                    
+                
+K7008|0040| 8th PZD SLB                    
+                
+K7009|0040| 9th PZD SLB                    
+                
+K7010|0040|10th PZD SLB                    
+                
+K7011|0040|11th PZD SLB                    
+                
+K7012|0040|12th PZD SLB                    
+                
+K7013|0040|13th PZD SLB                    
+                
+K7014|0040|14th PZD SLB                    
+                
+K7015|0040|15th PZD SLB                    
+                
+K7016|0040|16th PZD SLB                    
+                
+K7031|0041| 1.+ 2.PCD/SLB                  
+                
+K7032|0041| 2.+ 3.PCD/SLB                  
+                
+K7033|0041| 3.+ 4.PCD/SLB                  
+                
+K7034|0041| 4.+ 5.PCD/SLB                  
+                
+K7035|0041| 5.+ 6.PCD/SLB                  
+                
+K7036|0041| 6.+ 7.PCD/SLB                  
+                
+K7037|0041| 7.+ 8.PCD/SLB                  
+                
+K7101|0040| 1st sp.word SLB                
+                
+K7102|0040| 2nd sp.word SLB                
+                
+K7103|0040| 3rd sp.word SLB                
+                
+K7104|0040| 4th sp.word SLB                
+                
+K7105|0040| 5th sp.word SLB                
+                
+K7106|0040| 6th sp.word SLB                
+                
+K7107|0040| 7th sp.word SLB                
+                
+K7108|0040| 8th sp.word SLB                
+                
+K7131|0041|1.+2.Specialword                
+                
+K7132|0041|2.+3.Specialword                
+                
+K7133|0041|3.+4.Specialword                
+                
+K7134|0041|4.+5.Specialword                
+                
+K7135|0041|5.+6.Specialword                
+                
+K7136|0041|6.+7.Specialword                
+                
+K7137|0041|7.+8.Specialword                
+                
+K8001|0040| 1st PZD CB/TB2                 
+                
+K8002|0040| 2nd PZD CB/TB2                 
+                
+K8003|0040| 3rd PZD CB/TB2                 
+                
+K8004|0040| 4th PZD CB/TB2                 
+                
+K8005|0040| 5th PZD CB/TB2                 
+                
+K8006|0040| 6th PZD CB/TB2                 
+                
+K8007|0040| 7th PZD CB/TB2                 
+                
+K8008|0040| 8th PZD CB/TB2                 
+                
+K8009|0040| 9th PZD CB/TB2                 
+                
+K8010|0040|10th PZD CB/TB2                 
+                
+K8011|0040|11th PZD CB/TB2                 
+                
+K8012|0040|12th PZD CB/TB2                 
+                
+K8013|0040|13th PZD CB/TB2                 
+                
+K8014|0040|14th PZD CB/TB2                 
+                
+K8015|0040|15th PZD CB/TB2                 
+                
+K8016|0040|16th PZD CB/TB2                 
+                
+K8020|01A0|Bin>Conn Outp2CB                
+                
+K8031|0041| 1.+ 2.PCD/2.CB                 
+                
+K8032|0041| 2.+ 3.PCD/2.CB                 
+                
+K8033|0041| 3.+ 4.PCD/2.CB                 
+                
+K8034|0041| 4.+ 5.PCD/2.CB                 
+                
+K8035|0041| 5.+ 6.PCD/2.CB                 
+                
+K8036|0041| 6.+ 7.PCD/2.CB                 
+                
+K8037|0041| 7.+ 8.PCD/2.CB                 
+                
+K8038|0041| 8.+ 9.PCD/2.CB                 
+                
+K8039|0041| 9.+10.PCD/2.CB                 
+                
+K8040|0041|10.+11.PCD/2.CB                 
+                
+K8041|0041|11.+12.PCD/2.CB                 
+                
+K8042|0041|12.+13.PCD/2.CB                 
+                
+K8043|0041|13.+14.PCD/2.CB                 
+                
+K8044|0041|14.+15.PCD/2.CB                 
+                
+K8045|0041|15.+16.PCD/2.CB                 
+                
+K9001|0040| 1st PZD G-SST3                 
+                
+K9002|0040| 2nd PZD G-SST3                 
+                
+K9003|0040| 3rd PZD G-SST3                 
+                
+K9004|0040| 4th PZD G-SST3                 
+                
+K9005|0040| 5th PZD G-SST3                 
+                
+K9006|0040| 6th PZD G-SST3                 
+                
+K9007|0040| 7th PZD G-SST3                 
+                
+K9008|0040| 8th PZD G-SST3                 
+                
+K9009|0040| 9th PZD G-SST3                 
+                
+K9010|0040|10th PZD G-SST3                 
+                
+K9011|0040|11th PZD G-SST3                 
+                
+K9012|0040|12th PZD G-SST3                 
+                
+K9013|0040|13th PZD G-SST3                 
+                
+K9014|0040|14th PZD G-SST3                 
+                
+K9015|0040|15th PZD G-SST3                 
+                
+K9016|0040|16th PZD G-SST3                 
+                
+K9020|01A0|S3 Bin>Con  Out                 
+                
+K9081|0041| 1.+ 2.PCD/IF3                  
+                
+K9082|0041| 2.+ 3.PCD/IF3                  
+                
+K9083|0041| 3.+ 4.PCD/IF3                  
+                
+K9084|0041| 4.+ 5.PCD/IF3                  
+                
+K9085|0041| 5.+ 6.PCD/IF3                  
+                
+K9086|0041| 6.+ 7.PCD/IF3                  
+                
+K9087|0041| 7.+ 8.PCD/IF3                  
+                
+K9088|0041| 8.+ 9.PCD/IF3                  
+                
+K9089|0041| 9.+10.PCD/IF3                  
+                
+K9090|0041|10.+11.PCD/IF3                  
+                
+K9091|0041|11.+12.PCD/IF3                  
+                
+K9092|0041|12.+13.PCD/IF3                  
+                
+K9093|0041|13.+14.PCD/IF3                  
+                
+K9094|0041|14.+15.PCD/IF3                  
+                
+K9095|0041|15.+16.PCD/IF3                  
+                
+K9113|01A0|Bin>ConCnv1 Out                 
+                
+K9114|01A0|Bin>ConCnv2 Out                 
+                
+K9115|01A0|Bin>ConCnv3 Out                 
+                
+K9120|0040|ADD/SUB 1 outpu                 
+                
+K9121|0040|ADD/SUB 2 outpu                 
+                
+K9122|0040|ADD/SUB 3 outpu                 
+                
+K9123|0040|ADD/SUB 4 outpu                 
+                
+K9124|0040|ADD/SUB 5 outpu                 
+                
+K9125|0040|ADD/SUB 6 outpu                 
+                
+K9126|0040|ADD/SUB 7 outpu                 
+                
+K9127|0040|ADD/SUB 8 outpu                 
+                
+K9128|0040|ADD/SUB 9 outpu                 
+                
+K9129|0040|ADD/SUB10 outpu                 
+                
+K9130|0040|ADD/SUB11 outpu                 
+                
+K9131|0040|ADD/SUB12 outpu                 
+                
+K9132|0040|ADD/SUB 13 outpu                
+                
+K9133|0040|ADD/SUB 14 outpu                
+                
+K9134|0040|ADD/SUB 15 outpu                
+                
+K9135|0040|INV 1 output                    
+                
+K9136|0040|INV 2 output                    
+                
+K9137|0040|INV 3 output                    
+                
+K9138|0040|INV 4 output                    
+                
+K9140|0040|SW INV 1 output                 
+                
+K9141|0040|SW INV 2 output                 
+                
+K9142|0040|DIV 4 output                    
+                
+K9143|0040|DIV 5 output                    
+                
+K9144|0040|DIV 6 output                    
+                
+K9145|0040|DIV 1 output                    
+                
+K9146|0040|DIV 2 output                    
+                
+K9147|0040|DIV 3 output                    
+                
+K9150|0040|MULT 1 output                   
+                
+K9151|0040|MULT 2 output                   
+                
+K9152|0040|MULT 3 output                   
+                
+K9153|0040|MULT 4 output                   
+                
+K9155|0040|MULT/DIV 1 outp                 
+                
+K9156|0040|MULT/DIV 2 outp                 
+                
+K9157|0040|MULT/DIV 3 outp                 
+                
+K9160|0040|Avgen+filt 1 ot                 
+                
+K9161|0040|Avgen+filt 2 ot                 
+                
+K9162|0040|Avgen+filt 3 ot                 
+                
+K9163|0040|Avgen+filt 4 ot                 
+                
+K9165|0040|Limiter1 fix va                 
+                
+K9166|0040|Limit1 fx vl in                 
+                
+K9167|0040|Limiter1 output                 
+                
+K9168|0040|Limiter2 fix va                 
+                
+K9169|0040|Limit2 fx vl in                 
+                
+K9170|0040|Limiter2 output                 
+                
+K9171|0040|Limiter3 fix va                 
+                
+K9172|0040|Limit3 fx vl in                 
+                
+K9173|0040|Limiter3 output                 
+                
+K9174|0040|Limiter4 fix va                 
+                
+K9175|0040|Limit4 fx vl in                 
+                
+K9176|0040|Limiter4 output                 
+                
+K9177|0040|Limiter5 fix va                 
+                
+K9178|0040|Limit5 fx vl in                 
+                
+K9179|0040|Limiter5 output                 
+                
+K9180|0040|Lmvalmn 1 inpt                  
+                
+K9181|0040|Lmvalmn 1 fx va                 
+                
+K9182|0040|Lmvalmn 2 inpt                  
+                
+K9183|0040|Lmvalmn 2 fx va                 
+                
+K9184|0040|Lmvalmn 3 inpt                  
+                
+K9185|0040|Lmvalmn 3 fx va                 
+                
+K9186|0040|Lmvalmn 4 fx va                 
+                
+K9187|0040|Lmvalmn 5 fx va                 
+                
+K9188|0040|Lmvalmn 6 fx va                 
+                
+K9189|0040|Lmvalmn 7 fx va                 
+                
+K9190|0040|Lmvalmn 8 fx va                 
+                
+K9191|0040|Lmvalmn 9 fx va                 
+                
+K9192|0040|Lmvalmn10 fx va                 
+                
+K9193|0040|MAX select1 outp                
+                
+K9194|0040|MIN select1 outp                
+                
+K9195|0040|Trck/str 1 outp                 
+                
+K9196|0040|Trck/str 2 outp                 
+                
+K9197|0040|Anal mem 1 outp                 
+                
+K9198|0040|Anal mem 2 outp                 
+                
+K9210|0040|Anal sel 1 outp                 
+                
+K9211|0040|Anal sel 2 outp                 
+                
+K9212|0040|Anal sel 3 outp                 
+                
+K9213|0040|Anal sel 4 outp                 
+                
+K9214|0040|Anal sel 5 outp                 
+                
+K9215|0040|Anal sel 6 outp                 
+                
+K9216|0040|Anal sel 7 outp                 
+                
+K9217|0040|Anal sel 8 outp                 
+                
+K9218|0040|Anal sel 9 outp                 
+                
+K9219|0040|Anal sel10 outp                 
+                
+K9220|0040|Integrat 1 outp                 
+                
+K9221|0040|Integrat 2 outp                 
+                
+K9222|0040|Integrat 3 outp                 
+                
+K9223|0040|DT1 elm 1 outpu                 
+                
+K9224|0040|DT1elm1 otpt in                 
+                
+K9225|0040|DT1 elm 2 outpu                 
+                
+K9226|0040|DT1elm2 otpt in                 
+                
+K9227|0040|DT1 elm 3 outpu                 
+                
+K9228|0040|DT1elm3 otpt in                 
+                
+K9229|0040|Character 1 otp                 
+                
+K9230|0040|Character 2 otp                 
+                
+K9231|0040|Character 3 otp                 
+                
+K9232|0040|Deadzone 1 outp                 
+                
+K9233|0040|Deadzone 2 outp                 
+                
+K9234|0040|Deadzone 3 outp                 
+                
+K9235|0040|Setp brnch outp                 
+                
+K9236|0040|Simpl RFG outpu                 
+                
+K9240|0040|TechCntr act va                 
+                
+K9241|0040|TchCntr actv in                 
+                
+K9242|0040|TechCntr D comp                 
+                
+K9243|0040|TechCntr setpnt                 
+                
+K9244|0040|TchCntr stpnt f                 
+                
+K9245|0040|TechCntr SAD                    
+                
+K9246|0040|TchCntrSAD af d                 
+                
+K9247|0040|TechCntr P comp                 
+                
+K9248|0040|TechCntr I comp                 
+                
+K9249|0040|TechCntr output                 
+                
+K9250|0040|TechCntr pos li                 
+                
+K9251|0040|TechCntr neg li                 
+                
+K9252|0040|TchCntr poslm -                 
+                
+K9253|0040|TechCntr otp li                 
+                
+K9254|0040|TchCntr otp wgh                 
+                
+K9256|0040|n>v calc output                 
+                
+K9257|0040|v>n calc output                 
+                
+K9258|0040|var. mom. inert.                
+                
+K9260|0040|Limiter6 fix va                 
+                
+K9261|0040|Limit6 fx vl in                 
+                
+K9262|0040|Limiter6 output                 
+                
+K9265|0040|Anal sel11 outp                 
+                
+K9266|0040|Anal sel12 outp                 
+                
+K9267|0040|Anal sel13 outp                 
+                
+K9268|0040|Anal sel14 outp                 
+                
+K9269|0040|Anal sel15 outp                 
+                
+K9300|0040|PIctr1 outp.filt                
+                
+K9301|0040|PIctr1 P-action                 
+                
+K9302|0040|PIctr1 I-action                 
+                
+K9303|0040|PIctr1 output                   
+                
+K9304|0040|PIctr1 outp.lim.                
+                
+K9305|0040|PIctr1 pos.lim.                 
+                
+K9306|0040|PIctr1 posliminv                
+                
+K9307|0040|PIctr1 neg.lim.                 
+                
+K9310|0040|PIctr2 outp.filt                
+                
+K9311|0040|PIctr2 P-action                 
+                
+K9312|0040|PIctr2 I-action                 
+                
+K9313|0040|PIctr2 output                   
+                
+K9314|0040|PIctr2 outp.lim.                
+                
+K9315|0040|PIctr2 pos.lim.                 
+                
+K9316|0040|PIctr2 posliminv                
+                
+K9317|0040|PIctr2 neg.lim.                 
+                
+K9320|0040|PIctr3 outp.filt                
+                
+K9321|0040|PIctr3 P-action                 
+                
+K9322|0040|PIctr3 I-action                 
+                
+K9323|0040|PIctr3 output                   
+                
+K9324|0040|PIctr3 outp.lim.                
+                
+K9325|0040|PIctr3 pos.lim.                 
+                
+K9326|0040|PIctr3 posliminv                
+                
+K9327|0040|PIctr3 neg.lim.                 
+                
+K9330|0040|PIctr4 outp.filt                
+                
+K9331|0040|PIctr4 P-action                 
+                
+K9332|0040|PIctr4 I-action                 
+                
+K9333|0040|PIctr4 output                   
+                
+K9334|0040|PIctr4 outp.lim.                
+                
+K9335|0040|PIctr4 pos.lim.                 
+                
+K9336|0040|PIctr4 posliminv                
+                
+K9337|0040|PIctr4 neg.lim.                 
+                
+K9340|0040|PIctr5 outp.filt                
+                
+K9341|0040|PIctr5 P-action                 
+                
+K9342|0040|PIctr5 I-action                 
+                
+K9343|0040|PIctr5 output                   
+                
+K9344|0040|PIctr5 outp.lim.                
+                
+K9345|0040|PIctr5 pos.lim.                 
+                
+K9346|0040|PIctr5 posliminv                
+                
+K9347|0040|PIctr5 neg.lim.                 
+                
+K9350|0040|PIctr6 outp.filt                
+                
+K9351|0040|PIctr6 P-action                 
+                
+K9352|0040|PIctr6 I-action                 
+                
+K9353|0040|PIctr6 output                   
+                
+K9354|0040|PIctr6 outp.lim.                
+                
+K9355|0040|PIctr6 pos.lim.                 
+                
+K9356|0040|PIctr6 posliminv                
+                
+K9357|0040|PIctr6 neg.lim.                 
+                
+K9360|0040|PIctr7 outp.filt                
+                
+K9361|0040|PIctr7 P-action                 
+                
+K9362|0040|PIctr7 I-action                 
+                
+K9363|0040|PIctr7 output                   
+                
+K9364|0040|PIctr7 outp.lim.                
+                
+K9365|0040|PIctr7 pos.lim.                 
+                
+K9366|0040|PIctr7 posliminv                
+                
+K9367|0040|PIctr7 neg.lim.                 
+                
+K9370|0040|PIctr8 outp.filt                
+                
+K9371|0040|PIctr8 P-action                 
+                
+K9372|0040|PIctr8 I-action                 
+                
+K9373|0040|PIctr8 output                   
+                
+K9374|0040|PIctr8 outp.lim.                
+                
+K9375|0040|PIctr8 pos.lim.                 
+                
+K9376|0040|PIctr8 posliminv                
+                
+K9377|0040|PIctr8 neg.lim.                 
+                
+K9380|0040|PIctr9 outp.filt                
+                
+K9381|0040|PIctr9 P-action                 
+                
+K9382|0040|PIctr9 I-action                 
+                
+K9383|0040|PIctr9 output                   
+                
+K9384|0040|PIctr9 outp.lim.                
+                
+K9385|0040|PIctr9 pos.lim.                 
+                
+K9386|0040|PIctr9 posliminv                
+                
+K9387|0040|PIctr9 neg.lim.                 
+                
+K9390|0040|PIctr10 outpfilt                
+                
+K9391|0040|PIctr10 P-action                
+                
+K9392|0040|PIctr10 I-action                
+                
+K9393|0040|PIctr10 output                  
+                
+K9394|0040|PIctr10 outp.lim                
+                
+K9395|0040|PIctr10 pos.lim.                
+                
+K9396|0040|PIctr10posliminv                
+                
+K9397|0040|PIctr10 neg.lim.                
+                
+K9400|0040|deriv/delay1 out                
+                
+K9401|0040|deriv/delay2 out                
+                
+K9402|0040|deriv/delay3 out                
+                
+K9403|0040|deriv/delay4 out                
+                
+K9404|0040|deriv/delay5 out                
+                
+K9405|0040|deriv/delay6 out                
+                
+K9406|0040|deriv/delay7 out                
+                
+K9407|0040|deriv/delay8 out                
+                
+K9408|0040|deriv/delay9 out                
+                
+K9409|0040|deriv/delay10out                
+                
+K9410|0040|Character 4 otp                 
+                
+K9411|0040|Character 5 otp                 
+                
+K9412|0040|Character 6 otp                 
+                
+K9413|0040|Character 7 otp                 
+                
+K9414|0040|Character 8 otp                 
+                
+K9415|0040|Character 9 otp                 
+                
+K9430|0040|MULT 5 output                   
+                
+K9431|0040|MULT 6 output                   
+                
+K9432|0040|MULT 7 output                   
+                
+K9433|0040|MULT 8 output                   
+                
+K9434|0040|MULT 9 output                   
+                
+K9435|0040|MULT 10 output                  
+                
+K9436|0040|MULT 11 output                  
+                
+K9437|0040|MULT 12 output                  
+                
+K9441|0120|Sw Counter Min.                 
+                
+K9442|0120|Sw Counter Max.                 
+                
+K9443|0120|Sw Counter Set.                 
+                
+K9444|0120|Sw Counter Start                
+                
+K9445|0120|Sw Counter Outp.                
+                
+K9450|0040|multiplexer1outp                
+                
+K9451|0040|multiplexer2outp                
+                
+K9452|0040|multiplexer3outp                
+                
+K9455|0040|meanval.1 outp.                 
+                
+K9456|0040|meanval.2 outp.                 
+                
+K9457|0040|meanval.3 outp.                 
+                
+K9458|0040|meanval.4 outp.                 
+                
+K9460|0040|MAX selec2 outpu                
+                
+K9461|0040|MAX selec3 outpu                
+                
+K9462|0040|MAX selec4 outpu                
+                
+K9463|0040|MIN selec2 outpu                
+                
+K9464|0040|MIN selec3 outpu                
+                
+K9465|0040|MIN selec4 outpu                
+                
+K9471|0141|Pos.fixed value1                
+                
+K9472|0141|Pos.fixed value2                
+                
+K9473|0141|Pos.fixed value3                
+                
+K9474|0141|Pos.fixed value4                
+                
+K9481|0141|Pos. act. value1                
+                
+K9482|0141|Pos. act. value2                
+                
+K9483|0141|Pos. deviation                  
+                
+K9484|0140|Pos. dev. limit.                
+                
+K9485|0140|Root extrctr out                
+                
+K9490|0141|1stAdd/Sub Outp                 
+                
+K9491|0140|1stAdd/SubOutpLm                
+                
+K9492|0141|2ndAdd/Sub Outp                 
+                
+K9493|0140|2ndAdd/SubOutpLm                
+                
+K9498|0141|1stConTypConvOut                
+                
+K9499|0141|2ndConTypConvOut                
+                
+K9501|0040|fixed value 1                   
+                
+K9502|0040|fixed value 2                   
+                
+K9503|0040|fixed value 3                   
+                
+K9504|0040|fixed value 4                   
+                
+K9505|0040|fixed value 5                   
+                
+K9506|0040|fixed value 6                   
+                
+K9507|0040|fixed value 7                   
+                
+K9508|0040|fixed value 8                   
+                
+K9509|0040|fixed value 9                   
+                
+K9510|0040|fixed value 10                  
+                
+K9511|0040|Fixed value 11                  
+                
+K9512|0040|Fixed value 12                  
+                
+K9513|0040|Fixed value 13                  
+                
+K9514|0040|Fixed value 14                  
+                
+K9515|0040|Fixed value 15                  
+                
+K9516|0040|Fixed value 16                  
+                
+K9517|0040|Fixed value 17                  
+                
+K9518|0040|Fixed value 18                  
+                
+K9519|0040|Fixed value 19                  
+                
+K9520|0040|Fixed value 20                  
+                
+K9521|0040|Fixed value 21                  
+                
+K9522|0040|Fixed value 22                  
+                
+K9523|0040|Fixed value 23                  
+                
+K9524|0040|Fixed value 24                  
+                
+K9525|0040|Fixed value 25                  
+                
+K9526|0040|Fixed value 26                  
+                
+K9527|0040|Fixed value 27                  
+                
+K9528|0040|Fixed value 28                  
+                
+K9529|0040|Fixed value 29                  
+                
+K9530|0040|Fixed value 30                  
+                
+K9531|0040|Fixed value 31                  
+                
+K9532|0040|Fixed value 32                  
+                
+K9533|0040|Fixed value 33                  
+                
+K9534|0040|Fixed value 34                  
+                
+K9535|0040|Fixed value 35                  
+                
+K9536|0040|Fixed value 36                  
+                
+K9537|0040|Fixed value 37                  
+                
+K9538|0040|Fixed value 38                  
+                
+K9539|0040|Fixed value 39                  
+                
+K9540|0040|Fixed value 40                  
+                
+K9541|0040|Fixed value 41                  
+                
+K9542|0040|Fixed value 42                  
+                
+K9543|0040|Fixed value 43                  
+                
+K9544|0040|Fixed value 44                  
+                
+K9545|0040|Fixed value 45                  
+                
+K9546|0040|Fixed value 46                  
+                
+K9547|0040|Fixed value 47                  
+                
+K9548|0040|Fixed value 48                  
+                
+K9549|0040|Fixed value 49                  
+                
+K9550|0040|Fixed value 50                  
+                
+K9551|0040|Fixed value 51                  
+                
+K9552|0040|Fixed value 52                  
+                
+K9553|0040|Fixed value 53                  
+                
+K9554|0040|Fixed value 54                  
+                
+K9555|0040|Fixed value 55                  
+                
+K9556|0040|Fixed value 56                  
+                
+K9557|0040|Fixed value 57                  
+                
+K9558|0040|Fixed value 58                  
+                
+K9559|0040|Fixed value 59                  
+                
+K9560|0040|Fixed value 60                  
+                
+K9561|0040|Fixed value 61                  
+                
+K9562|0040|Fixed value 62                  
+                
+K9563|0040|Fixed value 63                  
+                
+K9564|0040|Fixed value 64                  
+                
+K9565|0040|Fixed value 65                  
+                
+K9566|0040|Fixed value 66                  
+                
+K9567|0040|Fixed value 67                  
+                
+K9568|0040|Fixed value 68                  
+                
+K9569|0040|Fixed value 69                  
+                
+K9570|0040|Fixed value 70                  
+                
+K9571|0040|Fixed value 71                  
+                
+K9572|0040|Fixed value 72                  
+                
+K9573|0040|Fixed value 73                  
+                
+K9574|0040|Fixed value 74                  
+                
+K9575|0040|Fixed value 75                  
+                
+K9576|0040|Fixed value 76                  
+                
+K9577|0040|Fixed value 77                  
+                
+K9578|0040|Fixed value 78                  
+                
+K9579|0040|Fixed value 79                  
+                
+K9580|0040|Fixed value 80                  
+                
+K9581|0040|Fixed value 81                  
+                
+K9582|0040|Fixed value 82                  
+                
+K9583|0040|Fixed value 83                  
+                
+K9584|0040|Fixed value 84                  
+                
+K9585|0040|Fixed value 85                  
+                
+K9586|0040|Fixed value 86                  
+                
+K9587|0040|Fixed value 87                  
+                
+K9588|0040|Fixed value 88                  
+                
+K9589|0040|Fixed value 89                  
+                
+K9590|0040|Fixed value 90                  
+                
+K9591|0040|Fixed value 91                  
+                
+K9592|0040|Fixed value 92                  
+                
+K9593|0040|Fixed value 93                  
+                
+K9594|0040|Fixed value 94                  
+                
+K9595|0040|Fixed value 95                  
+                
+K9596|0040|Fixed value 96                  
+                
+K9597|0040|Fixed value 97                  
+                
+K9598|0040|Fixed value 98                  
+                
+K9599|0040|Fixed value 99                  
+                
+K9600|0040|fixed value 100                 
+                
+K9801|01A0|Alarm mem 1                     
+                
+K9802|01A0|Alarm mem 2                     
+                
+K9803|01A0|Alarm mem 3                     
+                
+K9804|01A0|Alarm mem 4                     
+                
+K9805|01A0|Alarm mem 5                     
+                
+K9806|01A0|Alarm mem 6                     
+                
+K9807|01A0|Alarm mem 7                     
+                
+K9808|01A0|Alarm mem 8                     
+                
+K9811|0120|Last fault no.                  
+                
+K9812|0120|2nd last flt no                 
+                
+K9813|0120|3rd last flt no                 
+                
+K9814|0120|4th last flt no                 
+                
+K9815|0120|5th last flt no                 
+                
+K9816|0120|6th last flt no                 
+                
+K9817|0120|7th last flt no                 
+                
+K9818|0120|8th last flt no                 
+                
+K9990|0020|Proc util C163                  
+                
+K9991|0020|Proc util C163m                 
+                
+K9992|0020|ProcUtil C163 H                 
+                
+K9993|0020|ProcUtil C163 4                 
+                
+K9994|0020|ProcUtil C163 2                 
+                
+K9995|0020|ProcUtil C163 1                 
+                
+K9999|01A0|Bin>ConCnvT Out                 
+                
+1540
+B0000|0020|Fixed Value0                    
+                
+B0001|0020|Fixed Value1                    
+                
+B0010|0020|Terminal 36                     
+                
+B0011|0020|Term. 36 invert.                
+                
+B0012|0020|Terminal 37                     
+                
+B0013|0020|Term. 37 invert.                
+                
+B0014|0020|Terminal 38                     
+                
+B0015|0020|Term. 38 invert.                
+                
+B0016|0020|Terminal 39                     
+                
+B0017|0020|Term. 39 invert.                
+                
+B0018|0020|Terminal 40                     
+                
+B0019|0020|Term. 40 invert.                
+                
+B0020|0020|Terminal 41                     
+                
+B0021|0020|Term. 41 invert.                
+                
+B0022|0020|Terminal 42                     
+                
+B0023|0020|Term. 42 invert.                
+                
+B0024|0020|Terminal 43                     
+                
+B0025|0020|Term. 43 invert.                
+                
+B0032|0020|Terminal 122                    
+                
+B0033|0020|Term.122 invert.                
+                
+B0034|0020|Terminal 124                    
+                
+B0035|0020|Term.124 invert.                
+                
+B0040|0020|Terminal 211                    
+                
+B0041|0020|Term.211 invert.                
+                
+B0042|0020|Terminal 212                    
+                
+B0043|0020|Term.212 invert.                
+                
+B0044|0020|Terminal 213                    
+                
+B0045|0020|Term.213 invert.                
+                
+B0046|0020|Terminal 214                    
+                
+B0047|0020|Term.214 invert.                
+                
+B0050|0020|Open circ.mn.stp                
+                
+B0051|0020|Open circ. SAI1                 
+                
+B0052|0020|Pulse enc. fault                
+                
+B0053|0020|Pos.ActV.Undrrng                
+                
+B0054|0020|Pos.ActV.Overrng                
+                
+B0055|0020|Pos.ActV.Undrrng                
+                
+B0056|0020|Pos.ActV.Overrng                
+                
+B0057|0020|Ia too large                    
+                
+B0100|0020|Ready for ON                    
+                
+B0101|0020|Ready for ON inv                
+                
+B0102|0020|Ready                           
+                
+B0103|0020|Ready inv.                      
+                
+B0104|0020|Run                             
+                
+B0105|0020|Run inv.                        
+                
+B0106|0020|Fault                           
+                
+B0107|0020|Fault inv.                      
+                
+B0108|0020|No OFF2                         
+                
+B0109|0020|OFF2 active                     
+                
+B0110|0020|No OFF3                         
+                
+B0111|0020|OFF3 active                     
+                
+B0112|0020|Start lockout                   
+                
+B0113|0020|Start l-out inv.                
+                
+B0114|0020|Alarm                           
+                
+B0115|0020|Alarm inv.                      
+                
+B0116|0020|Setp/act val dev                
+                
+B0117|0020|Setp/a-v dev inv                
+                
+B0120|0020|Cmp setp reached                
+                
+B0121|0020|C setp rchd inv                 
+                
+B0122|0020|Undervoltage                    
+                
+B0123|0020|Undervoltage inv                
+                
+B0124|0020|Energ main cont                 
+                
+B0125|0020|Energ mn cnt inv                
+                
+B0126|0020|RFG active                      
+                
+B0127|0020|RFG active inv                  
+                
+B0128|0020|Pos. n setpoint                 
+                
+B0129|0020|Neg. n setpoint                 
+                
+B0136|0020|Overspeed                       
+                
+B0137|0020|Overspeed inv                   
+                
+B0138|0020|Ext fault 1                     
+                
+B0139|0020|Ext fault 1 inv                 
+                
+B0140|0020|Ext fault 2                     
+                
+B0141|0020|Ext fault 2 inv                 
+                
+B0142|0020|Ext alarm                       
+                
+B0143|0020|Ext alarm inv                   
+                
+B0144|0020|PS overld alarm                 
+                
+B0145|0020|PS ovrld alm inv                
+                
+B0146|0020|PS ovrtmp fault                 
+                
+B0147|0020|PS ovrtmpflt inv                
+                
+B0148|0020|PS ovrtmp alarm                 
+                
+B0149|0020|PS ovrtmpalm inv                
+                
+B0150|0020|Mot ovrtmp alar                 
+                
+B0151|0020|Mo ovrtmpalm inv                
+                
+B0152|0020|Mo ovrtmp fault                 
+                
+B0153|0020|Mo ovrtmpflt inv                
+                
+B0156|0020|Motor blocked                   
+                
+B0157|0020|Motor blcked inv                
+                
+B0160|0020|No OFF1                         
+                
+B0161|0020|OFF1 active                     
+                
+B0164|0020|n < n-min                       
+                
+B0165|0020|n >= n-min                      
+                
+B0166|0020|Line Voltage ok                 
+                
+B0167|0020|Voltage ok inv.                 
+                
+B0168|0020|E-Stop active                   
+                
+B0169|0020|No E-Stop                       
+                
+B0172|0020|Setp/act valDev2                
+                
+B0173|0020|Setp/a-vDev2 inv                
+                
+B0179|0020|Fault acknowldg.                
+                
+B0180|0020|Brush length nOK                
+                
+B0181|0020|Bearings bad                    
+                
+B0182|0020|Fan motor not OK                
+                
+B0183|0020|Motor temp notOK                
+                
+B0184|0020|Motor temp.1 nOK                
+                
+B0185|0020|Motor temp.2 nOK                
+                
+B0186|0020|I2t-motor not OK                
+                
+B0187|0020|I2t-thyrist nOK                 
+                
+B0188|0020|Heatsink tmp nOK                
+                
+B0189|0020|Fan not OK                      
+                
+B0190|0020|I not pulsating                 
+                
+B0192|0020|pos n-ctr li act                
+                
+B0193|0020|neg n-ctr li act                
+                
+B0194|0020|pos I lim active                
+                
+B0195|0020|neg I lim active                
+                
+B0196|0020|alpha G reached                 
+                
+B0197|0020|alpha W reached                 
+                
+B0198|0020|pos M/I/a li.act                
+                
+B0199|0020|neg M/I/a li.act                
+                
+B0200|0020|I limit active                  
+                
+B0201|0020|n cntr lmt activ                
+                
+B0202|0020|Pos. M lmt activ                
+                
+B0203|0020|Neg. M lmt activ                
+                
+B0204|0020|M limitat. activ                
+                
+B0205|0020|n cntr enabled                  
+                
+B0206|0020|n ctr stp lm ac                 
+                
+B0207|0020|RFG output = 0                  
+                
+B0208|0020|Ramp-up                         
+                
+B0209|0020|Ramp-down                       
+                
+B0210|0020|No M dir. enable                
+                
+B0211|0020|Setpoint enabled                
+                
+B0215|0020|If < If_min sig                 
+                
+B0216|0020|If < If_x sig.                  
+                
+B0220|0020|M direct. sig.                  
+                
+B0221|0020|Torq. direct. 1                 
+                
+B0222|0020|Torq. direct. 2                 
+                
+B0225|0020|Parallel. mast.                 
+                
+B0230|0020|No T-dir. req.                  
+                
+B0231|0020|T-dir. 1 request                
+                
+B0232|0020|T-dir. 1 request                
+                
+B0240|0020|Mot pot outpt =0                
+                
+B0241|0020|MOP outp=MOP inp                
+                
+B0250|0020|Close brake                     
+                
+B0251|0020|Auxil. ON                       
+                
+B0252|0020|Fan motor ON                    
+                
+B0255|0020|Open brake                      
+                
+B0256|0020|Auxil. OFF                      
+                
+B0260|0020|CLOSE fld cont                  
+                
+B0261|0020|CLOSE fld cont                  
+                
+B0421|0020|Fix cntrl bit 1                 
+                
+B0422|0020|Fix cntrl bit 2                 
+                
+B0423|0020|Fix cntrl bit 3                 
+                
+B0424|0020|Fix cntrl bit 4                 
+                
+B0425|0020|Fix cntrl bit 5                 
+                
+B0426|0020|Fix cntrl bit 6                 
+                
+B0427|0020|Fix cntrl bit 7                 
+                
+B0428|0020|Fix cntrl bit 8                 
+                
+B2030|0020|Tgr.fail. G-SST1                
+                
+B2031|0020|Tgr.fl.ps G-SST1                
+                
+B2100|0020|1ST PZD 0 G-SST1                
+                
+B2101|0020|1ST PZD 1 G-SST1                
+                
+B2102|0020|1ST PZD 2 G-SST1                
+                
+B2103|0020|1ST PZD 3 G-SST1                
+                
+B2104|0020|1ST PZD 4 G-SST1                
+                
+B2105|0020|1ST PZD 5 G-SST1                
+                
+B2106|0020|1ST PZD 6 G-SST1                
+                
+B2107|0020|1ST PZD 7 G-SST1                
+                
+B2108|0020|1ST PZD 8 G-SST1                
+                
+B2109|0020|1ST PZD 9 G-SST1                
+                
+B2110|0020|1ST PZD10 G-SST1                
+                
+B2111|0020|1ST PZD11 G-SST1                
+                
+B2112|0020|1ST PZD12 G-SST1                
+                
+B2113|0020|1ST PZD13 G-SST1                
+                
+B2114|0020|1ST PZD14 G-SST1                
+                
+B2115|0020|1ST PZD15 G-SST1                
+                
+B2200|0020|2ND PZD 0 G-SST1                
+                
+B2201|0020|2ND PZD 1 G-SST1                
+                
+B2202|0020|2ND PZD 2 G-SST1                
+                
+B2203|0020|2ND PZD 3 G-SST1                
+                
+B2204|0020|2ND PZD 4 G-SST1                
+                
+B2205|0020|2ND PZD 5 G-SST1                
+                
+B2206|0020|2ND PZD 6 G-SST1                
+                
+B2207|0020|2ND PZD 7 G-SST1                
+                
+B2208|0020|2ND PZD 8 G-SST1                
+                
+B2209|0020|2ND PZD 9 G-SST1                
+                
+B2210|0020|2ND PZD10 G-SST1                
+                
+B2211|0020|2ND PZD11 G-SST1                
+                
+B2212|0020|2ND PZD12 G-SST1                
+                
+B2213|0020|2ND PZD13 G-SST1                
+                
+B2214|0020|2ND PZD14 G-SST1                
+                
+B2215|0020|2ND PZD15 G-SST1                
+                
+B2300|0020|3RD PZD 0 G-SST1                
+                
+B2301|0020|3RD PZD 1 G-SST1                
+                
+B2302|0020|3RD PZD 2 G-SST1                
+                
+B2303|0020|3RD PZD 3 G-SST1                
+                
+B2304|0020|3RD PZD 4 G-SST1                
+                
+B2305|0020|3RD PZD 5 G-SST1                
+                
+B2306|0020|3RD PZD 6 G-SST1                
+                
+B2307|0020|3RD PZD 7 G-SST1                
+                
+B2308|0020|3RD PZD 8 G-SST1                
+                
+B2309|0020|3RD PZD 9 G-SST1                
+                
+B2310|0020|3RD PZD10 G-SST1                
+                
+B2311|0020|3RD PZD11 G-SST1                
+                
+B2312|0020|3RD PZD12 G-SST1                
+                
+B2313|0020|3RD PZD13 G-SST1                
+                
+B2314|0020|3RD PZD14 G-SST1                
+                
+B2315|0020|3RD PZD15 G-SST1                
+                
+B2400|0020|4TH PZD 0 G-SST1                
+                
+B2401|0020|4TH PZD 1 G-SST1                
+                
+B2402|0020|4TH PZD 2 G-SST1                
+                
+B2403|0020|4TH PZD 3 G-SST1                
+                
+B2404|0020|4TH PZD 4 G-SST1                
+                
+B2405|0020|4TH PZD 5 G-SST1                
+                
+B2406|0020|4TH PZD 6 G-SST1                
+                
+B2407|0020|4TH PZD 7 G-SST1                
+                
+B2408|0020|4TH PZD 8 G-SST1                
+                
+B2409|0020|4TH PZD 9 G-SST1                
+                
+B2410|0020|4TH PZD10 G-SST1                
+                
+B2411|0020|4TH PZD11 G-SST1                
+                
+B2412|0020|4TH PZD12 G-SST1                
+                
+B2413|0020|4TH PZD13 G-SST1                
+                
+B2414|0020|4TH PZD14 G-SST1                
+                
+B2415|0020|4TH PZD15 G-SST1                
+                
+B2500|0020|5TH PZD 0 G-SST1                
+                
+B2501|0020|5TH PZD 1 G-SST1                
+                
+B2502|0020|5TH PZD 2 G-SST1                
+                
+B2503|0020|5TH PZD 3 G-SST1                
+                
+B2504|0020|5TH PZD 4 G-SST1                
+                
+B2505|0020|5TH PZD 5 G-SST1                
+                
+B2506|0020|5TH PZD 6 G-SST1                
+                
+B2507|0020|5TH PZD 7 G-SST1                
+                
+B2508|0020|5TH PZD 8 G-SST1                
+                
+B2509|0020|5TH PZD 9 G-SST1                
+                
+B2510|0020|5TH PZD10 G-SST1                
+                
+B2511|0020|5TH PZD11 G-SST1                
+                
+B2512|0020|5TH PZD12 G-SST1                
+                
+B2513|0020|5TH PZD13 G-SST1                
+                
+B2514|0020|5TH PZD14 G-SST1                
+                
+B2515|0020|5TH PZD15 G-SST1                
+                
+B2600|0020|6TH PZD 0 G-SST1                
+                
+B2601|0020|6TH PZD 1 G-SST1                
+                
+B2602|0020|6TH PZD 2 G-SST1                
+                
+B2603|0020|6TH PZD 3 G-SST1                
+                
+B2604|0020|6TH PZD 4 G-SST1                
+                
+B2605|0020|6TH PZD 5 G-SST1                
+                
+B2606|0020|6TH PZD 6 G-SST1                
+                
+B2607|0020|6TH PZD 7 G-SST1                
+                
+B2608|0020|6TH PZD 8 G-SST1                
+                
+B2609|0020|6TH PZD 9 G-SST1                
+                
+B2610|0020|6TH PZD10 G-SST1                
+                
+B2611|0020|6TH PZD11 G-SST1                
+                
+B2612|0020|6TH PZD12 G-SST1                
+                
+B2613|0020|6TH PZD13 G-SST1                
+                
+B2614|0020|6TH PZD14 G-SST1                
+                
+B2615|0020|6TH PZD15 G-SST1                
+                
+B2700|0020|7TH PZD 0 G-SST1                
+                
+B2701|0020|7TH PZD 1 G-SST1                
+                
+B2702|0020|7TH PZD 2 G-SST1                
+                
+B2703|0020|7TH PZD 3 G-SST1                
+                
+B2704|0020|7TH PZD 4 G-SST1                
+                
+B2705|0020|7TH PZD 5 G-SST1                
+                
+B2706|0020|7TH PZD 6 G-SST1                
+                
+B2707|0020|7TH PZD 7 G-SST1                
+                
+B2708|0020|7TH PZD 8 G-SST1                
+                
+B2709|0020|7TH PZD 9 G-SST1                
+                
+B2710|0020|7TH PZD10 G-SST1                
+                
+B2711|0020|7TH PZD11 G-SST1                
+                
+B2712|0020|7TH PZD12 G-SST1                
+                
+B2713|0020|7TH PZD13 G-SST1                
+                
+B2714|0020|7TH PZD14 G-SST1                
+                
+B2715|0020|7TH PZD15 G-SST1                
+                
+B2800|0020|8TH PZD 0 G-SST1                
+                
+B2801|0020|8TH PZD 1 G-SST1                
+                
+B2802|0020|8TH PZD 2 G-SST1                
+                
+B2803|0020|8TH PZD 3 G-SST1                
+                
+B2804|0020|8TH PZD 4 G-SST1                
+                
+B2805|0020|8TH PZD 5 G-SST1                
+                
+B2806|0020|8TH PZD 6 G-SST1                
+                
+B2807|0020|8TH PZD 7 G-SST1                
+                
+B2808|0020|8TH PZD 8 G-SST1                
+                
+B2809|0020|8TH PZD 9 G-SST1                
+                
+B2810|0020|8TH PZD10 G-SST1                
+                
+B2811|0020|8TH PZD11 G-SST1                
+                
+B2812|0020|8TH PZD12 G-SST1                
+                
+B2813|0020|8TH PZD13 G-SST1                
+                
+B2814|0020|8TH PZD14 G-SST1                
+                
+B2815|0020|8TH PZD15 G-SST1                
+                
+B2900|0020|9TH PZD 0 G-SST1                
+                
+B2901|0020|9TH PZD 1 G-SST1                
+                
+B2902|0020|9TH PZD 2 G-SST1                
+                
+B2903|0020|9TH PZD 3 G-SST1                
+                
+B2904|0020|9TH PZD 4 G-SST1                
+                
+B2905|0020|9TH PZD 5 G-SST1                
+                
+B2906|0020|9TH PZD 6 G-SST1                
+                
+B2907|0020|9TH PZD 7 G-SST1                
+                
+B2908|0020|9TH PZD 8 G-SST1                
+                
+B2909|0020|9TH PZD 9 G-SST1                
+                
+B2910|0020|9TH PZD10 G-SST1                
+                
+B2911|0020|9TH PZD11 G-SST1                
+                
+B2912|0020|9TH PZD12 G-SST1                
+                
+B2913|0020|9TH PZD13 G-SST1                
+                
+B2914|0020|9TH PZD14 G-SST1                
+                
+B2915|0020|9TH PZD15 G-SST1                
+                
+B3030|0020|Tgr.fail. 1.CB                  
+                
+B3031|0020|Tgr.fl.ps 1.CB                  
+                
+B3035|0020|Flt Delay 1st CB                
+                
+B3100|0020|1ST PZD 0 CB/TB1                
+                
+B3101|0020|1ST PZD 1 CB/TB1                
+                
+B3102|0020|1ST PZD 2 CB/TB1                
+                
+B3103|0020|1ST PZD 3 CB/TB1                
+                
+B3104|0020|1ST PZD 4 CB/TB1                
+                
+B3105|0020|1ST PZD 5 CB/TB1                
+                
+B3106|0020|1ST PZD 6 CB/TB1                
+                
+B3107|0020|1ST PZD 7 CB/TB1                
+                
+B3108|0020|1ST PZD 8 CB/TB1                
+                
+B3109|0020|1ST PZD 9 CB/TB1                
+                
+B3110|0020|1ST PZD10 CB/TB1                
+                
+B3111|0020|1ST PZD11 CB/TB1                
+                
+B3112|0020|1ST PZD12 CB/TB1                
+                
+B3113|0020|1ST PZD13 CB/TB1                
+                
+B3114|0020|1ST PZD14 CB/TB1                
+                
+B3115|0020|1ST PZD15 CB/TB1                
+                
+B3200|0020|2ND PZD 0 CB/TB1                
+                
+B3201|0020|2ND PZD 1 CB/TB1                
+                
+B3202|0020|2ND PZD 2 CB/TB1                
+                
+B3203|0020|2ND PZD 3 CB/TB1                
+                
+B3204|0020|2ND PZD 4 CB/TB1                
+                
+B3205|0020|2ND PZD 5 CB/TB1                
+                
+B3206|0020|2ND PZD 6 CB/TB1                
+                
+B3207|0020|2ND PZD 7 CB/TB1                
+                
+B3208|0020|2ND PZD 8 CB/TB1                
+                
+B3209|0020|2ND PZD 9 CB/TB1                
+                
+B3210|0020|2ND PZD10 CB/TB1                
+                
+B3211|0020|2ND PZD11 CB/TB1                
+                
+B3212|0020|2ND PZD12 CB/TB1                
+                
+B3213|0020|2ND PZD13 CB/TB1                
+                
+B3214|0020|2ND PZD14 CB/TB1                
+                
+B3215|0020|2ND PZD15 CB/TB1                
+                
+B3300|0020|3RD PZD 0 CB/TB1                
+                
+B3301|0020|3RD PZD 1 CB/TB1                
+                
+B3302|0020|3RD PZD 2 CB/TB1                
+                
+B3303|0020|3RD PZD 3 CB/TB1                
+                
+B3304|0020|3RD PZD 4 CB/TB1                
+                
+B3305|0020|3RD PZD 5 CB/TB1                
+                
+B3306|0020|3RD PZD 6 CB/TB1                
+                
+B3307|0020|3RD PZD 7 CB/TB1                
+                
+B3308|0020|3RD PZD 8 CB/TB1                
+                
+B3309|0020|3RD PZD 9 CB/TB1                
+                
+B3310|0020|3RD PZD10 CB/TB1                
+                
+B3311|0020|3RD PZD11 CB/TB1                
+                
+B3312|0020|3RD PZD12 CB/TB1                
+                
+B3313|0020|3RD PZD13 CB/TB1                
+                
+B3314|0020|3RD PZD14 CB/TB1                
+                
+B3315|0020|3RD PZD15 CB/TB1                
+                
+B3400|0020|4TH PZD 0 CB/TB1                
+                
+B3401|0020|4TH PZD 1 CB/TB1                
+                
+B3402|0020|4TH PZD 2 CB/TB1                
+                
+B3403|0020|4TH PZD 3 CB/TB1                
+                
+B3404|0020|4TH PZD 4 CB/TB1                
+                
+B3405|0020|4TH PZD 5 CB/TB1                
+                
+B3406|0020|4TH PZD 6 CB/TB1                
+                
+B3407|0020|4TH PZD 7 CB/TB1                
+                
+B3408|0020|4TH PZD 8 CB/TB1                
+                
+B3409|0020|4TH PZD 9 CB/TB1                
+                
+B3410|0020|4TH PZD10 CB/TB1                
+                
+B3411|0020|4TH PZD11 CB/TB1                
+                
+B3412|0020|4TH PZD12 CB/TB1                
+                
+B3413|0020|4TH PZD13 CB/TB1                
+                
+B3414|0020|4TH PZD14 CB/TB1                
+                
+B3415|0020|4TH PZD15 CB/TB1                
+                
+B3500|0020|5TH PZD 0 CB/TB1                
+                
+B3501|0020|5TH PZD 1 CB/TB1                
+                
+B3502|0020|5TH PZD 2 CB/TB1                
+                
+B3503|0020|5TH PZD 3 CB/TB1                
+                
+B3504|0020|5TH PZD 4 CB/TB1                
+                
+B3505|0020|5TH PZD 5 CB/TB1                
+                
+B3506|0020|5TH PZD 6 CB/TB1                
+                
+B3507|0020|5TH PZD 7 CB/TB1                
+                
+B3508|0020|5TH PZD 8 CB/TB1                
+                
+B3509|0020|5TH PZD 9 CB/TB1                
+                
+B3510|0020|5TH PZD10 CB/TB1                
+                
+B3511|0020|5TH PZD11 CB/TB1                
+                
+B3512|0020|5TH PZD12 CB/TB1                
+                
+B3513|0020|5TH PZD13 CB/TB1                
+                
+B3514|0020|5TH PZD14 CB/TB1                
+                
+B3515|0020|5TH PZD15 CB/TB1                
+                
+B3600|0020|6TH PZD 0 CB/TB1                
+                
+B3601|0020|6TH PZD 1 CB/TB1                
+                
+B3602|0020|6TH PZD 2 CB/TB1                
+                
+B3603|0020|6TH PZD 3 CB/TB1                
+                
+B3604|0020|6TH PZD 4 CB/TB1                
+                
+B3605|0020|6TH PZD 5 CB/TB1                
+                
+B3606|0020|6TH PZD 6 CB/TB1                
+                
+B3607|0020|6TH PZD 7 CB/TB1                
+                
+B3608|0020|6TH PZD 8 CB/TB1                
+                
+B3609|0020|6TH PZD 9 CB/TB1                
+                
+B3610|0020|6TH PZD10 CB/TB1                
+                
+B3611|0020|6TH PZD11 CB/TB1                
+                
+B3612|0020|6TH PZD12 CB/TB1                
+                
+B3613|0020|6TH PZD13 CB/TB1                
+                
+B3614|0020|6TH PZD14 CB/TB1                
+                
+B3615|0020|6TH PZD15 CB/TB1                
+                
+B3700|0020|7TH PZD 0 CB/TB1                
+                
+B3701|0020|7TH PZD 1 CB/TB1                
+                
+B3702|0020|7TH PZD 2 CB/TB1                
+                
+B3703|0020|7TH PZD 3 CB/TB1                
+                
+B3704|0020|7TH PZD 4 CB/TB1                
+                
+B3705|0020|7TH PZD 5 CB/TB1                
+                
+B3706|0020|7TH PZD 6 CB/TB1                
+                
+B3707|0020|7TH PZD 7 CB/TB1                
+                
+B3708|0020|7TH PZD 8 CB/TB1                
+                
+B3709|0020|7TH PZD 9 CB/TB1                
+                
+B3710|0020|7TH PZD10 CB/TB1                
+                
+B3711|0020|7TH PZD11 CB/TB1                
+                
+B3712|0020|7TH PZD12 CB/TB1                
+                
+B3713|0020|7TH PZD13 CB/TB1                
+                
+B3714|0020|7TH PZD14 CB/TB1                
+                
+B3715|0020|7TH PZD15 CB/TB1                
+                
+B3800|0020|8TH PZD 0 CB/TB1                
+                
+B3801|0020|8TH PZD 1 CB/TB1                
+                
+B3802|0020|8TH PZD 2 CB/TB1                
+                
+B3803|0020|8TH PZD 3 CB/TB1                
+                
+B3804|0020|8TH PZD 4 CB/TB1                
+                
+B3805|0020|8TH PZD 5 CB/TB1                
+                
+B3806|0020|8TH PZD 6 CB/TB1                
+                
+B3807|0020|8TH PZD 7 CB/TB1                
+                
+B3808|0020|8TH PZD 8 CB/TB1                
+                
+B3809|0020|8TH PZD 9 CB/TB1                
+                
+B3810|0020|8TH PZD10 CB/TB1                
+                
+B3811|0020|8TH PZD11 CB/TB1                
+                
+B3812|0020|8TH PZD12 CB/TB1                
+                
+B3813|0020|8TH PZD13 CB/TB1                
+                
+B3814|0020|8TH PZD14 CB/TB1                
+                
+B3815|0020|8TH PZD15 CB/TB1                
+                
+B3900|0020|9TH PZD 0 CB/TB1                
+                
+B3901|0020|9TH PZD 1 CB/TB1                
+                
+B3902|0020|9TH PZD 2 CB/TB1                
+                
+B3903|0020|9TH PZD 3 CB/TB1                
+                
+B3904|0020|9TH PZD 4 CB/TB1                
+                
+B3905|0020|9TH PZD 5 CB/TB1                
+                
+B3906|0020|9TH PZD 6 CB/TB1                
+                
+B3907|0020|9TH PZD 7 CB/TB1                
+                
+B3908|0020|9TH PZD 8 CB/TB1                
+                
+B3909|0020|9TH PZD 9 CB/TB1                
+                
+B3910|0020|9TH PZD10 CB/TB1                
+                
+B3911|0020|9TH PZD11 CB/TB1                
+                
+B3912|0020|9TH PZD12 CB/TB1                
+                
+B3913|0020|9TH PZD13 CB/TB1                
+                
+B3914|0020|9TH PZD14 CB/TB1                
+                
+B3915|0020|9TH PZD15 CB/TB1                
+                
+B4100|0020|SCI Sl.1 BI1                    
+                
+B4101|0020|SCI Sl.1 BI2                    
+                
+B4102|0020|SCI Sl.1 BI3                    
+                
+B4103|0020|SCI Sl.1 BI4                    
+                
+B4104|0020|SCI Sl.1 BI5                    
+                
+B4105|0020|SCI Sl.1 BI6                    
+                
+B4106|0020|SCI Sl.1 BI7                    
+                
+B4107|0020|SCI Sl.1 BI8                    
+                
+B4108|0020|SCI Sl.1 BI9                    
+                
+B4109|0020|SCI Sl.1 BI10                   
+                
+B4110|0020|SCI Sl.1 BI11                   
+                
+B4111|0020|SCI Sl.1 BI12                   
+                
+B4112|0020|SCI Sl.1 BI13                   
+                
+B4113|0020|SCI Sl.1 BI14                   
+                
+B4114|0020|SCI Sl.1 BI15                   
+                
+B4115|0020|SCI Sl.1 BI16                   
+                
+B4120|0020|SCI Sl.1 BI1 inv                
+                
+B4121|0020|SCI Sl.1 BI2 inv                
+                
+B4122|0020|SCI Sl.1 BI3 inv                
+                
+B4123|0020|SCI Sl.1 BI4 inv                
+                
+B4124|0020|SCI Sl.1 BI5 inv                
+                
+B4125|0020|SCI Sl.1 BI6 inv                
+                
+B4126|0020|SCI Sl.1 BI7 inv                
+                
+B4127|0020|SCI Sl.1 BI8 inv                
+                
+B4128|0020|SCI Sl.1 BI9 inv                
+                
+B4129|0020|SCI Sl.1 BI10inv                
+                
+B4130|0020|SCI Sl.1 BI11inv                
+                
+B4131|0020|SCI Sl.1 BI12inv                
+                
+B4132|0020|SCI Sl.1 BI13inv                
+                
+B4133|0020|SCI Sl.1 BI14inv                
+                
+B4134|0020|SCI Sl.1 BI15inv                
+                
+B4135|0020|SCI Sl.1 BI16inv                
+                
+B4200|0020|SCI Sl.2 BI1                    
+                
+B4201|0020|SCI Sl.2 BI2                    
+                
+B4202|0020|SCI Sl.2 BI3                    
+                
+B4203|0020|SCI Sl.2 BI4                    
+                
+B4204|0020|SCI Sl.2 BI5                    
+                
+B4205|0020|SCI Sl.2 BI6                    
+                
+B4206|0020|SCI Sl.2 BI7                    
+                
+B4207|0020|SCI Sl.2 BI8                    
+                
+B4208|0020|SCI Sl.2 BI9                    
+                
+B4209|0020|SCI Sl.2 BI10                   
+                
+B4210|0020|SCI Sl.2 BI11                   
+                
+B4211|0020|SCI Sl.2 BI12                   
+                
+B4212|0020|SCI Sl.2 BI13                   
+                
+B4213|0020|SCI Sl.2 BI14                   
+                
+B4214|0020|SCI Sl.2 BI15                   
+                
+B4215|0020|SCI Sl.2 BI16                   
+                
+B4220|0020|SCI Sl.2 BI1 inv                
+                
+B4221|0020|SCI Sl.2 BI2 inv                
+                
+B4222|0020|SCI Sl.2 BI3 inv                
+                
+B4223|0020|SCI Sl.2 BI4 inv                
+                
+B4224|0020|SCI Sl.2 BI5 inv                
+                
+B4225|0020|SCI Sl.2 BI6 inv                
+                
+B4226|0020|SCI Sl.2 BI7 inv                
+                
+B4227|0020|SCI Sl.2 BI8 inv                
+                
+B4228|0020|SCI Sl.2 BI9 inv                
+                
+B4229|0020|SCI Sl.2 BI10inv                
+                
+B4230|0020|SCI Sl.2 BI11inv                
+                
+B4231|0020|SCI Sl.2 BI12inv                
+                
+B4232|0020|SCI Sl.2 BI13inv                
+                
+B4233|0020|SCI Sl.2 BI14inv                
+                
+B4234|0020|SCI Sl.2 BI15inv                
+                
+B4235|0020|SCI Sl.2 BI16inv                
+                
+B5101|0020|Open circ. 1.EB1                
+                
+B5102|0020|1.EB1 Term. 52                  
+                
+B5103|0020|1.EB1 Term. 53                  
+                
+B5104|0020|1.EB1 Tm. 43 inv                
+                
+B5105|0020|1.EB1 Term. 43                  
+                
+B5106|0020|1.EB1 Tm. 44 inv                
+                
+B5107|0020|1.EB1 Term. 44                  
+                
+B5108|0020|1.EB1 Tm. 45 inv                
+                
+B5109|0020|1.EB1 Term. 45                  
+                
+B5110|0020|1.EB1 Tm. 46 inv                
+                
+B5111|0020|1.EB1 Term. 46                  
+                
+B5112|0020|1.EB1 Tm. 40 inv                
+                
+B5113|0020|1.EB1 Term. 40                  
+                
+B5114|0020|1.EB1 Tm. 41 inv                
+                
+B5115|0020|1.EB1 Term. 41                  
+                
+B5116|0020|1.EB1 Tm. 42 inv                
+                
+B5117|0020|1.EB1 Term. 42                  
+                
+B5121|0020|Open circ. 1.EB2                
+                
+B5122|0020|1.EB2 Tm. 53 inv                
+                
+B5123|0020|1.EB2 Term. 53                  
+                
+B5124|0020|1.EB2 Tm. 54 inv                
+                
+B5125|0020|1.EB2 Term. 54                  
+                
+B5201|0020|Open circ. 2.EB1                
+                
+B5202|0020|2.EB1 Term. 52                  
+                
+B5203|0020|2.EB1 Term. 53                  
+                
+B5204|0020|2.EB1 Tm. 43 inv                
+                
+B5205|0020|2.EB1 Term. 43                  
+                
+B5206|0020|2.EB1 Tm. 44 inv                
+                
+B5207|0020|2.EB1 Term. 44                  
+                
+B5208|0020|2.EB1 Tm. 45 inv                
+                
+B5209|0020|2.EB1 Term. 45                  
+                
+B5210|0020|2.EB1 Tm. 46 inv                
+                
+B5211|0020|2.EB1 Term. 46                  
+                
+B5212|0020|2.EB1 Tm. 40 inv                
+                
+B5213|0020|2.EB1 Term. 40                  
+                
+B5214|0020|2.EB1 Tm. 41 inv                
+                
+B5215|0020|2.EB1 Term. 41                  
+                
+B5216|0020|2.EB1 Tm. 42 inv                
+                
+B5217|0020|2.EB1 Term. 42                  
+                
+B5221|0020|Open circ. 2.EB2                
+                
+B5222|0020|2.EB2 Tm. 53 inv                
+                
+B5223|0020|2.EB2 Term. 53                  
+                
+B5224|0020|2.EB2 Tm. 54 inv                
+                
+B5225|0020|2.EB2 Term. 54                  
+                
+B6030|0020|Tgr.fail. G-SST2                
+                
+B6031|0020|Tgr.fl.ps G-SST2                
+                
+B6040|0020|Tgr.fail. ParIn                 
+                
+B6041|0020|Tgr.fl.ps ParIn                 
+                
+B6100|0020|1ST PZD 0 G-SST2                
+                
+B6101|0020|1ST PZD 1 G-SST2                
+                
+B6102|0020|1ST PZD 2 G-SST2                
+                
+B6103|0020|1ST PZD 3 G-SST2                
+                
+B6104|0020|1ST PZD 4 G-SST2                
+                
+B6105|0020|1ST PZD 5 G-SST2                
+                
+B6106|0020|1ST PZD 6 G-SST2                
+                
+B6107|0020|1ST PZD 7 G-SST2                
+                
+B6108|0020|1ST PZD 8 G-SST2                
+                
+B6109|0020|1ST PZD 9 G-SST2                
+                
+B6110|0020|1ST PZD10 G-SST2                
+                
+B6111|0020|1ST PZD11 G-SST2                
+                
+B6112|0020|1ST PZD12 G-SST2                
+                
+B6113|0020|1ST PZD13 G-SST2                
+                
+B6114|0020|1ST PZD14 G-SST2                
+                
+B6115|0020|1ST PZD15 G-SST2                
+                
+B6200|0020|2ND PZD 0 G-SST2                
+                
+B6201|0020|2ND PZD 1 G-SST2                
+                
+B6202|0020|2ND PZD 2 G-SST2                
+                
+B6203|0020|2ND PZD 3 G-SST2                
+                
+B6204|0020|2ND PZD 4 G-SST2                
+                
+B6205|0020|2ND PZD 5 G-SST2                
+                
+B6206|0020|2ND PZD 6 G-SST2                
+                
+B6207|0020|2ND PZD 7 G-SST2                
+                
+B6208|0020|2ND PZD 8 G-SST2                
+                
+B6209|0020|2ND PZD 9 G-SST2                
+                
+B6210|0020|2ND PZD10 G-SST2                
+                
+B6211|0020|2ND PZD11 G-SST2                
+                
+B6212|0020|2ND PZD12 G-SST2                
+                
+B6213|0020|2ND PZD13 G-SST2                
+                
+B6214|0020|2ND PZD14 G-SST2                
+                
+B6215|0020|2ND PZD15 G-SST2                
+                
+B6220|0020|1ST PZD 0 SLAVE2                
+                
+B6221|0020|1ST PZD 1 SLAVE2                
+                
+B6222|0020|1ST PZD 2 SLAVE2                
+                
+B6223|0020|1ST PZD 3 SLAVE2                
+                
+B6224|0020|1ST PZD 4 SLAVE2                
+                
+B6225|0020|1ST PZD 5 SLAVE2                
+                
+B6226|0020|1ST PZD 6 SLAVE2                
+                
+B6227|0020|1ST PZD 7 SLAVE2                
+                
+B6228|0020|1ST PZD 8 SLAVE2                
+                
+B6229|0020|1ST PZD 9 SLAVE2                
+                
+B6230|0020|1ST PZD10 SLAVE2                
+                
+B6231|0020|1ST PZD11 SLAVE2                
+                
+B6232|0020|1ST PZD12 SLAVE2                
+                
+B6233|0020|1ST PZD13 SLAVE2                
+                
+B6234|0020|1ST PZD14 SLAVE2                
+                
+B6235|0020|1ST PZD15 SLAVE2                
+                
+B6300|0020|3RD PZD 0 G-SST2                
+                
+B6301|0020|3RD PZD 1 G-SST2                
+                
+B6302|0020|3RD PZD 2 G-SST2                
+                
+B6303|0020|3RD PZD 3 G-SST2                
+                
+B6304|0020|3RD PZD 4 G-SST2                
+                
+B6305|0020|3RD PZD 5 G-SST2                
+                
+B6306|0020|3RD PZD 6 G-SST2                
+                
+B6307|0020|3RD PZD 7 G-SST2                
+                
+B6308|0020|3RD PZD 8 G-SST2                
+                
+B6309|0020|3RD PZD 9 G-SST2                
+                
+B6310|0020|3RD PZD10 G-SST2                
+                
+B6311|0020|3RD PZD11 G-SST2                
+                
+B6312|0020|3RD PZD12 G-SST2                
+                
+B6313|0020|3RD PZD13 G-SST2                
+                
+B6314|0020|3RD PZD15 G-SST2                
+                
+B6315|0020|3RD PZD14 G-SST2                
+                
+B6320|0020|1ST PZD 0 SLAVE3                
+                
+B6321|0020|1ST PZD 1 SLAVE3                
+                
+B6322|0020|1ST PZD 2 SLAVE3                
+                
+B6323|0020|1ST PZD 3 SLAVE3                
+                
+B6324|0020|1ST PZD 4 SLAVE3                
+                
+B6325|0020|1ST PZD 5 SLAVE3                
+                
+B6326|0020|1ST PZD 6 SLAVE3                
+                
+B6327|0020|1ST PZD 7 SLAVE3                
+                
+B6328|0020|1ST PZD 8 SLAVE3                
+                
+B6329|0020|1ST PZD 9 SLAVE3                
+                
+B6330|0020|1ST PZD10 SLAVE3                
+                
+B6331|0020|1ST PZD11 SLAVE3                
+                
+B6332|0020|1ST PZD12 SLAVE3                
+                
+B6333|0020|1ST PZD13 SLAVE3                
+                
+B6334|0020|1ST PZD14 SLAVE3                
+                
+B6335|0020|1ST PZD15 SLAVE3                
+                
+B6400|0020|4TH PZD 0 G-SST2                
+                
+B6401|0020|4TH PZD 1 G-SST2                
+                
+B6402|0020|4TH PZD 2 G-SST2                
+                
+B6403|0020|4TH PZD 3 G-SST2                
+                
+B6404|0020|4TH PZD 4 G-SST2                
+                
+B6405|0020|4TH PZD 5 G-SST2                
+                
+B6406|0020|4TH PZD 6 G-SST2                
+                
+B6407|0020|4TH PZD 7 G-SST2                
+                
+B6408|0020|4TH PZD 8 G-SST2                
+                
+B6409|0020|4TH PZD 9 G-SST2                
+                
+B6410|0020|4TH PZD10 G-SST2                
+                
+B6411|0020|4TH PZD11 G-SST2                
+                
+B6412|0020|4TH PZD12 G-SST2                
+                
+B6413|0020|4TH PZD13 G-SST2                
+                
+B6414|0020|4TH PZD14 G-SST2                
+                
+B6415|0020|4TH PZD15 G-SST2                
+                
+B6420|0020|1ST PZD 0 SLAVE4                
+                
+B6421|0020|1ST PZD 1 SLAVE4                
+                
+B6422|0020|1ST PZD 2 SLAVE4                
+                
+B6423|0020|1ST PZD 3 SLAVE4                
+                
+B6424|0020|1ST PZD 4 SLAVE4                
+                
+B6425|0020|1ST PZD 5 SLAVE4                
+                
+B6426|0020|1ST PZD 6 SLAVE4                
+                
+B6427|0020|1ST PZD 7 SLAVE4                
+                
+B6428|0020|1ST PZD 8 SLAVE4                
+                
+B6429|0020|1ST PZD 9 SLAVE4                
+                
+B6430|0020|1ST PZD10 SLAVE4                
+                
+B6431|0020|1ST PZD11 SLAVE4                
+                
+B6432|0020|1ST PZD12 SLAVE4                
+                
+B6433|0020|1ST PZD13 SLAVE4                
+                
+B6434|0020|1ST PZD14 SLAVE4                
+                
+B6435|0020|1ST PZD15 SLAVE4                
+                
+B6500|0020|5TH PZD 0 G-SST2                
+                
+B6501|0020|5TH PZD 1 G-SST2                
+                
+B6502|0020|5TH PZD 2 G-SST2                
+                
+B6503|0020|5TH PZD 3 G-SST2                
+                
+B6504|0020|5TH PZD 4 G-SST2                
+                
+B6505|0020|5TH PZD 5 G-SST2                
+                
+B6506|0020|5TH PZD 6 G-SST2                
+                
+B6507|0020|5TH PZD 7 G-SST2                
+                
+B6508|0020|5TH PZD 8 G-SST2                
+                
+B6509|0020|5TH PZD 9 G-SST2                
+                
+B6510|0020|5TH PZD10 G-SST2                
+                
+B6511|0020|5TH PZD11 G-SST2                
+                
+B6512|0020|5TH PZD12 G-SST2                
+                
+B6513|0020|5TH PZD13 G-SST2                
+                
+B6514|0020|5TH PZD14 G-SST2                
+                
+B6515|0020|5TH PZD15 G-SST2                
+                
+B6520|0020|1ST PZD 0 SLAVE5                
+                
+B6521|0020|1ST PZD 1 SLAVE5                
+                
+B6522|0020|1ST PZD 2 SLAVE5                
+                
+B6523|0020|1ST PZD 3 SLAVE5                
+                
+B6524|0020|1ST PZD 4 SLAVE5                
+                
+B6525|0020|1ST PZD 5 SLAVE5                
+                
+B6526|0020|1ST PZD 6 SLAVE5                
+                
+B6527|0020|1ST PZD 7 SLAVE5                
+                
+B6528|0020|1ST PZD 8 SLAVE5                
+                
+B6529|0020|1ST PZD 9 SLAVE5                
+                
+B6530|0020|1ST PZD10 SLAVE5                
+                
+B6531|0020|1ST PZD11 SLAVE5                
+                
+B6532|0020|1ST PZD12 SLAVE5                
+                
+B6533|0020|1ST PZD13 SLAVE5                
+                
+B6534|0020|1ST PZD14 SLAVE5                
+                
+B6535|0020|1ST PZD15 SLAVE5                
+                
+B6600|0020|6TH PZD 0 G-SST2                
+                
+B6601|0020|6TH PZD 1 G-SST2                
+                
+B6602|0020|6TH PZD 2 G-SST2                
+                
+B6603|0020|6TH PZD 3 G-SST2                
+                
+B6604|0020|6TH PZD 4 G-SST2                
+                
+B6605|0020|6TH PZD 5 G-SST2                
+                
+B6606|0020|6TH PZD 6 G-SST2                
+                
+B6607|0020|6TH PZD 7 G-SST2                
+                
+B6608|0020|6TH PZD 8 G-SST2                
+                
+B6609|0020|6TH PZD 9 G-SST2                
+                
+B6610|0020|6TH PZD10 G-SST2                
+                
+B6611|0020|6TH PZD11 G-SST2                
+                
+B6612|0020|6TH PZD12 G-SST2                
+                
+B6613|0020|6TH PZD13 G-SST2                
+                
+B6614|0020|6TH PZD14 G-SST2                
+                
+B6615|0020|6TH PZD15 G-SST2                
+                
+B6620|0020|6TH PZD 0 SLAVE6                
+                
+B6621|0020|6TH PZD 1 SLAVE6                
+                
+B6622|0020|6TH PZD 2 SLAVE6                
+                
+B6623|0020|6TH PZD 3 SLAVE6                
+                
+B6624|0020|6TH PZD 4 SLAVE6                
+                
+B6625|0020|6TH PZD 5 SLAVE6                
+                
+B6626|0020|6TH PZD 6 SLAVE6                
+                
+B6627|0020|6TH PZD 7 SLAVE6                
+                
+B6628|0020|6TH PZD 8 SLAVE6                
+                
+B6629|0020|6TH PZD 9 SLAVE6                
+                
+B6630|0020|6TH PZD10 SLAVE6                
+                
+B6631|0020|6TH PZD11 SLAVE6                
+                
+B6632|0020|6TH PZD12 SLAVE6                
+                
+B6633|0020|6TH PZD13 SLAVE6                
+                
+B6634|0020|6TH PZD14 SLAVE6                
+                
+B6635|0020|6TH PZD15 SLAVE6                
+                
+B6700|0020|7TH PZD 0 G-SST2                
+                
+B6701|0020|7TH PZD 1 G-SST2                
+                
+B6702|0020|7TH PZD 2 G-SST2                
+                
+B6703|0020|7TH PZD 3 G-SST2                
+                
+B6704|0020|7TH PZD 4 G-SST2                
+                
+B6705|0020|7TH PZD 5 G-SST2                
+                
+B6706|0020|7TH PZD 6 G-SST2                
+                
+B6707|0020|7TH PZD 7 G-SST2                
+                
+B6708|0020|7TH PZD 8 G-SST2                
+                
+B6709|0020|7TH PZD 9 G-SST2                
+                
+B6710|0020|7TH PZD10 G-SST2                
+                
+B6711|0020|7TH PZD11 G-SST2                
+                
+B6712|0020|7TH PZD12 G-SST2                
+                
+B6713|0020|7TH PZD13 G-SST2                
+                
+B6714|0020|7TH PZD14 G-SST2                
+                
+B6715|0020|7TH PZD15 G-SST2                
+                
+B6800|0020|8TH PZD 0 G-SST2                
+                
+B6801|0020|8TH PZD 1 G-SST2                
+                
+B6802|0020|8TH PZD 2 G-SST2                
+                
+B6803|0020|8TH PZD 3 G-SST2                
+                
+B6804|0020|8TH PZD 4 G-SST2                
+                
+B6805|0020|8TH PZD 5 G-SST2                
+                
+B6806|0020|8TH PZD 6 G-SST2                
+                
+B6807|0020|8TH PZD 7 G-SST2                
+                
+B6808|0020|8TH PZD 8 G-SST2                
+                
+B6809|0020|8TH PZD 9 G-SST2                
+                
+B6810|0020|8TH PZD10 G-SST2                
+                
+B6811|0020|8TH PZD11 G-SST2                
+                
+B6812|0020|8TH PZD12 G-SST2                
+                
+B6813|0020|8TH PZD13 G-SST2                
+                
+B6814|0020|8TH PZD14 G-SST2                
+                
+B6815|0020|8TH PZD15 G-SST2                
+                
+B6900|0020|9TH PZD 0 G-SST2                
+                
+B6901|0020|9TH PZD 1 G-SST2                
+                
+B6902|0020|9TH PZD 2 G-SST2                
+                
+B6903|0020|9TH PZD 3 G-SST2                
+                
+B6904|0020|9TH PZD 4 G-SST2                
+                
+B6905|0020|9TH PZD 5 G-SST2                
+                
+B6906|0020|9TH PZD 6 G-SST2                
+                
+B6907|0020|9TH PZD 7 G-SST2                
+                
+B6908|0020|9TH PZD 8 G-SST2                
+                
+B6909|0020|9TH PZD 9 G-SST2                
+                
+B6910|0020|9TH PZD10 G-SST2                
+                
+B6911|0020|9TH PZD11 G-SST2                
+                
+B6912|0020|9TH PZD12 G-SST2                
+                
+B6913|0020|9TH PZD13 G-SST2                
+                
+B6914|0020|9TH PZD14 G-SST2                
+                
+B6915|0020|9TH PZD15 G-SST2                
+                
+B7000|0020|SBP CRTL Fault                  
+                
+B7001|0020|SBP dig. input 1                
+                
+B7002|0020|SBP dig. input 2                
+                
+B7003|0020|SBP dig. input 3                
+                
+B7010|0020|SLB Appl.Flag 0                 
+                
+B7011|0020|SLB Appl.Flag 1                 
+                
+B7012|0020|SLB Appl.Flag 2                 
+                
+B7013|0020|SLB Appl.Flag 3                 
+                
+B7030|0020|SLB tlg. fail                   
+                
+B7040|0020|SLB time out                    
+                
+B7050|0020|SLB start alarm                 
+                
+B7100|0020|1ST PZD 0 SLB                   
+                
+B7101|0020|1ST PZD 1 SLB                   
+                
+B7102|0020|1ST PZD 2 SLB                   
+                
+B7103|0020|1ST PZD 3 SLB                   
+                
+B7104|0020|1ST PZD 4 SLB                   
+                
+B7105|0020|1ST PZD 5 SLB                   
+                
+B7106|0020|1ST PZD 6 SLB                   
+                
+B7107|0020|1ST PZD 7 SLB                   
+                
+B7108|0020|1ST PZD 8 SLB                   
+                
+B7109|0020|1ST PZD 9 SLB                   
+                
+B7110|0020|1ST PZD10 SLB                   
+                
+B7111|0020|1ST PZD11 SLB                   
+                
+B7112|0020|1ST PZD12 SLB                   
+                
+B7113|0020|1ST PZD13 SLB                   
+                
+B7114|0020|1ST PZD14 SLB                   
+                
+B7115|0020|1ST PZD15 SLB                   
+                
+B7200|0020|2ND PZD 0 SLB                   
+                
+B7201|0020|2ND PZD 1 SLB                   
+                
+B7202|0020|2ND PZD 2 SLB                   
+                
+B7203|0020|2ND PZD 3 SLB                   
+                
+B7204|0020|2ND PZD 4 SLB                   
+                
+B7205|0020|2ND PZD 5 SLB                   
+                
+B7206|0020|2ND PZD 6 SLB                   
+                
+B7207|0020|2ND PZD 7 SLB                   
+                
+B7208|0020|2ND PZD 8 SLB                   
+                
+B7209|0020|2ND PZD 9 SLB                   
+                
+B7210|0020|2ND PZD10 SLB                   
+                
+B7211|0020|2ND PZD11 SLB                   
+                
+B7212|0020|2ND PZD12 SLB                   
+                
+B7213|0020|2ND PZD13 SLB                   
+                
+B7214|0020|2ND PZD14 SLB                   
+                
+B7215|0020|2ND PZD15 SLB                   
+                
+B7300|0020|3RD PZD 0 SLB                   
+                
+B7301|0020|3RD PZD 1 SLB                   
+                
+B7302|0020|3RD PZD 2 SLB                   
+                
+B7303|0020|3RD PZD 3 SLB                   
+                
+B7304|0020|3RD PZD 4 SLB                   
+                
+B7305|0020|3RD PZD 5 SLB                   
+                
+B7306|0020|3RD PZD 6 SLB                   
+                
+B7307|0020|3RD PZD 7 SLB                   
+                
+B7308|0020|3RD PZD 8 SLB                   
+                
+B7309|0020|3RD PZD 9 SLB                   
+                
+B7310|0020|3RD PZD10 SLB                   
+                
+B7311|0020|3RD PZD11 SLB                   
+                
+B7312|0020|3RD PZD12 SLB                   
+                
+B7313|0020|3RD PZD13 SLB                   
+                
+B7314|0020|3RD PZD14 SLB                   
+                
+B7315|0020|3RD PZD15 SLB                   
+                
+B7400|0020|4TH PZD 0 SLB                   
+                
+B7401|0020|4TH PZD 1 SLB                   
+                
+B7402|0020|4TH PZD 2 SLB                   
+                
+B7403|0020|4TH PZD 3 SLB                   
+                
+B7404|0020|4TH PZD 4 SLB                   
+                
+B7405|0020|4TH PZD 5 SLB                   
+                
+B7406|0020|4TH PZD 6 SLB                   
+                
+B7407|0020|4TH PZD 7 SLB                   
+                
+B7408|0020|4TH PZD 8 SLB                   
+                
+B7409|0020|4TH PZD 9 SLB                   
+                
+B7410|0020|4TH PZD10 SLB                   
+                
+B7411|0020|4TH PZD11 SLB                   
+                
+B7412|0020|4TH PZD12 SLB                   
+                
+B7413|0020|4TH PZD13 SLB                   
+                
+B7414|0020|4TH PZD14 SLB                   
+                
+B7415|0020|4TH PZD15 SLB                   
+                
+B7500|0020|5TH PZD 0 SLB                   
+                
+B7501|0020|5TH PZD 1 SLB                   
+                
+B7502|0020|5TH PZD 2 SLB                   
+                
+B7503|0020|5TH PZD 3 SLB                   
+                
+B7504|0020|5TH PZD 4 SLB                   
+                
+B7505|0020|5TH PZD 5 SLB                   
+                
+B7506|0020|5TH PZD 6 SLB                   
+                
+B7507|0020|5TH PZD 7 SLB                   
+                
+B7508|0020|5TH PZD 8 SLB                   
+                
+B7509|0020|5TH PZD 9 SLB                   
+                
+B7510|0020|5TH PZD10 SLB                   
+                
+B7511|0020|5TH PZD11 SLB                   
+                
+B7512|0020|5TH PZD12 SLB                   
+                
+B7513|0020|5TH PZD13 SLB                   
+                
+B7514|0020|5TH PZD14 SLB                   
+                
+B7515|0020|5TH PZD15 SLB                   
+                
+B7600|0020|6TH PZD 0 SLB                   
+                
+B7601|0020|6TH PZD 1 SLB                   
+                
+B7602|0020|6TH PZD 2 SLB                   
+                
+B7603|0020|6TH PZD 3 SLB                   
+                
+B7604|0020|6TH PZD 4 SLB                   
+                
+B7605|0020|6TH PZD 5 SLB                   
+                
+B7606|0020|6TH PZD 6 SLB                   
+                
+B7607|0020|6TH PZD 7 SLB                   
+                
+B7608|0020|6TH PZD 8 SLB                   
+                
+B7609|0020|6TH PZD 9 SLB                   
+                
+B7610|0020|6TH PZD10 SLB                   
+                
+B7611|0020|6TH PZD11 SLB                   
+                
+B7612|0020|6TH PZD12 SLB                   
+                
+B7613|0020|6TH PZD13 SLB                   
+                
+B7614|0020|6TH PZD14 SLB                   
+                
+B7615|0020|6TH PZD15 SLB                   
+                
+B7700|0020|7TH PZD 0 SLB                   
+                
+B7701|0020|7TH PZD 1 SLB                   
+                
+B7702|0020|7TH PZD 2 SLB                   
+                
+B7703|0020|7TH PZD 3 SLB                   
+                
+B7704|0020|7TH PZD 4 SLB                   
+                
+B7705|0020|7TH PZD 5 SLB                   
+                
+B7706|0020|7TH PZD 6 SLB                   
+                
+B7707|0020|7TH PZD 7 SLB                   
+                
+B7708|0020|7TH PZD 8 SLB                   
+                
+B7709|0020|7TH PZD 9 SLB                   
+                
+B7710|0020|7TH PZD10 SLB                   
+                
+B7711|0020|7TH PZD11 SLB                   
+                
+B7712|0020|7TH PZD12 SLB                   
+                
+B7713|0020|7TH PZD13 SLB                   
+                
+B7714|0020|7TH PZD14 SLB                   
+                
+B7715|0020|7TH PZD15 SLB                   
+                
+B7800|0020|8TH PZD 0 SLB                   
+                
+B7801|0020|8TH PZD 1 SLB                   
+                
+B7802|0020|8TH PZD 2 SLB                   
+                
+B7803|0020|8TH PZD 3 SLB                   
+                
+B7804|0020|8TH PZD 4 SLB                   
+                
+B7805|0020|8TH PZD 5 SLB                   
+                
+B7806|0020|8TH PZD 6 SLB                   
+                
+B7807|0020|8TH PZD 7 SLB                   
+                
+B7808|0020|8TH PZD 8 SLB                   
+                
+B7809|0020|8TH PZD 9 SLB                   
+                
+B7810|0020|8TH PZD10 SLB                   
+                
+B7811|0020|8TH PZD11 SLB                   
+                
+B7812|0020|8TH PZD12 SLB                   
+                
+B7813|0020|8TH PZD13 SLB                   
+                
+B7814|0020|8TH PZD14 SLB                   
+                
+B7815|0020|8TH PZD15 SLB                   
+                
+B7900|0020|9TH PZD 0 SLB                   
+                
+B7901|0020|9TH PZD 1 SLB                   
+                
+B7902|0020|9TH PZD 2 SLB                   
+                
+B7903|0020|9TH PZD 3 SLB                   
+                
+B7904|0020|9TH PZD 4 SLB                   
+                
+B7905|0020|9TH PZD 5 SLB                   
+                
+B7906|0020|9TH PZD 6 SLB                   
+                
+B7907|0020|9TH PZD 7 SLB                   
+                
+B7908|0020|9TH PZD 8 SLB                   
+                
+B7909|0020|9TH PZD 9 SLB                   
+                
+B7910|0020|9TH PZD10 SLB                   
+                
+B7911|0020|9TH PZD11 SLB                   
+                
+B7912|0020|9TH PZD12 SLB                   
+                
+B7913|0020|9TH PZD13 SLB                   
+                
+B7914|0020|9TH PZD14 SLB                   
+                
+B7915|0020|9TH PZD15 SLB                   
+                
+B8030|0020|Tgr.fail. 2.CB                  
+                
+B8031|0020|Tgr.fl.ps 2.CB                  
+                
+B8035|0020|Flt Delay 2nd CB                
+                
+B8100|0020|1ST PZD 0 CB/TB2                
+                
+B8101|0020|1ST PZD 1 CB/TB2                
+                
+B8102|0020|1ST PZD 2 CB/TB2                
+                
+B8103|0020|1ST PZD 3 CB/TB2                
+                
+B8104|0020|1ST PZD 4 CB/TB2                
+                
+B8105|0020|1ST PZD 5 CB/TB2                
+                
+B8106|0020|1ST PZD 6 CB/TB2                
+                
+B8107|0020|1ST PZD 7 CB/TB2                
+                
+B8108|0020|1ST PZD 8 CB/TB2                
+                
+B8109|0020|1ST PZD 9 CB/TB2                
+                
+B8110|0020|1ST PZD10 CB/TB2                
+                
+B8111|0020|1ST PZD11 CB/TB2                
+                
+B8112|0020|1ST PZD12 CB/TB2                
+                
+B8113|0020|1ST PZD13 CB/TB2                
+                
+B8114|0020|1ST PZD14 CB/TB2                
+                
+B8115|0020|1ST PZD15 CB/TB2                
+                
+B8200|0020|2ND PZD 0 CB/TB2                
+                
+B8201|0020|2ND PZD 1 CB/TB2                
+                
+B8202|0020|2ND PZD 2 CB/TB2                
+                
+B8203|0020|2ND PZD 3 CB/TB2                
+                
+B8204|0020|2ND PZD 4 CB/TB2                
+                
+B8205|0020|2ND PZD 5 CB/TB2                
+                
+B8206|0020|2ND PZD 6 CB/TB2                
+                
+B8207|0020|2ND PZD 7 CB/TB2                
+                
+B8208|0020|2ND PZD 8 CB/TB2                
+                
+B8209|0020|2ND PZD 9 CB/TB2                
+                
+B8210|0020|2ND PZD10 CB/TB2                
+                
+B8211|0020|2ND PZD11 CB/TB2                
+                
+B8212|0020|2ND PZD12 CB/TB2                
+                
+B8213|0020|2ND PZD13 CB/TB2                
+                
+B8214|0020|2ND PZD14 CB/TB2                
+                
+B8215|0020|2ND PZD15 CB/TB2                
+                
+B8300|0020|3RD PZD 0 CB/TB2                
+                
+B8301|0020|3RD PZD 1 CB/TB2                
+                
+B8302|0020|3RD PZD 2 CB/TB2                
+                
+B8303|0020|3RD PZD 3 CB/TB2                
+                
+B8304|0020|3RD PZD 4 CB/TB2                
+                
+B8305|0020|3RD PZD 5 CB/TB2                
+                
+B8306|0020|3RD PZD 6 CB/TB2                
+                
+B8307|0020|3RD PZD 7 CB/TB2                
+                
+B8308|0020|3RD PZD 8 CB/TB2                
+                
+B8309|0020|3RD PZD 9 CB/TB2                
+                
+B8310|0020|3RD PZD10 CB/TB2                
+                
+B8311|0020|3RD PZD11 CB/TB2                
+                
+B8312|0020|3RD PZD12 CB/TB2                
+                
+B8313|0020|3RD PZD13 CB/TB2                
+                
+B8314|0020|3RD PZD14 CB/TB2                
+                
+B8315|0020|3RD PZD15 CB/TB2                
+                
+B8400|0020|4TH PZD 0 CB/TB2                
+                
+B8401|0020|4TH PZD 1 CB/TB2                
+                
+B8402|0020|4TH PZD 2 CB/TB2                
+                
+B8403|0020|4TH PZD 3 CB/TB2                
+                
+B8404|0020|4TH PZD 4 CB/TB2                
+                
+B8405|0020|4TH PZD 5 CB/TB2                
+                
+B8406|0020|4TH PZD 6 CB/TB2                
+                
+B8407|0020|4TH PZD 7 CB/TB2                
+                
+B8408|0020|4TH PZD 8 CB/TB2                
+                
+B8409|0020|4TH PZD 9 CB/TB2                
+                
+B8410|0020|4TH PZD10 CB/TB2                
+                
+B8411|0020|4TH PZD11 CB/TB2                
+                
+B8412|0020|4TH PZD12 CB/TB2                
+                
+B8413|0020|4TH PZD13 CB/TB2                
+                
+B8414|0020|4TH PZD14 CB/TB2                
+                
+B8415|0020|4TH PZD15 CB/TB2                
+                
+B8500|0020|5TH PZD 0 CB/TB2                
+                
+B8501|0020|5TH PZD 1 CB/TB2                
+                
+B8502|0020|5TH PZD 2 CB/TB2                
+                
+B8503|0020|5TH PZD 3 CB/TB2                
+                
+B8504|0020|5TH PZD 4 CB/TB2                
+                
+B8505|0020|5TH PZD 5 CB/TB2                
+                
+B8506|0020|5TH PZD 6 CB/TB2                
+                
+B8507|0020|5TH PZD 7 CB/TB2                
+                
+B8508|0020|5TH PZD 8 CB/TB2                
+                
+B8509|0020|5TH PZD 9 CB/TB2                
+                
+B8510|0020|5TH PZD10 CB/TB2                
+                
+B8511|0020|5TH PZD11 CB/TB2                
+                
+B8512|0020|5TH PZD12 CB/TB2                
+                
+B8513|0020|5TH PZD13 CB/TB2                
+                
+B8514|0020|5TH PZD14 CB/TB2                
+                
+B8515|0020|5TH PZD15 CB/TB2                
+                
+B8600|0020|6TH PZD 0 CB/TB2                
+                
+B8601|0020|6TH PZD 1 CB/TB2                
+                
+B8602|0020|6TH PZD 2 CB/TB2                
+                
+B8603|0020|6TH PZD 3 CB/TB2                
+                
+B8604|0020|6TH PZD 4 CB/TB2                
+                
+B8605|0020|6TH PZD 5 CB/TB2                
+                
+B8606|0020|6TH PZD 6 CB/TB2                
+                
+B8607|0020|6TH PZD 7 CB/TB2                
+                
+B8608|0020|6TH PZD 8 CB/TB2                
+                
+B8609|0020|6TH PZD 9 CB/TB2                
+                
+B8610|0020|6TH PZD10 CB/TB2                
+                
+B8611|0020|6TH PZD11 CB/TB2                
+                
+B8612|0020|6TH PZD12 CB/TB2                
+                
+B8613|0020|6TH PZD13 CB/TB2                
+                
+B8614|0020|6TH PZD14 CB/TB2                
+                
+B8615|0020|6TH PZD15 CB/TB2                
+                
+B8700|0020|7TH PZD 0 CB/TB2                
+                
+B8701|0020|7TH PZD 1 CB/TB2                
+                
+B8702|0020|7TH PZD 2 CB/TB2                
+                
+B8703|0020|7TH PZD 3 CB/TB2                
+                
+B8704|0020|7TH PZD 4 CB/TB2                
+                
+B8705|0020|7TH PZD 5 CB/TB2                
+                
+B8706|0020|7TH PZD 6 CB/TB2                
+                
+B8707|0020|7TH PZD 7 CB/TB2                
+                
+B8708|0020|7TH PZD 8 CB/TB2                
+                
+B8709|0020|7TH PZD 9 CB/TB2                
+                
+B8710|0020|7TH PZD10 CB/TB2                
+                
+B8711|0020|7TH PZD11 CB/TB2                
+                
+B8712|0020|7TH PZD12 CB/TB2                
+                
+B8713|0020|7TH PZD13 CB/TB2                
+                
+B8714|0020|7TH PZD14 CB/TB2                
+                
+B8715|0020|7TH PZD15 CB/TB2                
+                
+B8800|0020|8TH PZD 0 CB/TB2                
+                
+B8801|0020|8TH PZD 1 CB/TB2                
+                
+B8802|0020|8TH PZD 2 CB/TB2                
+                
+B8803|0020|8TH PZD 3 CB/TB2                
+                
+B8804|0020|8TH PZD 4 CB/TB2                
+                
+B8805|0020|8TH PZD 5 CB/TB2                
+                
+B8806|0020|8TH PZD 6 CB/TB2                
+                
+B8807|0020|8TH PZD 7 CB/TB2                
+                
+B8808|0020|8TH PZD 8 CB/TB2                
+                
+B8809|0020|8TH PZD 9 CB/TB2                
+                
+B8810|0020|8TH PZD10 CB/TB2                
+                
+B8811|0020|8TH PZD11 CB/TB2                
+                
+B8812|0020|8TH PZD12 CB/TB2                
+                
+B8813|0020|8TH PZD13 CB/TB2                
+                
+B8814|0020|8TH PZD14 CB/TB2                
+                
+B8815|0020|8TH PZD15 CB/TB2                
+                
+B8900|0020|9TH PZD 0 CB/TB2                
+                
+B8901|0020|9TH PZD 1 CB/TB2                
+                
+B8902|0020|9TH PZD 2 CB/TB2                
+                
+B8903|0020|9TH PZD 3 CB/TB2                
+                
+B8904|0020|9TH PZD 4 CB/TB2                
+                
+B8905|0020|9TH PZD 5 CB/TB2                
+                
+B8906|0020|9TH PZD 6 CB/TB2                
+                
+B8907|0020|9TH PZD 7 CB/TB2                
+                
+B8908|0020|9TH PZD 8 CB/TB2                
+                
+B8909|0020|9TH PZD 9 CB/TB2                
+                
+B8910|0020|9TH PZD10 CB/TB2                
+                
+B8911|0020|9TH PZD11 CB/TB2                
+                
+B8912|0020|9TH PZD12 CB/TB2                
+                
+B8913|0020|9TH PZD13 CB/TB2                
+                
+B8914|0020|9TH PZD14 CB/TB2                
+                
+B8915|0020|9TH PZD15 CB/TB2                
+                
+B9030|0020|Tgr.fail. G-SST3                
+                
+B9031|0020|Tgr.fl.ps G-SST3                
+                
+B9050|0020|Power ON pulse                  
+                
+B9051|0020|Power OFF pulse                 
+                
+B9052|0020|Con>BinCnv1Outp0                
+                
+B9053|0020|Con>BinCnv1Outp1                
+                
+B9054|0020|Con>BinCnv1Outp2                
+                
+B9055|0020|Con>BinCnv1Outp3                
+                
+B9056|0020|Con>BinCnv1Outp4                
+                
+B9057|0020|Con>BinCnv1Outp5                
+                
+B9058|0020|Con>BinCnv1Outp6                
+                
+B9059|0020|Con>BinCnv1Outp7                
+                
+B9060|0020|Con>BinCnv1Outp8                
+                
+B9061|0020|Con>BinCnv1Outp9                
+                
+B9062|0020|Con>BinCnv1Out10                
+                
+B9063|0020|Con>BinCnv1Out11                
+                
+B9064|0020|Con>BinCnv1Out12                
+                
+B9065|0020|Con>BinCnv1Out13                
+                
+B9066|0020|Con>BinCnv1Out14                
+                
+B9067|0020|Con>BinCnv1Out15                
+                
+B9068|0020|Con>BinCnv2Outp0                
+                
+B9069|0020|Con>BinCnv2Outp1                
+                
+B9070|0020|Con>BinCnv2Outp2                
+                
+B9071|0020|Con>BinCnv2Outp3                
+                
+B9072|0020|Con>BinCnv2Outp4                
+                
+B9073|0020|Con>BinCnv2Outp5                
+                
+B9074|0020|Con>BinCnv2Outp6                
+                
+B9075|0020|Con>BinCnv2Outp7                
+                
+B9076|0020|Con>BinCnv2Outp8                
+                
+B9077|0020|Con>BinCnv2Outp9                
+                
+B9078|0020|Con>BinCnv2Out10                
+                
+B9079|0020|Con>BinCnv2Out11                
+                
+B9080|0020|Con>BinCnv2Out12                
+                
+B9081|0020|Con>BinCnv2Out13                
+                
+B9082|0020|Con>BinCnv2Out14                
+                
+B9083|0020|Con>BinCnv2Out15                
+                
+B9084|0020|Con>BinCnv3Outp0                
+                
+B9085|0020|Con>BinCnv3Outp1                
+                
+B9086|0020|Con>BinCnv3Outp2                
+                
+B9087|0020|Con>BinCnv3Outp3                
+                
+B9088|0020|Con>BinCnv3Outp4                
+                
+B9089|0020|Con>BinCnv3Outp5                
+                
+B9090|0020|Con>BinCnv3Outp6                
+                
+B9091|0020|Con>BinCnv3Outp7                
+                
+B9092|0020|Con>BinCnv3Outp8                
+                
+B9093|0020|Con>BinCnv3Outp9                
+                
+B9094|0020|Con>BinCnv3Out10                
+                
+B9095|0020|Con>BinCnv3Out11                
+                
+B9096|0020|Con>BinCnv3Out12                
+                
+B9097|0020|Con>BinCnv3Out13                
+                
+B9098|0020|Con>BinCnv3Out14                
+                
+B9099|0020|Con>BinCnv3Out15                
+                
+B9100|0020|1ST PZD 0 G-SST3                
+                
+B9101|0020|1ST PZD 1 G-SST3                
+                
+B9102|0020|1ST PZD 2 G-SST3                
+                
+B9103|0020|1ST PZD 3 G-SST3                
+                
+B9104|0020|1ST PZD 4 G-SST3                
+                
+B9105|0020|1ST PZD 5 G-SST3                
+                
+B9106|0020|1ST PZD 6 G-SST3                
+                
+B9107|0020|1ST PZD 7 G-SST3                
+                
+B9108|0020|1ST PZD 8 G-SST3                
+                
+B9109|0020|1ST PZD 9 G-SST3                
+                
+B9110|0020|1ST PZD10 G-SST3                
+                
+B9111|0020|1ST PZD11 G-SST3                
+                
+B9112|0020|1ST PZD12 G-SST3                
+                
+B9113|0020|1ST PZD13 G-SST3                
+                
+B9114|0020|1ST PZD14 G-SST3                
+                
+B9115|0020|1ST PZD15 G-SST3                
+                
+B9150|0020|Limiter1 X>=L+                  
+                
+B9151|0020|Limiter1 ><=L-                  
+                
+B9152|0020|Limiter2 X>=L+                  
+                
+B9153|0020|Limiter2 ><=L-                  
+                
+B9154|0020|Limiter3 X>=L+                  
+                
+B9155|0020|Limiter3 ><=L-                  
+                
+B9156|0020|Limiter4 X>=L+                  
+                
+B9157|0020|Limiter4 ><=L-                  
+                
+B9158|0020|Limiter5 X>=L+                  
+                
+B9159|0020|Limiter5 ><=L-                  
+                
+B9160|0020|Lmvlmn 1 |A|<B                  
+                
+B9161|0020|Lmvlmn 1 A < B                  
+                
+B9162|0020|Lmvlmn 1 A = B                  
+                
+B9163|0020|Lmvlmn 2 |A|<B                  
+                
+B9164|0020|Lmvlmn 2 A < B                  
+                
+B9165|0020|Lmvlmn 2 A = B                  
+                
+B9166|0020|Lmvlmn 3 |A|<B                  
+                
+B9167|0020|Lmvlmn 3 A < B                  
+                
+B9168|0020|Lmvlmn 3 A = B                  
+                
+B9169|0020|Lmvlmn 4 |A|<B                  
+                
+B9170|0020|Lmvlmn 4 A < B                  
+                
+B9171|0020|Lmvlmn 4 A = B                  
+                
+B9172|0020|Lmvlmn 5 |A|<B                  
+                
+B9173|0020|Lmvlmn 5 A < B                  
+                
+B9174|0020|Lmvlmn 5 A = B                  
+                
+B9175|0020|Lmvlmn 6 |A|<B                  
+                
+B9176|0020|Lmvlmn 6 A < B                  
+                
+B9177|0020|Lmvlmn 6 A = B                  
+                
+B9178|0020|Lmvlmn 7 |A|<B                  
+                
+B9179|0020|Lmvlmn 7 A < B                  
+                
+B9180|0020|Lmvlmn 7 A = B                  
+                
+B9181|0020|Lmvlmn 8 |A|<B                  
+                
+B9182|0020|Lmvlmn 8 A < B                  
+                
+B9183|0020|Lmvlmn 8 A = B                  
+                
+B9184|0020|Lmvlmn 9 |A|<B                  
+                
+B9185|0020|Lmvlmn 9 A < B                  
+                
+B9186|0020|Lmvlmn 9 A = B                  
+                
+B9187|0020|Lmvlmn 10 |A|<B                 
+                
+B9188|0020|Lmvlmn 10 A < B                 
+                
+B9189|0020|Lmvlmn 10 A = B                 
+                
+B9190|0020|Simple RFG activ                
+                
+B9191|0020|Sim RFG init ru                 
+                
+B9195|0020|XOR 1 output                    
+                
+B9196|0020|XOR 2 output                    
+                
+B9197|0020|XOR 3 output                    
+                
+B9198|0020|XOR 4 output                    
+                
+B9200|0020|2ND PZD 0 G-SST3                
+                
+B9201|0020|2ND PZD 1 G-SST3                
+                
+B9202|0020|2ND PZD 2 G-SST3                
+                
+B9203|0020|2ND PZD 3 G-SST3                
+                
+B9204|0020|2ND PZD 4 G-SST3                
+                
+B9205|0020|2ND PZD 5 G-SST3                
+                
+B9206|0020|2ND PZD 6 G-SST3                
+                
+B9207|0020|2ND PZD 7 G-SST3                
+                
+B9208|0020|2ND PZD 8 G-SST3                
+                
+B9209|0020|2ND PZD 9 G-SST3                
+                
+B9210|0020|2ND PZD10 G-SST3                
+                
+B9211|0020|2ND PZD11 G-SST3                
+                
+B9212|0020|2ND PZD12 G-SST3                
+                
+B9213|0020|2ND PZD13 G-SST3                
+                
+B9214|0020|2ND PZD14 G-SST3                
+                
+B9215|0020|2ND PZD15 G-SST3                
+                
+B9250|0020|Decod 1 outp Q0                 
+                
+B9251|0020|Decod 1 outp Q1                 
+                
+B9252|0020|Decod 1 outp Q2                 
+                
+B9253|0020|Decod 1 outp Q3                 
+                
+B9254|0020|Decod 1 outp Q4                 
+                
+B9255|0020|Decod 1 outp Q5                 
+                
+B9256|0020|Decod 1 outp Q6                 
+                
+B9257|0020|Decod 1 outp Q7                 
+                
+B9260|0020|Decod 1 outp/Q0                 
+                
+B9261|0020|Decod 1 outp/Q1                 
+                
+B9262|0020|Decod 1 outp/Q2                 
+                
+B9263|0020|Decod 1 outp/Q3                 
+                
+B9264|0020|Decod 1 outp/Q4                 
+                
+B9265|0020|Decod 1 outp/Q5                 
+                
+B9266|0020|Decod 1 outp/Q6                 
+                
+B9267|0020|Decod 1 outp/Q7                 
+                
+B9270|0020|Decod 2 outp Q0                 
+                
+B9271|0020|Decod 2 outp Q1                 
+                
+B9272|0020|Decod 2 outp Q2                 
+                
+B9273|0020|Decod 2 outp Q3                 
+                
+B9274|0020|Decod 2 outp Q4                 
+                
+B9275|0020|Decod 2 outp Q5                 
+                
+B9276|0020|Decod 2 outp Q6                 
+                
+B9277|0020|Decod 2 outp Q7                 
+                
+B9280|0020|Decod 2 outp/Q0                 
+                
+B9281|0020|Decod 2 outp/Q1                 
+                
+B9282|0020|Decod 2 outp/Q2                 
+                
+B9283|0020|Decod 2 outp/Q3                 
+                
+B9284|0020|Decod 2 outp/Q4                 
+                
+B9285|0020|Decod 2 outp/Q5                 
+                
+B9286|0020|Decod 2 outp/Q6                 
+                
+B9287|0020|Decod 1 outp/Q7                 
+                
+B9290|0020|SwCnt:Underflow                 
+                
+B9291|0020|SwCnt:Overflow                  
+                
+B9295|0020|Limiter6 X>=L+                  
+                
+B9296|0020|Limiter6 ><=L-                  
+                
+B9300|0020|3RD PZD 0 G-SST3                
+                
+B9301|0020|3RD PZD 1 G-SST3                
+                
+B9302|0020|3RD PZD 2 G-SST3                
+                
+B9303|0020|3RD PZD 3 G-SST3                
+                
+B9304|0020|3RD PZD 4 G-SST3                
+                
+B9305|0020|3RD PZD 5 G-SST3                
+                
+B9306|0020|3RD PZD 6 G-SST3                
+                
+B9307|0020|3RD PZD 7 G-SST3                
+                
+B9308|0020|3RD PZD 8 G-SST3                
+                
+B9309|0020|3RD PZD 9 G-SST3                
+                
+B9310|0020|3RD PZD10 G-SST3                
+                
+B9311|0020|3RD PZD11 G-SST3                
+                
+B9312|0020|3RD PZD12 G-SST3                
+                
+B9313|0020|3RD PZD13 G-SST3                
+                
+B9314|0020|3RD PZD14 G-SST3                
+                
+B9315|0020|3RD PZD15 G-SST3                
+                
+B9350|0020|AND 1 output                    
+                
+B9351|0020|AND 2 output                    
+                
+B9352|0020|AND 3 output                    
+                
+B9353|0020|AND 4 output                    
+                
+B9354|0020|AND 5 output                    
+                
+B9355|0020|AND 6 output                    
+                
+B9356|0020|AND 7 output                    
+                
+B9357|0020|AND 8 output                    
+                
+B9358|0020|AND 9 output                    
+                
+B9359|0020|AND 10 output                   
+                
+B9360|0020|AND 11 output                   
+                
+B9361|0020|AND 12 output                   
+                
+B9362|0020|AND 13 output                   
+                
+B9363|0020|AND 14 output                   
+                
+B9364|0020|AND 15 output                   
+                
+B9365|0020|AND 16 output                   
+                
+B9366|0020|AND 17 output                   
+                
+B9367|0020|AND 18 output                   
+                
+B9368|0020|AND 19 output                   
+                
+B9369|0020|AND 20 output                   
+                
+B9370|0020|AND 21 output                   
+                
+B9371|0020|AND 22 output                   
+                
+B9372|0020|AND 23 output                   
+                
+B9373|0020|AND 24 output                   
+                
+B9374|0020|AND 25 output                   
+                
+B9375|0020|AND 26 output                   
+                
+B9376|0020|AND 27 output                   
+                
+B9377|0020|AND 28 output                   
+                
+B9380|0020|OR 1 output                     
+                
+B9381|0020|OR 2 output                     
+                
+B9382|0020|OR 3 output                     
+                
+B9383|0020|OR 4 output                     
+                
+B9384|0020|OR 5 output                     
+                
+B9385|0020|OR 6 output                     
+                
+B9386|0020|OR 7 output                     
+                
+B9387|0020|OR 8 output                     
+                
+B9388|0020|OR 9 output                     
+                
+B9389|0020|OR 10 output                    
+                
+B9390|0020|OR 11 output                    
+                
+B9391|0020|OR 12 output                    
+                
+B9392|0020|OR 13 output                    
+                
+B9393|0020|OR 14 output                    
+                
+B9394|0020|OR 15 output                    
+                
+B9395|0020|OR 16 output                    
+                
+B9396|0020|OR 17 output                    
+                
+B9397|0020|OR 18 output                    
+                
+B9398|0020|OR 19 output                    
+                
+B9399|0020|OR 20 output                    
+                
+B9400|0020|4RD PZD 0 G-SST3                
+                
+B9401|0020|4RD PZD 1 G-SST3                
+                
+B9402|0020|4RD PZD 2 G-SST3                
+                
+B9403|0020|4RD PZD 3 G-SST3                
+                
+B9404|0020|4RD PZD 4 G-SST3                
+                
+B9405|0020|4RD PZD 5 G-SST3                
+                
+B9406|0020|4RD PZD 6 G-SST3                
+                
+B9407|0020|4RD PZD 7 G-SST3                
+                
+B9408|0020|4RD PZD 8 G-SST3                
+                
+B9409|0020|4RD PZD 9 G-SST3                
+                
+B9410|0020|4RD PZD10 G-SST3                
+                
+B9411|0020|4RD PZD11 G-SST3                
+                
+B9412|0020|4RD PZD12 G-SST3                
+                
+B9413|0020|4RD PZD13 G-SST3                
+                
+B9414|0020|4RD PZD14 G-SST3                
+                
+B9415|0020|4RD PZD15 G-SST3                
+                
+B9450|0020|INVERTER 1 outp                 
+                
+B9451|0020|INVERTER 2 outp                 
+                
+B9452|0020|INVERTER 3 outp                 
+                
+B9453|0020|INVERTER 4 outp                 
+                
+B9454|0020|INVERTER 5 outp                 
+                
+B9455|0020|INVERTER 6 outp                 
+                
+B9456|0020|INVERTER 7 outp                 
+                
+B9457|0020|INVERTER 8 outp                 
+                
+B9458|0020|INVERTER 9 outp                 
+                
+B9459|0020|INVERTER10 outp                 
+                
+B9460|0020|INVERTER11 outp                 
+                
+B9461|0020|INVERTER12 outp                 
+                
+B9462|0020|INVERTER13 outp                 
+                
+B9463|0020|INVERTER14 outp                 
+                
+B9464|0020|INVERTER15 outp                 
+                
+B9465|0020|INVERTER16 outp                 
+                
+B9470|0020|NAND 1 output                   
+                
+B9471|0020|NAND 2 output                   
+                
+B9472|0020|NAND 3 output                   
+                
+B9473|0020|NAND 4 output                   
+                
+B9474|0020|NAND 5 output                   
+                
+B9475|0020|NAND 6 output                   
+                
+B9476|0020|NAND 7 output                   
+                
+B9477|0020|NAND 8 output                   
+                
+B9478|0020|NAND 9 output                   
+                
+B9479|0020|NAND 10 output                  
+                
+B9480|0020|NAND 11 output                  
+                
+B9481|0020|NAND 12 output                  
+                
+B9482|0020|Binary sel 1 ot                 
+                
+B9483|0020|Binary sel 2 ot                 
+                
+B9484|0020|Binary sel 3 ot                 
+                
+B9485|0020|Binary sel 4 ot                 
+                
+B9486|0020|Binary sel 5 ot                 
+                
+B9490|0020|D FF 1 output Q                 
+                
+B9491|0020|D FF 1 output /Q                
+                
+B9492|0020|D FF 2 output Q                 
+                
+B9493|0020|D FF 2 output /Q                
+                
+B9494|0020|D FF 3 output Q                 
+                
+B9495|0020|D FF 3 output /Q                
+                
+B9496|0020|D FF 4 output Q                 
+                
+B9497|0020|D FF 4 output /Q                
+                
+B9499|0020|TechCntr lm rchd                
+                
+B9500|0020|5TH PZD 0 G-SST3                
+                
+B9501|0020|5TH PZD 1 G-SST3                
+                
+B9502|0020|5TH PZD 2 G-SST3                
+                
+B9503|0020|5TH PZD 3 G-SST3                
+                
+B9504|0020|5TH PZD 4 G-SST3                
+                
+B9505|0020|5TH PZD 5 G-SST3                
+                
+B9506|0020|5TH PZD 6 G-SST3                
+                
+B9507|0020|5TH PZD 7 G-SST3                
+                
+B9508|0020|5TH PZD 8 G-SST3                
+                
+B9509|0020|5TH PZD 9 G-SST3                
+                
+B9510|0020|5TH PZD10 G-SST3                
+                
+B9511|0020|5TH PZD11 G-SST3                
+                
+B9512|0020|5TH PZD12 G-SST3                
+                
+B9513|0020|5TH PZD13 G-SST3                
+                
+B9514|0020|5TH PZD14 G-SST3                
+                
+B9515|0020|5TH PZD15 G-SST3                
+                
+B9550|0020|RS FF 1 output Q                
+                
+B9551|0020|RS FF 1 outpt /Q                
+                
+B9552|0020|RS FF 2 output Q                
+                
+B9553|0020|RS FF 2 outpt /Q                
+                
+B9554|0020|RS FF 3 output Q                
+                
+B9555|0020|RS FF 3 outpt /Q                
+                
+B9556|0020|RS FF 4 output Q                
+                
+B9557|0020|RS FF 4 outpt /Q                
+                
+B9558|0020|RS FF 5 output Q                
+                
+B9559|0020|RS FF 5 outpt /Q                
+                
+B9560|0020|RS FF 6 output Q                
+                
+B9561|0020|RS FF 6 outpt /Q                
+                
+B9562|0020|RS FF 7 output Q                
+                
+B9563|0020|RS FF 7 outpt /Q                
+                
+B9564|0020|RS FF 8 output Q                
+                
+B9565|0020|RS FF 8 outpt /Q                
+                
+B9566|0020|RS FF 9 output Q                
+                
+B9567|0020|RS FF 9 outpt /Q                
+                
+B9568|0020|RS FF 10 outpt Q                
+                
+B9569|0020|RS FF 10 outp /Q                
+                
+B9570|0020|RS FF 11 outpt Q                
+                
+B9571|0020|RS FF 11 outp /Q                
+                
+B9572|0020|RS FF 12 outpt Q                
+                
+B9573|0020|RS FF 12 outp /Q                
+                
+B9574|0020|RS FF 13 outpt Q                
+                
+B9575|0020|RS FF 13 outp /Q                
+                
+B9576|0020|RS FF 14 outpt Q                
+                
+B9577|0020|RS FF 14 outp /Q                
+                
+B9580|0020|TIMER 1 output                  
+                
+B9581|0020|TIMER 1 outp in                 
+                
+B9582|0020|TIMER 2 output                  
+                
+B9583|0020|TIMER 2 outp in                 
+                
+B9584|0020|TIMER 3 output                  
+                
+B9585|0020|TIMER 3 outp in                 
+                
+B9586|0020|TIMER 4 output                  
+                
+B9587|0020|TIMER 4 outp in                 
+                
+B9588|0020|TIMER 5 output                  
+                
+B9589|0020|TIMER 5 outp in                 
+                
+B9590|0020|TIMER 6 output                  
+                
+B9591|0020|TIMER 6 outp in                 
+                
+B9592|0020|TIMER 7 output                  
+                
+B9593|0020|TIMER 7 outp in                 
+                
+B9594|0020|TIMER 8 output                  
+                
+B9595|0020|TIMER 8 outp in                 
+                
+B9596|0020|TIMER 9 output                  
+                
+B9597|0020|TIMER 9 outp in                 
+                
+B9598|0020|TIMER10 output                  
+                
+B9599|0020|TIMER10 outp in                 
+                
+B9600|0020|6TH PZD 0 G-SST3                
+                
+B9601|0020|6TH PZD 1 G-SST3                
+                
+B9602|0020|6TH PZD 2 G-SST3                
+                
+B9603|0020|6TH PZD 3 G-SST3                
+                
+B9604|0020|6TH PZD 4 G-SST3                
+                
+B9605|0020|6TH PZD 5 G-SST3                
+                
+B9606|0020|6TH PZD 6 G-SST3                
+                
+B9607|0020|6TH PZD 7 G-SST3                
+                
+B9608|0020|6TH PZD 8 G-SST3                
+                
+B9609|0020|6TH PZD 9 G-SST3                
+                
+B9610|0020|6TH PZD10 G-SST3                
+                
+B9611|0020|6TH PZD11 G-SST3                
+                
+B9612|0020|6TH PZD12 G-SST3                
+                
+B9613|0020|6TH PZD13 G-SST3                
+                
+B9614|0020|6TH PZD14 G-SST3                
+                
+B9615|0020|6TH PZD15 G-SST3                
+                
+B9650|0020|PIctr1 at limit                 
+                
+B9651|0020|PIctr2 at limit                 
+                
+B9652|0020|PIctr3 at limit                 
+                
+B9653|0020|PIctr4 at limit                 
+                
+B9654|0020|PIctr5 at limit                 
+                
+B9655|0020|PIctr6 at limit                 
+                
+B9656|0020|PIctr7 at limit                 
+                
+B9657|0020|PIctr8 at limit                 
+                
+B9658|0020|PIctr9 at limit                 
+                
+B9659|0020|PIctr10 at limit                
+                
+B9660|0020|PIctr1 at poslim                
+                
+B9661|0020|PIctr2 at poslim                
+                
+B9662|0020|PIctr3 at poslim                
+                
+B9663|0020|PIctr4 at poslim                
+                
+B9664|0020|PIctr5 at poslim                
+                
+B9665|0020|PIctr6 at poslim                
+                
+B9666|0020|PIctr7 at poslim                
+                
+B9667|0020|PIctr8 at poslim                
+                
+B9668|0020|PIctr9 at poslim                
+                
+B9669|0020|PIctr10at poslim                
+                
+B9670|0020|PIctr1 at neglim                
+                
+B9671|0020|PIctr2 at neglim                
+                
+B9672|0020|PIctr3 at neglim                
+                
+B9673|0020|PIctr4 at neglim                
+                
+B9674|0020|PIctr5 at neglim                
+                
+B9675|0020|PIctr6 at neglim                
+                
+B9676|0020|PIctr7 at neglim                
+                
+B9677|0020|PIctr8 at neglim                
+                
+B9678|0020|PIctr9 at neglim                
+                
+B9679|0020|PIctr10at neglim                
+                
+B9680|0020|LimVal1: |A|<B                  
+                
+B9681|0020|LimVal1: A<B                    
+                
+B9682|0020|LimVal1: A=B                    
+                
+B9683|0020|LimVal2: |A|<B                  
+                
+B9684|0020|LimVal2: A<B                    
+                
+B9685|0020|LimVal2: A=B                    
+                
+B9686|0020||InRoot|<Thresh.                
+                
+B9687|0020||InRoot|<Thr.Inv                
+                
+B9700|0020|7TH PZD 0 G-SST3                
+                
+B9701|0020|7TH PZD 1 G-SST3                
+                
+B9702|0020|7TH PZD 2 G-SST3                
+                
+B9703|0020|7TH PZD 3 G-SST3                
+                
+B9704|0020|7TH PZD 4 G-SST3                
+                
+B9705|0020|7TH PZD 5 G-SST3                
+                
+B9706|0020|7TH PZD 6 G-SST3                
+                
+B9707|0020|7TH PZD 7 G-SST3                
+                
+B9708|0020|7TH PZD 8 G-SST3                
+                
+B9709|0020|7TH PZD 9 G-SST3                
+                
+B9710|0020|7TH PZD10 G-SST3                
+                
+B9711|0020|7TH PZD11 G-SST3                
+                
+B9712|0020|7TH PZD12 G-SST3                
+                
+B9713|0020|7TH PZD13 G-SST3                
+                
+B9714|0020|7TH PZD14 G-SST3                
+                
+B9715|0020|7TH PZD15 G-SST3                
+                
+B9800|0020|8TH PZD 0 G-SST3                
+                
+B9801|0020|8TH PZD 1 G-SST3                
+                
+B9802|0020|8TH PZD 2 G-SST3                
+                
+B9803|0020|8TH PZD 3 G-SST3                
+                
+B9804|0020|8TH PZD 4 G-SST3                
+                
+B9805|0020|8TH PZD 5 G-SST3                
+                
+B9806|0020|8TH PZD 6 G-SST3                
+                
+B9807|0020|8TH PZD 7 G-SST3                
+                
+B9808|0020|8TH PZD 8 G-SST3                
+                
+B9809|0020|8TH PZD 9 G-SST3                
+                
+B9810|0020|8TH PZD10 G-SST3                
+                
+B9811|0020|8TH PZD11 G-SST3                
+                
+B9812|0020|8TH PZD12 G-SST3                
+                
+B9813|0020|8TH PZD13 G-SST3                
+                
+B9814|0020|8TH PZD14 G-SST3                
+                
+B9815|0020|8TH PZD15 G-SST3                
+                
+B9900|0020|9TH PZD 0 G-SST3                
+                
+B9901|0020|9TH PZD 1 G-SST3                
+                
+B9902|0020|9TH PZD 2 G-SST3                
+                
+B9903|0020|9TH PZD 3 G-SST3                
+                
+B9904|0020|9TH PZD 4 G-SST3                
+                
+B9905|0020|9TH PZD 5 G-SST3                
+                
+B9906|0020|9TH PZD 6 G-SST3                
+                
+B9907|0020|9TH PZD 7 G-SST3                
+                
+B9908|0020|9TH PZD 8 G-SST3                
+                
+B9909|0020|9TH PZD 9 G-SST3                
+                
+B9910|0020|9TH PZD10 G-SST3                
+                
+B9911|0020|9TH PZD11 G-SST3                
+                
+B9912|0020|9TH PZD12 G-SST3                
+                
+B9913|0020|9TH PZD13 G-SST3                
+                
+B9914|0020|9TH PZD14 G-SST3                
+                
+B9915|0020|9TH PZD15 G-SST3                
+                
+B9999|0020|trace triggered                 
+                

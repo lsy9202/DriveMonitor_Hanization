@@ -1,0 +1,4230 @@
+0001
+Drive Status                    
+MLFB Input                      
+Drive Init                      
+H/W Init                        
+System Init                     
+H/W Setting                     
+System Set.                     
+Test                            
+Fault                           
+ON locked                       
+Rdy ON                          
+Precharging                     
+Rdy Operat.                     
+Grd Flt TST                     
+Fly Restart                     
+Operation                       
+OFF 1                           
+OFF 3                           
+DC Brake                        
+Mot ID                          
+n Reg Opt.                      
+Synchronize                     
+Download                        
+0003
+Output Volts                    
+0004
+Output Amps                     
+0005
+Output Power                    
+0006
+DC Bus Volts                    
+0007
+Motor Torque                    
+0008
+Motor Utilizat.                 
+0009
+Motor Temperat.                 
+0010
+Drive Utilizat.                 
+0011
+Drive Temperat.                 
+0012
+Base / Reserve                  
+Base                            
+Reserve                         
+0013
+Operat. Hours                   
+Days                            
+Hour                            
+Sec                             
+0050
+Language                        
+Deutsch                         
+English                         
+Espanol                         
+Francais                        
+Italiano                        
+0051
+Access Level                    
+                                
+Operation                       
+Standard                        
+Expert                          
+0052
+Function Select                 
+Return                          
+Par. Reset                      
+Set MLFB                        
+Download                        
+H/W Setting                     
+System Set.                     
+Auto Param.                     
+Mot ID Stop                     
+Mot ID All                      
+No Load Msr                     
+Reg. Optim.                     
+Auto Test                       
+Tach Test                       
+0053
+Parameter Access                
+None                            
+CB                              
+PMU                             
+CB+PMU                          
+SCo1                            
+SC+SCo1                         
+PMU+SCo1                        
+CB+PMU+SCo1                     
+SCB                             
+CB+SCB                          
+PMU+SCB                         
+CB+PMU+SCB                      
+SCo1+SCB                        
+CB+SCo1+SCB                     
+2+4+8                           
+1+2+4+8                         
+TB                              
+CB+TB                           
+PMU+TB                          
+CB+PMU+TB                       
+SCo1+TB                         
+CB+SCo1+TB                      
+PMU+SCo1+TB                     
+1+2+4+16                        
+SCB+TB                          
+CB+SCB+TB                       
+PMU+SCB+TB                      
+1+2+8+16                        
+SCo1+SCB+TB                     
+1+4+8+16                        
+2+4+8+16                        
+1+2+4+8+16                      
+SCo2                            
+CB+SCo2                         
+PMU+SCo2                        
+CB+PMU+SCo2                     
+SCo1+SCo2                       
+1+4+32                          
+2+4+32                          
+1+2+4+32                        
+SCB+SCo2                        
+CB+SCB+SCo2                     
+2+8+32                          
+1+2+8+32                        
+4+8+32                          
+1+4+8+32                        
+2+4+8+32                        
+1+2+4+8+32                      
+TB+SCo2                         
+CB+TB+SCo2                      
+PMU+TB+SCo2                     
+1+2+16+32                       
+4+16+32                         
+1+4+16+32                       
+2+4+16+32                       
+1+2+4+16+32                     
+SCB+TB+SCo2                     
+1+8+16+32                       
+2+8+16+32                       
+1+2+8+16+32                     
+4+8+16+32                       
+1+4+8+16+32                     
+2+4+8+16+32                     
+all                             
+0054
+OP Backlight                    
+always ON                       
+dur.operat.                     
+0070
+MLFB (6SE70..)                  
+none                            
+14-5F.2.                        
+14-5U.2.                        
+16-1E.2.                        
+16-1T.2.                        
+16-2F.2.                        
+16-2U.2.                        
+17-8F.2.                        
+17-8U.2.                        
+18-0E.2.                        
+18-0T.2.                        
+21-0E.2.                        
+21-0T.2.                        
+not used                        
+21-1C.2.                        
+21-1R.2.                        
+21-1F.2.                        
+21-1U.2.                        
+21-3E.2.                        
+21-3T.2.                        
+not used                        
+21-3C.2.                        
+21-3R.2.                        
+21-5F.2.                        
+21-5U.2.                        
+21-8E.2.                        
+21-8T.2.                        
+21-8C.2.                        
+21-8R.2.                        
+not used                        
+22-2F.2.                        
+22-2U.2.                        
+22-3C.2.                        
+22-3R.2.                        
+not used                        
+22-6E.2.                        
+22-6T.2.                        
+23-0F.2.                        
+23-0U.2.                        
+23-2C.2.                        
+23-2R.2.                        
+not used                        
+23-4E.2.                        
+23-4T.2.                        
+23-4F.2.                        
+23-4U.2.                        
+23-8E.2.                        
+23-8T.2.                        
+24-4C.2.                        
+24-4R.2.                        
+24-7F.2.                        
+24-7U.2.                        
+24-7E.2.                        
+24-7T.2.                        
+25-4C.2.                        
+25-4R.2.                        
+26-0E.2.                        
+26-0T.2.                        
+26-0H.2.                        
+26-0W.2.                        
+26-1F.2.                        
+26-1U.2.                        
+26-6F.2.                        
+26-6U.2.                        
+27-0C.2.                        
+27-0R.2.                        
+27-2E.2.                        
+27-2T.2.                        
+28-0F.2.                        
+28-0U.2.                        
+28-1C.2.                        
+28-1R.2.                        
+28-2H.2.                        
+28-2W.2.                        
+31-0E.2.                        
+31-0T.2.                        
+31-0H.2.                        
+31-0W.2.                        
+31-1F.2.                        
+31-1U.2.                        
+31-2H.2.                        
+31-2W.2.                        
+31-2E.2.                        
+31-2T.2.                        
+31-3F.2.                        
+31-3U.2.                        
+not used                        
+not used                        
+31-5H.2.                        
+31-5W.2.                        
+31-5E.2.                        
+31-5T.2.                        
+not used                        
+not used                        
+31-6F.2.                        
+31-6U.2.                        
+31-7H.2.                        
+31-7W.2.                        
+31-8E.2.                        
+31-8T.2.                        
+32-0F.2.                        
+32-0U.2.                        
+32-1E.2.                        
+32-1T.2.                        
+32-3F.2.                        
+32-3U.2.                        
+32-1H.2.                        
+32-1W.2.                        
+32-6E.2.                        
+32-6T.2.                        
+33-0U.2.                        
+33-0W.2.                        
+33-2E.2.                        
+33-2T.2.                        
+33-5U.2.                        
+33-5W.2.                        
+33-7E.2.                        
+33-7T.2.                        
+34-5U.2.                        
+34-5W.2.                        
+35-1T.2.                        
+35-7U.2.                        
+35-7W.2.                        
+36-0T.2.                        
+36-5U.2.                        
+36-5W.2.                        
+37-0T.2.                        
+38-6T.2.                        
+38-6U.2.                        
+38-6W.2.                        
+41-0U.2.                        
+41-0W.2.                        
+41-1U.2.                        
+41-1W.2.                        
+41-1T.2.                        
+41-1T.2.                        
+33-0F.2.                        
+33-0H.2.                        
+41-2U.2.                        
+41-2W.2.                        
+41-3T.2.                        
+33-5F.2.                        
+33-5H.2.                        
+34-5F.2.                        
+41-4U.2.                        
+41-4W.2.                        
+34-5H.2.                        
+35-1E.2.                        
+41-6U.2.                        
+41-6W.2.                        
+41-6T.2.                        
+36-0E.2.                        
+34-5W.2.                        
+not used                        
+not used                        
+41-8U.2.                        
+41-8W.2.                        
+42-4U.2.                        
+42-4W.2.                        
+42-5U.2.                        
+42-5W.2.                        
+43-3U.2.                        
+43-3W.2.                        
+43-1U.2.                        
+43-1W.2.                        
+44-1U.2.                        
+44-1W.2.                        
+43-7U.2.                        
+43-7W.2.                        
+44-8U.2.                        
+44-8W.2.                        
+44-3U.2.                        
+44-3W.2.                        
+45-7U.2.                        
+45-7W.2.                        
+45-0U.2.                        
+not used                        
+46-5U.2.                        
+46-5W.2.                        
+36-5U.2.                        
+36-5W.2.                        
+38-6T.2.                        
+38-6U.2.                        
+38-6W.2.                        
+38-6W.2.                        
+41-1T.2.                        
+not used                        
+not used                        
+not used                        
+not used                        
+33-0U.2.                        
+33-0W.2.                        
+33-5U.2.                        
+33-5W.2.                        
+34-5U.2.                        
+34-5W.2.                        
+35-1T.2.                        
+36-0T.2.                        
+not used                        
+not used                        
+33-0U.2.                        
+33-0W.2.                        
+33-5U.2.                        
+33-5W.2.                        
+34-5U.2.                        
+34-5W.2.                        
+35-1T.2.                        
+35-7U.2.                        
+35-7W.2.                        
+36-0T.2.                        
+36-5U.2.                        
+36-5W.2.                        
+37-0T.2.                        
+38-6T.2.                        
+38-6U.2.                        
+38-6W.2.                        
+41-0U.2.                        
+41-0W.2.                        
+41-1U.2.                        
+41-1W.2.                        
+41-1T.2.                        
+41-1T.2.                        
+33-0F.2.                        
+33-0H.2.                        
+41-2U.2.                        
+41-2W.2.                        
+41-3T.2.                        
+33-5F.2.                        
+33-5H.2.                        
+34-5F.2.                        
+41-4U.2.                        
+41-4W.2.                        
+34-5H.2.                        
+35-1E.2.                        
+41-6U.2.                        
+41-6W.2.                        
+41-6T.2.                        
+36-0E.2.                        
+34-5W.2.                        
+not used                        
+not used                        
+not used                        
+not used                        
+not used                        
+not used                        
+36-5U.2.                        
+36-5W.2.                        
+38-6T.2.                        
+38-6U.2.                        
+38-6W.2.                        
+41-1T.2.                        
+not used                        
+not used                        
+not used                        
+0071
+Line Volts                      
+0072
+Rtd Drive Amps                  
+0073
+Rtd Drive Power                 
+0077
+FactSettingType                 
+Norm Operat                     
+OP1                             
+CabDrv +OP1                     
+CabDrv+Term                     
+CabDrv+SCI1                     
+0089
+Board Position 1                
+none                            
+FC                              
+VC                              
+SC                              
+none                            
+none                            
+AFE                             
+0090
+Board Position 2                
+none                            
+CB                              
+TB                              
+SCB                             
+TSY                             
+0091
+Board Position 3                
+none                            
+CB                              
+TB                              
+SCB                             
+TSY                             
+0092
+Output Filter                   
+none                            
+sine wave                       
+dV/dt                           
+0100
+Type of Motor                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+IEC                             
+NEMA                            
+synchron                        
+synchr.perm                     
+0101
+Motor Rtd Volts                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0102
+Motor Rtd Amps                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0103
+Mot No Load Amps                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0104
+MotPwrFactor                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0105
+Motor Rtd Power                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0106
+Motor Rtd Effic.                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0107
+Motor Rtd Freq                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0108
+Motor Rtd Speed                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0109
+Motor #PolePairs                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0110
+kT(n)                           
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0120
+X(magnet,d) tot                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0121
+X(magnet,q) tot.                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0122
+X(sigma,d) damp                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0123
+X(sigma,q) damp                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0124
+R(damping,d)                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0125
+R(damping,q)                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0126
+Psi(sat.char.,1)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0127
+Iexc(sat.char,1)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0128
+Psi(sat.char.,2)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0129
+Iexc(sat.char,2)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0130
+Psi(sat.char.,3)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0131
+Iexc(sat.char,3)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0133
+Iexc(0)/Iexc(n)                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0137
+n (n/f-Reg.) KL1                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0138
+n (n/f-Reg.) KL2                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0139
+Kp(n/f-Reg.) KL2                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0140
+Flux Reg. Gain                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0141
+Flux Reg Time                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0142
+dIexc(sd)                       
+0143
+Src. i(excit.)                  
+Base                            
+Resv                            
+0144
+i(excit.) Kp                    
+Base                            
+Resv                            
+0145
+Iexc(act)                       
+0146
+i(exc.)-Reg. Kp                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0147
+i(exc.,min.)                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0148
+Smooth. dI(exc)                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0149
+Iexc(set)                       
+0150
+Control Status                  
+NoRmpGenSet                     
+RmpGenSet                       
+NoFieldWeak                     
+FieldWeak.                      
+Vdmin NotAc                     
+Vdmin Activ                     
+Vdmax NotAc                     
+Vdmax Activ                     
+FreqNotLtd                      
+FreqLimited                     
+RmpGenStop                      
+NoRmpGenStp                     
+RmpDwnStop                      
+NoRmpDwnStp                     
+NoN-RegLim+                     
+N-RegLim+                       
+NoN-RegLim-                     
+N-RegLim-                       
+NoStartRamp                     
+StartRamp                       
+ImaxRegInac                     
+ImaxRegAct                      
+Initializin                     
+Initlzd                         
+NoN-RegSet                      
+Set N-Reg                       
+NoFldWkIsqL                     
+FldWkIsqLim                     
+EMFRegNotLi                     
+EMFRegLimtd                     
+MotNotStall                     
+MotStalled                      
+0152
+act. MotDataSet                 
+MotDataSet1                     
+MotDataSet2                     
+MotDataSet3                     
+MotDataSet4                     
+0155
+Filter f(reso.)                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0156
+Filter bandwidth                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0157
+Filter Kp                       
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0158
+Src init angle                  
+Base                            
+Resv                            
+0159
+Rotor angle                     
+0160
+Pos. angle                      
+0161
+Slip fail corr'n                
+0162
+Flux angle diff.                
+0163
+Control Mode                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+V/Hz + nReg                     
+V/Hz                            
+V/Hz Textil                     
+f Regulat.                      
+n Regulat.                      
+T Regulat.                      
+0165
+V/Hz Mode                       
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+linear                          
+parabolic                       
+0166
+Boost Mode                      
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+Curr. Boost                     
+Volt. Boost                     
+0167
+Boost Amps                      
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0168
+Boost Volts                     
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0169
+Boost End Freq                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0170
+Field Weak Freq                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0171
+Accel Amps                      
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0172
+IxR Compens Gain                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0173
+Imax                            
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0174
+Imax(set)                       
+0175
+Imax Reg. Gain                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0176
+Imax Reg. Time                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0177
+f(Imax-Reg.)                    
+0178
+V(Imax-Reg.)                    
+0179
+Output Amps(rms)                
+0180
+Mod Depth Limit                 
+0181
+Max Output Volts                
+0182
+FieldWeakFrq-act                
+0183
+Flux(Set)                       
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0184
+Flux(Curve)                     
+0185
+MinLoadAdaptFlux                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0186
+Smooth Psi(act)                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0187
+Flux(act)                       
+0188
+Flux(LoadDepend)                
+0189
+Excitation Time)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0190
+Smooth Accel                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+off                             
+on                              
+0191
+Smooth Flux(Set)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0192
+Flux(Set,smooth)                
+0193
+FieldWeakRegTime                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0194
+Flux(FieldWkReg)                
+0195
+Flux(Set,Total)                 
+0196
+No Load Amps                    
+0197
+Main Reactance                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0198
+RotResistTmpFact                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0199
+RotResist                       
+0200
+Rotor Time Const                
+-d                              
+-q                              
+0201
+Isd(static)                     
+0202
+Torque (static)                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0203
+Torque (dynamic)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0204
+Smooth I(Set)                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0205
+I(Set,smoothed)                 
+0206
+Isd(set)                        
+0207
+Src n/f(act)                    
+Base                            
+Resv                            
+0208
+Src RotSpeed act                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+none                            
+Encoder                         
+Enc+CtTrack                     
+AnalogTach1                     
+AnalogTach2                     
+Enc+ZeroTr.                     
+Enc+Zero+Ct                     
+0209
+Encoder Pulse #                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0210
+AnalogTachScale                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0214
+Meas'd Rot.Speed                
+0215
+max. dn/dt                      
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0216
+Smooth n/f(FWD)                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0217
+Slip fail corr'n                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+none                            
+slow                            
+normal                          
+0218
+n/f(act)                        
+0219
+n(act)                          
+0220
+n/f(FWD Ctrl)                   
+0221
+Smooth n/f(act)                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0222
+n/f(act,smo'd)                  
+0223
+n/f(set,Reg-IN)                 
+0224
+n/f Deviation                   
+0225
+n/f Reg. Gain                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0226
+Src n/f RegAdapt                
+Base                            
+Resv                            
+0227
+n/f RegAdaptGain                
+Base                            
+Resv                            
+0228
+n/f RegGain(act)                
+0229
+n/f Reg Time                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0230
+Max Gen Power                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0231
+Kp Isq(max)                     
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0232
+Isq(set) grad.                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0233
+Max Regen Power                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0234
+Isqmax                          
+0235
+Pos Max Torque                  
+0236
+Neg Max Torque                  
+0237
+I-Output f Reg                  
+0238
+T(set,reg. off)                 
+0239
+EMF(max)                        
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0240
+EMF(max.)-Reg Ti                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0241
+smooth n/f(set)                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0242
+Start-up Time                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0243
+n/f RegFWD Gain                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0244
+Torque(set,add)                 
+0245
+Torque(set,tot)                 
+0246
+Isq(set)                        
+0247
+Droop                           
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+Int. Output                     
+total Outp.                     
+Reg. Output                     
+IntOut+AddT                     
+RegOut+AddT                     
+0248
+Droopgain                       
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0249
+n/f(Droop)                      
+0250
+n damping Kd                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0251
+Smooth n damp.                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0252
+dIs,q(damping)                  
+0253
+Current Reg Gain                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0254
+Current Reg Time                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0255
+Isd(set,smo'd)                  
+0256
+Isd(act)                        
+0257
+Vmax(Isd-Reg.)                  
+0258
+Vsd(Isd-Reg.)                   
+0259
+Vsd(Isd-Reg.,i)                 
+0261
+Smooth Isq                      
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0262
+Smooth Isq(set)                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0263
+Isq(set,smo'd)                  
+0264
+Isq(act)                        
+0265
+Vsq(Isq-Reg.)                   
+0266
+Vsq(Isq-Reg.,i)                 
+0268
+Phase 1 Amps                    
+0269
+Phase 3 Amps                    
+0270
+Resist Cable                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0271
+Resist Stator ++                
+0272
+ResistStator+Cab                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0273
+X(sigma)                        
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0274
+T(sigma)                        
+-d                              
+-q                              
+0275
+Decoupl. Gain1                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0276
+Decoupl. Gain 2                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0277
+Vsd(Discoupl)                   
+0278
+Kp L(sig,U mod.)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0279
+Kp X(sig,U mod.)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0280
+Alpha(set)                      
+0281
+i(min.curr.val.)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0282
+df(changeCosPhi)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0283
+Phi(inner)                      
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0284
+f(AMP->cEMF-mod)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0285
+f(cEMF->AMP-mod)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0286
+act. Motor Model                
+Curr Model                      
+Volt Model                      
+0287
+cEMF Reg Gain                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0288
+cEMFRegGain(act)                
+0289
+cEMF Reg Time                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0290
+fmax(cEMF Reg)                  
+0291
+f(cEMF Reg,p)                   
+0292
+f(cEMF Reg,i)                   
+0293
+cEMF model outp.                
+0294
+Slip Comp Gain                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0295
+Motor Rtd Slip                  
+0296
+Slip Frequency                  
+0297
+f(set,stator)                   
+0298
+F(rtd,Modulator)                
+0299
+Reson Damp Gain                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0300
+Damp Gain                       
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0301
+f(Reson Damp)                   
+0302
+SmoothDCBusVolts                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0303
+DC BusVolts(act)                
+0304
+DCBusVolt(smo'd)                
+0305
+Psi(set,I-mod.)                 
+0306
+Psi(act,I-mod.)                 
+0307
+Line Volts (AC)                 
+0308
+Sampling Time                   
+0309
+Kp Tdd                          
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0310
+RotResistTmpAdap                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+not active                      
+no KTY                          
+ KTY                            
+0311
+Motor Series                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+NoSiemMotor                     
+1LA5...                         
+1LA6...                         
+1LA8...                         
+1LA1...                         
+1PH6...                         
+1PA6...                         
+0312
+Motor  Weight                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0313
+Internal Fan                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+OFF                             
+ON                              
+0314
+Overtemp. Factor                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0315
+Iron Losses                     
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0316
+Model Temp.                     
+T(r)                            
+T(s)                            
+T(f)                            
+T(e)                            
+0317
+K(overtemp.,rot)                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0318
+Kp Tdq                          
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0319
+Psi(mod)-reg. Kp                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0320
+Psi(mod)-reg. Tn                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0321
+Iæd(I mod. reg.)                
+0322
+Iæd(I mod reg,i)                
+0323
+Iæd(set,I-mod.)                 
+0324
+Iæq(set,I-mod.)                 
+0325
+Load angle                      
+0326
+Psi-reg. Kp                     
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0327
+V(max) reg. Kp                  
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0328
+EMF(max) reg. Kp                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0329
+dIsd(set,P reg)                 
+0333
+Mot ID Status                   
+0334
+Mot ID R(Stator)                
+Me U                            
+Me V                            
+Me W                            
+0335
+Mot ID R(Rotor)                 
+Me U                            
+Me V                            
+Me W                            
+0337
+Mot ID VoltsDrop                
+Me U                            
+Me V                            
+Me W                            
+0338
+Mot ID Quadvolts                
+Me U                            
+Me V                            
+Me W                            
+0339
+Mot ID Dead Time                
+Me U                            
+Me V                            
+Me W                            
+0340
+MotId x(leakage)                
+0341
+Time Const Match                
+0344
+TestPulsesResult                
+Tp01                            
+Tp02                            
+Tp03                            
+Tp04                            
+Tp05                            
+Tp06                            
+Tp07                            
+Tp08                            
+Tp09                            
+Tp10                            
+Tp11                            
+Tp12                            
+Tp13                            
+Tp14                            
+Tp15                            
+Tp16                            
+Tp17                            
+Tp18                            
+no VCE_W                        
+VCE_W                           
+no VCE_V                        
+VCE_V                           
+no VCE_U                        
+VCE_U                           
+no overcurr                     
+overcurrent                     
+no VCE_W_I2                     
+VCE_W_Inv2                      
+no VCE_V_I2                     
+VCE_V_Inv2                      
+no VCE_U_I2                     
+VCE_U_Inv2                      
+Res. false                      
+Res.correct                     
+Iw not neg.                     
+Iw negative                     
+Iw not pos.                     
+Iw positive                     
+Iu not neg.                     
+Iu negative                     
+Iu not pos.                     
+Iu positive                     
+W- on                           
+W+ on                           
+V- on                           
+V+ on                           
+U- on                           
+U+ on                           
+                                
+                                
+0345
+TachTest Result                 
+No Result                       
+O.K.                            
+Gain corr.                      
+Gain limit.                     
+Signal miss                     
+Polarity                        
+Track miss                      
+Gain wrong                      
+Pulse #                         
+0346
+n/f RegDyn(set)                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0347
+n/f RegDyn(act)                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0348
+n/f Reg Osc Freq                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0354
+Ground Flt Test                 
+not active                      
+next ON                         
+every  ON                       
+never   MId                     
+0358
+GrdFltTestResult                
+no VCE_W                        
+VCE_W                           
+no VCE_V                        
+VCE_V                           
+no VCE_U                        
+VCE_U                           
+no overcurr                     
+overcurrent                     
+no VCE_W_I2                     
+VCE_W_Inv2                      
+no VCE_V_I2                     
+VCE_V_Inv2                      
+no VCE_U_I2                     
+VCE_U_Inv2                      
+                                
+                                
+Iw not neg.                     
+Iw negative                     
+Iw not pos.                     
+Iw positive                     
+Iu not neg.                     
+Iu negative                     
+Iu not pos.                     
+Iu positive                     
+Bit0 switch                     
+Bit0 switch                     
+Bit1 switch                     
+Bit1 switch                     
+Bit2 switch                     
+Bit2 switch                     
+Bit3 switch                     
+Bit3 switch                     
+0359
+ambient temp.                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0360
+Mot Tmp Warning                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0361
+Mot Tmp Fault                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0362
+Motor Cooling                   
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+self cooled                     
+forced vent                     
+0363
+Mot ThermT-Const                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0364
+Mot Load Limits                 
+WARN                            
+FLT                             
+0365
+Src motor temp.                 
+Base                            
+Resv                            
+0366
+Auto Restart                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+none                            
+Flt Reset                       
+Auto Start                      
+Fly Auto St                     
+0367
+AutoRestart Wait                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0368
+                                
+0369
+Fly Search Amps                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0370
+Fly Search Speed                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0371
+De-magnetizeTime                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0372
+DC Braking                      
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+off                             
+on                              
+0373
+DC Braking Amps                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0374
+DC Braking Time                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0375
+DC Braking Freq                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0376
+                                
+0377
+DC Bus Volts Reg                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+off                             
+on                              
+0378
+DC Bus Volts Dyn                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0379
+PRT/FLR                         
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+OFF                             
+PwrRideThru                     
+FLR V/Hz=c.                     
+FLR f=const                     
+0380
+PRT/FLR LowVolts                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0381
+PRT/FLR Reg Dyn                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0382
+PRT/VdmaxRegGain                
+0383
+PRT/Vdmax Reg TI                
+0384
+PRT/Vdmax Reg TD                
+0385
+f(PRT/FLR/Vdmax)                
+0386
+I(PRT/VdmaxReg)                 
+0387
+FLR Vd min                      
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0388
+Sync Status                     
+not active                      
+f Evaluat.                      
+Phi Regulat                     
+synchron'd                      
+sync.-fail.                     
+0389
+SyncStartDelta f                
+0390
+Sync Angle(set)                 
+0391
+Sync Window                     
+0392
+Sync f-max                      
+0393
+Sync Target Freq                
+0394
+Sync Phase Diff                 
+0395
+Selectivity                     
+off                             
+on                              
+0399
+ContactorMsgTime                
+0410
+act. SetpDataSet                
+  SDS 1                         
+  SDS 2                         
+  SDS 3                         
+  SDS 4                         
+0420
+System Rtd Freq                 
+0421
+Fixed Freq1(set)                
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0422
+Fixed Freq2(set)                
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0423
+Fixed Freq3(set)                
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0424
+Fixed Freq4(set)                
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0425
+MOP saving                      
+OFF                             
+ON                              
+OFF                             
+ON                              
+0426
+MOP start frequ                 
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0427
+MOP set                         
+OFF                             
+ON                              
+0433
+Src AddSetpoint1                
+Base                            
+Resv                            
+0434
+GainAddSetpoint1                
+Base                            
+Resv                            
+0437
+Add Setpoint 1                  
+0438
+Src AddSetpoint2                
+Base                            
+Resv                            
+0439
+GainAddSetpoint2                
+Base                            
+Resv                            
+0442
+Add Setpoint 2                  
+0443
+Src MainSetpoint                
+Base                            
+Resv                            
+0444
+GainMainSetpoint                
+Base                            
+Resv                            
+0445
+Base Setpoint                   
+Base                            
+Resv                            
+0447
+Main Setp.(act)                 
+0448
+Jog Frequency 1                 
+0449
+Jog Frequency 2                 
+0451
+n/f(set,total1)                 
+0452
+Max Freq FWD                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0453
+Max Freq REV                    
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0455
+Skip Frequency                  
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0456
+Skip Freq Width                 
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0457
+Min Frequency                   
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0460
+n/f(set,Ramp IN)                
+0461
+Ramp Gen Status                 
+Locked                          
+Released                        
+STOP                            
+Set                             
+Following                       
+0462
+Accel. Time                     
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0463
+Accel. Time Unit                
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+Sec                             
+Min                             
+Hours                           
+0464
+Decel. Time                     
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0465
+Decel. Time Unit                
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+Sec                             
+Min                             
+Hours                           
+0466
+Decel. Time OFF3                
+0467
+ProtRampGen Gain                
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0469
+Ramp StartSmooth                
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0470
+Ramp End Smooth                 
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0475
+Ramp Limitation                 
+0476
+RampGen Act Hyst                
+0480
+n/f(set,rampOUT)                
+0481
+n/f(set,total2)                 
+0482
+n/f(set)                        
+0485
+System RtdTorque                
+0486
+Src Torque Setp                 
+Base                            
+Resv                            
+0487
+Torque Setp Gain                
+Base                            
+Resv                            
+0490
+Torque Setpoint                 
+0492
+FixTorque 1 Set                 
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0493
+Src FixTorque 1                 
+Base                            
+Resv                            
+0494
+FixTorque 1 Gain                
+Base                            
+Resv                            
+0496
+Fix Torque 1                    
+0497
+Max Torque 1                    
+0498
+FixTorq 2 Set                   
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0499
+Src FixTorq 2                   
+Base                            
+Resv                            
+0500
+FixTorq 2 Gain                  
+Base                            
+Resv                            
+0502
+Fix Torque 2                    
+0503
+Max Torque 2                    
+0505
+Torq/I Fix Set                  
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0506
+Src T/I FixAddSP                
+Base                            
+Resv                            
+0507
+T/IFixAddSetGain                
+Base                            
+Resv                            
+0508
+Select T suppl.                 
+Base                            
+Resv                            
+No                              
+Yes                             
+0510
+Torq/I FixAddSet                
+0512
+Compare Freq                    
+0513
+Comp Freq. Hyst                 
+0514
+OFF Frequency                   
+0516
+OFF Wait Time                   
+SDS1                            
+SDS2                            
+SDS3                            
+SDS4                            
+0517
+Deviation Freq                  
+0518
+Deviation Time                  
+0519
+Overspeed Hyst                  
+0520
+PullOut/BlckTime                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0525
+Fix Setp ProcReg                
+Base                            
+Resv                            
+0526
+Src ProcReg Setp                
+Base                            
+Resv                            
+0527
+SetpGain ProcReg                
+Base                            
+Resv                            
+0528
+SmoothProcRegSet                
+0529
+Setpoint ProcReg                
+0530
+ActValïs ProcReg                
+W01                             
+W02                             
+0531
+SRC ProcReg ActV                
+Base                            
+Resv                            
+0532
+Gain ProcRegActV                
+Base                            
+Resv                            
+0533
+Smth ProcRegActV                
+0534
+ActValue ProcReg                
+0535
+R‚g. T:Hyst.                    
+0536
+DeviationProcReg                
+0537
+Gain ProcReg                    
+0538
+IntTConstProcReg                
+0539
+DifTConstProcReg                
+0540
+ProcReg Output                  
+0541
+ProcReg Up1Limit                
+0542
+ProcReg Up2Limit                
+0543
+ProcReg AccTime1                
+0544
+ProcRegAccTime2                 
+0545
+ProcReg Out(Lim)                
+0546
+AdaptGainProcReg                
+Base                            
+Resv                            
+0547
+ProcRegGain(act)                
+0550
+Control Word 1                  
+OFF1 (stop)                     
+ON                              
+OFF2                            
+no OFF2                         
+OFF3                            
+no OFF3                         
+Oper. OFF                       
+Oper. ON                        
+RampGenRese                     
+RampGenOper                     
+RampGenHold                     
+RampGenRel.                     
+RefValDisab                     
+RefValEnab                      
+noFltReset                      
+FaultReset                      
+Jog 1 OFF                       
+Jog 1 ON                        
+Jog 2 OFF                       
+Jog 2 ON                        
+BasUnitCtrl                     
+AutomatCtrl                     
+FWD blocked                     
+FWD allowed                     
+REV blocked                     
+REV allowed                     
+no MotPot                       
+MotPot UP                       
+no MotPot                       
+MotPot DOWN                     
+ExtFault 1                      
+NoExtFault1                     
+0551
+Control Word 2                  
+SDS Bit0=0                      
+SDS Bit0=1                      
+SDS Bit1=0                      
+SDS Bit1=1                      
+MDS Bit0=0                      
+MDS Bit0=1                      
+MDS Bit1=0                      
+MDS Bit1=1                      
+FSW Bit0=0                      
+FSW Bit0=1                      
+FSW Bit1=0                      
+FSW Bit1=1                      
+Sync OFF                        
+Sync ON                         
+FlyRest OFF                     
+FlyRest ON                      
+Droop OFF                       
+Droop ON                        
+SpeedRegOFF                     
+SpeedRegON                      
+ExtFault 2                      
+NoExtFault2                     
+SpeedReg                        
+TorqueReg                       
+ExtWarn 1                       
+NoExtWarn 1                     
+ExtWarn 2                       
+NoExtWarn 2                     
+BaseSetting                     
+ResvSetting                     
+MainConOpen                     
+MainConClos                     
+0552
+Status Word 1                   
+Not READY                       
+READY                           
+no ON Cmd                       
+ON Cmd                          
+PulsesBlock                     
+RUNNING                         
+No FAULT                        
+FAULT                           
+OFF2                            
+No OFF2                         
+OFF3                            
+No OFF3                         
+No Lockout                      
+Lockout                         
+No Warning                      
+Warning                         
+Ref<>ActVal                     
+Ref=ActVal                      
+BasUnitCtrl                     
+AutCtrlReq                      
+f-act<f-ref                     
+f-act=f-ref                     
+Vd > Vd-min                     
+Vd < Vd-min                     
+ContactOpen                     
+ContactClos                     
+RampGenNAct                     
+RampGenAct                      
+REVERSE                         
+FORWARD                         
+KIP notAct                      
+KIP Active                      
+0553
+Status Word 2                   
+FlyRestNAct                     
+FlyRestAct                      
+not Sync                        
+Sync.ed                         
+f/n>f/nMAX                      
+f/n<f/nMAX                      
+NoExtFault1                     
+ExtFault1                       
+NoExtFault2                     
+ExtFault2                       
+NoExtWarn                       
+ExtWarning                      
+NoDrivOvld                      
+DriveOverld                     
+NoFltOvTDrv                     
+FaultOvTDrv                     
+NoWarOvTDrv                     
+WarnOvTDrv                      
+NoWarOvTMot                     
+WarnOvTMot                      
+NoFltOvTMot                     
+FaultOvTMot                     
+T.RgIst<Sol                     
+T.RgIst>Sol                     
+MotNotStald                     
+MotorStalld                     
+PrechConOFF                     
+PrechConON                      
+NoWarnSync                      
+WarnSynchr                      
+PrechInact                      
+PrechActive                     
+0554
+Src ON/OFF1                     
+Base                            
+Resv                            
+0555
+Src1 OFF2(coast)                
+Base                            
+Resv                            
+0556
+Src2 OFF2(coast)                
+Base                            
+Resv                            
+0557
+Src3 OFF2(coast)                
+Base                            
+Resv                            
+0558
+Src1 OFF3(QStop)                
+Base                            
+Resv                            
+0559
+Src2 OFF3(QStop)                
+Base                            
+Resv                            
+0560
+Src3 OFF3(QStop)                
+Base                            
+Resv                            
+0561
+Src InvRelease                  
+Base                            
+Resv                            
+0562
+Src RampGen Rel                 
+Base                            
+Resv                            
+0563
+Src RampGen Stop                
+Base                            
+Resv                            
+0564
+Src Setp Release                
+Base                            
+Resv                            
+0565
+Src1 Fault Reset                
+Base                            
+Resv                            
+0566
+Src2 Fault Reset                
+Base                            
+Resv                            
+0567
+Src3 Fault Reset                
+Base                            
+Resv                            
+0568
+Src Jog1 ON                     
+Base                            
+Resv                            
+0569
+Src Jog2 ON                     
+Base                            
+Resv                            
+0571
+Src FWD speed                   
+Base                            
+Resv                            
+0572
+Src REV speed                   
+Base                            
+Resv                            
+0573
+Src MOP UP                      
+Base                            
+Resv                            
+0574
+Src MOP DOWN                    
+Base                            
+Resv                            
+0575
+Src No ExtFault1                
+Base                            
+Resv                            
+0576
+Src SetpDSetBit0                
+Base                            
+Resv                            
+0577
+Src SetpDSetBit1                
+Base                            
+Resv                            
+0578
+Src MotDSet Bit0                
+Base                            
+Resv                            
+0579
+Src MotDSet Bit1                
+Base                            
+Resv                            
+0580
+Src FixSetp Bit0                
+Base                            
+Resv                            
+0581
+Src FixSetp Bit1                
+Base                            
+Resv                            
+0582
+Src Sync Release                
+Base                            
+Resv                            
+0583
+Src Fly Release                 
+Base                            
+Resv                            
+0584
+Src Drp/ProcRRel                
+Base                            
+Resv                            
+0585
+Src Reg Release                 
+Base                            
+Resv                            
+0586
+Src No ExtFault2                
+Base                            
+Resv                            
+0587
+Src Master/Slave                
+Base                            
+Resv                            
+0588
+Src No Ext Warn1                
+Base                            
+Resv                            
+0589
+Src No Ext Warn2                
+Base                            
+Resv                            
+0590
+Src Base/Reserve                
+0591
+Src ContactorMsg                
+0600
+Dst Ready for ON                
+BD                              
+SCI                             
+TSY                             
+0601
+Dst Rdy for Oper                
+BD                              
+SCI                             
+TSY                             
+0602
+Dst Operation                   
+BD                              
+SCI                             
+TSY                             
+0603
+Dst Fault                       
+BD                              
+SCI                             
+TSY                             
+0604
+Dst NO OFF2                     
+BD                              
+SCI                             
+TSY                             
+0605
+Dst NO OFF3                     
+BD                              
+SCI                             
+TSY                             
+0606
+Dst ON blocked                  
+BD                              
+SCI                             
+TSY                             
+0607
+Dst Warning                     
+BD                              
+SCI                             
+TSY                             
+0608
+Dst Deviation                   
+BD                              
+SCI                             
+TSY                             
+0610
+Dst CompareFreq                 
+BD                              
+SCI                             
+TSY                             
+0611
+Dst Low Voltage                 
+BD                              
+SCI                             
+TSY                             
+0612
+Dst Contactor                   
+BD                              
+SCI                             
+TSY                             
+0613
+Dst RampGen act                 
+BD                              
+SCI                             
+TSY                             
+0614
+Dst FWD speed                   
+BD                              
+SCI                             
+TSY                             
+0615
+PRT/FLR active                  
+BD                              
+SCI                             
+TSY                             
+0616
+Dst Fly Restart                 
+BD                              
+SCI                             
+TSY                             
+0617
+Dst Sync OK                     
+BD                              
+SCI                             
+TSY                             
+0618
+Dst No Overspeed                
+BD                              
+SCI                             
+TSY                             
+0619
+Dst Ext Fault 1                 
+BD                              
+SCI                             
+TSY                             
+0620
+Dst Ext Fault 2                 
+BD                              
+SCI                             
+TSY                             
+0621
+Dst Ext Warning                 
+BD                              
+SCI                             
+TSY                             
+0622
+Dst i2t Drive                   
+BD                              
+SCI                             
+TSY                             
+0623
+Dst TmpFlt Drive                
+BD                              
+SCI                             
+TSY                             
+0624
+Dst TmpWarnDrive                
+BD                              
+SCI                             
+TSY                             
+0625
+Dst TmpWarnMotor                
+BD                              
+SCI                             
+TSY                             
+0626
+Dst TmpFlt Motor                
+BD                              
+SCI                             
+TSY                             
+0627
+Dst ProcReg A=S                 
+BD                              
+SCI                             
+TSY                             
+0628
+Dst PullOut/Blck                
+BD                              
+SCI                             
+TSY                             
+0629
+Dst ChrgRelay ON                
+BD                              
+SCI                             
+TSY                             
+0630
+Dst Sync Fault                  
+BD                              
+SCI                             
+TSY                             
+0631
+Dst Pre-Charging                
+BD                              
+SCI                             
+TSY                             
+0650
+CU AnalogInConf                 
+CU-1                            
+CU-2                            
+-10V...+10V                     
+  0V...+10V                     
+ 4mA   20mA                     
+0651
+CU AnaInSmooth                  
+CU-1                            
+CU-2                            
+0652
+CU AnalogIn Offs                
+CU-1                            
+CU-2                            
+0655
+CU AnaOut ActVal                
+CU-1                            
+CU-2                            
+0656
+CU AnalogOutGain                
+CU-1                            
+CU-2                            
+0657
+CU AnalogOutOffs                
+CU-1                            
+CU-2                            
+0660
+SCI AnalogInConf                
+Sl11                            
+Sl12                            
+Sl13                            
+Sl21                            
+Sl22                            
+Sl23                            
+-10V...+10V                     
+  0V...+10V                     
+ 4mA   20mA                     
+0661
+SCI AnaInSmooth                 
+Sl11                            
+Sl12                            
+Sl13                            
+Sl21                            
+Sl22                            
+Sl23                            
+0662
+SCI AnalogInOffs                
+Sl11                            
+Sl12                            
+Sl13                            
+Sl21                            
+Sl22                            
+Sl23                            
+0664
+SCI AnaOutActVal                
+Sl11                            
+Sl12                            
+Sl13                            
+Sl21                            
+Sl22                            
+Sl23                            
+0665
+SCI AnaOut Gain                 
+Sl11                            
+Sl12                            
+Sl13                            
+Sl21                            
+Sl22                            
+Sl23                            
+0666
+SCI AnaOut Offs                 
+Sl11                            
+Sl12                            
+Sl13                            
+Sl21                            
+Sl22                            
+Sl23                            
+0680
+SCom1 Act Value                 
+W01                             
+W02                             
+W03                             
+W04                             
+W05                             
+W06                             
+W07                             
+W08                             
+W09                             
+W10                             
+W11                             
+W12                             
+W13                             
+W14                             
+W15                             
+W16                             
+0681
+SCom2 Act Value                 
+W01                             
+W02                             
+W03                             
+W04                             
+W05                             
+W06                             
+W07                             
+W08                             
+W09                             
+W10                             
+W11                             
+W12                             
+W13                             
+W14                             
+W15                             
+W16                             
+0682
+SCB Protocol                    
+SCI Module                      
+4 wire USS                      
+2 wire USS                      
+Peer 2 Peer                     
+   Option 1                     
+   option 2                     
+0683
+SCom/SCB BusAddr                
+SCo1                            
+SCB                             
+SCo2                            
+0684
+SCom/SCB Baud                   
+SCo1                            
+SCB                             
+SCo2                            
+none                            
+300    Baud                     
+600    Baud                     
+1200   Baud                     
+2400   Baud                     
+4800   Baud                     
+9600   Baud                     
+19200  Baud                     
+38400  Baud                     
+57600  Baud                     
+76800  Baud                     
+93750  Baud                     
+115200 Baud                     
+187500 Baud                     
+0685
+SCom/SCB PCV                    
+SCo1                            
+SCB                             
+SCo2                            
+0686
+SCom/SCB # PrDat                
+SCo1                            
+SCB                             
+SCo2                            
+0687
+SCom/SCB TlgOFF                 
+SCo1                            
+SCB                             
+SCo2                            
+0689
+SCB Peer2PeerExt                
+W01                             
+W02                             
+W03                             
+W04                             
+W05                             
+CU only                         
+Transfer                        
+0690
+SCB Act Values                  
+W01                             
+W02                             
+W03                             
+W04                             
+W05                             
+W06                             
+W07                             
+W08                             
+W09                             
+W10                             
+W11                             
+W12                             
+W13                             
+W14                             
+W15                             
+W16                             
+0692
+main cont.                      
+Fault                           
+OFF3(QStop)                     
+0694
+CB/TB Act Values                
+W01                             
+W02                             
+W03                             
+W04                             
+W05                             
+W06                             
+W07                             
+W08                             
+W09                             
+W10                             
+W11                             
+W12                             
+W13                             
+W14                             
+W15                             
+W16                             
+0695
+CB/TB TlgOFFTime                
+0696
+CB Parameter 1                  
+0697
+CB Parameter 2                  
+0698
+CB Parameter 3                  
+0699
+CB Parameter 4                  
+0700
+CB Parameter 5                  
+0701
+CB Parameter 6                  
+0702
+CB Parameter 7                  
+0703
+CB Parameter 8                  
+0704
+CB Parameter 9                  
+0705
+CB Parameter 10                 
+0706
+CB Parameter 11                 
+0720
+SW Version                      
+Pos1                            
+Pos2                            
+Pos3                            
+Text                            
+MWH                             
+0721
+SW Generat.Date                 
+Year                            
+Mon                             
+Day                             
+Y MW                            
+M MW                            
+D MW                            
+0722
+SW ID                           
+Pos1                            
+Pos2                            
+Pos3                            
+Text                            
+MWH                             
+0723
+PCB Code                        
+Pos1                            
+Pos2                            
+Pos3                            
+0724
+PCBCompatibility                
+Pos1                            
+Pos2                            
+Pos3                            
+0725
+CalcTimeHeadroom                
+0727
+Setpoint Table                  
+PMU                             
+CUTe                            
+Ana1                            
+Ana2                            
+S101                            
+S102                            
+S103                            
+S104                            
+S105                            
+S106                            
+S107                            
+S108                            
+S109                            
+S110                            
+S111                            
+S112                            
+S113                            
+S114                            
+S115                            
+S116                            
+CT01                            
+CT02                            
+CT03                            
+CT04                            
+CT05                            
+CT06                            
+CT07                            
+CT08                            
+CT09                            
+CT10                            
+CT11                            
+CT12                            
+CT13                            
+CT14                            
+CT15                            
+CT16                            
+SI01                            
+SI02                            
+SI03                            
+SI04                            
+SI05                            
+SI06                            
+SI07                            
+SI08                            
+SC01                            
+SC02                            
+SC03                            
+SC04                            
+SC05                            
+SC06                            
+SC07                            
+SC08                            
+SC09                            
+SC10                            
+SC11                            
+SC12                            
+SC13                            
+SC14                            
+SC15                            
+SC16                            
+TSY                             
+S201                            
+S202                            
+S203                            
+S204                            
+S205                            
+S206                            
+S207                            
+S208                            
+S209                            
+S210                            
+S211                            
+S212                            
+S213                            
+S214                            
+S215                            
+S216                            
+0728
+Act Data Set SMF                
+0730
+SCB Diagnosis                   
+flTC                            
+Terr                            
+Vaus                            
+Toff                            
+PnoS                            
+StxL                            
+Etx                             
+BccC                            
+L/Te                            
+T/An                            
+res1                            
+res2                            
+Warn                            
+Sl1?                            
+Sl2?                            
+iniF                            
+SBye                            
+SBdm                            
+Sl1v                            
+Sl1y                            
+Sl1d                            
+Sl2v                            
+Sl2j                            
+Sl2d                            
+0731
+CB/TB Diagnosis                 
+EFlg                            
+Tg/s                            
+fT/s                            
+flTC                            
+fyTC                            
+AD9a                            
+AD9c                            
+ADae                            
+ADa0                            
+ADa2                            
+ADa4                            
+ADa6                            
+ADa8                            
+ADaa                            
+ADac                            
+ADae                            
+W01                             
+W02                             
+W03                             
+W04                             
+W05                             
+W06                             
+W07                             
+W08                             
+W09                             
+W10                             
+W11                             
+W12                             
+W13                             
+W14                             
+W15                             
+W16                             
+0733
+Simulated Operat                
+off                             
+on                              
+0735
+Trace TriggerPar                
+Cha1                            
+Cha2                            
+Cha3                            
+Cha4                            
+Cha5                            
+Cha6                            
+Cha7                            
+Cha8                            
+0736
+Trace Trig.Value                
+Cha1                            
+Cha2                            
+Cha3                            
+Cha4                            
+Cha5                            
+Cha6                            
+Cha7                            
+Cha8                            
+0737
+Trace Trig.Cond.                
+Cha1                            
+Cha2                            
+Cha3                            
+Cha4                            
+Cha5                            
+Cha6                            
+Cha7                            
+Cha8                            
+TRC <                           
+TRC ==                          
+TRC >                           
+TRC Fault                       
+TRC <>                          
+0738
+Trace Act.Values                
+Cha1                            
+Cha2                            
+Cha3                            
+Cha4                            
+Cha5                            
+Cha6                            
+Cha7                            
+Cha8                            
+0739
+Trace Sampl.Time                
+Cha1                            
+Cha2                            
+Cha3                            
+Cha4                            
+Cha5                            
+Cha6                            
+Cha7                            
+Cha8                            
+0740
+Trace Pretrigger                
+Cha1                            
+Cha2                            
+Cha3                            
+Cha4                            
+Cha5                            
+Cha6                            
+Cha7                            
+Cha8                            
+0741
+TRC Start                       
+Cha1                            
+Cha2                            
+Cha3                            
+Cha4                            
+Cha5                            
+Cha6                            
+Cha7                            
+Cha8                            
+No                              
+Yes                             
+0743
+Fault n/f(act)                  
+0744
+Fault dn/dt                     
+0745
+Fault Isq(act)                  
+0746
+Fault Out Volts                 
+0747
+Fault CtrlStatus                
+0748
+Trip Time                       
+T1-d                            
+T1-h                            
+T1-s                            
+T2-d                            
+T2-h                            
+T2-s                            
+T3-d                            
+T3-h                            
+T3-s                            
+T4-d                            
+T4-h                            
+T4-s                            
+T5-d                            
+T5-h                            
+T5-s                            
+T6-d                            
+T6-h                            
+T6-s                            
+T7-d                            
+T7-h                            
+T7-s                            
+T8-d                            
+T8-h                            
+T8-s                            
+0750
+TRC Data Block                  
+Cha1                            
+Cha2                            
+Cha3                            
+Cha4                            
+Cha5                            
+Cha6                            
+Cha7                            
+Cha8                            
+0751
+TRC DataChannel1                
+0752
+TRC DataChannel2                
+0753
+TRC DataChannel3                
+0754
+TRC DataChannel4                
+0755
+TRC DataChannel5                
+0756
+TRC DataChannel6                
+0757
+TRC DataChannel7                
+0758
+TRC DataChannel8                
+0760
+Modulator Status                
+0761
+Pulse Frequency                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0762
+SIMO Sound                      
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+OFF                             
+Sound 1                         
+Sound 2                         
+Sound 3                         
+Sound 4                         
+0763
+Max ModulatDepth                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0764
+Modulation Depth                
+0765
+ModDepth Headrm                 
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0766
+T(DeadTimeComp.)                
+0767
+Common Mode Comp                
+PHUN                            
+PHUP                            
+PHVN                            
+PHVP                            
+PHWN                            
+PHWP                            
+0768
+ON VoltsCompens.                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+0769
+ModSystemRelease                
+MDS1                            
+MDS2                            
+MDS3                            
+MDS4                            
+all systems                     
+FLM>60Hz                        
+FLM>100Hz                       
+no FLM                          
+overmod RZM                     
+0770
+Dead Time Comp.                 
+off                             
+on                              
+0780
+Fault Ignoring                  
+FNo1                            
+FNo2                            
+F/o3                            
+FNo4                            
+FNo5                            
+0781
+Test Operation                  
+0782
+VCE/OC/SC Test                  
+0783
+VCE/OC/SC Result                
+0784
+Paralleling Mode                
+Norm Operat                     
+Only Inv1ON                     
+Only INv2ON                     
+Delta_I OFF                     
+0785
+Test multiparll.                
+SlFr                            
+OCLS                            
+OCTR                            
+RGEN                            
+0786
+Status multiparl                
+Slv1                            
+Slv2                            
+Slv3                            
+Slv4                            
+Slv5                            
+Slv6                            
+Slv7                            
+Slv8                            
+no Header                       
+Header                          
+HWVER1 = 0                      
+HWVER1 = 1                      
+HWVER2 = 0                      
+HWVER2 = 1                      
+no Overvolt                     
+Overvoltage                     
+noUndervolt                     
+Undervolt.                      
+Nr.Slaves0                      
+Nr.Slaves0                      
+Nr.Slaves1                      
+Nr.Slaves1                      
+Nr.Slaves2                      
+Nr.Slaves2                      
+no Overcurr                     
+Overcurrent                     
+no Overcurr                     
+Overcurr. R                     
+no Overcurr                     
+Overcurr. S                     
+no Overcurr                     
+Overcurr. T                     
+no HardConf                     
+Hardw.Confl                     
+no UCEfault                     
+UCE L1                          
+no UCEfault                     
+UCE L2                          
+no UCEfault                     
+UCE L3                          
+0788
+RAM Access Addr                 
+CS:                             
+Off:                            
+0789
+RAM Access Value                
+0790
+MWH RAM AccAddr                 
+CS:                             
+Off:                            
+0791
+MWH RAM AccValue                
+0799
+Special Access                  
+0860
+Param. # List                   
+0861
+Menu List                       
+0862
+Gen Observ Param                
+0863
+Gen Parameter                   
+0864
+Drive Data                      
+0865
+HW Configurat.                  
+0866
+Motor Data                      
+0867
+Control                         
+0868
+Functions                       
+0869
+Setpoint Channel                
+0870
+Ctrl/Status Word                
+0871
+Analog I/O                      
+0872
+Communications                  
+0873
+Diagnosis                       
+0874
+Modulator                       
+0875
+Factory Param.                  
+0876
+Special Param.                  
+0877
+Profile Param.                  
+0878
+Tech Param.                     
+0881
+ParValOpDisplay                 
+0882
+ParVal SetpPar                  
+0883
+ParVal CtrlWordP                
+0884
+ParVal CtrlWordP                
+0885
+ParVal StatW ser                
+0886
+ParVal StatW TSY                
+0887
+L2 PVal Setp                    
+Setpoint=0                      
+Fixed Setp.                     
+MotPot(CtrW                     
+CU AnaIn 1                      
+CU AnaIn 2                      
+ProcReg Out                     
+ProcReg AV1                     
+ProcReg AV2                     
+SCo1 Word02                     
+SCo1 Word03                     
+SCo1 Word04                     
+SCo1 Word05                     
+SCo1 Word06                     
+SCo1 Word07                     
+SCo1 Word08                     
+SCo1 Word09                     
+SCo1 Word10                     
+SCo1 Word11                     
+SCo1 Word12                     
+SCo1 Word13                     
+SCo1 Word14                     
+SCo1 Word15                     
+SCo1 Word16                     
+SCo1 DW0203                     
+SCo1 DW0304                     
+SCo1 DW0405                     
+SCo1 DW0506                     
+SCo1 DW0607                     
+SCo1 DW0708                     
+SCo1 DW0809                     
+SCo1 DW0910                     
+SCo1 DW1011                     
+SCo1 DW1112                     
+SCo1 DW1213                     
+SCo1 DW1314                     
+SCo1 DW1415                     
+SCo1 DW1516                     
+TBCB Word02                     
+TBCB Word03                     
+TBCB Word04                     
+TBCB Word05                     
+TBCB Word06                     
+TBCB Word07                     
+TBCB Word08                     
+TBCB Word09                     
+TBCB Word10                     
+TBCB Word11                     
+TBCB Word12                     
+TBCB Word13                     
+TBCB Word14                     
+TBCB Word15                     
+TBCB Word16                     
+TBCB DW0203                     
+TBCB DW0304                     
+TBCB DW0405                     
+TBCB DW0506                     
+TBCB DW0607                     
+TBCB DW0708                     
+TBCB DW0809                     
+TBCB DW0910                     
+TBCB DW1011                     
+TBCB DW1112                     
+TBCB DW1213                     
+TBCB DW1314                     
+TBCB DW1415                     
+TBCB DW1516                     
+SCI1 Sl1AI1                     
+SCI1 Sl1AI2                     
+SCI1 Sl1AI3                     
+SCI1 Sl2AI1                     
+SCI1 Sl2AI2                     
+SCI1 Sl2AI3                     
+SCBx Word01                     
+SCBx Word02                     
+SCBx Word03                     
+SCBx Word04                     
+SCBx Word05                     
+SCBx Word06                     
+SCBx Word07                     
+SCBx Word08                     
+SCBx Word09                     
+SCBx Word10                     
+SCBx Word11                     
+SCBx Word12                     
+SCBx Word13                     
+SCBx Word14                     
+SCBx Word15                     
+SCBx Word16                     
+SCBx DW0203                     
+SCBx DW0304                     
+SCBx DW0405                     
+SCBx DW0506                     
+SCBx DW0607                     
+SCBx DW0708                     
+SCBx DW0809                     
+SCBx DW0910                     
+SCBx DW1011                     
+SCBx DW1112                     
+SCBx DW1213                     
+SCBx DW1314                     
+SCBx DW1415                     
+SCBx DW1516                     
+SCo2 Word02                     
+SCo2 Word03                     
+SCo2 Word04                     
+SCo2 Word05                     
+SCo2 Word06                     
+SCo2 Word07                     
+SCo2 Word08                     
+SCo2 Word09                     
+SCo2 Word10                     
+SCo2 Word11                     
+SCo2 Word12                     
+SCo2 Word13                     
+SCo2 Word14                     
+SCo2 Word15                     
+SCo2 Word16                     
+SCo2 DW0203                     
+SCo2 DW0304                     
+SCo2 DW0405                     
+SCo2 DW0506                     
+SCo2 DW0607                     
+SCo2 DW0708                     
+SCo2 DW0809                     
+SCo2 DW0910                     
+SCo2 DW1011                     
+SCo2 DW1112                     
+SCo2 DW1213                     
+SCo2 DW1314                     
+SCo2 DW1415                     
+SCo2 DW1516                     
+0888
+L2 PVal CtrlWd                  
+CtrlW Bit=0                     
+CtrlW Bit=1                     
+CU Term 01                      
+CU Term 02                      
+CU Term 03                      
+CU Term 04                      
+CU Term 05                      
+CU Term 06                      
+CU Term 07                      
+PMU                             
+SCo1 Word01                     
+SCo1 Word04                     
+TBCB Word01                     
+TBCB Word04                     
+SCI Sl1Te01                     
+SCI Sl1Te02                     
+SCI Sl1Te03                     
+SCI Sl1Te04                     
+SCI Sl1Te05                     
+SCI Sl1Te06                     
+SCI Sl1Te07                     
+SCI Sl1Te08                     
+SCI Sl1Te09                     
+SCI Sl1Te10                     
+SCI Sl1Te11                     
+SCI Sl1Te12                     
+SCI Sl1Te13                     
+SCI Sl1Te14                     
+SCI Sl1Te15                     
+SCI Sl1Te16                     
+SCI Sl2Te01                     
+SCI Sl2Te02                     
+SCI Sl2Te03                     
+SCI Sl2Te04                     
+SCI Sl2Te05                     
+SCI Sl2Te06                     
+SCI Sl2Te07                     
+SCI Sl2Te08                     
+SCI Sl2Te09                     
+SCI Sl2Te10                     
+SCI Sl2Te11                     
+SCI Sl2Te12                     
+SCI Sl2Te13                     
+SCI Sl2Te14                     
+SCI Sl2Te15                     
+SCI Sl2Te16                     
+SCBx Word01                     
+SCBx Word02                     
+SCBx Word03                     
+SCBx Word04                     
+SCBx Word05                     
+TSY Term 1                      
+SCo2 Word01                     
+SCo2 Word04                     
+0889
+L2 PVal StatWd T                
+No Term Out                     
+TSY Term 1                      
+TSY Term 2                      
+0890
+L2 PVal StatWd s                
+No Term Out                     
+SCI Sl1Te01                     
+SCI Sl1Te02                     
+SCI Sl1Te03                     
+SCI Sl1Te04                     
+SCI Sl1Te05                     
+SCI Sl1Te06                     
+SCI Sl1Te07                     
+SCI Sl1Te08                     
+SCI Sl1Te09                     
+SCI Sl1Te10                     
+SCI Sl1Te11                     
+SCI Sl1Te12                     
+SCI Sl2Te01                     
+SCI Sl2Te02                     
+SCI Sl2Te03                     
+SCI Sl2Te04                     
+SCI Sl2Te05                     
+SCI Sl2Te06                     
+SCI Sl2Te07                     
+SCI Sl2Te08                     
+SCI Sl2Te09                     
+SCI Sl2Te10                     
+SCI Sl2Te11                     
+SCI Sl2Te12                     
+0891
+L2 PVal StatWd i                
+No Term Out                     
+CU Term 01                      
+CU Term 02                      
+CU Term 03                      
+CU Term 04                      
+0892
+Valid P#-PValue                 
+0893
+Message Code                    
+                                
+Mot ID                          
+n Reg Opt.                      
+0917
+Change reports                  
+DPR inact.                      
+DPR active                      
+SCo1 inact.                     
+SCo1 active                     
+SCB inact.                      
+SCB active                      
+SCo2 inact.                     
+SCo2 active                     
+0918
+CB Bus Address                  
+0927
+Parameter Access                
+None                            
+CB                              
+PMU                             
+CB+PMU                          
+SCo1                            
+SC+SCo1                         
+PMU+SCo1                        
+CB+PMU+SCo1                     
+SCB                             
+CB+SCB                          
+PMU+SCB                         
+CB+PMU+SCB                      
+SCo1+SCB                        
+CB+SCo1+SCB                     
+2+4+8                           
+1+2+4+8                         
+TB                              
+CB+TB                           
+PMU+TB                          
+CB+PMU+TB                       
+SCo1+TB                         
+CB+SCo1+TB                      
+PMU+SCo1+TB                     
+1+2+4+16                        
+SCB+TB                          
+CB+SCB+TB                       
+PMU+SCB+TB                      
+1+2+8+16                        
+SCo1+SCB+TB                     
+1+4+8+16                        
+2+4+8+16                        
+1+2+4+8+16                      
+SCo2                            
+CB+SCo2                         
+PMU+SCo2                        
+CB+PMU+SCo2                     
+SCo1+SCo2                       
+1+4+32                          
+2+4+32                          
+1+2+4+32                        
+SCB+SCo2                        
+CB+SCB+SCo2                     
+2+8+32                          
+1+2+8+32                        
+4+8+32                          
+1+4+8+32                        
+2+4+8+32                        
+1+2+4+8+32                      
+TB+SCo2                         
+CB+TB+SCo2                      
+PMU+TB+SCo2                     
+1+2+16+32                       
+4+16+32                         
+1+4+16+32                       
+2+4+16+32                       
+1+2+4+16+32                     
+SCB+TB+SCo2                     
+1+8+16+32                       
+2+8+16+32                       
+1+2+8+16+32                     
+4+8+16+32                       
+1+4+8+16+32                     
+2+4+8+16+32                     
+all                             
+0928
+Src Base/Reserve                
+0947
+Fault Memory                    
+F1-1                            
+F1-2                            
+F1-3                            
+F1-4                            
+F1-5                            
+F1-6                            
+F1-7                            
+F1-8                            
+F2-1                            
+F2-2                            
+F2-3                            
+F2-4                            
+F2-5                            
+F2-6                            
+F2-7                            
+F2-8                            
+F3-1                            
+F3-2                            
+F3-3                            
+F3-4                            
+F3-5                            
+F3-6                            
+F3-7                            
+F3-8                            
+F4-1                            
+F4-2                            
+F4-3                            
+F4-4                            
+F4-5                            
+F4-6                            
+F4-7                            
+F4-8                            
+F5-l                            
+F5-2                            
+F5-3                            
+F5-4                            
+F5-5                            
+F5-6                            
+F5-7                            
+F5-8                            
+F6-1                            
+F6-2                            
+F6-3                            
+F6-4                            
+F6-5                            
+F6-6                            
+F6-7                            
+F6-8                            
+F7-1                            
+F7-2                            
+F7-3                            
+F7-4                            
+F7-5                            
+F7-6                            
+F7-7                            
+F7-8                            
+F8-1                            
+F8-2                            
+F8-3                            
+F8-4                            
+F8-5                            
+F8-6                            
+F8-7                            
+F8-8                            
+0949
+Fault Value                     
+F1-1                            
+F1-2                            
+F1-3                            
+F1-4                            
+F1-5                            
+F1-6                            
+F1-7                            
+F1-8                            
+F2-1                            
+F2-2                            
+F2-3                            
+F2-4                            
+F2-5                            
+F2-6                            
+F2-7                            
+F2-8                            
+F3-1                            
+F3-2                            
+F3-3                            
+F3-4                            
+F3-5                            
+F3-6                            
+F3-7                            
+F3-8                            
+F4-1                            
+F4-2                            
+F4-3                            
+F4-4                            
+F4-5                            
+F4-6                            
+F4-7                            
+F4-8                            
+F5-l                            
+F5-2                            
+F5-3                            
+F5-4                            
+F5-5                            
+F5-6                            
+F5-7                            
+F5-8                            
+F6-1                            
+F6-2                            
+F6-3                            
+F6-4                            
+F6-5                            
+F6-6                            
+F6-7                            
+F6-8                            
+F7-1                            
+F7-2                            
+F7-3                            
+F7-4                            
+F7-5                            
+F7-6                            
+F7-7                            
+F7-8                            
+F8-1                            
+F8-2                            
+F8-3                            
+F8-4                            
+F8-5                            
+F8-6                            
+F8-7                            
+F8-8                            
+0951
+Fault Texts                     
+main cont.                      
+precharge                       
+Line OverV                      
+Line UnderV                     
+fault 0                         
+Ud>max                          
+AuxPowerOFF                     
+Ud<min                          
+Line fault                      
+fault 0                         
+overcurrent                     
+I too small                     
+fault 0                         
+fault 0                         
+pull out                        
+fault 0                         
+fly rst flt                     
+flt set rg                      
+fault 0                         
+motor temp                      
+I2t motor                       
+fault 0                         
+inv temp                        
+Overld PreC                     
+UCE ph. L1                      
+UCE ph. L2                      
+UCE ph. L3                      
+line phase                      
+measuring                       
+DC Bus Shrt                     
+fault 0                         
+fault 0                         
+fault 0                         
+fault 0                         
+ext fault 1                     
+ext fault 2                     
+analog in                       
+Res Offset                      
+DC Bus Grnd                     
+SCS intern                      
+EEPROM f                        
+compute tim                     
+com intern                      
+par com int                     
+opt boardHW                     
+par request                     
+mod comp t                      
+mod pulsefr                     
+SW-Version                      
+TSY init                        
+tacho fault                     
+contr tacho                     
+tacho dn/dt                     
+fault 0                         
+fault 0                         
+fault 0                         
+fault 0                         
+fault 0                         
+fault 0                         
+no MLFB                         
+wrong param                     
+multiparal.                     
+fault 0                         
+fault 0                         
+SCo1 telegr                     
+SCo2 telegr                     
+fault 0                         
+fault 0                         
+fault 0                         
+SCB init                        
+fault 0                         
+SCB heartb                      
+an inp1 SL1                     
+an inp2 SL1                     
+an inp3 SL1                     
+an inp1 SL2                     
+an inp2 SL2                     
+an inp3 SL2                     
+SCB telegr                      
+TB/CB init                      
+TB/CBheartb                     
+TB/CB tlgr.                     
+fault 0                         
+fault 0                         
+fault 0                         
+fault 0                         
+fault 0                         
+fault 0                         
+fault 0                         
+MotID param                     
+MotID time                      
+fault 0                         
+fault 0                         
+fault 0                         
+M-ID n(set)                     
+MotID abort                     
+MotID value                     
+MotID tacho                     
+fault 0                         
+grd f init                      
+grd f UCE                       
+grd f phase                     
+grd fault                       
+MotID I dir                     
+MotID I>max                     
+MotID I<min                     
+M-ID TstPls                     
+MotID assym                     
+MotID rot.R                     
+MotID di/dt                     
+M-ID e-Fnct                     
+M-ID L-sigm                     
+fault 0                         
+MotID off                       
+SW intern                       
+                                
+0952
+# of Faults                     
+0953
+Warning Param1                  
+no alarm                        
+compute tim                     
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+simulation                      
+no alarm                        
+ext alarm 1                     
+no alarm                        
+ext alarm 2                     
+0954
+Warning Param2                  
+no alarm                        
+Sicher AUS                      
+no alarm                        
+res/enc ad.                     
+no alarm                        
+no alarm                        
+no alarm                        
+overcurrent                     
+no alarm                        
+overvoltage                     
+no alarm                        
+inv temp                        
+no alarm                        
+mot temp                        
+no alarm                        
+MotRot M-ID                     
+no alarm                        
+I2t inv                         
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+I2t motor                       
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+0955
+Warning Param3                  
+no alarm                        
+overspeed                       
+no alarm                        
+deviation                       
+no alarm                        
+broken wire                     
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+AuxPowerOFF                     
+no alarm                        
+Line Volts                      
+no alarm                        
+Udmax-re.lo                     
+no alarm                        
+m pull-out                      
+no alarm                        
+n act jumps                     
+no alarm                        
+I too small                     
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+I reac.lim                      
+no alarm                        
+Vdc2t activ                     
+0956
+Warning Param4                  
+no alarm                        
+no slave                        
+no alarm                        
+slave wrong                     
+no alarm                        
+Peer Bdrate                     
+no alarm                        
+Peer PZD-L.                     
+no alarm                        
+Peer Lng w.                     
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+TB-Param.                       
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+0957
+Warning Param5                  
+no alarm                        
+AutoRestart                     
+no alarm                        
+fsyn > fmax                     
+no alarm                        
+fsyn < fmin                     
+no alarm                        
+fsyn<>fsetp                     
+no alarm                        
+rampgen act                     
+no alarm                        
+sync fault                      
+no alarm                        
+no TSY                          
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+no alarm                        
+comp t ltd                      
+no alarm                        
+r meas ltd                      
+no alarm                        
+MotID Stop                      
+no alarm                        
+MotIDInvOff                     
+no alarm                        
+MotID Turn.                     
+0958
+Warning Param6                  
+no alarm                        
+CB alarm 1                      
+no alarm                        
+CB alarm 2                      
+no alarm                        
+CB alarm 3                      
+no alarm                        
+CB alarm 4                      
+no alarm                        
+CB alarm 5                      
+no alarm                        
+CB alarm 6                      
+no alarm                        
+CB alarm 7                      
+no alarm                        
+CB alarm 8                      
+no alarm                        
+CB alarm 9                      
+no alarm                        
+CB alarm 10                     
+no alarm                        
+CB alarm 11                     
+no alarm                        
+CB alarm 12                     
+no alarm                        
+CB alarm 13                     
+no alarm                        
+CB alarm 14                     
+no alarm                        
+CB alarm 15                     
+no alarm                        
+CB alarm 16                     
+0959
+Warning Param7                  
+no alarm                        
+TB alarm 1                      
+no alarm                        
+TB alarm 2                      
+no alarm                        
+TB alarm 3                      
+no alarm                        
+TB alarm 4                      
+no alarm                        
+TB alarm 5                      
+no alarm                        
+TB alarm 6                      
+no alarm                        
+TB alarm 7                      
+no alarm                        
+TB alarm 8                      
+no alarm                        
+TB alarm 9                      
+no alarm                        
+TB alarm 10                     
+no alarm                        
+TB alarm 11                     
+no alarm                        
+TB alarm 12                     
+no alarm                        
+TB alarm 13                     
+no alarm                        
+TB alarm 14                     
+no alarm                        
+TB alarm 15                     
+no alarm                        
+TB alarm 16                     
+0960
+Warning Param8                  
+no alarm                        
+TB alarm 17                     
+no alarm                        
+TB alarm 18                     
+no alarm                        
+TB alarm 19                     
+no alarm                        
+TB alarm 20                     
+no alarm                        
+TB alarm 21                     
+no alarm                        
+TB alarm 22                     
+no alarm                        
+TB alarm 23                     
+no alarm                        
+TB alarm 24                     
+no alarm                        
+TB alarm 25                     
+no alarm                        
+TB alarm 26                     
+no alarm                        
+TB alarm 27                     
+no alarm                        
+TB alarm 28                     
+no alarm                        
+TB alarm 29                     
+no alarm                        
+TB alarm 30                     
+no alarm                        
+TB alarm 31                     
+no alarm                        
+TB alarm 32                     
+0964
+Drive ID                        
+0965
+Profile #                       
+0967
+Control Word 1                  
+OFF1 (stop)                     
+ON                              
+OFF2                            
+no OFF2                         
+OFF3                            
+no OFF3                         
+Oper. OFF                       
+Oper. ON                        
+RampGenRese                     
+RampGenOper                     
+RampGenHold                     
+RampGenRel.                     
+RefValDisab                     
+RefValEnab                      
+noFltReset                      
+FaultReset                      
+Jog 1 OFF                       
+Jog 1 ON                        
+Jog 2 OFF                       
+Jog 2 ON                        
+BasUnitCtrl                     
+AutomatCtrl                     
+FWD blocked                     
+FWD allowed                     
+REV blocked                     
+REV allowed                     
+no MotPot                       
+MotPot UP                       
+no MotPot                       
+MotPot DOWN                     
+ExtFault 1                      
+NoExtFault1                     
+0968
+Status Word 1                   
+Not READY                       
+READY                           
+no ON Cmd                       
+ON Cmd                          
+PulsesBlock                     
+RUNNING                         
+No FAULT                        
+FAULT                           
+OFF2                            
+No OFF2                         
+OFF3                            
+No OFF3                         
+No Lockout                      
+Lockout                         
+No Warning                      
+Warning                         
+Ref<>ActVal                     
+Ref=ActVal                      
+BasUnitCtrl                     
+AutCtrlReq                      
+f-act<f-ref                     
+f-act=f-ref                     
+Vd > Vd-min                     
+Vd < Vd-min                     
+ContactOpen                     
+ContactClos                     
+RampGenNAct                     
+RampGenAct                      
+REVERSE                         
+FORWARD                         
+KIP notAct                      
+KIP Active                      
+0970
+Factory Settings                
+FactSetting                     
+Return                          
+0971
+EEPROM Saving                   
+0980
+Par # List pt1                  
+0981
+Par # List pt2                  
+0982
+Par # List pt3                  
+0983
+Par # List pt4                  
+0984
+Par # List pt5                  
+0985
+Par # List pt6                  
+0986
+Par # List pt7                  
+0987
+Par # List pt8                  
+0988
+Par # List pt9                  
+0989
+Par # List pt10                 
+0990
+Par # List chg1                 
+0991
+Par # List chg2                 
+0992
+Par # List chg3                 

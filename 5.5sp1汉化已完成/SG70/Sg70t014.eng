@@ -1,0 +1,874 @@
+[T0035]
+T351=T
+T352=Mode
+T2951=Einschaltverz.
+T2952=Ausschaltverz.
+T2953=Ein/Aussch.verz.
+T2954=Impulsbildner
+[T0022]
+T5=Track
+T6=Store
+T7=Reset (y=0)
+[T0019]
+T4=Set\n(y=x)
+T5=Reset\n(y=0)
+T6=Power on
+[FB0901]
+T1=Technologie-\nregler
+T2=z.B.\nLeistungsregler
+T3=HLG-Sollwert-\nbegrenzung
+T4=Hochlaufgeber
+T5=Sollwert-\nbegrenzung
+T6=n-Regler
+T7=Momenten-\nbegrenzung
+T8=Strom-\nsollwert-\nbildung
+T9=Strombegrenzung
+T10=Stromregler
+T11=Vorsteuerung
+T12=EMK-Sollwert
+T13=EMK-Regler
+T14=Vorsteuerung
+T15=Strombegrenzung
+T16=Stromregler
+T17=Vorsteuerung
+[FB0902]
+T9=Einschalten/Stillsetzen
+T10=Betriebsfreigabe
+T11=IRES
+[FB0904]
+T10=Ein-/Ausschalt-\nverzögerung
+T11=Invertierung
+T12=Ein-/Ausschalt-\nverzögerung
+T13=Invertierung
+T14=Ein-/Ausschalt-\nverzögerung
+T15=Invertierung
+T16=Ein-/Ausschalt-\nverzögerung
+T17=Invertierung
+T18=<1> bei log. ''1''. Ausgangstransistor ist leitend
+[FB0905]
+T7=1=''Fehler F047''
+T8=Analoger\nWahleingang 1
+T9=Analoger\nEingang\nHauptistwert
+T10=1ms
+T12=Hardware-\nGlättung 1ms
+T13=10V=100%\n20mA=100%
+T14=Drahtbruch\n(i<=2mA)
+T15=1=''Fehler F046''
+T16=Vorzeichenumkehr
+T17=Siebung
+T18=Zuschaltung\nAnalogeingang
+T19=Analoger\nWahleingang\nHauptsollwert
+[FB0906]
+T7=1=''Fehler F047''
+T8=Analoger\nWahleingang 1
+T9=Analoger\nEingang\nHauptistwert
+T10=1ms
+T12=Hardware-\nGlättung 1ms
+T13=10V=100%\n20mA=100%
+T14=Drahtbruch\n(i<=2mA)
+T15=1=''Fehler F046''
+T16=Vorzeichenumkehr
+T17=Siebung
+T18=Zuschaltung\nAnalogeingang
+T19=Analoger\nWahleingang\nHauptsollwert
+[FB0907]
+T7=1=''Fehler F047''
+T8=Analoger\nWahleingang 1
+T9=Analoger\nEingang\nHauptistwert
+T10=1ms
+T12=Hardware-\nGlättung 1ms
+T13=10V=100%\n20mA=100%
+T14=Drahtbruch\n(i<=2mA)
+T15=1=''Fehler F046''
+T16=Vorzeichenumkehr
+T17=Siebung
+T18=Zuschaltung\nAnalogeingang
+T19=Analoger\nWahleingang\nHauptsollwert
+[FB0908]
+T17=Analoger\nWahleingang 2
+T18=10V=100%
+T19=1ms
+T20=Hardware-\nGlättung
+T21=Vorzeichenumkehr
+T22=Siebung
+T23=Zuschaltung\nAnalogeingang
+T24=Analoger\nWahleingang 3
+T25=10V=100%
+T26=1ms
+T27=Hardware-\nGlättung
+T28=Vorzeichenumkehr
+T29=Siebung
+T30=Zuschaltung\nAnalogeingang
+[FB0909]
+T14=interner\nStromistwert
+T15=1ms
+[FB0911]
+T49=11 Festwerte\nEinstellbereich
+T50= -199,99 bis +199,99%
+T51=5 Festwerte\nEinstellbereich
+T52= -32768 bis +32767
+T53=8 feste Steuerbits
+[FB0912]
+T18=(Kondensator\nsymbolisiert\nWertespeicher)
+T19=Motorpoti tiefer\nvon steuerwort 1
+T20=Motorpoti höher\nvon Steuerwort 1
+T21=Rechts/Links
+T22=Hand/Automatik
+T23=Motorpoti setzen
+T24=Sollwert vom\nMotorpotentiometer
+T25=Ausgang=0
+T26=Hochlauf beendet
+T27=Hochlaufgeber\nmit Permanentspeicher
+[FB0913]
+T7=Anwahl Festsollwert 0\nvom Steuerwort 2
+T8=Anwahl Festsollwert 1\nvom Steuerwort 2
+T9=Hochlaufgeber\numgehen
+[FB0914]
+T9=Beim Forcen (Anwahl über P051=24 und\nDrücken der WAHL-oder P-Taste)wird\nder Rechteckgenerator durch drücken der\nHÖHER-Taste gestartet(d.h. er beginnt\nmit P480) und durch drücken der TIEFER-\nTaste gestoppt(d.h. er wird auf 0 gesetzt)
+T10=Pendelsollwert
+T11=Forcen\n(Anwahl über P051=24 und\ndrücken der WAHL-oder P-Taste,\nStart über HÖHER-Taste\nStop über TIEFER-Taste)
+[FB0915]
+T7=Tippen Bit 0\nvom Steuerwort 1
+T8=Tippen Bit 1\nvom Steuerwort 1
+T9=Hochlaufgeber\numgehen
+T10=Einschaltbefehl\nvon EIN/AUS1\n(vom Blatt\n''Kriechsollwert'')
+T11=Einschaltbefehl\nvon TIPPEN\n(zum Steuerwort 1)
+[FB0916]
+T10=Einschalten/Stillsetzen\nvon Klemme 37
+T11=<1> Flip-Flops werden bei\nP445=0 rückgesetzt
+T12=Einschaltbefehl\nvon EIN/AUS1\n(zum Steuerwort 1)
+T13=zum Blatt\n''Tippsollwert''
+T14=Hochlaufgeber\numgehen
+T15=Einschaltbefehl von\nKRIECHEN\n(zum Steuerwort 1)
+[FB0917]
+T14=Minimum
+T15=Maximum
+T16=<1> Bei P643.0x=9 wirkt die\ndurch P642.0x ausgewählte\nGrenze vorzeicheninvertiert\nals negative Grenze
+T17=Freigabe positive Drehrichtung von Steuerwort 1
+T18=Freigabe negative Drehrichtung von Steuerwort 1
+T19=keine Drehrichtung\nfreigegeben
+T20=zu Eingang\nHochlaufgeber
+[FB0918]
+T30=(HLG-\nAusgang)
+T31=K0190
+T32=Diese Umschaltung auf HLG-Einstellung 2 und 3\nhat Priorität gegenüber Vorgabe der HLG-Ein-\nstellung 3 durch die Hochfahrintegratorsteuerung
+T33=HLG-Einstellung 3
+T34=von Hochfahrintegratorsteuerung\n(siehe P302)
+T35=Hochlaufgeber\nEingang
+T36=Hochlaufgeber Start\nvom Steuerwort 1
+T37=Freigabe Sollwert\nvom Steuerwort 1
+T38=Sollwert
+T39=AUS 1
+T40=Setzwert
+T41=Hochlaufgebersetzen (y=Setzwert)
+T42=Freigabe Hochlaufgeber vom\nSteuerwort 1 (bei ''0''-Signal: y=0)
+T43=Hochlaufgeber\numgehen
+T44=Freigabe der Umschaltung des Hochfahrintegrators
+T45=Hoch-/Rück-\nlaufzeit
+T46=Verrundung
+T47=Parameter - Auswahl
+T48=HLG-Zustand
+T49=Hochlauf
+T50=Rücklauf
+T51=HLG aktiv zum\nZustandswort 2
+T52=Hochlauf-\nzeit
+T53=Hochlauf-\nzeit
+T54=Rücklauf-\nzeit
+T55=Rücklauf-\nzeit
+T56=Anfangs-\nverrundung
+T57=Anfangs-\nverrundung
+T58=End-\nverrundung
+T59=End-\nverrundung
+T60=HLG-Einstellung 2
+[FB0919]
+T11=Minimum
+T12=Maximum
+T13=<1> Bei P633.0x = 9 wirkt die durch P632.0x\nausgewählte positive Grenze vorzeichen=\ninvertiert als negative Grenze
+T14=kleinste positive\nSollwertgrenze
+T15=Drehzahlsollwert
+T16=Begrenzung hinter\nHochlaufgeber\nhat angesprochen
+T17=größte negative\nSollwertgrenze
+[FB0920]
+T18=Versorgung\nPulsgeber
+T19=Spur 1
+T20=Spur 2
+T21=Nullmarke
+T22=Rücksetzen\nPositionszähler\n(abhängig von\nParameter P450)\n(0=Rücksetzen)
+T23=Freigabe Zähler\nfür Nullmarken\n(1=Freigabe)
+T24=Impulsgeberauswertung
+T25=Drehzahlmessung
+T26=Positionserfassung
+T27=1=''Störung F048''\nmit Störwert 1
+T28=Störung Drehzahlmessung\nmit Pulsgeber
+T29=Pulsgeber gestört
+T30=1=''Störung F048''\nmit Störwert 2
+T31=*) Wertebereich Position:\nFF80 0000H bis 007F FFFFH\n(= -8388608 bis +8388607 dez)
+[FB0921]
+T56=Freigabe Statik\nvon Steuerwort 2
+T57=I-Ant. n-Reg.
+T58=Haupt-Istwert
+T59=K0013
+T60=Istwert vom\nPulsgeber
+T61=K0040
+T62=interner\nEMK-\nIstwert
+T63=n-Reg. Kp(ist)
+T64=Leit-/Folgeantrieb von Steuerwort 2:\nBei Folgeantrieb I-Anteil nachführen,\nso daß M(soll,n-Reg.)=M(soll,begr.) ist und\nDrehzahlsollwert = Drehzahlistwert setzen
+T65=Begrenzung aktiv von Momentenbegrenzung,\nI-Anteil und Gesamtausgang auf aktuelle\nMomentengrenze begrenzen;I-Anteil\nanhalten, wenn Gesamtausgang an Grenze
+T66=Freigabe Drehzahlregler von\nSteuerwort 2 und von Ablaufsteuerung
+T67=Umschaltung\nauf P-Regler
+T68=Drehzahlregler\nSoll-Ist-Differenz
+T69=I-Anteil
+T70=P-Anteil
+T71=M(soll,n-Reg.)
+T72=Reibungs- u.\nTrägheits-\nmoment-\nkompensation
+T73=K0166
+T74=Betrag Drehzahlistwert
+[FB0922]
+T23=n-Regler-Istwert
+T24=K0165
+T25=n-Regler-Sollwert
+T26=K0168
+T27=Soll-Ist-Diff.
+T28=K0163
+T29=Kompensation des Trägheitsmomentes (dv/dt - Aufschaltung)
+T30=Freigabe\ndv/dt-Aufschaltung
+T31=Reibungs- und\nTrägheitsmoment-\nKompensation
+[FB0923]
+T13=Begrenzungsregler aktiv
+T14=Drehzahlbegrenzungs-\nregler
+T15=K0167
+T16=n(ist,glatt)
+T17=Maschinenfluß
+T18=K0290
+T19=Umschaltung zwischen\nStromregelung und\nMomentenregelung
+T22=K0166
+T23=Betrag Drehzahlistwert
+T24=Umschaltung\nMomentenbegrenzung
+T25=Leit-/Folgeantrieb\nvon Steuerwort 2\n(0=Leit, 1=Folge)
+T26=Momentensollwert (vom Drehzahlregler)
+T27=K0148
+T28=B0111
+T29=Schnellhalt
+T30=<1> Bei P606.0x=9 wirkt die durch\nP605.0x ausgewählte positive\nGrenze vorzeicheninvertiert als\nnegative Grenze
+T31=<2> bei diesen Parametern gilt:\n100% entspricht dem Bemessungs-\nAnkerstrom des Motors (P100)
+T32=Maschinenfluß
+T33=K0290
+T34=Minimum
+T35=Motornennstrom/Gerätenennstrom
+T36=Motornennstrom/Gerätenennstrom
+T37=Maximum
+T38=K0290
+T39=Maschinenfluß
+[FB0924]
+T13=Begrenzungsregler aktiv
+T14=Drehzahlbegrenzungs-\nregler
+T15=K0167
+T16=n(ist,glatt)
+T17=Maschinenfluß
+T18=K0290
+T19=Umschaltung zwischen\nStromregelung und\nMomentenregelung
+T22=K0166
+T23=Betrag Drehzahlistwert
+T24=Umschaltung\nMomentenbegrenzung
+T25=Leit-/Folgeantrieb\nvon Steuerwort 2\n(0=Leit, 1=Folge)
+T26=Momentensollwert (vom Drehzahlregler)
+T27=K0148
+T28=B0111
+T29=Schnellhalt
+T30=<1> Bei P606.0x=9 wirkt die durch\nP605.0x ausgewählte positive\nGrenze vorzeicheninvertiert als\nnegative Grenze
+T31=<2> bei diesen Parametern gilt:\n100% entspricht dem Bemessungs-\nAnkerstrom des Motors (P100)
+T32=Maschinenfluß
+T33=K0290
+T34=Minimum
+T35=Motornennstrom/Gerätenennstrom
+T36=Motornennstrom/Gerätenennstrom
+T37=Maximum
+T38=K0290
+T39=Maschinenfluß
+[FB0925]
+T19=Stillsetzen
+T20=B0161
+T21=Schnellhalt
+T22=B0111
+T23=Min.
+T24=K0147
+T25=Momentensollwert vor Begrenzung (ohne Zusatzsollwert)
+T26=Max.
+T27=Betrag\nDrehzahl-Istwert
+T28=K0166
+T29=drehzahlabh.Strombegr.
+T30=I2t-šberwachung\ndes Leistungsteiles
+T31=Minimum
+T32=Minimum
+T33=Maximum
+T34=-150% *P077\n(4Q Ger„t)
+T35=0%\n(1Q Gerät)
+T36=1Q/4Q-Gerät
+T37=*) bei diesen Parametern gilt:\n100% entspricht dem Bemessungs-\nAnkerstrom des Motors (P100)
+T38=Ankerstrom-\nsollwert
+T39=Strombegrenzung\naktiv
+[FB0926]
+T37=Maschinenfluß
+T38=K0290
+T39=interner\nAnkerstrom-\nistwert
+T40=Ankerstrom-\nsollwert
+T41=K0120
+T42=Istwert
+T43=Sollwert
+T44=Netzspannung\n(Anker)
+T45=K0305
+T46=gemessener EMK-Istwert
+T47=K0123
+T48=angeforderte\nMomentenrichtung
+T49=Stromregler_Anker
+T50=Vorsteuerung_Anker
+T51=Netzfrequenz
+T52=K0306
+T53=I-Anteil:=0
+T54=(w-Schieben[SA1]T55=(G oder (w -Begrenzung erreicht
+T56=(I-Anteil anhalten)
+T57=Stillsetzen
+T58=B0161
+T59=Schnellhalt
+T60=B0111
+T61=B0200
+T62=Strombegrenzung
+T63=B0201
+T64=Begrenzungsregler
+T65=B0202
+T66=ob.Momentenbegr.
+T67=B0203
+T68=unt.Momentenbegr.\naktiv
+T69=*) bei diesen parametern gilt:\n100% entspricht dem Bemessungs-Ankerstrom des Motors (P100)
+T57=Stillsetzen
+T58=B0161
+T59=Schnellhalten
+T60=B0111
+T61=B0200
+T62=Strombegrenzung
+T63=B0201
+T64=Begrenzungsregler
+T65=B0202
+T66=ob. Momentbegr.
+T67=B0203
+T68=unt. Momentenbegr. aktiv
+T70=angeforderte\nMomentenrichtung
+T71=0...Freigabe für M0 oder MII\n1...Freigabe für M0 oder MI
+T72=I=0 - Meldung
+T73=Kommandostufe
+T74=P160\nzusätzliche\nstromlose Pause
+T75=freigegebene\nMomentenrichtung\nfür Parallelantrieb
+T76=Steuersatz\nAnker
+T77=oder 165 Grad\n bei lückendem\nStrom
+T78=Begrenzung\naktiv an\nDrehzahlregler
+T79=berechnete EMK
+T80=K0124
+[FB0927]
+T40=ua... gemessene Ankerspannung\nia ... gemessener Ankerstrom
+T41=Istwert
+T42=Sollwert
+T43=EMK-Regler
+T44=I-Anteil\nanhalten
+T45=P151 - 5 Grad\noder(im Lücken)\n165 Grad - 5 Grad
+T46=(
+T47=K0101
+T48=EMK_soll
+T49=Betrag des\nDrehzahlistwertes
+T50=K0166
+T51=n_Abl”se = P119 * EMK_soll/P118
+T52=P120\nbis\nP139\nFeldkennlinie\nFolgebild 
+T53=Vorsteuerung EMK-Regler
+T54=Minimum
+T55=Minimum
+T56=bei Betriebszustand>=o10:\nSollwertobergrenze=''alter''K265
+T57=bei Betriebszustand<=o5:\nSollwertobergrenze=200%\n(''Entriegelung'')
+T58=Feldstromsoll-\nwertbegrenzung
+T59=Maximum
+T60=Minimum
+T61=automatische Feldstromreduzierung\nwenn EMK fr Bremsbetrieb zu Hoch
+[FB0928]
+T27=1=Sperre der Feldzündimpulse
+T28=Feldkennlinie\nP120 bis P139\nFolgebild
+T29=Stromregler-Feld
+T30=Istwert
+T31=Sollwert
+T32=I-Anteil\nanhalten
+T33=Feldstromsollwert
+T34=K0275
+T35=Netzschütz-Aus
+T36=B124
+T37=Vorsteuerung-Feld
+T38=Netzspannung\n(Feld)
+T39=K0304
+T40=(G oder (W -Begrenzung erreicht
+T41=Zünd-\nimpuls 1/3
+T42=Zünd-\nimpuls 2/4
+T43=Steuersatz-Feld
+T44=interner Feldstromistwert
+T45=K0268
+T46=K0293
+[FB0929]
+T26=Parameter für USS-Schnittstelle
+T27=Empfangsdaten
+T28=Process Data\nvon der USS-Schnittst.
+T29=r810.01 bis .16
+T30=r811.01 bis .16
+T31=Sendedaten
+T32=Process Data\nzur USS-Schnittst. 
+T33=Wort 1
+T34=Wort 2
+T35=Wort 3
+T36=Wort 4
+T37=Wort 5
+T38=Wort 6
+T39=Wort 7
+T40=Wort 8
+T41=Wort 9
+T42=Wort 10
+T43=Wort 11
+T44=Wort 12
+T45=Wort 13
+T46=Wort 14
+T47=Wort 15
+T48=Wort 16
+T49=Wort 1
+T50=Wort 2
+T51=Wort 3
+T52=Wort 4
+T53=Wort 5
+T54=Wort 6
+T55=Wort 7
+T56=Wort 8
+T57=Wort 9
+T58=Wort 10
+T59=Wort 11
+T60=Wort 12
+T61=Wort 13
+T62=Wort 14
+T63=Wort 15
+T64=Wort 16
+T65=1="Störung F011"
+[FB0930]
+T26=Parameter für USS-Schnittstelle
+T27=Empfangsdaten
+T28=Process Data\nvon der USS-Schnittst.
+T29=r812.01 bis .16
+T30=r813.01 bis .16
+T31=Sendedaten
+T32=Process Data\nzur USS-Schnittst.
+T33=Wort 1
+T34=Wort 2
+T35=Wort 3
+T36=Wort 4
+T37=Wort 5
+T38=Wort 6
+T39=Wort 7
+T40=Wort 8
+T41=Wort 9
+T42=Wort 10
+T43=Wort 11
+T44=Wort 12
+T45=Wort 13
+T46=Wort 14
+T47=Wort 15
+T48=Wort 16
+T49=Wort 1
+T50=Wort 2
+T51=Wort 3
+T52=Wort 4
+T53=Wort 5
+T54=Wort 6
+T55=Wort 7
+T56=Wort 8
+T57=Wort 9
+T58=Wort 10
+T59=Wort 11
+T60=Wort 12
+T61=Wort 13
+T62=Wort 14
+T63=Wort 15
+T64=Wort 16
+T65=1="Störung F012"
+[FB0931]
+T26=Parameter für USS-Schnittstelle
+T27=Empfangsdaten
+T28=Process Data\nvon der USS-Schnittst.
+T29=r814.01 bis .16
+T30=r815.01 bis .16
+T31=Sendedaten
+T32=Process Data\nzur USS-Schnittst.
+T33=Wort 1
+T34=Wort 2
+T35=Wort 3
+T36=Wort 4
+T37=Wort 5
+T38=Wort 6
+T39=Wort 7
+T40=Wort 8
+T41=Wort 9
+T42=Wort 10
+T43=Wort 11
+T44=Wort 12
+T45=Wort 13
+T46=Wort 14
+T47=Wort 15
+T48=Wort 16
+T49=Wort 1
+T50=Wort 2
+T51=Wort 3
+T52=Wort 4
+T53=Wort 5
+T54=Wort 6
+T55=Wort 7
+T56=Wort 8
+T57=Wort 9
+T58=Wort 10
+T59=Wort 11
+T60=Wort 12
+T61=Wort 13
+T62=Wort 14
+T63=Wort 15
+T64=Wort 16
+T65=1="Störung F013"
+[FB0932]
+T14=Busabschluß
+T15=Parameter für Peer-to-Peer - Schnittstelle:
+T16=Empfangsdaten
+T17=r812.01 bis .05
+T18=vom vorhergehenden\nAntrieb
+T19=r813.01 bis .05
+T20=Sendedaten
+T21=zum nächsten\nAntrieb
+T22=<1>Binektor=0:\nAusgangstreiber sind hochohmig
+T23=<2>Binektor=0:\nTelegrammausfallüberwachung ist nicht aktiv
+T24=Wort 1
+T25=Wort 2
+T26=Wort 3
+T27=Wort 4
+T28=Wort 5
+T29=Wort 1
+T30=Wort 2
+T31=Wort 3
+T32=Wort 4
+T33=Wort 5
+T34=1="Störung F012"
+[FB0933]
+T14=Busabschluß
+T15=Parameter für Peer-to-Peer - Schnittstelle:
+T16=Empfangsdaten
+T17=r814.01 bis .05
+T18=vom vorhergehenden\nAntrieb
+T19=r815.01 bis .05
+T20=Sendedaten
+T21=zum n„chsten\nAntrieb
+T22=<1>Binektor = 0:\nAusgangstreiber sind hochohmig
+T23=<2>Binektor = 0:\nTelegrammausfallüberwachung ist nicht aktiv
+T24=Wort 1
+T25=Wort 2
+T26=Wort 3
+T27=Wort 4
+T28=Wort 5
+T29=Wort 1
+T30=Wort 2
+T31=Wort 3
+T32=Wort 4
+T33=Wort 5
+T34=1="Störung F013"
+[FB0934]
+T21=von Zusatzbau-\ngruppe in Slot 2
+T22=Empfangsdaten
+T23=n733.01 bis .16
+T24=Wort 1
+T25=Wort 2
+T26=Wort 3
+T27=Wort 4
+T28=Wort 5
+T29=Wort 6
+T30=Wort 7
+T31=Wort 8
+T32=Wort 9
+T33=Wort 10
+T34=Wort 11
+T35=Wort 12
+T36=Wort 13
+T37=Wort 14
+T38=Wort 15
+T39=Wort 16
+T40=Parameter für Slot 2
+T41=CB - Parameter (Folgebild)
+T42=CB- bzw. TB-Diagnose (Folgebild)
+T43=zu Zusatzbau-\ngruppe in Slot 2
+T44=n735.01 bis .16
+T45=Sendedaten
+T46=Wort 1
+T47=Wort 2
+T48=Wort 3
+T49=Wort 4
+T50=Wort 5
+T51=Wort 6
+T52=Wort 7
+T53=Wort 8
+T54=Wort 9
+T55=Wort 10
+T56=Wort 11
+T57=Wort 12
+T58=Wort 13
+T59=Wort 14
+T60=Wort 15
+T61=Wort 16
+T62=1="Störung F082"
+T63=Störungsauslöser
+[FB0935]
+T21=n733.17 bis .32
+T22=Empfangsdaten
+T23=von Zusatzbau-\ngruppe in Slot 3
+T24=Wort 1
+T25=Wort 2
+T26=Wort 3
+T27=Wort 4
+T28=Wort 5
+T29=Wort 6
+T30=Wort 7
+T31=Wort 8
+T32=Wort 9
+T33=Wort 10
+T34=Wort 11
+T35=Wort 12
+T36=Wort 13
+T37=Wort 14
+T38=Wort 15
+T39=Wort 16
+T40=Parameter für Slot 3
+T41=CB-Parameter
+T42=CB- bzw. TB-Diagnose
+T43=n735.17 bis .32
+T44=Sendedaten
+T45=Wort 1
+T46=Wort 2
+T47=Wort 3
+T48=Wort 4
+T49=Wort 5
+T50=Wort 6
+T51=Wort 7
+T52=Wort 8
+T53=Wort 9
+T54=Wort 10
+T55=Wort 11
+T56=Wort 12
+T57=Wort 13
+T58=Wort 14
+T59=Wort 15
+T60=Wort 16
+T61=zu Zusatzbau-\ngruppe in Slot 3
+T62=1="Störung F082"
+T63=Störungsauslöser
+[FB0936]
+T22=Einschaltbefehl\nvon EIN/AUS1
+T23=Einschaltbefehl\nvon KRIECHEN
+T24=Einschaltbefehl\nvon TIPPEN
+T25=Betriebsfreigabe\n(von KL.38)
+T26=Impulsbildner
+T27=Bei P648 = 9 bitweise\nVorgabe der Steuerbits
+T28=Bedeutung
+T29=0=AUS1, Stillsetzen über Hochlaufgeber, dann Impulssperre\n1=EIN, Betriebsbedingung (flankengesteuert)
+T30=0=AUS2, Impulssperre, Motor trudelt aus\n1=Betriebsbedingung
+T31=0=AUS3, Schnellhalt\n1=Betriebsbedingung
+T32=1=Freigabe, Impulsfreigabe\n0=Impulssperre
+T33=1=Freigabe Hochlaufgeber\n0=Hochlaufgeber auf 0 setzen
+T34=1=HochlaufgeberStart\n0=Hochlaufgeber Halt
+T35=1=Freigabe Sollwert\n0=Sollwert sperren
+T36=0=>1 Flanke Quittieren
+T37=1=Tippen Bit0
+T38=1=Tippen Bit1
+T39=1=Fhrung gefordert  <1>\n0=keine Führung gefordert
+T40=1=Freigabe positive Drehrichtung\n0=Positive Drehrichtung gesperrt
+T41=1=Freigabe negative Drehrichtung\n0=Negative Drehrichtung gesperrt
+T42=1=Motorpoti höher
+T43=1=Motorpoti tiefer
+T44=0=externe Störung 1\n1=keine externe Störung
+T45=zur Anlaufsteuerung\nzur Bremsensteuerung
+T46=zur Ablaufsteuerung
+T47=zum Blatt "Hochlaufgeber"
+T48=zum Blatt "Tippsollwert"
+T49=zum Blatt "Sollwertaufbereitung"
+T50=zum Blatt "Motorpotentiometer"
+T51=externe Störung 1
+T52=1="Störung F021"
+[FB0937]
+T16=Bei P649 = 9 bitweise\nVorgabe der Steuerbits
+T17=Bedeutung
+T18=Anwahl Funktionsdatensatz Bit 0
+T19=Anwahl Funktionsdatensatz Bit 1
+T20=Reserve
+T21=Reserve
+T22=Anwahl Festsollwert 0
+T23=Anwahl Festsollwert 1
+T24=Reserve
+T25=Reserve
+T26=1=Freigabe Statik Drehzahlregler\n0=Statik Drehzahlregler gesperrt
+T27=1=Freigabe Drehzahlregler\n0=Drehzahlregler gesperrt
+T28=0=Externe Störung 2\n1=keine Externe Störung 2
+T29=0=Leitantrieb (Drehzahlregelung)\n1=Folgeantrieb (Momentenregelung)
+T30=0=Externe Warnung 1\n1=keine Externe Warnung 1
+T31=0=Externe Warnung 2\n1=keine Externe Warnung 2
+T32=0=Anwahl Bicodatensatz 1\n1=Anwahl Bicodatensatz 2
+T33=Rckmeldung Hauptschtz
+T34=zum Blatt ''Datensätze''
+T35=zum Blatt ''Datensätze''
+T36=zum Blatt ''Festsollwert''
+T37=zum Blatt ''Festsollwert''
+T38=zum Blatt ''Drehzahlregler''
+T39=zum Blatt ''Drehzahlregler''
+T40=externe Störung 2
+T41=1=''Störung F092''
+T42=zum Blatt\n''Momentenregelung'' und\n''Drehzahlregler''
+T43=externe Warnung 1
+T44=1=''Warnung A091''
+T45=zum Blatt ''Datensätze''
+T46=zur Ablaufsteuerung
+T47=externe Warnung 2
+T48=1=''Warnung A092''
+[FB0938]
+T30=von Ablaufsteuerung
+T31=von Ablaufsteuerung
+T32=von Ablaufsteuerung
+T33=von Störverarbeitung
+T34=von Ablaufsteuerung
+T35=von Ablaufsteuerung
+T36=von Ablaufsteuerung
+T37=von Warnverarbeitung
+T38=von Meldungen
+T39=von Ablaufsteuerung
+T40=von Meldungen
+T41=von Störverarbeitung
+T42=von Ablaufsteuerung
+T43=von Sollwertauf-\nbereitung (Teil2)
+T44=von Meldungen
+T45=Bedeutung
+T46=1=Einschaltbereit\n0=nicht Einschaltbereit
+T47=1=Betriebsbereit(Impulse gesperrt)\n0=nicht Betriebsbereit
+T48=1=Betrieb(Ausgangsklemmen unter Spannung)\n0=Impulse gesperrt
+T49=1=Störung wirksam(Impulse gesperrt)\n0=keine Störung steht an
+T50=0=AUS2 wirksam\n1=kein AUS2 steht an
+T51=0=AUS3 wirksam\n1=kein AUS3 steht an
+T52=1=Einschaltsperre\n0=keine Einschaltsperre (Einschalten möglich)
+T53=1=Warnung wirksam\n0=keine Warnung steht an
+T54=0=Soll-Ist-Abweichung\n1=keine Soll-Ist-Abweichung erkannt
+T55=1=PZD-Führung gefordert (immer 1)
+T56=1=Vergleichssollwert erreicht\n0=Vergleichssollwert nicht erreicht
+T57=1=Störung Unterspannung\n0=Störung Unterspannung steht nicht an
+T58=1=Anforderung Hauptschütz ansteuern\n0=Anforderung Hauptschütz nicht ansteuern
+T59=1=Hochlaufgeber aktiv\n0=Hochlaufgeber nicht aktiv
+T60=1=Positiver Drehzahlsollwert\n0=Negativer Drehzahlsollwert
+T61=Reserve
+[FB0939]
+T22=von Meldungen
+T23=von Ablaufsteuerung
+T24=von Ablaufsteuerung
+T25=von Ablaufsteuerung
+T26=von Warnverarbeitung
+T27=von Störverarbeitung
+T28=von Warnverarbeitung
+T29=von Warnverarbeitung
+T30=von Störverarbeitung
+T31=von Störverarbeitung
+T32=Bedeutung
+T33=Reserve
+T34=Reserve
+T35=0=Überdrehzahl\n1=keine Überdrehzahl
+T36=1=externe Störung1 wirksam\n0=keine externe Störung1 steht an
+T37=1=externe Störung2 wirksam\n0=keine externe Störung2 steht an
+T38=1=externe Warnung wirksam\n0=keine externe warnung steht an
+T39=1=Warnung Überlast Leistungsteil wirksam\n0=keine Warnung Überlast
+T40=1=Störung Übertemperatur Leistungsteilwirksam\n0=keine Störung Übertemperatur
+T41=1=Warnung Übertemperatur Leistungsteil wirksam\n0=keine Warnung Übertemperatur
+T42=1=Warnung Übertemperatur Motor wirksam\n0=keine Warnung Übertemperatur Motor
+T43=1=Störung Übertemperatur Motor wirksam\n0=keine Störung Übertemperatur Motor
+T44=Reserve
+T45=1=Störung Motor blockiert wirksam\n0=keine Störung Motor blockiert
+T46=Reserve
+T47=Reserve
+T48=Reserve
+[FB0940]
+T18=Positiver Drehzahlsollwert\nan Zustandswort 1.Bit14
+T19=Ausschalt-\nverzögerung
+T20=Ausschalt-\nverzögerung
+T21=AUS1 oder AUS3\nvon Ablaufsteuerung
+T22=Soll-Ist-Abweichung\nan Zustandswort 1.Bit 8
+T23=1=''Störung F031''
+T24=1=''Warnung A031''
+T25=Vergleichssollwert erreicht\nan Zustandswort 1.Bit 10
+T26=Ausschalt-\nverzögerung
+T27=Zündimpulssperre
+T28=1=''Störung F038''
+T29=1=''Warnung A038''
+T30=Überdrehzahl\nan Zustandswort 2.Bit18
+[FB0941]
+T36=interner Summen-\nZündimpuls
+T37=CLK vom Master
+T38=CLK zu Slaves
+T39=Sendedaten
+T40=(zum\nnächsten\nAntrieb)
+T41=Störungsauslösung
+T42=1=''Störung F014''
+T43=interner Zündimpuls
+T44=Summenzündimpuls
+T45=Zündimpuls
+T46=vom Master
+T47=vom\nMaster
+T48=Momenten-\nrichtung,\nThyristorauswahl
+T49=Empfangsdaten
+T50=vom\nSlave 2
+T51=vom Slave 3
+T52=vom Slave 4
+T53=vom Slave 5
+T54=vom Slave 6
+T55=Parameter fr Parallelschalt - Schnittstelle:
+[FB0942]
+T8=(PTC Warnung) 01:1
+T9=(PTC Abschaltung) 02:1\n(KTY84) 15:1
+T10=Störung Motortem-\nperatur analog 1
+T11=Warnung Motortem-\nperatur analog 1
+T12=Störung Motortem-\nperatur analog 1
+T13=Warnung Motortem-\nperatur analog 1
+T14=Warnung\nMotortemperatur(analog)
+T15=1=''Warnung A029)''
+T16=(PTC Warnung) 01:1
+T17=(PTC Abschaltung) 02:1\n(KTY84) 15:1
+T18=Störung Motortem-\nperatur analog 2
+T19=Warnung Motortem-\nperatur analog 2
+T20=Störung Motortem-\nperatur analog 2
+T21=Warnung Motortem-\nperatur analog 2
+T22=Störung\nMotortemperatur (analog)
+T23=1=''Störung F029''
+[FB0943]
+T13=Binäreingänge (3)
+T14=Überwachung\nBürstenlänge (binär)\n0=Störung
+T15=Überwachung\nLagerzustand (binär)\n1=Störung
+T16=Überwachung\nMotorlüfter (binär)\n0=Störung
+T17=Luftstrom-\nwächter
+T18=Überwachung\nMotortemperatur (binär)\n0=Störung
+T19=Anzeige der Klemmenzustände\nan 7-Segmentanzeige siehe\nBlockschaltbild ''Binäreingänge (1)''
+T20=10s Einschalt-\nverzögerung
+T21=2s Einschalt-\nverzögerung
+T22=Betriebs-\nzustand<o6
+T23=40s Einschalt-\nverzögerung
+T24=10s Einschalt-\nverzögerung
+T25=<1> Wenn der Parameter auf 0 gestellt wird,\nkann der zugehörige binäre Eingang als\nWahleingang für beliebige Anwendungen\nverwendet werden
+T26=Warnung Bürstenlänge (binär)
+T27=1=''Warnung A025''
+T28=St”rung Bürstenlänge (binär)
+T29=1=''Störung F025''
+T30=Warnung Lagerzustand
+T31=1=''Warnung A026''
+T32=Störung Lagerzustand
+T33=1=''Störung F026''
+T34=Warnung Motorlüfter
+T35=1=''Warnung A027''
+T36=Störung Motorlüfter
+T37=1=''Störung F027''
+T38=Warnung Motortemperatur (binär)
+T39=1=''Warnung A028''
+T40=Störung Motortemperatur (binär)
+T41=1=''Störung F028''
+

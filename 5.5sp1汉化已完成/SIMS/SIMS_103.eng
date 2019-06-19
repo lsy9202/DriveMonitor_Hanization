@@ -1,0 +1,2008 @@
+0001
+Operation state                 
+0002
+Motor EMF                       
+0003
+Total motor current             
+0004
+Motor frequency                 
+0005
+DC-link current                 
+0006
+Electrical motor power          
+0007
+Electrical motor torque         
+0008
+Motor power-factor              
+0009
+Motor speed                     
+0013
+Running hours                   
+0014
+Set operating hours             
+0015
+Fault number                    
+0016
+Exciter current                 
+0017
+Start-up counter                
+0050
+Language                        
+0051
+Access level                    
+0052
+Function selection              
+0070
+Type of converter               
+0072
+Rated DC-link current           
+0075
+Converter configuration         
+0076
+Config. converter monitoring 1  
+0077
+Config. converter monitoring 2  
+0080
+Invalid configuration           
+0081
+Rated current DC-link reactor   
+0082
+Therm.time const.DC-link reactor
+0085
+Type of input transformer       
+0086
+Type of output transformer      
+0090
+Main breaker configuration      
+0091
+Filter breaker  configuration   
+0095
+Terminal strip configuration    
+0096
+Select AI of terminal strip A300
+0097
+Select AI of terminal strip A500
+0098
+Select AI of terminal strip A600
+0099
+Select AI of terminal strip A700
+0100
+Select AI of terminal strip A700
+0101
+Broken wire terminal strip A300 
+0102
+Broken wire terminal strip A400 
+0103
+Broken wire terminal strip A500 
+0104
+Broken wire terminal strip A600 
+0105
+Broken wire terminal strip A700 
+0106
+Broken wire terminal strip A700 
+0185
+S.Redundancy: Master-/Slave sys.
+0186
+Controlword 3                   
+0190
+Analog inputs measuring range   
+0191
+Smoothing analog input 1        
+0192
+Offset adj. analog input 1      
+0193
+Smoothing analog input 2        
+0194
+Offset adj. analog input 2      
+0195
+Smoothing analog input 3        
+0196
+Offset adj. analog input 3      
+0197
+Smoothing analog input 4        
+0198
+Offset adj. analog input 4      
+0199
+base.Monitoring mode analog inp.
+0201
+Controlword 1                   
+0202
+Controlword 2                   
+0203
+Stateword 1                     
+0204
+Stateword 2                     
+0205
+Stateword 3                     
+0206
+Stateword 4                     
+0207
+Stateword 5                     
+0210
+Sb.Start release                
+0211
+Sb.On/Off1                      
+0212
+Sb1.Off2                        
+0213
+Sb2.Off2                        
+0214
+Sb3.Off2                        
+0215
+Sb1.Off3                        
+0216
+Sb2.Off3                        
+0217
+Sb3.Off3                        
+0218
+Sb.Enable converter             
+0219
+Sb.Enable ramp-fct. generator   
+0220
+Sb.Stop ramp-fct. generator     
+0221
+Sb.Enable n/f-Setpoint          
+0222
+Sb1.Acknowledge                 
+0223
+Sb2.Acknowledge                 
+0224
+Sb3.Acknowledge                 
+0225
+Sb.Joging 1                     
+0226
+Sb.Joging 2                     
+0227
+Sb.Clockwise rotation           
+0228
+Sb.Counter-clockwise rotation   
+0229
+Sb.Raise motor.potentiometer    
+0230
+Sb.Lower motor.potentiometer    
+0231
+Sb.External fault 1             
+0232
+Sb.Select setpoints a/b/c/d Bit0
+0233
+Sb.Select setpoints a/b/c/d Bit1
+0234
+Sb.Select motordata 1/2/3/4 Bit0
+0235
+Sb.Select motordata 1/2/3/4 Bit1
+0236
+Sb.Select setpoint 1/2/3/4 Bit0 
+0237
+Sb.Select setpoint 1/2/3/4 Bit1 
+0238
+Sb.Enable exciting              
+0239
+Sb.Enable technology control    
+0240
+Sb.Enable n/f-controller        
+0241
+Sb.External fault 2             
+0242
+Sb.Master/Slave drive           
+0243
+Sb.External alarm 1             
+0244
+Sb.External alarm 2             
+0245
+S.Base/standby mode b/s         
+0246
+Sb.Auxilliaries on              
+0247
+base.Reactions ext. fault&alarm 
+0250
+Sb.Main setpoint                
+0251
+Kpb.Main setpoint               
+0252
+Main setpoint                   
+0253
+Sb.Additional setpoint 1        
+0254
+Kpb.Additional setpoint 1       
+0255
+Addtional setpoint 1            
+0256
+Sb.Additional setpoint 2        
+0257
+Kpb.Additional setpoint 2       
+0258
+Addtional setpoint 2            
+0260
+Sb.Torque setpoint              
+0261
+Kpb.Torque setpoint             
+0262
+Torque setpoint                 
+0263
+Sb.Additional torque setpoint   
+0264
+Kpb.Addtional torque setpoint   
+0265
+Torque addtional setpoint       
+0266
+Sb.Torque limiting1 motor mode  
+0267
+Kpb.Torque limiting1 motor mode 
+0268
+Torque limting1  motor mode     
+0269
+Sb.Torque limiting1 gen.mode    
+0270
+Kpb.Torque limiting1 gen.mode   
+0271
+Torque limting1  gen. mode      
+0272
+Sb.Torque limiting2 motor mode  
+0273
+Kpb.Torque limiting2 motor mode 
+0274
+Torque limting2  gen. mode      
+0275
+Sb.Torque limiting2 gen.mode    
+0276
+Kpb.Torque limiting2 gen.mode   
+0277
+Torque limting2  gen. mode      
+0278
+Total torque setpoint           
+0289
+Operation time at base setpoint 
+0290
+base.Base setpoint              
+0291
+a.Fixed setpoint 1              
+0292
+a.Fixed setpoint 2              
+0293
+a.Fixed setpoint 3              
+0294
+a.Fixed setpoint 4              
+0295
+Jog setpoint 1                  
+0296
+Jog setpoint 2                  
+0297
+a.Torque fixed setpoint         
+0298
+1.Additional torque heavy-start 
+0300
+Mode motorized potentiometer    
+0301
+a.Start value motorized poti.   
+0302
+a.Set mode motorized poti.      
+0303
+a.Ramp time motorized poti.     
+0305
+State Ramp-function generator   
+0306
+Input Ramp-function generator   
+0307
+Output Ramp-function generator  
+0308
+a.Ramp up-time                  
+0309
+a.Ramp up-time after event      
+0310
+a.Ramp up rounding-off time     
+0311
+a.Ramp down-time                
+0312
+a.OFF3-Ramp down-time           
+0313
+a.Ramp down rounding-off time   
+0314
+a.Tracking Ramp-function gen.   
+0315
+Hysteresis Ramp-fct. gen. Active
+0320
+a.Suppression n/f-value         
+0321
+a.Bandwidth suppression n/f-val.
+0322
+1.Max n/f clockw. rotation      
+0323
+1.Max n/f cnt. Clockw. rotation 
+0324
+a.Minimal n/f-value             
+0325
+n/f-hysteresis overspeed        
+0326
+n/f-value deviation             
+0327
+Threshold time n/f-deviation    
+0328
+1.Max. stall-time               
+0329
+Comparison n/f-value 1          
+0330
+Hysteresis comparison n/f-value1
+0331
+Comparison n/f-value 2          
+0332
+Hysteresis comparison n/f-value2
+0333
+Off1&3 n/f-limit value          
+0334
+a.Off1&3 delay-time             
+0335
+Sum 1 n/f-setpoints             
+0336
+Sum 2 n/f-setpoints             
+0337
+Threshold-time at torque-limit  
+0338
+Total n/f-setpoint              
+0340
+a.Torque limit motor mode       
+0341
+a.M=f(|f/n|) ordinate val.1 mot.
+0342
+a.M=f(|f/n|) ordinate val.2 mot.
+0343
+a.M=f(|f/n|) ordinate val.3 mot.
+0344
+a.M=f(|f/n|) ordinate val.4 mot.
+0345
+a.M=f(|f/n|) ordinate val.5 mot.
+0346
+a.M=f(|f/n|) ordinate val.6 mot.
+0347
+M=f(|f/n|) abscissa value 1     
+0348
+M=f(|f/n|) abscissa value 2     
+0349
+M=f(|f/n|) abscissa value 3     
+0350
+M=f(|f/n|) abscissa value 4     
+0351
+M=f(|f/n|) abscissa value 5     
+0352
+M=f(|f/n|) abscissa value 6     
+0355
+a.Torque limit generator mode   
+0356
+a.M=f(|f/n|) ordinate val.1 gen.
+0357
+a.M=f(|f/n|) ordinate val.2 gen.
+0358
+a.M=f(|f/n|) ordinate val.3 gen.
+0359
+a.M=f(|f/n|) ordinate val.4 gen.
+0360
+a.M=f(|f/n|) ordinate val.5 gen.
+0361
+a.M=f(|f/n|) ordinate val.6 gen.
+0370
+1.n/f-Gain Pre-control value    
+0371
+1.n/f-Smooth. Pre-control value 
+0372
+1.n/f-Controller(kp)            
+0373
+1.n/f-Controller(Tn)            
+0374
+Sb.Adaption n/f-Controller(kp)  
+0375
+Kpb.Adaption n/f-Controller(kp) 
+0376
+1.Droop-mode n/f-Controller     
+0377
+1.Smooth.droop-value n/f-Ctrl.  
+0378
+1.Gain droop-value n/f-Ctrl.    
+0379
+Max.limit n/f-controller        
+0380
+Min.limit n/f-controller        
+0381
+n/f-controller(kp)              
+0382
+n/f-controller deviation        
+0383
+Output n/f-controller           
+0384
+Droop-value n/f-controller      
+0385
+Sb.Adaption n/f-Controller(Tn)  
+0386
+Kpb.Adaption n/f-Controller(Tn) 
+0387
+n/f-controller(Tn)              
+0388
+n/f-controller stateword        
+0389
+Output n/f-controller I-value   
+0390
+Line CB:Inputs inverting        
+0392
+Line CB:Mode                    
+0393
+Line CB:Monitoring time         
+0394
+Line CB:Signal length           
+0395
+Line CB:Wait. time transf. rush 
+0396
+Line CB:Blocking time           
+0397
+Line CB1:Inputs&Outputs         
+0398
+Line CB2:Inputs&Outputs         
+0399
+Line CB1:Switch-off time        
+0400
+Line CB2:Switch-off time        
+0405
+Run-on time Cooling system      
+0406
+Starting time Cooling system    
+0408
+Inverting control cubicle inputs
+0409
+Fan operating hours             
+0410
+Fan max. operating hours        
+0411
+Control cubicle inputs          
+0412
+Inverting converter inputs      
+0413
+Converter signal inputs         
+0416
+Inverting heat-exchanger inputs 
+0417
+Heat-exchanger inputs           
+0418
+Inverting heat-exchanger outputs
+0419
+Heat-exchanger outputs          
+0420
+Thermal load DC-link reaktor    
+0422
+Air temp.limit 1 Control cubicle
+0423
+Air temp.limit 2 Control cubicle
+0425
+Air temperature control cubicle 
+0426
+Air temp.limit 1 SAV compartment
+0427
+Air temp.limit 2 SAV compartment
+0428
+Air temp. SAV compartment 1     
+0429
+Air temp. SAV compartment 2     
+0430
+D.Remote terminal strip AO 1    
+0431
+Gain remote terminal strip AO1  
+0432
+Offset remote terminal strip AO1
+0433
+Smooth.remote terminal strip AO1
+0434
+D.Remote terminal strip AO 2    
+0435
+Gain remote terminal strip AO2  
+0436
+Offset remote terminal strip AO2
+0437
+Smooth.remote terminal strip AO2
+0438
+D.Remote terminal strip AO 3    
+0439
+Gain remote terminal strip AO3  
+0440
+Offset remote terminal strip AO3
+0441
+Smooth.remote terminal strip AO3
+0442
+D.Remote terminal strip AO 4    
+0443
+Gain remote terminal strip AO4  
+0444
+Offset remote terminal strip AO4
+0445
+Smooth.remote terminal strip AO4
+0446
+Analog outputs measuring range  
+0450
+Watertemp.limit 1 module tower  
+0451
+Watertemp.limit 2 module tower  
+0452
+Water outlet-temp. module tower1
+0453
+Water outlet-temp. module tower2
+0454
+Watertemp.limit1 DC-link reactor
+0455
+Watertemp.limit2 DC-link reactor
+0456
+Water outlet DC-link reactor 1  
+0457
+Water outlet DC-link reactor 2  
+0458
+Watertemp. 2.DC-link react.sys.1
+0459
+Watertemp. 2.DC-link react.sys.2
+0460
+D.Process word 3                
+0461
+D.Process word 4                
+0462
+D.Process data 5                
+0463
+D.Process data 6                
+0464
+D.Process data 7                
+0465
+D.Process data 8                
+0466
+D.Process data 9                
+0467
+D.Process word 9                
+0468
+D.Process data 10               
+0469
+D.Process word 10               
+0470
+Scaling process data            
+0471
+Monitoring mode process data    
+0472
+D.Process data 11               
+0473
+D.Process data 12               
+0474
+D.Process data 13               
+0475
+D.Process data 14               
+0476
+D.Process data 15               
+0477
+D.Process word 15               
+0478
+D.Process data 16               
+0479
+D.Process word 16               
+0480
+Enable technology data          
+0481
+D.Technology data 3 Word 1      
+0482
+D.Technology data 3 Word 2      
+0483
+D.Technology data 4 Word 1      
+0484
+D.Technology data 4 Word 2      
+0485
+D.Technology data 9             
+0486
+D.Technology data 10            
+0487
+D.Technology data 11            
+0488
+D.Technology data 12            
+0489
+D.Technology data 13            
+0490
+D.Technology data 14            
+0491
+D.Technology data 15            
+0492
+D.Technology data 16            
+0500
+Motor CB:Inputs inverting       
+0502
+Motor CB:Mode                   
+0503
+Motor CB:Monitoring time        
+0504
+Motor CB:Signal length          
+0506
+Motor CB:Blocking time          
+0507
+Motor CB:Inputs&Outputs         
+0509
+Motor CB:Switch-off time        
+0510
+Inrush CB:Inputs inverting      
+0512
+Inrush CB:Mode                  
+0513
+Inrush CB:Monitoring time       
+0514
+Inrush CB:Signal length         
+0515
+Inrush CB:Overlap time          
+0516
+Inrush CB:Blocking time         
+0517
+Inrush CB:Inputs&Outputs        
+0520
+Filter CB:Inputs inverting      
+0522
+Filter CB:Mode                  
+0523
+Filter CB:Monitoring time       
+0524
+Filter CB:Signal length         
+0525
+Filter CB:Converter inhibit time
+0526
+Filter CB:Blocking time         
+0527
+Filter CB:Inputs&Outputs        
+0530
+Input transformer:Temp.limit A.1
+0531
+Input transformer:Temp.limit A.2
+0532
+Input transformer:Temp.limit B.1
+0533
+Input transformer:Temp.limit B.2
+0534
+Input transformer:Temp.limit C.1
+0535
+Input transformer:Temp.limit C.2
+0536
+Input transformer:Temp.limit D.1
+0537
+Input transformer:Temp.limit D.2
+0540
+Input transformer:Temperature 1 
+0541
+Input transformer:Temperature 2 
+0542
+Input transformer:Temperature 3 
+0543
+Input transformer:Temperature 4 
+0544
+Input transformer:Temperature 5 
+0545
+Input transformer:Temperature 6 
+0546
+Input transformer:Temperature 7 
+0547
+Input transformer:Temperature 8 
+0548
+Input transformer:Temperature 9 
+0549
+Input transformer:Temperature 10
+0550
+Input transformer:Temperature 11
+0551
+Input transformer:Temperature 12
+0552
+Input transformer:Invert. Inputs
+0553
+Input transformer:Signal inputs 
+0554
+Max. converter current          
+0560
+Outp.transformer:Temp.limit A.1 
+0561
+outp.transformer:Temp.limit A.2 
+0562
+Outp.transformer:Temp.limit B.1 
+0563
+Outp.transformer:Temp.limit B.2 
+0564
+Outp.transformer:Temp.limit C.1 
+0565
+Outp.transformer:Temp.limit C.2 
+0566
+Outp.transformer:Temp.limit D.1 
+0567
+Outp.transformer:Temp.limit D.1 
+0570
+Output transformer:Temperature 1
+0571
+Output transformer:Temperature 2
+0572
+Output transformer:Temperature 3
+0573
+Output transformer:Temperature 4
+0574
+Output transformer:Temperature 5
+0575
+Output transformer:Temperature 6
+0576
+Output transformer:Temperature 7
+0577
+Output transformer:Temperature 8
+0578
+Output transformer:Temperature 9
+0579
+Output transformer:Temperature10
+0580
+Output transformer:Temperature11
+0581
+Output transformer:Temperature12
+0582
+Output transformer:Invert.Inputs
+0583
+Output transformer:Signal inputs
+0600
+1.Motor type                    
+0601
+1.Motor encoder: No. of bars    
+0602
+1.Motor(P rated)                
+0603
+1.Motor(U rated)                
+0604
+1.Motor(I rated)                
+0606
+1.Motor(f weak)                 
+0607
+1.Motor(f rated)                
+0608
+1.Motor:No. Of polepairs        
+0609
+1.Motor(N rated)                
+0610
+1.Motor:R stator circuit        
+0611
+1.Motor:X stator circuit        
+0612
+1.Motor:R rotor circuit         
+0613
+1.Motor:X rotor circuit         
+0614
+1.MSR:Commutation reactance     
+0615
+1.MSR:Extinction angle          
+0616
+1.MSR:Firing angle inverter mode
+0617
+1.MSR:Firing angle rectif. mode 
+0620
+3.Motor type                    
+0621
+3.Motor encoder: No. of bars    
+0622
+3.Motor(P rated)                
+0623
+3.Motor(U rated)                
+0624
+3.Motor(I rated)                
+0626
+3.Motor(f weak)                 
+0627
+3.Motor(f rated)                
+0628
+3.Motor:No. Of polepairs        
+0629
+3.Motor(N rated)                
+0630
+3.Motor:R stator circuit        
+0631
+3.Motor:X stator circuit        
+0632
+3.Motor:R rotor circuit         
+0633
+3.Motor:X rotor circuit         
+0634
+3.MSR:Commutation reactance     
+0635
+3.MSR:Extinction angle          
+0636
+3.MSR:Firing angle inverter mode
+0637
+3.MSR:Firing angle rectif. mode 
+0640
+AS/BS-bearing temp.-limit 1     
+0641
+AS/BS-bearing temp.-limit 2     
+0642
+Exciter-bearing temp.-limit 1   
+0643
+Exciter-bearing temp.-limit 2   
+0644
+Cool.medium inlet temp.-limit 1 
+0645
+Cool.medium inlet temp.-limit 2 
+0646
+Cool.medium outlet temp.-limit 1
+0647
+Cool.medium outlet temp.-limit 2
+0648
+Stator winding temp.-limit 1    
+0649
+Stator winding temp.-limit 2    
+0650
+Exciter winding temp.-limit 1   
+0651
+Exciter winding temp.-limit 2   
+0652
+Motor temperature 18-22 limit 1 
+0653
+Motor temperature 18-22 limit 2 
+0655
+Motor: Inverting inputs 1       
+0656
+Motor: Inverting inputs 2       
+0657
+Motor:On-delay signal inputs    
+0691
+c.Fixed setpoint 1              
+0692
+c.Fixed setpoint 2              
+0693
+c.Fixed setpoint 3              
+0694
+c.Fixed setpoint 4              
+0697
+c.Torque fixed setpoint         
+0698
+3.Additional torque heavy-start 
+0701
+c.Start value motorized poti.   
+0702
+c.Set mode motorized poti.      
+0703
+c.Ramp time motorized poti.     
+0708
+c.Ramp up-time                  
+0709
+c.Ramp up-time after event      
+0710
+c.Ramp up rounding-off time     
+0711
+c.Ramp down-time                
+0712
+c.OFF3-Ramp down-time           
+0713
+c.Ramp down rounding-off time   
+0714
+c.Tracking Ramp-function gen.   
+0720
+c.Suppression n/f-value         
+0721
+c.Bandwidth suppression n/f-val.
+0722
+3.Max n/f clockw. rotation      
+0723
+3.Max n/f cnt. Clockw. rotation 
+0724
+c.Minimal n/f-value             
+0728
+3.Max. stall-time               
+0734
+c.Off1&3 delay-time             
+0740
+c.Torque limit motor mode       
+0741
+c.M=f(|f/n|) ordinate val.1 mot.
+0742
+c.M=f(|f/n|) ordinate val.2 mot.
+0743
+c.M=f(|f/n|) ordinate val.3 mot.
+0744
+c.M=f(|f/n|) ordinate val.4 mot.
+0745
+c.M=f(|f/n|) ordinate val.5 mot.
+0746
+c.M=f(|f/n|) ordinate val.6 mot.
+0755
+c.Torque limit generator mode   
+0756
+c.M=f(|f/n|) ordinate val.1 gen.
+0757
+c.M=f(|f/n|) ordinate val.2 gen.
+0758
+c.M=f(|f/n|) ordinate val.3 gen.
+0759
+c.M=f(|f/n|) ordinate val.4 gen.
+0760
+c.M=f(|f/n|) ordinate val.5 gen.
+0761
+c.M=f(|f/n|) ordinate val.6 gen.
+0770
+3.n/f-Gain Pre-control value    
+0771
+3.n/f-Smooth. Pre-control value 
+0772
+3.n/f-Controller(kp)            
+0773
+3.n/f-Controller(Tn)            
+0776
+3.Droop-mode n/f-Controller     
+0777
+3.Smooth.droop-value n/f-Ctrl.  
+0778
+3.Gain droop-value n/f-Ctrl.    
+0800
+Motor temp.1: AS-bearing        
+0801
+Motor temp.2: AS-bearing        
+0802
+Motor temp.3: Exciter-bearing   
+0803
+Motor temp.4: Cool-medium inlet1
+0804
+Motor temp.5: Cool-medium inlet2
+0805
+Motor temp.6: Cool-medium inlet3
+0806
+Motor temp.7:Cool-medium outlet1
+0807
+Motor temp.8:Cool-medium outlet2
+0808
+Motor temp.9:Stator winding 2U1 
+0809
+Motor temp.10:Stator winding 2V1
+0810
+Motor temp.11:Stator winding 2W1
+0811
+Motor temp.12:Stator winding 2U2
+0812
+Motor temp.13:Stator winding 2V2
+0813
+Motor temp.14:Stator winding 2W2
+0814
+Motor temp.15:Exciter winding 2U
+0815
+Motor temp.16:Exciter winding 2V
+0816
+Motor temp.17:Exciter winding 2W
+0817
+Motor temp.18:spare             
+0818
+Motor temp.19:spare             
+0819
+Motor temp.20:spare             
+0820
+Motor temp.21:spare             
+0821
+Motor temp.22:spare             
+0822
+Motor signal inputs 1           
+0823
+Motor signal inputs 2           
+0830
+Encoder speed actual value      
+0831
+Motor terminal voltage          
+0832
+Motor current system 1          
+0833
+Motor current system 2          
+0834
+Flux setpoint                   
+0835
+Flux actual value               
+0836
+Exciter current setpoint        
+0837
+MSR firing angle                
+0840
+DC-link current system 1        
+0841
+DC-link current system 2        
+0842
+DC-link current setpoint        
+0843
+NSR1 firing angle               
+0844
+NSR2 firing angle               
+0845
+Line voltage                    
+0846
+Line frequency                  
+0847
+Artifical neutral volt. System 1
+0848
+Artifical neutral volt. System 2
+0866
+Fault/alarm number Simotras     
+0867
+Air temperature exciter cubicle 
+0868
+Current actual value Simotras   
+0869
+Stateword Simotras              
+0870
+Select synchronizier            
+0871
+Invert.synchronizier&exc. Inputs
+0872
+Synchronizier&excitation inputs 
+0873
+Ramp-time motor-voltage         
+0874
+Ramp-time motor-frequency       
+0875
+Synchronizier start frequency   
+0876
+Synchronizier&excitation outputs
+0877
+Timeout Start-up                
+0878
+Timeout Synchronizing           
+0879
+Timeout Shutdown                
+0880
+S.Enable exciter current        
+0881
+S.Motor is online               
+0882
+S.Excitation is ready           
+0883
+S.Input CB is on                
+0884
+S.Input CB is off               
+0885
+S.Output CB is on               
+0886
+S.Output CB is off              
+0887
+S.Input CB is ready             
+0888
+S.Input CB in local mode        
+0889
+S.Output CB is ready            
+0890
+S.Output CB in local mode       
+0891
+S.Motor shut down               
+0896
+AUR Controlword                 
+0897
+S.Exciter actual value          
+0899
+AUR Stateword                   
+0918
+Profibus address                
+1000
+D.Stateword 5.0                 
+1001
+D.Stateword 5.1                 
+1002
+D.Stateword 5.2                 
+1003
+D.Stateword 5.3                 
+1004
+D.Stateword 5.4                 
+1005
+D.Stateword 5.5                 
+1006
+D.Stateword 5.6                 
+1007
+D.Stateword 5.7                 
+1008
+D.Stateword 5.8                 
+1009
+D.Stateword 5.9                 
+1010
+D.Stateword 5.10                
+1011
+D.Stateword 5.11                
+1012
+D.Stateword 5.12                
+1013
+D.Stateword 5.13                
+1014
+D.Stateword 5.14                
+1015
+D.Stateword 5.15                
+1020
+Bit mask(D.Stateword 5.0)       
+1021
+Bit mask(D.Stateword 5.1)       
+1022
+Bit mask(D.Stateword 5.2)       
+1023
+Bit mask(D.Stateword 5.3)       
+1024
+Bit mask(D.Stateword 5.4)       
+1025
+Bit mask(D.Stateword 5.5)       
+1026
+Bit mask(D.Stateword 5.6)       
+1027
+Bit mask(D.Stateword 5.7)       
+1028
+Bit mask(D.Stateword 5.8)       
+1029
+Bit mask(D.Stateword 5.9)       
+1030
+Bit mask(D.Stateword 5.10)      
+1031
+Bit mask(D.Stateword 5.11)      
+1032
+Bit mask(D.Stateword 5.12)      
+1033
+Bit mask(D.Stateword 5.13)      
+1034
+Bit mask(D.Stateword 5.14)      
+1035
+Bit mask(D.Stateword 5.15)      
+1199
+s.Monitoring mode analog inputs 
+1210
+Ss.Start release                
+1211
+Ss.On/Off1                      
+1212
+Ss1.Off2                        
+1213
+Ss2.Off2                        
+1214
+Ss3.Off2                        
+1215
+Ss1.Off3                        
+1216
+Ss2.Off3                        
+1217
+Ss3.Off3                        
+1218
+Ss.Enable converter             
+1219
+Ss.Enable ramp-fct. generator   
+1220
+Ss.Stop ramp-fct. generator     
+1221
+Ss.Enable n/f-Setpoint          
+1222
+Ss1.Acknowledge                 
+1223
+Ss2.Acknowledge                 
+1224
+Ss3.Acknowledge                 
+1225
+Ss.Joging 1                     
+1226
+Ss.Joging 2                     
+1227
+Ss.Clockwise rotation           
+1228
+Ss.Counter-clockwise rotation   
+1229
+Ss.Raise motor.potentiometer    
+1230
+Ss.Lower motor.potentiometer    
+1231
+Ss.External fault 1             
+1232
+Ss.Select setpoints a/b/c/d Bit0
+1233
+Ss.Select setpoints a/b/c/d Bit1
+1234
+Ss.Select motordata 1/2/3/4 Bit0
+1235
+Ss.Select motordata 1/2/3/4 Bit1
+1236
+Ss.Select setpoint 1/2/3/4 Bit0 
+1237
+Ss.Select setpoint 1/2/3/4 Bit1 
+1238
+Ss.Enable exciting              
+1239
+Ss.Enable technology control    
+1240
+Ss.Enable n/f-controller        
+1241
+Ss.External fault 2             
+1242
+Ss.Master/Slave drive           
+1243
+Ss.External alarm 1             
+1244
+Ss.External alarm 2             
+1246
+Ss.Auxilliaries on              
+1247
+s.Reactions external fault&alarm
+1250
+Ss.Main setpoint                
+1251
+Kps.Main setpoint               
+1253
+Ss.Additional setpoint 1        
+1254
+Kps.Additional setpoint 1       
+1256
+Ss.Additional setpoint 2        
+1257
+Kps.Additional setpoint 2       
+1260
+Ss.Torque setpoint              
+1261
+Kps.Torque setpoint             
+1263
+Ss.Additional torque setpoint   
+1264
+Kps.Addtional torque setpoint   
+1266
+Ss.Torque limiting1 motor mode  
+1267
+Kps.Torque limiting1 motor mode 
+1269
+Ss.Torque limiting1 gen.mode    
+1270
+Kps.Torque limiting1 gen.mode   
+1272
+Ss.Torque limiting2 motor mode  
+1273
+Kpb.Torque limiting2 motor mode 
+1275
+Ss.Torque limiting2 gen.mode    
+1276
+Kps.Torque limiting2 gen.mode   
+1290
+s.Base setpoint                 
+1291
+b.Fixed setpoint 1              
+1292
+b.Fixed setpoint 2              
+1293
+b.Fixed setpoint 3              
+1294
+b.Fixed setpoint 4              
+1297
+b.Torque fixed setpoint         
+1298
+2.Additional torque heavy-start 
+1301
+b.Start value motorized poti.   
+1302
+b.Set mode motorized poti.      
+1303
+b.Ramp time motorized poti.     
+1308
+b.Ramp up-time                  
+1309
+b.Ramp up-time after event      
+1310
+b.Ramp up rounding-off time     
+1311
+b.Ramp down-time                
+1312
+b.OFF3-Ramp down-time           
+1313
+b.Ramp down rounding-off time   
+1314
+b.Tracking Ramp-function gen.   
+1320
+b.Suppression n/f-value         
+1321
+b.Bandwidth suppression n/f-val.
+1322
+2.Max n/f clockw. rotation      
+1323
+2.Max n/f cnt. Clockw. rotation 
+1324
+b.Minimal n/f-value             
+1328
+2.Max. stall-time               
+1334
+b.Off1&3 delay-time             
+1340
+b.Torque limit motor mode       
+1341
+b.M=f(|f/n|) ordinate val.1 mot.
+1342
+b.M=f(|f/n|) ordinate val.2 mot.
+1343
+b.M=f(|f/n|) ordinate val.3 mot.
+1344
+b.M=f(|f/n|) ordinate val.4 mot.
+1345
+b.M=f(|f/n|) ordinate val.5 mot.
+1346
+b.M=f(|f/n|) ordinate val.6 mot.
+1355
+b.Torque limit generator mode   
+1356
+b.M=f(|f/n|) ordinate val.1 gen.
+1357
+b.M=f(|f/n|) ordinate val.2 gen.
+1358
+b.M=f(|f/n|) ordinate val.3 gen.
+1359
+b.M=f(|f/n|) ordinate val.4 gen.
+1360
+b.M=f(|f/n|) ordinate val.5 gen.
+1361
+b.M=f(|f/n|) ordinate val.6 gen.
+1370
+2.n/f-Gain Pre-control value    
+1371
+2.n/f-Smooth. Pre-control value 
+1372
+2.n/f-Controller(kp)            
+1373
+2.n/f-Controller(Tn)            
+1374
+Ss.Adaption n/f-Controller(kp)  
+1375
+Kpb.Adaption n/f-Controller(kp) 
+1376
+2.Droop-mode n/f-Controller     
+1377
+2.Smooth.droop-value n/f-Ctrl.  
+1378
+2.Gain droop-value n/f-Ctrl.    
+1385
+Ss.Adaption n/f-Controller(Tn)  
+1386
+Kps.Adaption n/f-Controller(Tn) 
+1390
+S.Technology message-word 1     
+1391
+S.Technology message-word 2     
+1392
+S.Technology message-word 3     
+1393
+S.Technology message-word 4     
+1394
+S.Technology message-word 5     
+1395
+S.Technology message-word 6     
+1396
+S.Technology message-word 7     
+1397
+S.Technology message-word 8     
+1400
+OP_Messageword 1                
+1401
+OP_Messageword 2                
+1402
+OP_Messageword 3                
+1403
+OP_Messageword 4                
+1404
+OP_Messageword 5                
+1405
+OP_Messageword 6                
+1406
+OP_Messageword 7                
+1407
+OP_Messageword 8                
+1408
+OP_Messageword 9                
+1409
+OP_Messageword 10               
+1410
+OP_Messageword 11               
+1411
+OP_Messageword 12               
+1412
+OP_Messageword 13               
+1413
+OP_Messageword 14               
+1414
+OP_Messageword 15               
+1415
+OP_Messageword 16               
+1416
+OP_Messageword 17               
+1417
+OP_Messageword 18               
+1418
+OP_Messageword 19               
+1419
+OP_Messageword 20               
+1420
+OP_Messageword 21               
+1421
+OP_Messageword 22               
+1422
+OP_Messageword 23               
+1423
+OP_Messageword 24               
+1424
+OP_Messageword 25               
+1425
+OP_Messageword 26               
+1426
+OP_Messageword 27               
+1427
+OP_Messageword 28               
+1428
+OP_Messageword 29               
+1429
+OP_Messageword 30               
+1430
+OP_Messageword 31               
+1431
+OP_Messageword 32               
+1432
+OP_Messageword 33               
+1433
+OP_Messageword 34               
+1434
+OP_Messageword 35               
+1435
+OP_Messageword 26               
+1436
+OP_Messageword 37               
+1437
+OP_Messageword 38               
+1438
+OP_Messageword 39               
+1439
+OP_Messageword 40               
+1440
+D.Remote terminal strip DO 1    
+1441
+D.Remote terminal strip DO 2    
+1442
+D.Remote terminal strip DO 3    
+1443
+D.Remote terminal strip DO 4    
+1444
+D.Remote terminal strip DO 5    
+1445
+D.Remote terminal strip DO 6    
+1446
+D.Remote terminal strip DO 7    
+1447
+D.Remote terminal strip DO 8    
+1448
+D.Remote terminal strip DO 9    
+1449
+D.Remote terminal strip DO 10   
+1450
+D.Remote terminal strip DO 11   
+1451
+D.Remote terminal strip DO 12   
+1452
+D.Remote terminal strip DO 13   
+1453
+D.Remote terminal strip DO 14   
+1454
+D.Remote terminal strip DO 15   
+1455
+D.Remote terminal strip DO 16   
+1456
+Inverting mask DO1-16           
+1457
+D.Remote terminal strip DO 17   
+1458
+D.Remote terminal strip DO 18   
+1459
+D.Remote terminal strip DO 19   
+1460
+D.Remote terminal strip DO 20   
+1461
+D.Remote terminal strip DO 21   
+1462
+D.Remote terminal strip DO 22   
+1463
+D.Remote terminal strip DO 23   
+1464
+D.Remote terminal strip DO 24   
+1465
+D.Remote terminal strip DO 25   
+1466
+D.Remote terminal strip DO 26   
+1467
+Inverting mask DO17-26          
+1470
+D.Stateword 3.0                 
+1471
+D.Stateword 3.1                 
+1472
+D.Stateword 3.2                 
+1473
+D.Stateword 3.3                 
+1474
+D.Stateword 3.4                 
+1475
+D.Stateword 3.5                 
+1476
+D.Stateword 3.6                 
+1477
+D.Stateword 3.7                 
+1480
+Bit mask(D.Stateword 3.0)       
+1481
+Bit mask(D.Stateword 3.1)       
+1482
+Bit mask(D.Stateword 3.2)       
+1483
+Bit mask(D.Stateword 3.3)       
+1484
+Bit mask(D.Stateword 3.4)       
+1485
+Bit mask(D.Stateword 3.5)       
+1486
+Bit mask(D.Stateword 3.6)       
+1487
+Bit mask(D.Stateword 3.7)       
+1490
+D.Standard terminal strip DO 1  
+1491
+D.Standard terminal strip DO 2  
+1492
+D.Standard terminal strip DO 3  
+1493
+D.Standard terminal strip DO 4  
+1494
+Inverting mask DO1-4            
+1501
+D.Technology data 1 Word 1      
+1502
+D.Technology data 2 Word 1      
+1505
+D.Technology data 5             
+1506
+D.Technology data 6             
+1507
+D.Technology data 7             
+1508
+D.Technology data 8             
+1511
+D.Technology data 1 Word 2      
+1512
+D.Technology data 2 Word 2      
+1521
+D.Technology data 41            
+1522
+D.Technology data 42            
+1523
+D.Technology data 43            
+1524
+D.Technology data 44            
+1525
+D.Technology data 45            
+1526
+D.Technology data 46            
+1527
+D.Technology data 47            
+1528
+D.Technology data 48            
+1529
+D.Technology data 49            
+1530
+D.Technology data 50            
+1531
+D.Technology data 51            
+1532
+D.Technology data 52            
+1533
+D.Technology data 53            
+1534
+D.Technology data 54            
+1535
+D.Technology data 55            
+1536
+D.Technology data 56            
+1537
+D.Technology data 57            
+1538
+D.Technology data 58            
+1539
+D.Technology data 59            
+1540
+D.Technology data 60            
+1541
+D.Technology data 61            
+1542
+D.Technology data 62            
+1543
+D.Technology data 63            
+1544
+D.Technology data 64            
+1545
+D.Technology data 65            
+1546
+D.Technology data 66            
+1547
+D.Technology data 67            
+1548
+D.Technology data 68            
+1549
+D.Technology data 69            
+1550
+D.Technology data 70            
+1551
+D.Technology data 71            
+1552
+D.Technology data 72            
+1553
+D.Technology data 73            
+1554
+D.Technology data 74            
+1555
+D.Technology data 75            
+1556
+D.Technology data 76            
+1557
+D.Technology data 77            
+1558
+D.Technology data 78            
+1559
+D.Technology data 79            
+1560
+D.Technology data 80            
+1561
+D.Technology data 81            
+1562
+D.Technology data 82            
+1563
+D.Technology data 83            
+1564
+D.Technology data 84            
+1565
+D.Technology data 85            
+1566
+D.Technology data 86            
+1567
+D.Technology data 87            
+1568
+D.Technology data 88            
+1569
+D.Technology data 89            
+1570
+D.Technology data 90            
+1571
+D.Technology data 91 Word 1     
+1572
+D.Technology data 92 Word 1     
+1581
+D.Technology data 91 Word 2     
+1582
+D.Technology data 92 Word 2     
+1600
+2.Motor type                    
+1601
+2.Motor encoder: No. of bars    
+1602
+2.Motor(P rated)                
+1603
+2.Motor(U rated)                
+1604
+2.Motor(I rated)                
+1606
+2.Motor(f weak)                 
+1607
+2.Motor(f rated)                
+1608
+2.Motor:No. Of polepairs        
+1609
+2.Motor(N rated)                
+1610
+2.Motor:R stator circuit        
+1611
+2.Motor:X stator circuit        
+1612
+2.Motor:R rotor circuit         
+1613
+2.Motor:X rotor circuit         
+1614
+2.MSR:Commutation reactance     
+1615
+2.MSR:Extinction angle          
+1616
+2.MSR:Firing angle inverter mode
+1617
+2.MSR:Firing angle rectif. mode 
+1620
+4.Motor type                    
+1621
+4.Motor encoder: No. of bars    
+1622
+4.Motor(P rated)                
+1623
+4.Motor(U rated)                
+1624
+4.Motor(I rated)                
+1626
+4.Motor(f weak)                 
+1627
+4.Motor(f rated)                
+1628
+4.Motor:No. Of polepairs        
+1629
+4.Motor(N rated)                
+1630
+4.Motor:R stator circuit        
+1631
+4.Motor:X stator circuit        
+1632
+4.Motor:R rotor circuit         
+1633
+4.Motor:X rotor circuit         
+1634
+4.MSR:Commutation reactance     
+1635
+4.MSR:Extinction angle          
+1636
+4.MSR:Firing angle inverter mode
+1637
+4.MSR:Firing angle rectif. mode 
+1691
+d.Fixed setpoint 1              
+1692
+d.Fixed setpoint 2              
+1693
+d.Fixed setpoint 3              
+1694
+d.Fixed setpoint 4              
+1697
+d.Torque fixed setpoint         
+1698
+4.Additional torque heavy-start 
+1701
+d.Start value motorized poti.   
+1702
+d.Set mode motorized poti.      
+1703
+d.Ramp time motorized poti.     
+1708
+d.Ramp up-time                  
+1709
+d.Ramp up-time after event      
+1710
+d.Ramp up rounding-off time     
+1711
+d.Ramp down-time                
+1712
+d.OFF3-Ramp down-time           
+1713
+d.Ramp down rounding-off time   
+1714
+d.Tracking Ramp-function gen.   
+1720
+d.Suppression n/f-value         
+1721
+d.Bandwidth suppression n/f-val.
+1722
+4.Max n/f clockw. rotation      
+1723
+4.Max n/f cnt. Clockw. rotation 
+1724
+d.Minimal n/f-value             
+1728
+4.Max. stall-time               
+1734
+d.Off1&3 delay-time             
+1740
+d.Torque limit motor mode       
+1741
+d.M=f(|f/n|) ordinate val.1 mot.
+1742
+d.M=f(|f/n|) ordinate val.2 mot.
+1743
+d.M=f(|f/n|) ordinate val.3 mot.
+1744
+d.M=f(|f/n|) ordinate val.4 mot.
+1745
+d.M=f(|f/n|) ordinate val.5 mot.
+1746
+d.M=f(|f/n|) ordinate val.6 mot.
+1755
+d.Torque limit generator mode   
+1756
+d.M=f(|f/n|) ordinate val.1 gen.
+1757
+d.M=f(|f/n|) ordinate val.2 gen.
+1758
+d.M=f(|f/n|) ordinate val.3 gen.
+1759
+d.M=f(|f/n|) ordinate val.4 gen.
+1760
+d.M=f(|f/n|) ordinate val.5 gen.
+1761
+d.M=f(|f/n|) ordinate val.6 gen.
+1770
+4.n/f-Gain Pre-control value    
+1771
+4.n/f-Smooth. Pre-control value 
+1772
+4.n/f-Controller(kp)            
+1773
+4.n/f-Controller(Tn)            
+1776
+4.Droop-mode n/f-Controller     
+1777
+4.Smooth.droop-value n/f-Ctrl.  
+1778
+4.Gain droop-value n/f-Ctrl.    
+1790
+S.Power factor actual value     
+1791
+Power factor actual value       
+1802
+D.Signal value 1 data type Real 
+1803
+D.Sig.value 1 data type Integer 
+1804
+Normalization signal value 1    
+1805
+Signal value 1                  
+1806
+D.Signal value 2 data type Real 
+1807
+D.Sig.value 2 data type Integer 
+1808
+Normalization signal value 2    
+1809
+Signal value 2                  
+1810
+D.Signal value 3 data type Real 
+1811
+D.Sig.value 3 data type Integer 
+1812
+Normalization signal value 3    
+1813
+Signal value 3                  
+1814
+D.Signal value 4 data type Real 
+1815
+D.Sig.value 4 data type Integer 
+1816
+Normalization signal value 4    
+1817
+Signal value 4                  
+1818
+D.Signal value 5 data type Real 
+1819
+D.Sig.value 5 data type Integer 
+1820
+Normalization signal value 5    
+1821
+Signal value 5                  
+1822
+D.Signal value 6 data type Real 
+1823
+D.Sig.value 6 data type Integer 
+1824
+Normalization signal value 6    
+1825
+Signal value 6                  
+1826
+D.Signal value 7 data type Real 
+1827
+D.Sig.value 7 data type Integer 
+1828
+Normalization signal value 7    
+1829
+Signal value 7                  
+1830
+D.Signalword Bit 0              
+1831
+D.Signalword Bit 1              
+1832
+D.Signalword Bit 2              
+1833
+D.Signalword Bit 3              
+1834
+D.Signalword Bit 4              
+1835
+D.Signalword Bit 5              
+1836
+D.Signalword Bit 6              
+1837
+D.Signalword Bit 7              
+1838
+Signalword                      
+1840
+Bit mask(D.Signalword Bit0)     
+1841
+Bit mask(D.Signalword Bit1)     
+1842
+Bit mask(D.Signalword Bit2)     
+1843
+Bit mask(D.Signalword Bit3)     
+1844
+Bit mask(D.Signalword Bit4)     
+1845
+Bit mask(D.Signalword Bit5)     
+1846
+Bit mask(D.Signalword Bit6)     
+1847
+Bit mask(D.Signalword Bit7)     
+1850
+Select signal for  AO 1         
+1851
+Select signal for  AO 2         
+1852
+Select signal for  AO 3         
+1853
+Select signal for  AO 4         
+1860
+Manual mode                     
+1861
+Control word for manual mode    
+1862
+Manual mode:Firing angle NSR    
+1863
+Manual mode:Firing angle MSR    
+1864
+Manual mode:Frequency MSR       
+1865
+Man. mode:Exciter current setp. 
+1866
+Man. Mode:Dc-link current setp. 
+1870
+Run-on time external aux.       
+1871
+Starting time external aux.     
+1872
+Ext.aux.:Inverting inputs       
+1873
+Ext.aux.:Signal inputs          
+1875
+Ext.aux.:Signal outputs         
+1890
+Inrush-R: No. of load cycles    
+1891
+Inrush-R: Time for load cycles  
+1892
+Inrush-R: Rest-time             
+1893
+Inrush-R: Available load cycles 
+1900
+D.AO for meter 1                
+1901
+Gain AO for meter 1             
+1902
+Offset AO for meter 1           
+1903
+Signal smoothing AO for meter 1 
+1904
+D.AO for meter 2                
+1905
+Gain AO for meter 2             
+1906
+Offset AO for meter 2           
+1907
+Signal smoothing AO for meter 2 
+1908
+D.AO for meter 3                
+1909
+Gain AO for meter 3             
+1910
+Offset AO for meter 3           
+1911
+Signal smoothing AO for meter 3 
+1912
+D.AO for meter 4                
+1913
+Gain AO for meter 4             
+1914
+Offset AO for meter 4           
+1915
+Signal smoothing AO for meter 4 
+1977
+A100 SW release                 
+1978
+A200 SW release                 
+1979
+OP SW release                   
+1980
+OP-monitoring mode              
+1985
+S.Year and month                
+1986
+S.Day and hour                  
+1987
+S.Minute                        
+1991
+Variable 1                      
+1992
+Variable 2                      
+1993
+Variable 3                      
+1994
+Variable 4                      
+1996
+Processor load                  
+1997
+Simovert S Version identifier   
+1998
+Drive ES: Unit type             
+1999
+Drive ES: Version identifier    

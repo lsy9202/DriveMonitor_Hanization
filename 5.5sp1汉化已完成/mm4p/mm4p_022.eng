@@ -1,0 +1,5137 @@
+0002
+传动装置状态                    
+调试模式 (P0010 != 0)           
+准备就绪                        
+故障激活                        
+正在启动(直流中间回路正在预充电)
+正在运行                        
+正在停车(斜坡下降)              
+0003
+用户访问级                      
+用户定义的参数表                
+标准级                          
+扩展级                          
+专家级                          
+服务级:供经授权的服务人员(密码) 
+0004
+参数过滤器                      
+全部参数                        
+未定义                          
+变频器                          
+电动机                          
+速度传感器                      
+工艺应用对象/装置               
+未定义                          
+命令,开关量I/O                  
+ADC和DAC                        
+未定义                          
+给定值通道/RFG                  
+未定义                          
+传动装置特征                    
+电动机控制                      
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+通讯                            
+报警/警告/监控                  
+工艺调节器(例如:PID)            
+0005
+显示选择                        
+第 1 组传动数据组(DDS)          
+第 2 组传动数据组(DDS)          
+第 3 组传动数据组(DDS)          
+0006
+显示方式                        
+准备:给定值/频率,运行:频率      
+准备:给定值,运行:频率           
+准备:p0005/r0020,运行:p0005     
+准备:r0002/r0020,运行:r0002     
+所有状态显示P0005               
+0007
+背光延时                        
+0010
+调试参数                        
+准备                            
+快速调试                        
+变频器                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+下载                            
+工厂设置                        
+0011
+用户定义参数用锁                
+0012
+用户定义参数用密钥              
+0013
+用户定义参数                    
+第 1  用户参数                  
+第 2  用户参数                  
+第 3  用户参数                  
+第 4  用户参数                  
+第 5  用户参数                  
+第 6  用户参数                  
+第 7  用户参数                  
+第 8  用户参数                  
+第 9  用户参数                  
+第 10 用户参数                  
+第 11 用户参数                  
+第 12 用户参数                  
+第 13 用户参数                  
+第 14 用户参数                  
+第 15 用户参数                  
+第 16 用户参数                  
+第 17 用户参数                  
+第 18 用户参数                  
+第 19 用户参数                  
+第 20 用户参数                  
+0014
+存储方式                        
+串行接口 COM链路                
+串行接口 BOP链路                
+PROFIBUS / CB                   
+易失性存储器(RAM)               
+非易失性存储器(EEPROM)          
+0018
+固件版本                        
+0019
+CO/BO: BOP 控制字               
+ON/OFF1                       NO
+ON/OFF1                      YES
+OFF2: 电气停车 YES              
+OFF2: 电气停车 NO               
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+JOG right NO                    
+JOG right YES                   
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+反向(给定值反相)              NO
+反向(给定值反相)             YES
+手动操作 NO                     
+手动操作 YES                    
+电动电位计MOP增大 NO            
+电动电位计MOP增大 YES           
+电动电位计MOP减小 NO            
+电动电位计MOP减小 YES           
+自动操作 NO                     
+自动操作 YES                    
+0020
+CO:RFG前的频率给定值            
+0021
+CO:经过滤波的频率实际值1        
+0022
+经过滤波的转子速度实际值        
+0024
+CO:经过滤波的输出频率实际值     
+0025
+CO:经过滤波的输出电压实际值     
+0026
+CO:经滤波直流中间回路电压实际值 
+0027
+CO:经过滤波的输出电流实际值     
+0029
+CO: Act. filtered current Isd   
+0030
+CO: Act. filtered current Isq   
+0031
+CO:经过滤波的转矩实际值         
+0032
+CO:经过滤波的功率实际值         
+0035
+CO:电机温度实际值               
+第 1 传动数据组(DDS)            
+第 2 传动数据组(DDS)            
+第 3 传动数据组(DDS)            
+0036
+CO:Inverter overload utilization
+0037
+CO:变频器温度 [℃]              
+所测得的散热器温度              
+芯片温度                        
+整流器温度                      
+变频器环境温度                  
+控制板温度                      
+0038
+CO:功率因数实际值               
+0039
+CO:能耗计量表 [kWh]             
+0040
+能耗计量表复位                  
+不复位                          
+将 r0039 复位至 0               
+0050
+CO:激活的命令数据组(CDS)        
+第 1 命令数据组(CDS)            
+第 2 命令数据组(CDS)            
+第 3 命令数据组(CDS)            
+0051
+CO:激活的传动数据组(DDS)        
+所选择的的传动数据组(DDS)       
+激活的传动数据组(DDS)           
+0052
+CO/BO:状态字 1                  
+准备就绪 NO                     
+准备就绪 YES                    
+准备运行 NO                     
+准备运行 YES                    
+正在运行 NO                     
+正在运行 YES                    
+故障激活 NO                     
+故障激活 YES                    
+OFF2激活 YES                    
+OFF2激活 NO                     
+OFF3激活 YES                    
+OFF3激活 NO                     
+ON禁止激活 NO                   
+ON禁止激活 YES                  
+报警激活 NO                     
+报警激活 YES                    
+给定值/实际值偏差 YES           
+给定值/实际值偏差 NO            
+PZD控制 NO                      
+PZD控制 YES                     
+达到最大频率 NO                 
+达到最大频率 YES                
+报警:电机电流极限值 YES         
+报警:电机电流极限值 NO          
+电机停机抱闸激活 NO             
+电机停机抱闸激活 YES            
+电机过载 YES                    
+电机过载 NO                     
+电机正转 NO                     
+电机正转 YES                    
+变频器过载 YES                  
+变频器过载 NO                   
+0053
+CO/BO:状态字 2                  
+直流制动激活 NO                 
+直流制动激活 YES                
+f_act  >  P2167 NO              
+f_act  >  P2167 YES             
+f_act  <= P1080 NO              
+f_act  <= P1080 YES             
+电流实际值r0068 >  P2170 NO     
+电流实际值r0068 >  P2170 YES    
+f_act  >  P2155 NO              
+f_act  >  P2155 YES             
+f_act  <= P2155 NO              
+f_act  <= P2155 YES             
+f_act  >= setpoint NO           
+f_act  >= setpoint YES          
+Act. Vdc r0070 <  P2172 NO      
+Act. Vdc r0070 <  P2172 YES     
+Act. Vdc r0070 >  P2172 NO      
+Act. Vdc r0070 >  P2172 YES     
+斜坡结束 NO                     
+斜坡结束 YES                    
+PID output r2294  ==  P2292 NO  
+PID output r2294  ==  P2292 YES 
+PID output r2294  ==  P2291 NO  
+PID output r2294  ==  P2291 YES 
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+Download data set 0 from AOP NO 
+Download data set 0 from AOP YES
+Download data set 1 from AOP NO 
+Download data set 1 from AOP YES
+0054
+CO/BO:控制字 1                  
+ON/OFF1                       NO
+ON/OFF1                      YES
+OFF2:电气停车 YES               
+OFF2:电气停车 NO                
+OFF3:快速停车 YES               
+OFF3:快速停车 NO                
+脉冲使能 NO                     
+脉冲使能 YES                    
+斜坡函数发生器使能 NO           
+斜坡函数发生器使能 YES          
+斜坡函数发生器启动 NO           
+斜坡函数发生器启动 YES          
+给定值使能 NO                   
+给定值使能 YES                  
+故障确认 NO                     
+故障确认 YES                    
+JOG right NO                    
+JOG right YES                   
+JOG left NO                     
+JOG left YES                    
+由PLC控制 NO                    
+由PLC控制 YES                   
+反向(给定值反相) NO             
+反向(给定值反相) YES            
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+电动电位计MOP增大 NO            
+电动电位计MOP增大 YES           
+电动电位计MOP减小 NO            
+电动电位计MOP减小 YES           
+CDS Bit 0 (本地/远程) NO        
+CDS Bit 0 (本地/远程) YES       
+0055
+CO/BO:控制字 2                  
+固定频率位 0 NO                 
+固定频率位 0 YES                
+固定频率位 1 NO                 
+固定频率位 1 YES                
+固定频率位 2 NO                 
+固定频率位 2 YES                
+固定频率位 3 NO                 
+固定频率位 3 YES                
+传动数据组(DDS) Bit 0 NO        
+传动数据组(DDS) Bit 0 YES       
+传动数据组(DDS) Bit 1 NO        
+传动数据组(DDS) Bit 1 YES       
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+PID使能 NO                      
+PID使能 YES                     
+直流制动使能 NO                 
+直流制动使能 YES                
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+Droop enabled NO                
+Droop enabled YES               
+Torque control NO               
+Torque control YES              
+外部故障 1 YES                  
+外部故障 1 NO                   
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+命令数据组(CDS) Bit 1 NO        
+命令数据组(CDS) Bit 1 YES       
+0056
+CO/BO:电机控制状态              
+初始化控制结束 NO               
+初始化控制结束 YES              
+电动机去磁结束 NO               
+电动机去磁结束 YES              
+脉冲已使能 NO                   
+脉冲已使能 YES                  
+选择电压软启动 NO               
+选择电压软启动 YES              
+电动机励磁结束 NO               
+电动机励磁结束 YES              
+启动电压提升激活 NO             
+启动电压提升激活 YES            
+加速电压提升激活 NO             
+加速电压提升激活 YES            
+频率位负值 NO                   
+频率位负值 YES                  
+弱磁激活 NO                     
+弱磁激活 YES                    
+已限制电压给定值 NO             
+已限制电压给定值 YES            
+已限制滑差频率 NO               
+已限制滑差频率 YES              
+已限制频率 NO                   
+已限制频率 YES                  
+已选择反相 NO                   
+已选择反相 YES                  
+I-max调节器激活 NO              
+I-max调节器激活 YES             
+Vdc-max调节器激活 NO            
+Vdc-max调节器激活 YES           
+KIB (Vdc-min control) active NO 
+KIB (Vdc-min control) active YES
+0061
+CO:编码器频率实际值             
+0062
+CO:频率实际值                   
+0063
+CO:频率实际值                   
+0064
+CO: Dev. frequency controller   
+0065
+CO:滑差频率                     
+0066
+CO: Act. output frequency       
+0067
+CO:输出电流极限实际值           
+0068
+CO:输出电流                     
+0069
+CO: Act. phase currents         
+U_phase                         
+V_phase                         
+W_phase                         
+Offset U_phase                  
+Offset V_phase                  
+Offset W_phase                  
+0070
+CO: Act. DC-link voltage        
+0071
+CO:最大输出电压                 
+0072
+CO: Act. output voltage         
+0074
+CO: Act. modulation             
+0075
+CO: Current setpoint Isd        
+0076
+CO: Act. current Isd            
+0077
+CO: Current setpoint Isq        
+0078
+CO: Act. current Isq            
+0079
+CO: Torque setpoint (total)     
+0080
+CO:转矩实际值                   
+0084
+CO: Act. air gap flux           
+0086
+CO:有功电流实际值               
+0090
+CO: Act. rotor angle            
+0095
+CI:PZD显示信号源                
+第 1  PZD信号                   
+第 2  PZD信号                   
+第 3  PZD信号                   
+第 4  PZD信号                   
+第 5  PZD信号                   
+第 6  PZD信号                   
+第 7  PZD信号                   
+第 8  PZD信号                   
+第 9  PZD信号                   
+第 10 PZD信号                   
+0096
+PZD信号                         
+第 1  PZD信号                   
+第 2  PZD信号                   
+第 3  PZD信号                   
+第 4  PZD信号                   
+第 5  PZD信号                   
+第 6  PZD信号                   
+第 7  PZD信号                   
+第 8  PZD信号                   
+第 9  PZD信号                   
+第 10 PZD信号                   
+0100
+欧洲/北美地区                   
+欧洲 [kW],        50 Hz         
+北美 [hp],        60 Hz         
+北美 [kW],        60 Hz         
+0199
+设备的系统编号                  
+0200
+功率组件的实际代码              
+0201
+功率组件代码                    
+0203
+变频器的实际型号                
+未定义                          
+MICROMASTER 420                 
+MICROMASTER 440                 
+MICRO- / COMBIMASTER 411        
+MICROMASTER 410                 
+Reserved - 备用                 
+MICROMASTER 440 PX              
+MICROMASTER 430                 
+MICROMASTER 430 PX              
+0204
+功率组件的特征                  
+直流输入电压 NO                 
+直流输入电压 YES                
+射频干扰(RFI)滤波器 NO          
+射频干扰(RFI)滤波器 YES         
+0205
+Inverter application            
+Constant torque                 
+Variable torque                 
+0206
+变频器额定功率 [kW] / [hp]      
+0207
+变频器额定电流                  
+0208
+变频器额定电压                  
+0209
+变频器最大电流                  
+0210
+电源电压                        
+0231
+最大电缆长度                    
+允许的非屏蔽电缆最大长度        
+允许的屏蔽电缆最大长度          
+0290
+变频器过载反应                  
+降低输出频率                    
+脱扣 (F0004)                    
+降低脉冲频率和输出频率          
+降低脉冲频率,并脱扣(F0004/F0005)
+0291
+变频器保护                      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+Reserved-备用 NO                
+Reserved-备用 YES               
+Reserved-备用 NO                
+Reserved-备用 YES               
+断相检测使能 NO                 
+断相检测使能 YES                
+0292
+变频器过热报警                  
+0294
+Inverter I2t overload warning   
+0295
+变频器冷却风机断电延时          
+0300
+Select motor type               
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+未定义                          
+Asynchronous rotational motor   
+Synchronous  rotational motor   
+0304
+电动机额定电压                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0305
+电动机额定电流                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0307
+电动机额定功率                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0308
+电动机额定功率因数              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0309
+电动机额定效率                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0310
+电动机额定频率                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0311
+电动机额定速度                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0313
+电动机极对数                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0314
+Motor pole pair number          
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0320
+电动机磁化电流                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0330
+电动机额定滑差                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0331
+额定磁化电流                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0332
+额定功率因数                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0333
+Rated motor torque              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0335
+电动机冷却方式                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+自冷:附装在电动机上的轴装式风机 
+强制冷却:独立驱动冷却风机       
+自冷与内置风机                  
+强制冷却与内置风机              
+0340
+电动机参数的计算                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+不计算                          
+完全参数化                      
+计算等效电路数据                
+计算V/f数据                     
+0341
+Motor inertia [kg*m^2]          
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0342
+Total/motor inertia ratio       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0344
+电动机重量                      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0345
+Motor start-up time             
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0346
+磁化时间                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0347
+去磁时间                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0350
+定子电阻(线间)                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0352
+电缆电阻                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0354
+转子电阻                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0356
+定子漏感                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0358
+转子漏感                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0360
+主电感                          
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0362
+Magnetizing curve flux 1        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0363
+Magnetizing curve flux 2        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0364
+Magnetizing curve flux 3        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0365
+Magnetizing curve flux 4        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0366
+Magnetizing curve imag 1        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0367
+Magnetizing curve imag 2        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0368
+Magnetizing curve imag 3        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0369
+Magnetizing curve imag 4        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0370
+Stator resistance [%]           
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0372
+Cable resistance [%]            
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0373
+Rated stator resistance [%]     
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0374
+Rotor resistance [%]            
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0376
+Rated rotor resistance [%]      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0377
+Total leakage reactance [%]     
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0382
+Main reactance [%]              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0384
+转子时间常数                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0386
+Total leakage time constant     
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0394
+CO: Stator resistance IGBT [%]  
+0395
+CO:总定子电阻 [%]               
+0396
+CO:实际转子电阻                 
+0400
+选择编码器类型                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+禁止                            
+单通道编码器                    
+无零脉冲的正交编码器            
+0403
+CO/BO:编码器状态字              
+编码器模块激活 NO               
+编码器模块激活 YES              
+编码器出错 NO                   
+编码器出错 YES                  
+信号正常 NO                     
+信号正常 YES                    
+编码器低速信号丢失 NO           
+编码器低速信号丢失 YES          
+使用硬件定时器 NO               
+使用硬件定时器 YES              
+0408
+编码器的每转脉冲数              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0491
+Reaction on freq. signal loss   
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+Do not change to SLVC           
+Change to SLVC                  
+0492
+允许频率差                      
+0494
+对频率信号丢失反应的延时        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0500
+Technological application       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+Constant torque                 
+Pumps and fans                  
+0601
+电动机温度传感器                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+无传感器                        
+PTC热敏电阻                     
+KTY84                           
+0604
+电动机温度阀值                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0610
+对电动机温度的反应              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+报警,无反应,不脱扣              
+报警,Imax降低,脱扣F0011         
+报警,无反应,脱扣F0011           
+not defined                     
+Warning only Mem                
+Warn + red.Imax Mem             
+Warn + trip F0011 Mem           
+0625
+电动机环境温度                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0626
+Overtemperature stator iron     
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0627
+Overtemperature stator winding  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0628
+Overtemperature rotor winding   
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0630
+CO: Ambient temperature         
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0631
+CO: Stator iron temperature     
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0632
+CO: Stator winding temperature  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0633
+CO: Rotor winding temperature   
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0640
+电动机过载系数 [%]              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+0700
+命令源的选择                    
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+工厂缺省设置                    
+BOP (键盘)                      
+端子                            
+未定义                          
+BOP链路上的USS                  
+COM链路上的USS                  
+COM链路上的CB                   
+0701
+数字量输入1的功能               
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+数字量输入被禁止                
+ON/OFF1                         
+ON 反向 /OFF1                   
+OFF2    - 惯性滑行自由停车      
+OFF3    - 快速斜坡下降          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+故障确认                        
+备用                            
+备用                            
+反转                            
+MOP增大(增大频率)               
+MOP减小(减小频率)               
+固定给定值(直接选择)            
+固定给定值(直流选择+ON)         
+固定给定值(二进制编码选择+ON)   
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+直流制动使能                    
+备用                            
+使能PID                         
+旁路方式命令输入                
+外部脱扣                        
+未定义                          
+未定义                          
+未定义                          
+禁止附加频率给定值              
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+使能BICO参数设置                
+0702
+数字量输入2的功能               
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+数字量输入被禁止                
+ON/OFF1                         
+ON 反向 /OFF1                   
+OFF2    - 惯性滑行自由停车      
+OFF3    - 快速斜坡下降          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+故障确认                        
+备用                            
+备用                            
+反转                            
+MOP增大(增大频率)               
+MOP减小(减小频率)               
+固定给定值(直接选择)            
+固定给定值(直流选择+ON)         
+固定给定值(二进制编码选择+ON)   
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+直流制动使能                    
+备用                            
+使能PID                         
+旁路方式命令输入                
+外部脱扣                        
+未定义                          
+未定义                          
+未定义                          
+禁止附加频率给定值              
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+使能BICO参数设置                
+0703
+数字量输入3的功能               
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+数字量输入被禁止                
+ON/OFF1                         
+ON 反向 /OFF1                   
+OFF2    - 惯性滑行自由停车      
+OFF3    - 快速斜坡下降          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+故障确认                        
+备用                            
+备用                            
+反转                            
+MOP增大(增大频率)               
+MOP减小(减小频率)               
+固定给定值(直接选择)            
+固定给定值(直流选择+ON)         
+固定给定值(二进制编码选择+ON)   
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+直流制动使能                    
+备用                            
+使能PID                         
+旁路方式命令输入                
+外部脱扣                        
+未定义                          
+未定义                          
+未定义                          
+禁止附加频率给定值              
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+使能BICO参数设置                
+0704
+数字量输入4的功能               
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+数字量输入被禁止                
+ON/OFF1                         
+ON 反向 /OFF1                   
+OFF2    - 惯性滑行自由停车      
+OFF3    - 快速斜坡下降          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+故障确认                        
+备用                            
+备用                            
+反转                            
+MOP增大(增大频率)               
+MOP减小(减小频率)               
+固定给定值(直接选择)            
+固定给定值(直流选择+ON)         
+固定给定值(二进制编码选择+ON)   
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+直流制动使能                    
+备用                            
+使能PID                         
+旁路方式命令输入                
+外部脱扣                        
+未定义                          
+未定义                          
+未定义                          
+禁止附加频率给定值              
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+使能BICO参数设置                
+0705
+数字量输入5的功能               
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+数字量输入被禁止                
+ON/OFF1                         
+ON 反向 /OFF1                   
+OFF2    - 惯性滑行自由停车      
+OFF3    - 快速斜坡下降          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+故障确认                        
+备用                            
+备用                            
+反转                            
+MOP增大(增大频率)               
+MOP减小(减小频率)               
+固定给定值(直接选择)            
+固定给定值(直流选择+ON)         
+固定给定值(二进制编码选择+ON)   
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+直流制动使能                    
+备用                            
+使能PID                         
+旁路方式命令输入                
+外部脱扣                        
+未定义                          
+未定义                          
+未定义                          
+禁止附加频率给定值              
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+使能BICO参数设置                
+0706
+数字量输入6的功能               
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+数字量输入被禁止                
+ON/OFF1                         
+ON 反向 /OFF1                   
+OFF2    - 惯性滑行自由停车      
+OFF3    - 快速斜坡下降          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+故障确认                        
+备用                            
+备用                            
+反转                            
+MOP增大(增大频率)               
+MOP减小(减小频率)               
+固定给定值(直接选择)            
+固定给定值(直流选择+ON)         
+固定给定值(二进制编码选择+ON)   
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+直流制动使能                    
+备用                            
+使能PID                         
+旁路方式命令输入                
+外部脱扣                        
+未定义                          
+未定义                          
+未定义                          
+禁止附加频率给定值              
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+使能BICO参数设置                
+0707
+数字量输入7的功能               
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+数字量输入被禁止                
+ON/OFF1                         
+ON 反向 /OFF1                   
+OFF2    - 惯性滑行自由停车      
+OFF3    - 快速斜坡下降          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+故障确认                        
+备用                            
+备用                            
+反转                            
+MOP增大(增大频率)               
+MOP减小(减小频率)               
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+直流制动使能                    
+备用                            
+未定义                          
+旁路方式命令输入                
+外部脱扣                        
+未定义                          
+未定义                          
+未定义                          
+禁止附加频率给定值              
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+使能BICO参数设置                
+0708
+数字量输入8的功能               
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+数字量输入被禁止                
+ON/OFF1                         
+ON 反向 /OFF1                   
+OFF2    - 惯性滑行自由停车      
+OFF3    - 快速斜坡下降          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+故障确认                        
+备用                            
+备用                            
+反转                            
+MOP增大(增大频率)               
+MOP减小(减小频率)               
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+直流制动使能                    
+备用                            
+未定义                          
+旁路方式命令输入                
+外部脱扣                        
+未定义                          
+未定义                          
+未定义                          
+禁止附加频率给定值              
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+使能BICO参数设置                
+0718
+CO/BO:手动/自动                 
+0719
+命令和频率给定值的选择          
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+Cmd=BICO参数. Setp=BICO参数     
+Cmd=BICO参数. Setp=MOP给定值    
+Cmd=BICO参数. Setp=模拟量给定值 
+Cmd=BICO参数. Setp=固定频率     
+Cmd=BICO参数. Setp=BOP链路的USS 
+Cmd=BICO参数. Setp=COM链路的USS 
+Cmd=BICO参数. Setp=COM链路的CB  
+未定义                          
+未定义                          
+未定义                          
+Cmd=BOP         Setp=BICO参数   
+Cmd=BOP         Setp=MOP给定值  
+Cmd=BOP         Setp=模拟量给定 
+Cmd=BOP         Setp=固定频率   
+未定义                          
+Cmd=BOP         Setp=COM链路USS 
+Cmd=BOP         Setp=COM链路CB  
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+Cmd=BOP链路USS Setp=BICO参数    
+Cmd=BOP链路USS Setp=MOP给定值   
+Cmd=BOP链路USS Setp=模拟量给定  
+Cmd=BOP链路USS Setp=固定频率    
+Cmd=BOP链路USS Setp=BOP链路USS  
+Cmd=BOP链路USS Setp=COM链路USS  
+Cmd=BOP链路USS Setp=COM链路CB   
+未定义                          
+未定义                          
+未定义                          
+Cmd=COM链路USS Setp=BICO参数    
+Cmd=COM链路USS Setp=MOP给定值   
+Cmd=COM链路USS Setp=模拟量给定  
+Cmd=COM链路USS Setp=固定频率    
+Cmd=COM链路USS Setp=BOP链路USS  
+Cmd=COM链路USS Setp=COM链路USS  
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+Cmd=COM链路CB Setp=BICO参数     
+Cmd=COM链路CB Setp=MOP给定值    
+Cmd=COM链路CB Setp=模拟量给定值 
+Cmd=COM链路CB Setp=固定频率     
+Cmd=COM链路CB Setp=BOP链路USS   
+未定义                          
+Cmd=COM链路CB Setp=COM链路CB    
+0720
+数字量输入的数量                
+0722
+开关量输入值                    
+开关量输入1 OFF                 
+开关量输入1 ON                  
+开关量输入2 OFF                 
+开关量输入2 ON                  
+开关量输入3 OFF                 
+开关量输入3 ON                  
+开关量输入4 OFF                 
+开关量输入4 ON                  
+开关量输入5 OFF                 
+开关量输入5 ON                  
+开关量输入6 OFF                 
+开关量输入6 ON                  
+开关量输入7(通过ADC1) OFF       
+开关量输入7(通过ADC1) ON        
+开关量输入8(通过ADC2) OFF       
+开关量输入8(通过ADC2) ON        
+0724
+数字量输入点防抖动时间          
+无防抖动时间                    
+2.5 ms 防抖动时间               
+8.2 ms 防抖动时间               
+12.3 ms 防抖动时间              
+0725
+PNP / NPN 数字量输入            
+NPN方式 ==> 低电平激活          
+PNP方式 ==> 高电平激活          
+0730
+数字量输出的数量                
+0731
+BI:数字量输出1的功能            
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0732
+BI:数字量输出2的功能            
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0733
+BI:数字量输出3的功能            
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0747
+CO/BO:数字量输出的状态          
+数字量输出1通电 NO              
+数字量输出1通电 YES             
+数字量输出2通电 NO              
+数字量输出2通电 YES             
+数字量输出3通电 NO              
+数字量输出3通电 YES             
+0748
+数字量输出反相                  
+数字量输出1反相 NO              
+数字量输出1反相 YES             
+数字量输出2反相 NO              
+数字量输出2反相 YES             
+数字量输出3反相 NO              
+数字量输出3反相 YES             
+0750
+ADC的数量                       
+0751
+CO/BO:ADC的状态字               
+在ADC1的信号丢失 NO             
+在ADC1的信号丢失 YES            
+在ADC2的信号丢失 NO             
+在ADC2的信号丢失 YES            
+0752
+ADC的实际输入[V]或[mA]          
+模拟量输入1 (ADC 1)             
+模拟量输入2 (ADC 2)             
+0753
+ADC平滑滤波时间                 
+模拟量输入1 (ADC 1)             
+模拟量输入2 (ADC 2)             
+0754
+定标后的ADC实际值 [%]           
+模拟量输入 1 (ADC 1)            
+模拟量输入 2 (ADC 2)            
+0755
+CO:定标(4000h)后的ADC实际值     
+模拟量输入1 (ADC 1)             
+模拟量输入2 (ADC 2)             
+0756
+ADC的类型                       
+模拟量输入1 (ADC 1)             
+模拟量输入2 (ADC 2)             
+单极性电压输入(0~+10V)          
+单极性电压输入带监控(0~+10V)    
+单极性电流输入(0~20mA)          
+单极性电流输入带监控(0~20mA)    
+双极性电压输入(-10V~+10V)       
+0757
+ADC定标的x1值                   
+模拟量输入1 (ADC 1)             
+模拟量输入2 (ADC 2)             
+0758
+ADC定标的y1值                   
+模拟量输入1 (ADC 1)             
+模拟量输入2 (ADC 2)             
+0759
+ADC定标的x2值 [V / mA]          
+模拟量输入1 (ADC 1)             
+模拟量输入2 (ADC 2)             
+0760
+ADC定标的y2值                   
+模拟量输入1 (ADC 1)             
+模拟量输入2 (ADC 2)             
+0761
+ADC死区的宽度 [V / mA]          
+模拟量输入1 (ADC 1)             
+模拟量输入2 (ADC 2)             
+0762
+对信号丢失的动作延迟            
+模拟量输入1 (ADC 1)             
+模拟量输入2 (ADC 2)             
+0770
+DAC的数量                       
+0771
+CI: DAC                         
+模拟量输出1 (DAC 1)             
+模拟量输出2 (DAC 2)             
+0773
+DAC的平滑滤波时间               
+模拟量输出1 (DAC 1)             
+模拟量输出2 (DAC 2)             
+0774
+DAC的实际值 [mA]                
+模拟量输出1 (DAC 1)             
+模拟量输出2 (DAC 2)             
+0775
+允许的绝对值                    
+模拟量输出1 (DAC 1)             
+模拟量输出2 (DAC 2)             
+OFF                             
+ON                              
+0776
+DAC的类型                       
+模拟量输出1 (DAC 1)             
+模拟量输出2 (DAC 2)             
+电流输出                        
+电压输出                        
+0777
+DAC定标的x1值                   
+模拟量输出1 (DAC 1)             
+模拟量输出2 (DAC 2)             
+0778
+DAC定标的y1值                   
+模拟量输出1 (DAC 1)             
+模拟量输出2 (DAC 2)             
+0779
+DAC定标的x2值                   
+模拟量输出1 (DAC 1)             
+模拟量输出2 (DAC 2)             
+0780
+DAC定标的y2值                   
+模拟量输出1 (DAC 1)             
+模拟量输出2 (DAC 2)             
+0781
+DAC死区的宽度                   
+模拟量输出1 (DAC 1)             
+模拟量输出2 (DAC 2)             
+0785
+CO/BO:DAC的状态字               
+模拟量输出1是负 NO              
+模拟量输出1是负 YES             
+模拟量输出2是负 NO              
+模拟量输出2是负 YES             
+0800
+BI:下载参数组0                  
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0801
+BI:下载参数组1                  
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0809
+复制命令数据组(CDS)             
+从CDS复制                       
+复制到CDS上                     
+开始复制                        
+0810
+BI:CDS位0(本地/远程)            
+0811
+BI:CDS位1                       
+0819
+复制传动数据组(DDS)             
+从DDS复制                       
+复制到DDS上                     
+开始复制                        
+0820
+BI:DDS位0                       
+0821
+BI:DDS位1                       
+0840
+BI: ON/OFF1                     
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0842
+BI: ON 反向/OFF1                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0844
+BI:OFF2的第1个源                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0845
+BI:OFF2的第2个源                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0848
+BI:OFF3的第1个源                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0849
+BI:OFF3的第2个源                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0852
+BI:脉冲使能                     
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+0918
+通讯板(CB)地址                  
+0927
+可用来更改参数的接口            
+PROFIBUS / CB NO                
+PROFIBUS / CB YES               
+BOP NO                          
+BOP YES                         
+BOP链路上的USS NO               
+BOP链路上的USS YES              
+COM链路上的USS NO               
+COM链路上的USS YES              
+0947
+CO:最后故障代码                 
+近期故障脱扣 --, 故障 1         
+近期故障脱扣 --, 故障 2         
+近期故障脱扣 -1, 故障 3         
+近期故障脱扣 -1, 故障 4         
+近期故障脱扣 -2, 故障 5         
+近期故障脱扣 -2, 故障 6         
+近期故障脱扣 -3, 故障 7         
+近期故障脱扣 -3, 故障 8         
+0948
+CO:故障时间                     
+近期故障脱扣 --, 故障时标       
+近期故障脱扣 --, 故障时标       
+近期故障脱扣 --, 故障时标       
+近期故障脱扣 -1, 故障时标       
+近期故障脱扣 -1, 故障时标       
+近期故障脱扣 -1, 故障时标       
+近期故障脱扣 -2, 故障时标       
+近期故障脱扣 -2, 故障时标       
+近期故障脱扣 -2, 故障时标       
+近期故障脱扣 -3, 故障时标       
+近期故障脱扣 -3, 故障时标       
+近期故障脱扣 -3, 故障时标       
+0949
+CO:故障值                       
+近期故障脱扣 --, 故障值 1       
+近期故障脱扣 --, 故障值 2       
+近期故障脱扣 -1, 故障值 3       
+近期故障脱扣 -1, 故障值 4       
+近期故障脱扣 -2, 故障值 5       
+近期故障脱扣 -2, 故障值 6       
+近期故障脱扣 -3, 故障值 7       
+近期故障脱扣 -3, 故障值 8       
+0952
+故障总数                        
+0964
+固件版本数据                    
+公司(Siemens = 42)              
+产品类型                        
+固件版本                        
+固件版本日期(年)                
+固件版本日期(日/月)             
+0965
+PROFIBUS程序文件                
+0967
+控制字1                         
+ON/OFF1                       NO
+ON/OFF1                      YES
+OFF2:电气停车 YES               
+OFF2:电气停车 NO                
+OFF3:快速停车 YES               
+OFF3:快速停车 NO                
+脉冲使能 NO                     
+脉冲使能 YES                    
+斜坡函数发生器(RFG)使能 NO      
+斜坡函数发生器(RFG)使能 YES     
+斜坡函数发生器(RFG)启动 NO      
+斜坡函数发生器(RFG)启动 YES     
+给定值使能 NO                   
+给定值使能 YES                  
+故障确认 NO                     
+故障确认 YES                    
+JOG right NO                    
+JOG right YES                   
+JOG left NO                     
+JOG left YES                    
+由PLC控制 NO                    
+由PLC控制 YES                   
+反向(给定值反相) NO             
+反向(给定值反相) YES            
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+电动电位计MOP增大 NO            
+电动电位计MOP增大 YES           
+电动电位计MOP减小 NO            
+电动电位计MOP减小 YES           
+CDS位0 (本地/远程) NO           
+CDS位0 (本地/远程) YES          
+0968
+状态字                          
+准备就绪 NO                     
+准备就绪 YES                    
+准备运行 NO                     
+准备运行 YES                    
+正在运行 NO                     
+正在运行 YES                    
+故障激活 NO                     
+故障激活 YES                    
+OFF2激活 YES                    
+OFF2激活 NO                     
+OFF3激活 YES                    
+OFF3激活 NO                     
+ON禁止激活 NO                   
+ON禁止激活 YES                  
+传动装置报警激活 NO             
+传动装置报警激活 YES            
+给定值/实际值偏差 YES           
+给定值/实际值偏差 NO            
+PZD控制 NO                      
+PZD控制 YES                     
+达到最大频率 NO                 
+达到最大频率 YES                
+警告:电动机电流极限值 YES       
+警告:电动机电流极限值 NO        
+电动机停机抱闸激活 NO           
+电动机停机抱闸激活 YES          
+电动机过载 YES                  
+电动机过载 NO                   
+电动机正转 NO                   
+电动机正转 YES                  
+变频器过载 YES                  
+变频器过载 NO                   
+0970
+工厂复位                        
+禁止                            
+参数复位                        
+0971
+从RAM到EEPROM的数据传送         
+禁止                            
+开始传送                        
+1000
+频率给定值的选择                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+没有主给定值                    
+MOP给定值                       
+模拟量给定值                    
+固定频率                        
+BOP链路上的USS                  
+COM链路上的USS                  
+COM链路上的CB                   
+模拟量给定值2                   
+未定义                          
+未定义                          
+没有主给定值          +MOP给定值
+MOP给定值             +MOP给定值
+模拟量给定值          +MOP给定值
+固定频率              +MOP给定值
+BOP链路上的USS        +MOP给定值
+COM链路上的USS        +MOP给定值
+COM链路上的CB         +MOP给定值
+模拟量给定值2         +MOP给定值
+未定义                          
+未定义                          
+没有主给定值       +模拟量给定值
+MOP给定值          +模拟量给定值
+模拟量给定值       +模拟量给定值
+固定频率           +模拟量给定值
+BOP链路上的USS     +模拟量给定值
+COM链路上的USS     +模拟量给定值
+COM链路上的CB      +模拟量给定值
+模拟量给定值2      +模拟量给定值
+未定义                          
+未定义                          
+没有主给定值           +固定频率
+MOP给定值              +固定频率
+模拟量给定值           +固定频率
+固定频率               +固定频率
+BOP链路上的USS         +固定频率
+COM链路上的USS         +固定频率
+COM链路上的CB          +固定频率
+模拟量给定值2          +固定频率
+未定义                          
+未定义                          
+没有主给定值         +BOP链路USS
+MOP给定值            +BOP链路USS
+模拟量给定值         +BOP链路USS
+固定频率             +BOP链路USS
+BOP链路上的USS       +BOP链路USS
+COM链路上的USS       +BOP链路USS
+COM链路上的CB        +BOP链路USS
+模拟量给定值2        +BOP链路USS
+未定义                          
+未定义                          
+没有主给定值         +COM链路USS
+MOP给定值            +COM链路USS
+模拟量给定值         +COM链路USS
+固定频率             +COM链路USS
+BOP链路上的USS       +COM链路USS
+COM链路上的USS       +COM链路USS
+未定义                          
+模拟量给定值2        +COM链路USS
+未定义                          
+未定义                          
+没有主给定值          +COM链路CB
+MOP给定值             +COM链路CB
+模拟量给定值          +COM链路CB
+固定频率              +COM链路CB
+BOP链路上的USS        +COM链路CB
+未定义                          
+COM链路上的CB         +COM链路CB
+模拟量给定值2         +COM链路CB
+未定义                          
+未定义                          
+没有主给定值      +模拟量给定值2
+MOP给定值         +模拟量给定值2
+模拟量给定值      +模拟量给定值2
+固定频率          +模拟量给定值2
+BOP链路上的USS    +模拟量给定值2
+COM链路上的USS    +模拟量给定值2
+COM链路上的CB     +模拟量给定值2
+模拟量给定值2     +模拟量给定值2
+1001
+固定频率1                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1002
+固定频率2                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1003
+固定频率3                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1004
+固定频率4                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1005
+固定频率5                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1006
+固定频率6                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1007
+固定频率7                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1008
+固定频率8                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1009
+固定频率9                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1010
+固定频率10                      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1011
+固定频率11                      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1012
+固定频率12                      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1013
+固定频率13                      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1014
+固定频率14                      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1015
+固定频率15                      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1016
+固定频率方式 位0                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择+ON命令                 
+二进制编码选择+ON命令           
+1017
+固定频率方式 位1                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择+ON命令                 
+二进制编码选择+ON命令           
+1018
+固定频率方式 位2                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择+ON命令                 
+二进制编码选择+ON命令           
+1019
+固定频率方式 位3                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择+ON命令                 
+二进制编码选择+ON命令           
+1020
+固定频率选择 位0                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1021
+固定频率选择 位1                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1022
+固定频率选择 位2                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1023
+固定频率选择 位3                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1024
+固定频率实际值                  
+1025
+固定频率方式 位4                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择+ON命令                 
+1026
+固定频率选择 位4                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1027
+固定频率方式 位5                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择+ON命令                 
+1028
+固定频率选择 位5                
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1031
+MOP的给定值存储器               
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+不存储MOP给定值                 
+存储MOP给定值(P1040被修改)      
+1032
+禁止负的MOP给定值               
+允许负的MOP给定值               
+禁止负的MOP给定值               
+1035
+使能MOP(UP命令)                 
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1036
+使能MOP(DOWN命令)               
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1040
+MOP的给定值                     
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1050
+MOP的输出频率实际值             
+1055
+BI: Enable JOG right            
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1056
+BI: Enable JOG left             
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1058
+JOG frequency right             
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1059
+JOG frequency left              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1060
+JOG ramp-up time                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1061
+JOG ramp-down time              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1070
+主给定值                        
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1071
+主给定值定标                    
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1074
+禁止附加给定值                  
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1075
+附加给定值                      
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1076
+附加给定值定标                  
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1078
+给定值的总和                    
+1079
+CO: Selected frequency setpoint 
+1080
+最小频率                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1082
+最大频率                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1084
+Resultant max. frequency        
+1091
+跳转频率1                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1092
+跳转频率2                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1093
+跳转频率3                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1094
+跳转频率4                       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1101
+跳转频率带宽                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1110
+禁止负的频率给定值              
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1113
+反向                            
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1114
+方向控制之后的频率给定值        
+1119
+RFG之前的频率给定值             
+1120
+斜坡上升时间                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1121
+斜坡下降时间                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1124
+BI: Enable JOG ramp times       
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1130
+斜坡上升初始圆弧时间            
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1131
+斜坡上升最终圆弧时间            
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1132
+斜坡下降初始圆弧时间            
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1133
+斜坡下降最终圆弧时间            
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1134
+圆弧形式                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+连续平滑                        
+不连续平滑                      
+1135
+OFF3 斜坡下降时间               
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1140
+RFG使能                         
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1141
+RFG启动                         
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1142
+RFG使能给定值                   
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1170
+RFG之后的频率给定值             
+1200
+捕捉再启动                      
+捕捉再启动禁止                  
+始终激活，沿给定值方向启动      
+通电/故障/OFF2时激活,沿给定启动 
+故障/OFF2时激活,沿给定值方向启动
+始终激活,只在给定值方向启动     
+通电/故障/OFF2时激活,只给定启动 
+故障/OFF2时激活,只给定值方向启动
+1202
+电动机电流:捕捉再启动           
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1203
+搜索速率:捕捉再启动             
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1204
+状态字;捕捉再启动               
+施加的电流                    NO
+施加的电流                   YES
+不能施加电流                  NO
+不能施加电流                 YES
+电压降低                      NO
+电压降低                     YES
+斜坡滤波器启动                NO
+斜坡滤波器启动               YES
+电流小于阀值                  NO
+电流小于阀值                 YES
+电流最小                      NO
+电流最小                     YES
+Bitname & Bitvalue(0) 未定义    
+Bitname & Bitvalue(1) 未定义    
+找不到速度                    NO
+找不到速度                   YES
+捕捉再启动激活                NO
+捕捉再启动激活               YES
+选择捕捉再启动                NO
+选择捕捉再启动               YES
+1210
+自动再启动                      
+禁止                            
+接电后脱扣复位                  
+电源掉电后再启动                
+电源电压下降或故障后再启动      
+电源电压下降后再启动            
+电源掉电和故障后再启动          
+电源电压下降/掉电或故障后再启动 
+1211
+再启动尝试次数                  
+1212
+至首次再启动的时间              
+1213
+再启动时间增量                  
+1215
+停机抱闸使能                    
+电动机停机抱闸禁止              
+电动机停机抱闸使能              
+1216
+停机抱闸打开延时                
+1217
+斜坡下降后的停机抱闸时间        
+1230
+使能直流制动                    
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1232
+直流制动电流                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1233
+直流制动持续时间                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1234
+直流制动起始频率                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1236
+复合制动电流                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1240
+Vdc调节器的配置                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+Vdc调节器禁止                   
+Vdc_max调节器使能               
+1242
+Vdc_max调节器的接通阀值         
+1243
+Vdc_max调节器的动态系数         
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1250
+Gain of Vdc-controller          
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1251
+Integration time Vdc-controller 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1252
+Differential time Vdc-controller
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1253
+Vdc调节器的输出限制             
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1254
+Vdc接通阀值的自动检测           
+禁止                            
+使能                            
+1260
+旁路控制                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+旁路禁止                        
+由变频器脱扣控制                
+由P1266控制                     
+由P1266或变频器脱扣控制         
+由频率实际值=p1265控制          
+频率实际值=p1265或变频器脱扣控制
+频率实际值=p1265或p1266控制     
+频率实际值=p1265或p1266或脱扣   
+1261
+旁路状态字                      
+电动机由变频器供电            NO
+电动机由变频器供电           YES
+电动机由电源供电              NO
+电动机由电源供电             YES
+1262
+旁路停滞时间                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1263
+消除旁路时间                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1264
+旁路时间                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1265
+旁路频率                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1266
+旁路命令                        
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1270
+BI: Enable essential service    
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1300
+控制方式                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+具有线性特性的V/f               
+具有FCC特性的F/f                
+具有抛物线特性的V/f             
+具有可编程特性的V/f             
+备用                            
+纺织用V/f                       
+纺织用具有FCC特性的V/f          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+具有独立电压给定值的V/f控制     
+备用                            
+备用                            
+备用                            
+备用                            
+1310
+连续电压提升                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1311
+加速电压提升                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1312
+启动电压提升                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1315
+CO: Total boost voltage         
+1316
+电压提升结束频率                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1320
+可编程V/f频率坐标1              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1321
+可编程V/f电压坐标1              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1322
+可编程V/f频率坐标2              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1323
+可编程V/f电压坐标2              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1324
+可编程V/f频率坐标3              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1325
+可编程V/f电压坐标3              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1330
+电压给定值                      
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1333
+FCC用起始频率                   
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1335
+滑差补偿                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1336
+滑差极限                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1337
+V/f滑差频率                     
+1338
+V/f的谐振阻尼增益               
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1340
+Imax频率调节器的比例增益        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1341
+Imax频率调节器的积分时间        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1343
+Imax调节器频率输出              
+1344
+Imax调节器电压输出              
+1345
+Imax电压调节器的比例增益        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1346
+Imax电压调节器的积分时间        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1350
+电压软启动                      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+OFF                             
+ON                              
+1400
+Configuration of speed control  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+Automatic Kp adaption NO        
+Automatic Kp adaption YES       
+Integral freeze (SLVC) NO       
+Integral freeze (SLVC) YES      
+1407
+CO/BO: Status 2 of motor control
+V/f control enable NO           
+V/f control enable YES          
+SLVC enable NO                  
+SLVC enable YES                 
+Torque control enable NO        
+Torque control enable YES       
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Stop I-comp. speed control NO   
+Stop I-comp. speed control YES  
+Set I-comp. speed controller NO 
+Set I-comp. speed controller YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Upper torque limit active NO    
+Upper torque limit active YES   
+Lower torque limit active NO    
+Lower torque limit active YES   
+Enable droop NO                 
+Enable droop YES                
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+DDS change active NO            
+DDS change active YES           
+1438
+CO: Freq. setpoint to controller
+1442
+Filter time for act. speed      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1445
+CO: Act. filtered frequency 2   
+1452
+Filter time for act. freq (SLVC)
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1460
+Gain speed controller           
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1462
+Integral time speed controller  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1470
+Gain speed controller (SLVC)    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1472
+Integral time n-ctrl. (SLVC)    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1477
+BI: Set integrator of n-ctrl.   
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1478
+CI: Set integrator value n-ctrl.
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1482
+CO: Integral output of n-ctrl.  
+1488
+Droop input source              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+Droop input disabled            
+Torque setpoint                 
+Speed controller output         
+Speed controller integral output
+1489
+Droop scaling                   
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1490
+CO: Droop frequency             
+1492
+Enable droop                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+禁止                            
+使能                            
+1496
+Scaling accel. precontrol       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1499
+Scaling accel. torque control   
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1500
+Selection of torque setpoint    
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+No main setpoint                
+未定义                          
+Analog setpoint                 
+未定义                          
+USS on BOPlink                  
+USS on COMlink                  
+CB  on COMlink                  
+Analog setpoint 2               
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+No main setp.   + Analog setp.  
+未定义                          
+Analog setpoint + Analog setp.  
+未定义                          
+USS on BOPlink  + Analog setp.  
+USS on COMlink  + Analog setp.  
+CB  on COMlink  + Analog setp.  
+Analog setp. 2  + Analog setp.  
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+No main setp.   + USS on BOPlink
+未定义                          
+Analog setpoint + USS on BOPlink
+未定义                          
+USS on BOPlink  + USS on BOPlink
+USS on COMlink  + USS on BOPlink
+CB  on COMlink  + USS on BOPlink
+Analog setp. 2  + USS on BOPlink
+未定义                          
+未定义                          
+No main setp.   + USS on COMlink
+未定义                          
+Analog setpoint + USS on COMlink
+未定义                          
+USS on BOPlink  + USS on COMlink
+USS on COMlink  + USS on COMlink
+未定义                          
+Analog setp. 2  + USS on COMlink
+未定义                          
+未定义                          
+No main setp.   + CB  on COMlink
+未定义                          
+Analog setpoint + CB  on COMlink
+未定义                          
+USS on BOPlink  + CB  on COMlink
+未定义                          
+CB  on COMlink  + CB  on COMlink
+Analog setp. 2  + CB  on COMlink
+未定义                          
+未定义                          
+No main setp.   + Analog setp. 2
+未定义                          
+Analog setpoint + Analog setp. 2
+未定义                          
+USS on BOPlink  + Analog setp. 2
+USS on COMlink  + Analog setp. 2
+CB  on COMlink  + Analog setp. 2
+Analog setp. 2  + Analog setp. 2
+1501
+BI: Change to torque control    
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1503
+CI: Torque setpoint             
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1508
+CO: Torque setpoint             
+1511
+CI: Additional torque setpoint  
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1515
+CO: Additional torque setpoint  
+1518
+CO: Acceleration torque         
+1520
+CO: Upper torque limit          
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1521
+CO: Lower torque limit          
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1522
+CI: Upper torque limit          
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1523
+CI: Lower torque limit          
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+1525
+Scaling lower torque limit      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1526
+CO: Upper torque limitation     
+1527
+CO: Lower torque limitation     
+1530
+Motoring power limitation       
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1531
+Regenerative power limitation   
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1536
+CO: Max. trq. motoring current  
+1537
+CO: Max trq regenerative current
+1538
+CO: Upper torque limit (total)  
+1539
+CO: Lower torque limit (total)  
+1654
+Smooth time for Isq setpoint    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1715
+Gain current controller         
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1717
+Integral time current controller
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1718
+CO: Output of Isq controller    
+1719
+CO: Integral output of Isq ctrl.
+1723
+CO: Output of Isd controller    
+1724
+CO: Integral output of Isd ctrl.
+1725
+CO: Integral limit of Isd ctrl. 
+1728
+CO: Decoupling voltage          
+1740
+Gain for oscillation damping    
+1778
+CO: Flux angle difference       
+1800
+脉冲频率                        
+1801
+脉冲频率实际值                  
+1802
+调制器方式                      
+SVM/ASVM自动方式                
+不对称SVM                       
+空间矢量调制                    
+SVM/ASVM受控方式                
+1803
+Max. modulation                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+1820
+输出相序反向                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+OFF                             
+ON                              
+1825
+On-state voltage of IGBT        
+1828
+Gating unit dead time           
+1910
+选择电动机数据识别              
+禁止                            
+参数改变情况下的Rs识别          
+无参数改变情况下的Rs识别        
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+设定电压矢量                    
+1911
+需识别的相数                    
+1912
+识别出的定子电阻                
+U_相                            
+V_相                            
+W_相                            
+1925
+识别出的通泰电压                
+1926
+识别出的触发单元死时            
+1930
+Voltage setpoint for calibration
+1931
+Phase                           
+2000
+基准频率                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2001
+基准电压                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2002
+基准电流                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2003
+基准转矩                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2004
+基准功率                        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2009
+USS去定标                       
+串行接口COM链路                 
+串行接口BOP链路                 
+禁止                            
+使能                            
+2010
+USS波特率                       
+串行接口COM链路                 
+串行接口BOP链路                 
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+2400 波特                       
+4800 波特                       
+9600 波特                       
+19200 波特                      
+38400 波特                      
+57600 波特                      
+76800 波特                      
+93750 波特                      
+115200 波特                     
+2011
+USS地址                         
+串行接口COM链接                 
+串行接口BOP链路                 
+2012
+USS PZD长度                     
+串行接口COM链接                 
+串行接口BOP链路                 
+2013
+USS PKW长度                     
+串行接口COM链接                 
+串行接口BOP链路                 
+无 字                           
+未定义                          
+未定义                          
+3 字                            
+4 字                            
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+可变                            
+2014
+USS电报间断时间                 
+串行接口COM链接                 
+串行接口COM链接                 
+2015
+从BOP链路(USS)接收的PZD         
+接收的字 0                      
+接收的字 1                      
+接收的字 2                      
+接收的字 3                      
+接收的字 4                      
+接收的字 5                      
+接收的字 6                      
+接收的字 7                      
+2016
+发送到BOP链路(USS)的PZD         
+发送的字 0                      
+发送的字 1                      
+发送的字 2                      
+发送的字 3                      
+发送的字 4                      
+发送的字 5                      
+发送的字 6                      
+发送的字 7                      
+2018
+从COM链路(USS)接收的PZD         
+接收的字 0                      
+接收的字 1                      
+接收的字 2                      
+接收的字 3                      
+接收的字 4                      
+接收的字 5                      
+接收的字 6                      
+接收的字 7                      
+2019
+发送到COM链路(USS)的PZD         
+发动的字 0                      
+发动的字 1                      
+发动的字 2                      
+发动的字 3                      
+发动的字 4                      
+发动的字 5                      
+发动的字 6                      
+发动的字 7                      
+2024
+USS无错误电报                   
+串行接口COM链接                 
+串行接口COM链接                 
+2025
+USS拒收的电报                   
+串行接口COM链接                 
+串行接口COM链接                 
+2026
+USS字符帧错误                   
+串行接口COM链接                 
+串行接口COM链接                 
+2027
+USS溢出错误                     
+串行接口COM链接                 
+串行接口BOP链路                 
+2028
+USS奇偶校验错误                 
+串行接口COM链接                 
+串行接口BOP链路                 
+2029
+USS开始未被识别                 
+串行接口COM链接                 
+串行接口BOP链路                 
+2030
+USS BCC错误                     
+串行接口COM链接                 
+串行接口COM链接                 
+2031
+USS长度错误                     
+串行接口COM链接                 
+串行接口BOP链路                 
+2032
+来自BOP链路(USS)的控制字1       
+ON/OFF1                       NO
+ON/OFF1                      YES
+OFF2:电气停车                YES
+OFF2:电气停车                 NO
+OFF3:快速停车                YES
+OFF3:快速停车                 NO
+脉冲使能                      NO
+脉冲使能                     YES
+斜坡函数发生器(RFG)使能       NO
+斜坡函数发生器(RFG)使能      YES
+斜坡函数发生器(RFG)启动       NO
+斜坡函数发生器(RFG)启动      YES
+给定值使能                    NO
+给定值使能                   YES
+故障确认                      NO
+故障确认                     YES
+JOG right NO                    
+JOG right YES                   
+JOG left NO                     
+JOG left YES                    
+由PLC控制                     NO
+由PLC控制                    YES
+反向(给定值反相)              NO
+反向(给定值反相)             YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+电动电位计MOP增大             NO
+电动电位计MOP增大            YES
+点动电位计MOP减小             NO
+点动电位计MOP减小            YES
+CDS位0(本地/远程)             NO
+CDS位0(本地/远程)            YES
+2033
+来自BOP链路(USS)的控制字2       
+固定频率位 0                  NO
+固定频率位 0                 YES
+固定频率位 1                  NO
+固定频率位 1                 YES
+固定频率位 2                  NO
+固定频率位 2                 YES
+固定频率位 3                  NO
+固定频率位 3                 YES
+传动数据组(DDS)位 0           NO
+传动数据组(DDS)位 0          YES
+传动数据组(DDS)位 1           NO
+传动数据组(DDS)位 1          YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+PID已使能                     NO
+PID已使能                    YES
+直流制动已使能                NO
+直流制动已使能               YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Droop enabled NO                
+Droop enabled YES               
+Torque control NO               
+Torque control YES              
+外部故障 1                   YES
+外部故障 1                    NO
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+命令数据组(CDS)位 1           NO
+命令数据组(CDS)位 1          YES
+2036
+来自COM链路(USS)的控制字1       
+ON/OFF1                       NO
+ON/OFF1                      YES
+OFF2:电气停车                YES
+OFF2:电气停车                 NO
+OFF3:快速停车                YES
+OFF3:快速停车                 NO
+脉冲使能                      NO
+脉冲使能                     YES
+斜坡函数发生器(RFG)使能       NO
+斜坡函数发生器(RFG)使能      YES
+斜坡函数发生器(RFG)启动       NO
+斜坡函数发生器(RFG)启动      YES
+给定值使能                    NO
+给定值使能                   YES
+故障确认                      NO
+故障确认                     YES
+JOG right NO                    
+JOG right YES                   
+JOG left NO                     
+JOG left YES                    
+由PLC控制                     NO
+由PLC控制                    YES
+反向(给定值反相)              NO
+反向(给定值反相)             YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+电动电位计MOP增大             NO
+电动电位计MOP增大            YES
+电动电位计MOP减小             NO
+电动电位计MOP减小            YES
+CDS位 0 (本地/远程)           NO
+CDS位 0 (本地/远程)          YES
+2037
+BO: CtrlWrd2 from COM link (USS)
+固定频率位 0                  NO
+固定频率位 0                 YES
+固定频率位 1                  NO
+固定频率位 1                 YES
+固定频率位 2                  NO
+固定频率位 2                 YES
+固定频率位 3                  NO
+固定频率位 3                 YES
+传送数据组(DDS)位 0           NO
+传送数据组(DDS)位 0          YES
+传动数据组(DDS)位 1           NO
+传动数据组(DDS)位 1          YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+PID 已使能                    NO
+PID 已使能                   YES
+直流制动已使能                NO
+直流制动已使能               YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Droop enabled NO                
+Droop enabled YES               
+Torque control NO               
+Torque control YES              
+外部故障 1                   YES
+外部故障 1                    NO
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+命令数据组(CDS)位 1           NO
+命令数据组(CDS)位 1          YES
+2040
+CB 电报间断时间                 
+2041
+CB 参数                         
+CB 参数 0                       
+CB 参数 1                       
+CB 参数 2                       
+CB 参数 3                       
+CB 参数 4                       
+2050
+从CB接收的PZD                   
+接收的字 0                      
+接收的字 1                      
+接收的字 2                      
+接收的字 3                      
+接收的字 4                      
+接收的字 5                      
+接收的字 6                      
+接收的字 7                      
+2051
+发送到CB到PZD                   
+发送的字 0                      
+发送的字 1                      
+发送的字 2                      
+发送的字 3                      
+发送的字 4                      
+发送的字 5                      
+发送的字 6                      
+发送的字 7                      
+2053
+CB 识别                         
+CB 类型(PROFIBUS = 1)           
+固件版本                        
+固件版本详情                    
+固件日期(年)                    
+固件日期(日/月)                 
+无CB选件板                      
+PROFIBUS DP                     
+DeviceNet                       
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+2054
+CB诊断                          
+CB诊断 0                        
+CB诊断 1                        
+CB诊断 2                        
+CB诊断 3                        
+CB诊断 4                        
+CB诊断 5                        
+CB诊断 6                        
+2090
+从CB接收的控制字 1              
+ON/OFF1                       NO
+ON/OFF1                      YES
+OFF2:电气停车                YES
+OFF2:电气停车                 NO
+OFF3:快速停车                YES
+OFF3:快速停车                 NO
+脉冲使能                      NO
+脉冲使能                     YES
+斜坡函数发生器(RFG)使能       NO
+斜坡函数发生器(RFG)使能      YES
+斜坡函数发生器(RFG)启动       NO
+斜坡函数发生器(RFG)启动      YES
+Setpoint enable NO              
+给定值使能                   YES
+故障确认                      NO
+故障确认                     YES
+JOG right NO                    
+JOG right YES                   
+JOG left NO                     
+JOG left YES                    
+由PLC控制                     NO
+由PLC控制                    YES
+反向(给定值反相)              NO
+反向(给定值反相)             YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+电动电位计MOP增大             NO
+电动电位计MOP增大            YES
+电动电位计MOP减小             NO
+电动电位计MOP减小            YES
+CDS位 0 (本地/远程)           NO
+CDS位 0 (本地/远程)          YES
+2091
+从CB接收的控制字 2              
+固定频率位 0                  NO
+固定频率位 0                 YES
+固定频率位 1                  NO
+固定频率位 1                 YES
+固定频率位 2                  NO
+固定频率位 2                 YES
+固定频率位 3                  NO
+固定频率位 3                 YES
+传送数据组(DDS)位 0           NO
+传送数据组(DDS)位 0          YES
+传动数据组(DDS)位 1           NO
+传动数据组(DDS)位 1          YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+PID 已使能                    NO
+PID 已使能                   YES
+直流制动已使能                NO
+直流制动已使能               YES
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+Droop enabled NO                
+Droop enabled YES               
+Torque control NO               
+Torque control YES              
+外部故障 1                   YES
+外部故障 1                    NO
+Bitname & Bitvalue(0) undefined 
+Bitname & Bitvalue(1) undefined 
+命令数据组(CDS)位 1           NO
+命令数据组(CDS)位 1          YES
+2100
+报警号选择                      
+故障号 1                        
+故障号 2                        
+故障号 3                        
+2101
+停车反应值                      
+停车反应值 1                    
+停车反应值 2                    
+停车反应值 3                    
+无反应，不显示                  
+OFF1停车反应                    
+OFF2停车反应                    
+OFF3停车反应                    
+无反应，只报警                  
+转到固定频率 15                 
+2103
+故障确认的第 1 个源             
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2104
+故障确认的第 2 个源             
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2106
+外部故障                        
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2110
+警告号                          
+近期警告 --, 警告 1             
+近期警告 --, 警告 2             
+近期警告 -1, 警告 3             
+近期警告 -1, 警告 4             
+2111
+警告的总数                      
+2114
+运行时间计数器                  
+系统时间，秒，高位字            
+系统时间，秒，低位字            
+2115
+AOP实时时钟                     
+实时，秒+分                     
+实时，时+日                     
+实时，年+月                     
+2120
+Indication counter              
+2150
+滞环频率 f_hys                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2151
+CI: Monitoring freq. setpoint   
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2152
+CI: Act. monitoring frequency   
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2153
+频率滤波器时间常数              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2155
+频率阀值 f_1                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2156
+频率阀值 f_1 的延时             
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2157
+频率阀值 f_2                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2158
+频率阀值 f_2 的延时             
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2159
+频率阀值 f_3                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2160
+频率阀值 f_3 的延时             
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2161
+频率给定值的最小阀值            
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2162
+超频检测滞环频率                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2163
+允许偏差的进入频率              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2164
+偏差检测滞环频率                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2165
+允许偏差检测延时                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2166
+斜坡上升结束的延时              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2167
+关断频率 f_off                  
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2168
+延时 T_off                      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2169
+经过滤波的频率3实际值           
+2170
+电流阀值 I_thresh               
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2171
+电流比较延时                    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2172
+直流中间回路电压阀值            
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2173
+直流中间回路电压阀值比较延时    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2174
+转矩阀值 M_thresh               
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2176
+转矩阀值比较延时                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2177
+Delay time for motor is blocked 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2178
+电动机失步识别延时              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2179
+无负载识别的电流极限            
+2180
+无负载延时                      
+2181
+传动皮带故障检测方式            
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+传动皮带故障检测禁止            
+警告:转矩/频率低                
+警告:转矩/频率高                
+警告:转矩/频率高/低             
+脱扣:转矩/频率低                
+脱扣:转矩/频率高                
+脱扣:转矩/频率高/低             
+2182
+传动皮带频率阀值 1              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2183
+传动皮带频率阀值 2              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2184
+传动皮带频率阀值 3              
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2185
+转矩阀值 1 上限                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2186
+转矩阀值 1 下限                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2187
+转矩阀值 2 上限                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2188
+转矩阀值 2 下限                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2189
+转矩阀值 3 上限                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2190
+转矩阀值 3 下限                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2192
+传动皮带故障延时                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2197
+监控字 1                        
+f_act <=  P1080 (f_min) NO      
+f_act <=  P1080 (f_min) YES     
+f_act <=  P2155 (f_1) NO        
+f_act <=  P2155 (f_1) YES       
+f_act >   P2155 (f_1) NO        
+f_act >   P2155 (f_1) YES       
+f_act >   zero NO               
+f_act >   zero YES              
+f_act >=  setp. (f_set) NO      
+f_act >=  setp. (f_set) YES     
+f_act >   P2167 (f_off) NO      
+f_act >   P2167 (f_off) YES     
+f_act >=  P1082 (f_max) NO      
+f_act >=  P1082 (f_max) YES     
+f_act ==  setp. (f_set) NO      
+f_act ==  setp. (f_set) YES     
+电流实际值 r0068 >  P2170 NO    
+电流实际值 r0068 >  P2170 YES   
+未经滤波的实际 Vdc  <  P2172 NO 
+未经滤波的实际 Vdc  <  P2172 YES
+未经滤波的实际 Vdc  >  P2172 NO 
+未经滤波的实际 Vdc  >  P2172 YES
+Load missing(无负载) NO         
+Load missing(无负载) YES        
+2198
+监控字 2                        
+|f_act| <= P2157 (f_2) NO       
+|f_act| <= P2157 (f_2) YES      
+|f_act| >  P2157 (f_2) NO       
+|f_act| >  P2157 (f_2) YES      
+|f_act| <= P2159 (f_3) NO       
+|f_act| <= P2159 (f_3) YES      
+|f_act| >  P2159 (f_3) NO       
+|f_act| >  P2159 (f_3) YES      
+|f_set| <  P2161 NO             
+|f_set| <  P2161 YES            
+f_set > 0 NO                    
+f_set > 0 YES                   
+Motor blocked NO                
+Motor blocked YES               
+Motor pulled out NO             
+Motor pulled out YES            
+| I_act r0068 | < P2170 NO      
+| I_act r0068 | < P2170 YES     
+|m_act| >= P2174 & 达到给定值 NO
+|m_act| >= P2174 & 达到给定值YES
+|m_act| >= P2174 NO             
+|m_act| >= P2174 YES            
+传动皮带故障警告              NO
+传动皮带故障警告             YES
+传动皮带故障脱扣              NO
+传动皮带故障脱扣             YES
+2200
+使能PID调节器                   
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2201
+固定PID给定值 1                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2202
+固定PID给定值 2                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2203
+固定PID给定值 3                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2204
+固定PID给定值 4                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2205
+固定PID给定值 5                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2206
+固定PID给定值 6                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2207
+固定PID给定值 7                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2208
+固定PID给定值 8                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2209
+固定PID给定值 9                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2210
+固定PID给定值 10                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2211
+固定PID给定值 11                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2212
+固定PID给定值 12                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2213
+固定PID给定值 13                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2214
+固定PID给定值 14                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2215
+固定PID给定值 15                
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2216
+固定PID给定值方式 - 位0         
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择 + ON命令               
+二进制编码选择 + ON命令         
+2217
+固定PID给定值方式 - 位 1        
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择 + ON命令               
+二进制编码选择 + ON命令         
+2218
+固定PID给定值方式 - 位 2        
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择 + ON命令               
+二进制编码选择 + ON命令         
+2219
+固定PID给定值方式 - 位 3        
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择 + ON命令               
+二进制编码选择 + ON命令         
+2220
+固定PID给定值选择 位0           
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2221
+固定PID给定值选择 位1           
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2222
+固定PID给定值选择 位2           
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2223
+固定PID给定值选择 位3           
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2224
+固定PID给定值实际值             
+2225
+固定PID给定值方式 - 位 4        
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择 + ON命令               
+2226
+固定PID给定值选择 位4           
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2227
+固定PID给定值方式 - 位 5        
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+未定义                          
+直接选择                        
+直接选择 + ON命令               
+2228
+固定PID给定值选择 位5           
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2231
+PID-MOP的给定值存储值           
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+将不存储PID-MOP给定值           
+将存储PID-MOP给定值(P2240将更新)
+2232
+禁止负的PID-MOP给定值           
+允许负的PID-MOP给定值           
+禁止负的PID-MOP给定值           
+2235
+使能PID-MOP(UP命令)             
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2236
+使能PID-MOP(DOWN命令)           
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2240
+PID-MOP的给定值                 
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2250
+PID-MOP的输出给定值             
+2253
+PID给定值                       
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2254
+PID微调源                       
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2255
+PID给定值增益系数               
+2256
+PID微调增益系数                 
+2257
+PID给定值斜坡上升时间           
+2258
+PID给定值斜坡下降时间           
+2260
+RFG之后的PID给定值              
+2261
+PID给定值滤波器时间常数         
+2262
+RFG后经过滤波的PID给定值        
+2263
+PID调节器类型                   
+D部分作用于反馈信号             
+D部分作用于误差信号             
+2264
+PID反馈                         
+第 1 命令数据组 (CDS)           
+第 2 命令数据组 (CDS)           
+第 3 命令数据组 (CDS)           
+2265
+PID反馈滤波器时间常数           
+2266
+PID滤波反馈                     
+2267
+PID反馈的最大值                 
+2268
+PID反馈的最小值                 
+2269
+用于PID反馈的增益               
+2270
+PID反馈函数选择器               
+禁止                            
+平方根        (root(x))         
+平方          (x*x)             
+立方          (x*x*x)           
+2271
+PID转换器类型                   
+禁止                            
+PID反馈信号反相                 
+2272
+PID定标反馈                     
+2273
+PID误差                         
+2274
+PID微分时间                     
+2280
+PID比例增益                     
+2285
+PID积分时间                     
+2291
+PID输出上限                     
+2292
+PID输出下限                     
+2293
+PID极限的斜坡上升/下降时间      
+2294
+PID输出实际值                   
+2370
+电动机分级运行的停机方式        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+正常停机                        
+顺序停机                        
+2371
+电动机分级运行的配置            
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+电动机分级运行禁止              
+M1 = 1X, M2 =   , M3 =          
+M1 = 1X, M2 = 1X, M3 =          
+M1 = 1X, M2 = 2X, M3 =          
+M1 = 1X, M2 = 1X, M3 = 1X       
+M1 = 1X, M2 = 1X, M3 = 2X       
+M1 = 1X, M2 = 2X, M3 = 3X       
+M1 = 1X, M2 = 1X, M3 = 3X       
+M1 = 1X, M2 = 2X, M3 = 3X       
+2372
+电动机分级运行的循环运行        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+禁止                            
+使能                            
+2373
+电动机分级运行的滞环            
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2374
+电动机分级运行的延时            
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2375
+取消电动机分级运行的延时        
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2376
+电动机分级运行对延时越权控制    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2377
+电动机分级运行的锁定定时器      
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2378
+电动机分级运行的频率 f_st[%]    
+第 1 传动数据组 (DDS)           
+第 2 传动数据组 (DDS)           
+第 3 传动数据组 (DDS)           
+2379
+电动机分级运行的状态字          
+启动电动机 1                  NO
+启动电动机 1                 YES
+启动电动机 2                  NO
+启动电动机 2                 YES
+启动电动机 3                  NO
+启动电动机 3                 YES
+2380
+电动机分级运行的运行小时数      
+电动机 1 运行小时数             
+电动机 2 运行小时数             
+电动机 3 运行小时数             
+2390
+节能给定值                      
+2391
+节能定时器                      
+2392
+节能再启动给定值                
+2800
+使能自由功能块(FFB)             
+禁止                            
+使能                            
+2801
+激活自由功能块(FFB)             
+使能 AND 1                      
+使能 AND 2                      
+使能 AND 3                      
+使能 OR 1                       
+使能 OR 2                       
+使能 OR 3                       
+使能 XOR 1                      
+使能 XOR 2                      
+使能 XOR 3                      
+使能 NOT 1                      
+使能 NOT 2                      
+使能 NOT 3                      
+使能 D-FF 1                     
+使能 D-FF 2                     
+使能 RS-FF 1                    
+使能 RS-FF 2                    
+使能 RS-FF 3                    
+不激活                          
+用户访问级 1                    
+用户访问级 2                    
+用户访问级 3                    
+2802
+激活自由功能块(FFB)             
+使能定时器 1                    
+使能定时器 2                    
+使能定时器 3                    
+使能定时器 4                    
+使能 ADD 1                      
+使能 ADD 2                      
+使能 SUB 1                      
+使能 SUB 2                      
+使能 MUL 1                      
+使能 MUL 2                      
+使能 DIV 1                      
+使能 DIV 2                      
+使能 CMP 1                      
+使能 CMP 2                      
+不激活                          
+用户访问级 1                    
+用户访问级 2                    
+用户访问级 3                    
+2810
+BI: AND 1                       
+开关量连接器输入 0(BI 0)        
+开关量连接器输入 1(BI 1)        
+2811
+BO: AND 1                       
+2812
+BI: AND 2                       
+开关量连接器输入 0(BI 0)        
+开关量连接器输入 1(BI 1)        
+2813
+BO: AND 2                       
+2814
+BI: AND 3                       
+开关量连接器输入 0(BI 0)        
+开关量连接器输入 1(BI 1)        
+2815
+BO: AND 3                       
+2816
+BI: OR 1                        
+开关量连接器输入 0(BI 0)        
+开关量连接器输入 1(BI 1)        
+2817
+BO: OR 1                        
+2818
+BI: OR 2                        
+开关量连接器输入 0(BI 0)        
+开关量连接器输入 1(BI 1)        
+2819
+BO: OR 2                        
+2820
+BI: OR 3                        
+开关量连接器输入 0(BI 0)        
+开关量连接器输入 1(BI 1)        
+2821
+BO: OR 3                        
+2822
+BI: XOR 1                       
+开关量连接器输入 0(BI 0)        
+开关量连接器输入 1(BI 1)        
+2823
+BO: XOR 1                       
+2824
+BI: XOR 2                       
+开关量连接器输入 0(BI 0)        
+开关量连接器输入 1(BI 1)        
+2825
+BO: XOR 2                       
+2826
+BI: XOR 3                       
+开关量连接器输入 0(BI 0)        
+开关量连接器输入 1(BI 1)        
+2827
+BO: XOR 3                       
+2828
+BI: NOT 1                       
+2829
+BO: NOT 1                       
+2830
+BI: NOT 2                       
+2831
+BO: NOT 2                       
+2832
+BI: NOT 3                       
+2833
+BO: NOT 3                       
+2834
+BI: D-FF 1                      
+开关量连接器输入:置位           
+开关量连接器输入:D输入          
+开关量连接器输入:存储脉冲       
+开关量连接器输入:复位           
+2835
+BO: Q D-FF 1                    
+2836
+BO: NOT-Q D-FF 1                
+2837
+BI: D-FF 2                      
+开关量连接器输入:置位           
+开关量连接器输入:D输入          
+开关量连接器输入:存储脉冲       
+开关量连接器输入:复位           
+2838
+BO: Q D-FF 2                    
+2839
+BO: NOT-Q D-FF 2                
+2840
+BI: RS-FF 1                     
+开关量连接器输入:置位           
+开关量连接器输入:复位           
+2841
+BO: Q RS-FF 1                   
+2842
+BO: NOT-Q RS-FF 1               
+2843
+BI: RS-FF 2                     
+开关量连接器输入:置位           
+开关量连接器输入:复位           
+2844
+BO: Q RS-FF 2                   
+2845
+BO: NOT-Q RS-FF 2               
+2846
+BI: RS-FF 3                     
+开关量连接器输入:置位           
+开关量连接器输入:复位           
+2847
+BO: Q RS-FF 3                   
+2848
+BO: NOT-Q RS-FF 3               
+2849
+BI: 定时器 1                    
+2850
+定时器 1 的延时                 
+2851
+定时器 1 的方式                 
+ON 延迟(秒)                     
+OFF 延迟(秒)                    
+ON/OFF 延迟(秒)                 
+脉冲发生器(秒)                  
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+ON 延迟(分)                     
+OFF 延迟(分)                    
+ON/OFF 延迟(分)                 
+脉冲发生器(分)                  
+2852
+BO:定时器 1                     
+2853
+定时器 1 的非输出               
+2854
+BI:定时器 2                     
+2855
+定时器 2 的延时                 
+2856
+定时器 2 的方式                 
+ON 延迟(秒)                     
+OFF 延迟(秒)                    
+ON/OFF 延迟(秒)                 
+脉冲发生器(秒)                  
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+ON 延迟(分)                     
+OFF 延迟(分)                    
+ON/OFF 延迟(分)                 
+脉冲发生器(分)                  
+2857
+BO:定时器 2                     
+2858
+定时器 2 的非输出               
+2859
+定时器 3                        
+2860
+定时器 3 的延时                 
+2861
+定时器 3 的方式                 
+ON 延迟(秒)                     
+OFF 延迟(秒)                    
+ON/OFF 延迟(秒)                 
+脉冲发生器(秒)                  
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+ON 延迟(分)                     
+OFF 延迟(分)                    
+ON/OFF 延迟(分)                 
+脉冲发生器(分)                  
+2862
+BO:定时器 3                     
+2863
+定时器 3 的非输出               
+2864
+BI:定时器 4                     
+2865
+定时器 4 的延时                 
+2866
+定时器 4 的方式                 
+ON 延迟(秒)                     
+OFF 延迟(秒)                    
+ON/OFF 延迟(秒)                 
+脉冲发生器(秒)                  
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+ON 延迟(分)                     
+OFF 延迟(分)                    
+ON/OFF 延迟(分)                 
+脉冲发生器(分)                  
+2867
+BO: 定时器 4                    
+2868
+定时器 4 的非输出               
+2869
+CI: ADD 1                       
+连接器输入 0(CI 0)              
+连接器输入 1(CI 1)              
+2870
+CO: ADD 1                       
+2871
+CI: ADD 2                       
+连接器输入 0(CI 0)              
+连接器输入 1(CI 1)              
+2872
+CO: ADD 2                       
+2873
+CI: SUB 1                       
+连接器输入 0(CI 0)              
+连接器输入 1(CI 1)              
+2874
+CO: SUB 1                       
+2875
+CI: SUB 2                       
+连接器输入 0(CI 0)              
+连接器输入 1(CI 1)              
+2876
+CO: SUB 2                       
+2877
+CI: MUL 1                       
+连接器输入 0(CI 0)              
+连接器输入 1(CI 1)              
+2878
+CO: MUL 1                       
+2879
+CI: MUL 2                       
+连接器输入 0(CI 0)              
+连接器输入 1(CI 1)              
+2880
+CO: MUL 2                       
+2881
+CI: DIV 1                       
+连接器输入 0(CI 0)              
+连接器输入 1(CI 1)              
+2882
+CO: DIV 1                       
+2883
+CI: DIV 2                       
+连接器输入 0(CI 0)              
+连接器输入 1(CI 1)              
+2884
+CO: DIV 2                       
+2885
+CI: CMP 1                       
+连接器输入 0(CI 0)              
+连接器输入 1(CI 1)              
+2886
+BO: CMP 1                       
+2887
+CI: CMP 2                       
+连接器输入 0(CI 0)              
+连接器输入 1(CI 1)              
+2888
+BO: CMP 2                       
+2889
+固定给定值 1 [%]                
+2890
+固定给定值 2 [%]                
+3900
+快速调试结束                    
+不快速调试                      
+在工厂复位情况下开始快速调试    
+开始快速调试                    
+仅对电动机数据开始快速调试      
+3950
+Access of hidden parameters     
+3954
+CM version and GUI ID           
+CM version (major release)      
+CM version (minor release)      
+CM version (baselevel or patch) 
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID                          
+GUI ID major release            
+GUI ID minor release            
+3955
+Version for DriveMonitor        
+3980
+Commissioning command selection 
+Cmd=BICO param. Setp=BICO param.
+Cmd=BICO param. Setp=MOP setp.  
+Cmd=BICO param. Setp=Analog setp
+Cmd=BICO param. Setp=Fixed freq.
+Cmd=BICO param. Setp=USS BOPlink
+Cmd=BICO param. Setp=USS COMlink
+Cmd=BICO param. Setp=CB  COMlink
+未定义                          
+未定义                          
+未定义                          
+Cmd=BOP         Setp=BICO param.
+Cmd=BOP         Setp=MOP setp.  
+Cmd=BOP         Setp=Analog setp
+Cmd=BOP         Setp=Fixed freq.
+未定义                          
+Cmd=BOP         Setp=USS COMlink
+Cmd=BOP         Setp=CB  COMlink
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+Cmd=USS BOPlink Setp=BICO param.
+Cmd=USS BOPlink Setp=MOP setp.  
+Cmd=USS BOPlink Setp=Analog setp
+Cmd=USS BOPlink Setp=Fixed freq.
+Cmd=USS BOPlink Setp=USS BOPlink
+Cmd=USS BOPlink Setp=USS COMlink
+Cmd=USS BOPlink Setp=CB  COMlink
+未定义                          
+未定义                          
+未定义                          
+Cmd=USS COMlink Setp=BICO param.
+Cmd=USS COMlink Setp=MOP setp.  
+Cmd=USS COMlink Setp=Analog setp
+Cmd=USS COMlink Setp=Fixed freq.
+Cmd=USS COMlink Setp=USS BOPlink
+Cmd=USS COMlink Setp=USS COMlink
+未定义                          
+未定义                          
+未定义                          
+未定义                          
+Cmd=CB  COMlink Setp=BICO param.
+Cmd=CB  COMlink Setp=MOP setp.  
+Cmd=CB  COMlink Setp=Analog setp
+Cmd=CB  COMlink Setp=Fixed freq.
+Cmd=CB  COMlink Setp=USS BOPlink
+未定义                          
+Cmd=CB  COMlink Setp=CB  COMlink
+3981
+Reset active fault              
+No fault reset                  
+Reset fault                     
+3986
+Number of parameters            
+Read only                       
+Read & write                    

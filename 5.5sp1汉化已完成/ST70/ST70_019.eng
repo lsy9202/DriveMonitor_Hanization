@@ -1,0 +1,5867 @@
+0001
+Main setpoint                   
+0002
+Main act value                  
+0003
+Anal sel input 1                
+0004
+Anal sel input 2                
+0005
+Anal sel input 3                
+0006
+Anal sel outpt 1                
+0007
+Anal sel outpt 2                
+0008
+Anal sel outpt 3                
+0009
+Anal sel outpt 4                
+0010
+Binary inputs                   
+0011
+Binary outputs                  
+0012
+Motor temperatur                
+Term. 22/23                     
+Term. 204/205                   
+0013
+Heatsink temper.                
+0014
+Temp. rise disp.                
+Motor temp rise                 
+Thyrs temp rise                 
+0015
+Line voltage                    
+0017
+Line frequency                  
+0018
+Firing angle                    
+0019
+Actual I value                  
+0020
+I setpoint                      
+0021
+M setp limited                  
+0022
+M setp unlimited                
+0023
+n cntr SAD                      
+0024
+n act pulse encd                
+0025
+n-actual value                  
+0026
+n contr setpoint                
+0027
+RFG output                      
+0028
+RFG input limit.                
+0029
+RFG input unlim.                
+0040
+Limitations disp                
+0041
+Connec disp P042                
+0042
+Connec >r041                    
+0043
+Connec disp P044                
+0044
+Connec >ro43                    
+0045
+Binec disp P046                 
+0046
+Binec >r045                     
+0047
+Fault diagn mem                 
+0048
+Hours run                       
+0049
+Fault time                      
+0050
+Language                        
+German                          
+English                         
+Spanish                         
+French                          
+Italian                         
+0051
+Key parameter                   
+0052
+Complexity                      
+0053
+CtrlWordPermMem                 
+ParamChanges                    
+SaveNonVolPrData                
+Blocked                         
+Admissible                      
+0054
+OP backgr light                 
+ON continuous                   
+ON for operation                
+0055
+FDS copy funct                  
+0056
+Active FDS                      
+0057
+BDS copy funct                  
+0058
+Active BDS                      
+0059
+Operating state                 
+0060
+Software version                
+Slot 1                          
+Slot D                          
+Slot E                          
+Slot F                          
+Slot G                          
+0061
+Creation date                   
+Year                            
+Month                           
+Day                             
+Hour                            
+Minute                          
+0062
+Checksum                        
+0063
+Board ID code                   
+Slot 1                          
+Slot D                          
+Slot E                          
+Slot F                          
+Slot G                          
+0064
+Board compatibil                
+0065
+Software identif                
+0068
+Z option                        
+No option                       
+L04 (low volts)                 
+K01 (term expan)                
+L04 + K01                       
+H78 (65øCelsius)                
+H78 + L04                       
+H78 + K01                       
+H78 + L04 + K01                 
+0069
+Serial number                   
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+0070
+MLFB                            
+no MLFB                         
+6RA7013-6DV62-0                 
+6RA7018-6DV62-0                 
+6RA7025-6DV62-0                 
+6RA7028-6DV62-0                 
+6RA7031-6DV62-0                 
+6RA7075-6DV62-0                 
+6RA7078-6DV62-0                 
+6RA7081-6DV62-0                 
+6RA7085-6DV62-0                 
+6RA7087-6DV62-0                 
+6RA7091-6DV62-0                 
+6RA7093-4DV62-0                 
+6RA7095-4DV62-0                 
+6RA7025-6GV62-0                 
+6RA7031-6GV62-0                 
+6RA7075-6GV62-0                 
+6RA7081-6GV62-0                 
+6RA7085-6GV62-0                 
+6RA7087-6GV62-0                 
+6RA7090-6GV62-0                 
+6RA7093-4GV62-0                 
+6RA7095-4GV62-0                 
+6RA7086-6KV62-0                 
+6RA7090-6KV62-0                 
+6RA7093-4KV62-0                 
+6RA7095-4KV62-0                 
+6RA7088-6LV62-0                 
+6RA7093-4LV62-0                 
+6RA7095-4LV62-0                 
+6RA7018-6DS22-0                 
+6RA7025-6DS22-0                 
+6RA7028-6DS22-0                 
+6RA7031-6DS22-0                 
+6RA7075-6DS22-0                 
+6RA7078-6DS22-0                 
+6RA7081-6DS22-0                 
+6RA7085-6DS22-0                 
+6RA7087-6DS22-0                 
+6RA7091-6DS22-0                 
+6RA7093-4DS22-0                 
+6RA7095-4DS22-0                 
+6RA7025-6GS22-0                 
+6RA7031-6GS22-0                 
+6RA7075-6GS22-0                 
+6RA7081-6GS22-0                 
+6RA7085-6GS22-0                 
+6RA7087-6GS22-0                 
+6RA7090-6GS22-0                 
+6RA7093-4GS22-0                 
+6RA7095-4GS22-0                 
+6RA7086-6KS22-0                 
+6RA7088-6KS22-0                 
+6RA7093-4KS22-0                 
+6RA7095-4KS22-0                 
+6RA7088-6LS22-0                 
+6RA7093-4LS22-0                 
+6RA7095-4LS22-0                 
+no MLFB                         
+no MLFB                         
+6RA7000-0MV62-0                 
+6SG7050-0EB60-0                 
+6SG7052-0EB60-0                 
+6SG7055-0EB60-0                 
+6SG7060-0EB60-0                 
+6SG7062-0EB60-0                 
+6SG7065-0EB60-0                 
+6SG7070-0EB60-0                 
+6SG7072-0EB60-0                 
+6SG7076-0EB60-0                 
+6SG7080-0EB60-0                 
+6SG7082-0EB60-0                 
+6SG7085-0EB60-0                 
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+6SG7050-0EB60-Z                 
+6SG7052-0EB60-Z                 
+6SG7055-0EB60-Z                 
+6SG7060-0EB60-Z                 
+6SG7062-0EB60-Z                 
+6SG7065-0EB60-Z                 
+6SG7070-0EB60-Z                 
+6SG7072-0EB60-Z                 
+6SG7076-0EB60-Z                 
+6SG7080-0EB60-Z                 
+6SG7082-0EB60-Z                 
+6SG7085-0EB60-Z                 
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+6RA7018-6FV62-0                 
+6RA7025-6FV62-0                 
+6RA7028-6FV62-0                 
+6RA7031-6FV62-0                 
+6RA7075-6FV62-0                 
+6RA7078-6FV62-0                 
+6RA7082-6FV62-0                 
+6RA7085-6FV62-0                 
+6RA7087-6FV62-0                 
+6RA7091-6FV62-0                 
+6RA7018-6FS22-0                 
+6RA7025-6FS22-0                 
+6RA7028-6FS22-0                 
+6RA7031-6FS22-0                 
+6RA7075-6FS22-0                 
+6RA7078-6FS22-0                 
+6RA7082-6FS22-0                 
+6RA7085-6FS22-0                 
+6RA7087-6FS22-0                 
+6RA7091-6FS22-0                 
+0071
+Rated volts                     
+0072
+Rated currnt                    
+0075
+Dynam. overload                 
+Deactivated                     
+ON + A039                       
+ON + F039                       
+0076
+I normalization                 
+Stator                          
+N/A                             
+0077
+I reduct factor                 
+0078
+U normalization                 
+Stator                          
+N/A                             
+0080
+Brake control                   
+Not defined                     
+Holding brake                   
+Operating brake                 
+0083
+Act speed select                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Not defined                     
+Analog tacho                    
+Pulse encoder                   
+EMF actual value                
+Freely wired                    
+0084
+Cl-lp n/I contrl                
+Not defined                     
+Cl-lp n control                 
+Cl-lp I control                 
+0085
+Delay INCH cancl                
+0086
+Autorestart time                
+0087
+Brak releas time                
+0088
+Brake close time                
+0089
+Maxtime PS volts                
+0090
+Stab time line V                
+0091
+Stpoint threshld                
+0093
+Linecontac delay                
+0094
+OFF delay auxil                 
+0095
+Motcontact delay                
+0096
+Fan motor delay                 
+0100
+I rated motor                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0113
+Cont.Curr.Factor                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0114
+Therm tconst mot                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0140
+Pulse encod type                
+None                            
+Plstck0+Plstck90                
+Plstck0+Plstck90                
+CWpulse/CCWpulse                
+Pulstrck + sign                 
+0141
+No. encod pulses                
+0142
+Pulse enc volts                 
+5 volts                         
+15 volts                        
+0143
+Pulse enc n max                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0144
+Multipl evaluat                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+1x evaluation                   
+2x evaluation                   
+4x evaluation                   
+0145
+Autom. mult eval                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+Activated                       
+0146
+Auto MsTm switch                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+Activated                       
+0147
+Nominal meastime                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+1 ms                            
+2 ms                            
+4 ms                            
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+0.2 ms                          
+0.3 ms                          
+0.4 ms                          
+0.5 ms                          
+0.6 ms                          
+0.7 ms                          
+0.8 ms                          
+0.9 ms                          
+1ms asynchronous                
+0148
+Pulse enc monit                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+Activated                       
+0152
+Linefrequ corr                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0153
+I cntrl precntr                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+Activated                       
+Partially Active                
+Active / EMF = 0                
+0154
+I control I comp                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+I comp = 0                      
+I comp active                   
+0155
+I P gain                        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0156
+I reset tm                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0157
+I setp integrat                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Reducd gr stress                
+Always active                   
+0158
+Rmp t I setp int                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0159
+AutoRevrs thresh                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0160
+Add M-free time                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0164
+I control P comp                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+P comp = 0                      
+P comp active                   
+0166
+Filt.t I-precntr                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0167
+Alpha limit                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0168
+Delta alpha lim                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0171
+Current limit MI                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0172
+Current limt MII                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0175
+Ia control C_Kp                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0176
+Ia control C_Tn                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0180
+Pos.torque lim 1                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0181
+Neg.torque lim 1                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0182
+Pos.torque lim 2                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0183
+Neg.torque lim 2                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0184
+Threshold speed                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0190
+IaSetPrctrlFltrT                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0191
+IaSetCtrlerFltrT                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0200
+Filt.t ncntr act                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0201
+Bandstop1 freq                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0202
+Bandstop1 qualty                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0203
+Bandstop2 freq                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0204
+Bandstop2 qualty                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0205
+ncntr D-act time                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0206
+ncntr D filttime                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0217
+Eff. droop_prc                  
+0218
+Eff. reset time                 
+0219
+Eff. P gain                     
+0221
+PI/P hysteresis                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0222
+PI/P switchover                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0223
+n cntrl precntrl                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0224
+n cntrl I comp                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+I comp = 0                      
+Stop at M/I limt                
+Stop at M limit                 
+Stop at 199 prc                 
+0225
+n cntrl P gain                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0226
+n cntrl reset tm                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0227
+ncntrl droop_prc                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0228
+ncntr stp filttm                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0229
+n cntrl op mode                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+n cntrl track                   
+n cntrl indepndn                
+0230
+SpdCtrl TI SetTm                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0234
+n cntrl P comp                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+P comp = 0                      
+P comp active                   
+0260
+IfSetPrctrlFltrT                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0261
+IfSetCtrlerFltrT                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0280
+emfSetPrctrlFltT                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0281
+emfSetCtrlerFltT                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0282
+emfActCtrlerFltT                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0283
+emfActPrctrlFltT                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0295
+Overshoot                       
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+not permitted                   
+permitted                       
+0296
+RFG rampdwn OFF3                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0297
+RFG l-t rnd OFF3                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0298
+RFG u-t rnd OFF3                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0300
+Pos. setpnt limt                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0301
+Neg. setpnt limt                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0302
+Ramp-up integrat                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+ON with T = 0                   
+ON with RFG2                    
+ON with RFG3                    
+0303
+RFG rampup tm 1                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0304
+RFG rampdwn tm 1                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0305
+RFG l-t round 1                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0306
+RFG u-t round 1                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0307
+RFG rampup tm 2                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0308
+RFG rampdwn tm 2                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0309
+RFG l-t round 2                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0310
+RFG u-t round 2                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0311
+RFG rampup tm 3                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0312
+RFG rampdwn tm 3                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0313
+RFG l-t round 3                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0314
+RFG u-t round 3                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0315
+Eff. ramp times                 
+0316
+RFG status                      
+RFG not enabled                 
+RFG enabled                     
+RFG stopped                     
+RFG started                     
+No setp enable                  
+Setp enable+OFF1                
+Set RFG                         
+Do not set RFG                  
+No RFG tracking                 
+RFG tracking                    
+No RFG bypass                   
+Bypass RFG                      
+No ramp-down                    
+Ramp-down                       
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+No ramp-up                      
+Ramp-up                         
+0317
+RFG tracking                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+Activated                       
+0318
+Set RFG bef OFF1                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+Acc. to K0167                   
+Acc. to K0179                   
+0319
+Delay setp enabl                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0320
+Main setp scale                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0321
+Add. setp scale                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0322
+Src main stp scl                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0323
+Src add. stp scl                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0351
+Undervolt thresh                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0352
+Overvolt thresh                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0353
+Phase fail thres                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0355
+Stall prot time                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0360
+Ext flt/alm dely                
+0361
+UnderVltMonDelay                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0362
+OverVoltMonDelay                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0363
+min. line freq.                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0364
+max. line freq.                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0370
+n-min threshold                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0371
+n<nmin sign hyst                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0373
+n-x1 sign thresh                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0374
+n<n-x1 sign hyst                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0375
+n<n-x1 sign dely                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0376
+SAD2 threshold                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0377
+SAD2 hysteresis                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0378
+S2<thresh. delay                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0380
+Pos. n max                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0381
+Neg. n max                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0387
+S<thresh. delay                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0388
+SAD threshold                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0389
+SAD hysteresis                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0390
+SAD sign delay                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0401
+Fixed setpoint 1                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0402
+Fixed setpoint 2                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0403
+Fixed setpoint 3                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0404
+Fixed setpoint 4                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0405
+Fixed setpoint 5                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0406
+Fixed setpoint 6                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0407
+Fixed setpoint 7                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0408
+Fixed setpoint 8                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0409
+Fixed setpoint 9                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0410
+Fixed setpoint10                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0411
+Fixed setpoint11                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0412
+Fixed setpoint12                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0413
+Fixed setpoint13                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0414
+Fixed setpoint14                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0415
+Fixed setpoint15                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0416
+Fixed setpoint16                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0421
+Control bit 1                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0422
+Control bit 2                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0423
+Control bit 2                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0424
+Control bit 2                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0425
+Control bit 2                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0426
+Control bit 2                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0427
+Control bit 2                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0428
+Control bit 2                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0430
+Src fxstp inject                
+0431
+Src fix setpoint                
+0432
+RFG byp fix setp                
+No RFG bypass                   
+Bypass RFG                      
+0433
+Src std stpnt Fx                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0435
+Src inch inject                 
+0436
+Src inching setp                
+0437
+RFG byp inch stp                
+No RFG bypass                   
+Bypass RFG                      
+0438
+Src std stpnt In                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0440
+Src crawl inject                
+0441
+Src crawl stpnt                 
+0442
+RFG byp crwl stp                
+No RFG bypass                   
+Bypass RFG                      
+0443
+Src std stpnt Cr                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0444
+Src stndstll edg                
+BiCo data set 1                 
+BiCo data set 2                 
+0445
+Level/edge crawl                
+Level                           
+Edge                            
+0450
+Pos. count reset                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+By zero marker                  
+K139=0+zeromarkr                
+By K139=0                       
+0451
+Pos.count hyster                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+Activated                       
+0452
+Src Reset PosCnt                
+BiCo data set 1                 
+BiCo data set 2                 
+0453
+Src Rel EnabCntr                
+BiCo data set 1                 
+BiCo data set 2                 
+0455
+Src ConnSel1K_In                
+0456
+Src ConnSel1B_In                
+0457
+Src ConnSel2K_In                
+0458
+Src ConnSel2B_In                
+0460
+MOP oper mode                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Automatic: T=0                  
+Automatic: T<>0                 
+0461
+MOP Auto setpnt                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0462
+MOP ramp-up time                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0463
+MOP rmp-dwn time                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0464
+MOP time differ                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0465
+MOP T up/dwn *60                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+ * 1                            
+ * 60                           
+0466
+Src MOP set val                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0467
+MOP start value                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0468
+MOP maximum                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0469
+MOP minimum                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0470
+Src MOP CW/CCW                  
+BiCo data set 1                 
+BiCo data set 2                 
+0471
+Src MOP Man/Auto                
+BiCo data set 1                 
+BiCo data set 2                 
+0472
+Src Set MOP                     
+BiCo data set 1                 
+BiCo data set 2                 
+0473
+MOP val storage                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+Activated                       
+0480
+Oscill setpnt 1                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0481
+Oscill time 1                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0482
+Oscill setpnt 2                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0483
+Oscill time 2                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0484
+Src std stpt.Osc                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0485
+Src enabl oscill                
+BiCo data set 1                 
+BiCo data set 2                 
+0490
+MotInt temp sens                
+Term. 22/23                     
+Term. 204/205                   
+None                            
+KTY84                           
+PTC R=600 ohms                  
+PTC R=1200 ohms                 
+PTC R=1330 ohms                 
+PTC R=2660 ohms                 
+0491
+MotInt alarm tmp                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0492
+MotInt flt temp                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0493
+Mot Temp1 react                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+No option                       
+T>P491: A029                    
+T>P492: F029                    
+T>P491/2: A+F029                
+0494
+Mot Temp2 react                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+No option                       
+T>P491: A029                    
+T>P492: F029                    
+T>P491/2: A+F029                
+0495
+Brush length                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+No reaction                     
+Term.211=0: A025                
+Term.211=0: F025                
+0496
+Bearing condit.                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+No reaction                     
+Term.212=1: A026                
+Term.212=1: F026                
+0497
+Air flow                        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+No reaction                     
+Term.213=0: A027                
+Term.213=0: F027                
+0498
+Temperat switch                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+No reaction                     
+Term.214=0: A028                
+Term.214=0: F028                
+0500
+Src M setp slave                
+BiCo data set 1                 
+BiCo data set 2                 
+0501
+Src addit M setp                
+BiCo data set 1                 
+BiCo data set 2                 
+0502
+Src nCntrOtptAdd                
+0503
+NormTorqSetpFoll                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0509
+Src nact nlmtctr                
+0510
+Src torque lmt 1                
+0511
+Src torque lmt 2                
+0512
+Pos. n-max limit                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0513
+Neg. n-max limit                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0515
+n-max ctrl Pgain                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0520
+Frict. n=0 prc                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0521
+Frict. n=10 prc                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0522
+Frict. n=20 prc                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0523
+Frict. n=30 prc                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0524
+Frict. n=40 prc                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0525
+Frict. n=50 prc                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0526
+Frict. n=60 prc                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0527
+Frict. n=70 prc                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0528
+Frict. n=80 prc                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0529
+Frict. n=90 prc                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0530
+Frict. n>100prc                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0540
+dv/dt accel time                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0541
+dv/dt accl Pgain                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0542
+dv/dt time diff                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0543
+dv/dt accl thres                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0546
+dv/dt filt time                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0550
+nctrl Pgain adap                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0551
+nctrl resTm adap                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0552
+nctrl droop adap                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0553
+Src nctrl Pg ad.                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0554
+Src nctrl Tm ad.                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0555
+Src nctrl dr ad.                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0556
+Adapt.Pgain pnt1                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0557
+Adapt.resTm pnt1                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0558
+Adapt.droop pnt1                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0559
+Adapt.Pgain pnt2                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0560
+Adapt.resTm pnt2                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0561
+Adapt.droop pnt2                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0562
+Pos. droop limit                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0563
+Neg. droop limit                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0583
+Src ActFieldRev                 
+0590
+Src stp SAD sign                
+0591
+Src actvl SAD sg                
+0592
+Src actvl n<nx1                 
+0593
+Src actvl n<nmin                
+0594
+Src polarity stp                
+0595
+Src actvl n>nmax                
+0596
+SrcSetp SADmess2                
+0597
+SrcActV SADmess2                
+0600
+Src gat-unit                    
+0601
+Src stp I ctrl                  
+0602
+Src actvl I ctrl                
+0603
+Src I limit MI                  
+0604
+Src I limit MII                 
+0605
+Src M limit MI                  
+0606
+Src M limit MII                 
+0607
+Src M setpoint                  
+BiCo data set 1                 
+BiCo data set 2                 
+0609
+Src actval n ctr                
+0619
+Src dv/dt inject                
+0620
+Src SAD n cntrl                 
+0621
+Src stp n cntrl                 
+0622
+Src stp n cntrl                 
+0623
+Src actval n ctr                
+0624
+Src actval n ctr                
+0625
+Src stp n ctrl                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0626
+Src actval n ctr                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0627
+Src DT1 element                 
+0628
+Src bandstop 1                  
+0629
+Src bandstop 2                  
+0630
+Src n ctrl droop                
+0631
+Src Icomp setval                
+0632
+Src pos. stp lim                
+0633
+Src neg. stp lim                
+0634
+Src RFG setp lim                
+0635
+Src RFG setpoint                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0636
+Src ramptime red                
+0637
+Src sel ramptm 2                
+BiCo data set 1                 
+BiCo data set 2                 
+0638
+Src sel ramptm 3                
+BiCo data set 1                 
+BiCo data set 2                 
+0639
+Src RFG set val                 
+0640
+Src sel Set RFG                 
+BiCo data set 1                 
+BiCo data set 2                 
+0641
+Src sel Byps RFG                
+BiCo data set 1                 
+BiCo data set 2                 
+0642
+Src pos. stp lim                
+0643
+Src neg. stp lim                
+0644
+Src main setpnt                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0645
+Src add setpoint                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0646
+Src enbl RFG swt                
+BiCo data set 1                 
+BiCo data set 2                 
+0648
+Src control wrd1                
+BiCo data set 1                 
+BiCo data set 2                 
+0649
+Src control wrd2                
+BiCo data set 1                 
+BiCo data set 2                 
+0650
+Control word 1                  
+0651
+Control word 2                  
+0652
+Status word 1                   
+0653
+Status word 2                   
+0654
+Src ON/OFF1                     
+BiCo data set 1                 
+BiCo data set 2                 
+0655
+Src 1 OFF2 elect                
+BiCo data set 1                 
+BiCo data set 2                 
+0656
+Src 2 OFF2 elect                
+BiCo data set 1                 
+BiCo data set 2                 
+0657
+Src 3 OFF2 elect                
+BiCo data set 1                 
+BiCo data set 2                 
+0658
+Src 1 OFF3 Fstop                
+BiCo data set 1                 
+BiCo data set 2                 
+0659
+Src 2 OFF3 Fstop                
+BiCo data set 1                 
+BiCo data set 2                 
+0660
+Src 3 OFF3 Fstop                
+BiCo data set 1                 
+BiCo data set 2                 
+0661
+Src pulse enable                
+BiCo data set 1                 
+BiCo data set 2                 
+0662
+Src RFG enable                  
+BiCo data set 1                 
+BiCo data set 2                 
+0663
+Src no RFG stop                 
+BiCo data set 1                 
+BiCo data set 2                 
+0664
+Src enable setpn                
+BiCo data set 1                 
+BiCo data set 2                 
+0665
+Src 1 acknowldge                
+BiCo data set 1                 
+BiCo data set 2                 
+0666
+Src 2 acknowldge                
+BiCo data set 1                 
+BiCo data set 2                 
+0667
+Src 3 acknowldge                
+BiCo data set 1                 
+BiCo data set 2                 
+0668
+Src Inching bit0                
+BiCo data set 1                 
+BiCo data set 2                 
+0669
+Src Inching bit1                
+BiCo data set 1                 
+BiCo data set 2                 
+0671
+Src pos. rot dir                
+BiCo data set 1                 
+BiCo data set 2                 
+0672
+Src neg. rot dir                
+BiCo data set 1                 
+BiCo data set 2                 
+0673
+Src raise motpot                
+BiCo data set 1                 
+BiCo data set 2                 
+0674
+Src lower motpot                
+BiCo data set 1                 
+BiCo data set 2                 
+0675
+Src no ext flt 1                
+BiCo data set 1                 
+BiCo data set 2                 
+0676
+Src FDS bit 0                   
+BiCo data set 1                 
+BiCo data set 2                 
+0677
+Src FDS bit 1                   
+BiCo data set 1                 
+BiCo data set 2                 
+0680
+Src fixstp bit 0                
+BiCo data set 1                 
+BiCo data set 2                 
+0681
+Src fixstp bit 1                
+BiCo data set 1                 
+BiCo data set 2                 
+0684
+Src enable droop                
+BiCo data set 1                 
+BiCo data set 2                 
+0685
+Src enbl n cntrl                
+BiCo data set 1                 
+BiCo data set 2                 
+0686
+Src no ext flt 2                
+BiCo data set 1                 
+BiCo data set 2                 
+0687
+Src slave drive                 
+BiCo data set 1                 
+BiCo data set 2                 
+0688
+Src no ext alm 1                
+BiCo data set 1                 
+BiCo data set 2                 
+0689
+Src no ext alm 2                
+BiCo data set 1                 
+BiCo data set 2                 
+0690
+Src BICO dataset                
+0691
+Src ContacChkbck                
+BiCo data set 1                 
+BiCo data set 2                 
+0694
+Src M limt swtch                
+BiCo data set 1                 
+BiCo data set 2                 
+0695
+Src SetnCtrIcomp                
+BiCo data set 1                 
+BiCo data set 2                 
+0696
+Src StopnCtrIcmp                
+BiCo data set 1                 
+BiCo data set 2                 
+0697
+Src enable dv/dt                
+BiCo data set 1                 
+BiCo data set 2                 
+0698
+Src enable P/PI                 
+BiCo data set 1                 
+BiCo data set 2                 
+0700
+Main stp sig typ                
+0 to +-10 V                     
+0 to 20 mA                      
+4 to 20 mA                      
+0701
+Main stp normalz                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0702
+Main stp offset                 
+0703
+Main stp ctr wrd                
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+0704
+MainStp B_signrv                
+0705
+Main stp filt tm                
+0706
+Main stp B_enabl                
+0707
+Main stp resolut                
+0710
+AI6  signal type                
+0711
+AI6  normalizat                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0712
+AI6  offset                     
+0713
+AI6  ctrl word                  
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+0714
+AI6  B_sign rev                 
+0715
+AI6  filter time                
+0716
+AI6  B_enable                   
+0717
+AI6  resolution                 
+0721
+AI8  normalizat                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0722
+AI8  offset                     
+0723
+AI8  ctrl word                  
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+0724
+AI8  B_sign rev                 
+0725
+AI8  filter time                
+0726
+AI8  B_enable                   
+0731
+AI11 normalizat                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0732
+AI11 offset                     
+0733
+AI11 ctrl word                  
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+0734
+AI11 B_sign rev                 
+0735
+AI11 filter time                
+0736
+AI11 B_enable                   
+0741
+MnActVl normaliz                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0742
+MnActVl offset                  
+0743
+MnActVl ctrl wrd                
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+0744
+MnActVl B_signrv                
+0745
+MnActVl filt tme                
+0746
+MnActVl B_enable                
+0749
+Iact ctrl word                  
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+0750
+AO14 conn select                
+0751
+AO14 ctrl word                  
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+0752
+AO14 filter time                
+0753
+AO14 normalizat                 
+0754
+AO14 offset                     
+0755
+AO16 conn select                
+0756
+AO16 ctrl word                  
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+0757
+AO16 filter time                
+0758
+AO16 normalizat                 
+0759
+AO16 offset                     
+0760
+AO18 conn select                
+0761
+AO18 ctrl word                  
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+0762
+AO18 filter time                
+0763
+AO18 normalizat                 
+0764
+AO18 offset                     
+0765
+AO20 conn select                
+0766
+AO20 ctrl word                  
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+0767
+AO20 filter time                
+0768
+AO20 normalizat                 
+0769
+AO20 offset                     
+0770
+Inversion                       
+Bin.outpt term46                
+Bin.outpt term48                
+Bin.outpt term50                
+Bin.outpt term52                
+Deactivated                     
+Activated                       
+0771
+BO46 srce binect                
+0772
+BO48 srce binect                
+0773
+BO50 srce binect                
+0774
+BO52 srce binect                
+0775
+BO46 delay                      
+0776
+BO48 delay                      
+0777
+BO50 delay                      
+0778
+BO52 delay                      
+0780
+GSST1 protocol                  
+Deactivated                     
+Deactivated                     
+USS protocol                    
+Deactivated                     
+Deactivated                     
+Deactivated                     
+Deactivated                     
+Deactivated                     
+For factory use                 
+For factory use                 
+0781
+GSST1 PZD No.                   
+0782
+GSST1 PKW No.                   
+0783
+GSST1 baud rate                 
+                                
+    300 Baud                    
+    600 Baud                    
+   1200 Baud                    
+   2400 Baud                    
+   4800 Baud                    
+   9600 Baud                    
+  19200 Baud                    
+  38400 Baud                    
+  56700 Baud                    
+                                
+  93750 Baud                    
+                                
+ 187500 Baud                    
+0784
+GSST1 act values                
+ 1. process data                
+ 2. process data                
+ 3. process data                
+ 4. process data                
+ 5. process data                
+ 6. process data                
+ 7. process data                
+ 8. process data                
+ 9. process data                
+10. process data                
+11. process data                
+12. process data                
+12. process data                
+14. process data                
+15. process data                
+16. process data                
+0785
+GSST1 options                   
+GSST1 bus termin                
+Bit10=Ctrl.requ.                
+Deactivated                     
+Activated                       
+0786
+GSST1 bus addres                
+0787
+GSST1 tlgrfail t                
+0788
+GSST1 fltact src                
+0789
+GSST1 diagnosis                 
+Error-free teleg                
+Errored telegram                
+Framing errors                  
+Overrun errors                  
+Parity errors                   
+Bad STX                         
+Telg rtrf tm err                
+Bad BCC errors                  
+Tlg. length err                 
+Timeout errors                  
+0790
+GSST2 protocol                  
+Deactivated                     
+Deactivated                     
+USS protocol                    
+Deactivated                     
+Deactivated                     
+Peer-to-peer                    
+Deactivated                     
+Deactivated                     
+Deactivated                     
+For factory use                 
+0791
+GSST2 PZD No.                   
+0792
+GSST2 PKW No.                   
+0793
+GSST2 baud rate                 
+                                
+    300 Baud                    
+    600 Baud                    
+   1200 Baud                    
+   2400 Baud                    
+   4800 Baud                    
+   9600 Baud                    
+  19200 Baud                    
+  38400 Baud                    
+  56700 Baud                    
+                                
+  93750 Baud                    
+                                
+ 187500 Baud                    
+0794
+GSST2 act values                
+ 1. process data                
+ 2. process data                
+ 3. process data                
+ 4. process data                
+ 5. process data                
+ 6. process data                
+ 7. process data                
+ 8. process data                
+ 9. process data                
+10. process data                
+11. process data                
+12. process data                
+12. process data                
+14. process data                
+15. process data                
+16. process data                
+0795
+GSST2 options                   
+GSST2 bus termin                
+Bit10=Ctrl.requ.                
+Deactivated                     
+Activated                       
+0796
+GSST2 bus addres                
+0797
+GSST2 tlgrfail t                
+0798
+GSST2 fltact src                
+0799
+GSST2 diagnosis                 
+Error-free teleg                
+Errored telegram                
+Framing errors                  
+Overrun errors                  
+Parity errors                   
+Bad STX                         
+Telg rtrf tm err                
+Bad BCC errors                  
+Tlg. length err                 
+Timeout errors                  
+0800
+GSST3 protocol                  
+Deactivated                     
+Deactivated                     
+USS protocol                    
+Deactivated                     
+Deactivated                     
+Peer-to-peer                    
+Deactivated                     
+Deactivated                     
+Deactivated                     
+For factory use                 
+0801
+GSST3 PZD No.                   
+0802
+GSST3 PKW No.                   
+0803
+GSST3 baud rate                 
+                                
+    300 Baud                    
+    600 Baud                    
+   1200 Baud                    
+   2400 Baud                    
+   4800 Baud                    
+   9600 Baud                    
+  19200 Baud                    
+  38400 Baud                    
+  56700 Baud                    
+                                
+  93750 Baud                    
+                                
+ 187500 Baud                    
+0804
+GSST3 act values                
+ 1. process data                
+ 2. process data                
+ 3. process data                
+ 4. process data                
+ 5. process data                
+ 6. process data                
+ 7. process data                
+ 8. process data                
+ 9. process data                
+10. process data                
+11. process data                
+12. process data                
+12. process data                
+14. process data                
+15. process data                
+16. process data                
+0805
+GSST3 options                   
+GSST3 bus termin                
+Bit10=Ctrl.requ.                
+Deactivated                     
+Activated                       
+0806
+GSST3 bus addres                
+0807
+GSST3 tlgrfail t                
+0808
+GSST3 fltact src                
+0809
+GSST3 diagnosis                 
+Error-free teleg                
+Errored telegram                
+Framing errors                  
+Overrun errors                  
+Parity errors                   
+Bad STX                         
+Telg rtrf tm err                
+Bad BCC errors                  
+Tlg. length err                 
+Timeout errors                  
+0810
+GSST1 recv data                 
+ 1. process data                
+ 2. process data                
+ 3. process data                
+ 4. process data                
+ 5. process data                
+ 6. process data                
+ 7. process data                
+ 8. process data                
+ 9. process data                
+10. process data                
+11. process data                
+12. process data                
+12. process data                
+14. process data                
+15. process data                
+16. process data                
+Parameter Ident.                
+Parameter Index                 
+Parameter Val. L                
+Parameter Val. H                
+0811
+GSST1 trnsm data                
+ 1. process data                
+ 2. process data                
+ 3. process data                
+ 4. process data                
+ 5. process data                
+ 6. process data                
+ 7. process data                
+ 8. process data                
+ 9. process data                
+10. process data                
+11. process data                
+12. process data                
+12. process data                
+14. process data                
+15. process data                
+16. process data                
+Parameter Ident.                
+Parameter Index                 
+Parameter Val. L                
+Parameter Val. H                
+0812
+GSST2 recv data                 
+ 1. process data                
+ 2. process data                
+ 3. process data                
+ 4. process data                
+ 5. process data                
+ 6. process data                
+ 7. process data                
+ 8. process data                
+ 9. process data                
+10. process data                
+11. process data                
+12. process data                
+12. process data                
+14. process data                
+15. process data                
+16. process data                
+Parameter Ident.                
+Parameter Index                 
+Parameter Val. L                
+Parameter Val. H                
+0813
+GSST2 trnsm data                
+ 1. process data                
+ 2. process data                
+ 3. process data                
+ 4. process data                
+ 5. process data                
+ 6. process data                
+ 7. process data                
+ 8. process data                
+ 9. process data                
+10. process data                
+11. process data                
+12. process data                
+12. process data                
+14. process data                
+15. process data                
+16. process data                
+Parameter Ident.                
+Parameter Index                 
+Parameter Val. L                
+Parameter Val. H                
+0814
+GSST3 recv data                 
+ 1. process data                
+ 2. process data                
+ 3. process data                
+ 4. process data                
+ 5. process data                
+ 6. process data                
+ 7. process data                
+ 8. process data                
+ 9. process data                
+10. process data                
+11. process data                
+12. process data                
+12. process data                
+14. process data                
+15. process data                
+16. process data                
+Parameter Ident.                
+Parameter Index                 
+Parameter Val. L                
+Parameter Val. H                
+0815
+GSST3 trnsm data                
+ 1. process data                
+ 2. process data                
+ 3. process data                
+ 4. process data                
+ 5. process data                
+ 6. process data                
+ 7. process data                
+ 8. process data                
+ 9. process data                
+10. process data                
+11. process data                
+12. process data                
+12. process data                
+14. process data                
+15. process data                
+16. process data                
+Parameter Ident.                
+Parameter Index                 
+Parameter Val. L                
+Parameter Val. H                
+0816
+GSST2 recv enabl                
+0817
+GSST2 trnsm enbl                
+0818
+GSST3 recv enabl                
+0819
+GSST3 trnsm enbl                
+0820
+Deactivate fault                
+0821
+Deactivate alarm                
+0824
+ADC/DAC 2 comp.                 
+SIA2(trm.8) +10V                
+SIA2(trm.8) -10V                
+SIA3(trm10) +10V                
+SIA3(trm10) -10V                
+TEMP2(trm204)500                
+TEMP2(trm204) 2k                
+SOA3(trm18) +10V                
+SOA3(trm18) -10V                
+SOA4(trm20) +10V                
+SOA4(trm20) -10V                
+0826
+Comm.timing comp                
+Phase U-V                       
+Phase U-W                       
+Phase V-W                       
+Phase V-U                       
+Phase W-U                       
+Phase W-V                       
+0827
+Intern. diagnos                 
+No.EEPROM writes                
+No.EE-Pagewrites                
+No.DPR timeouts                 
+0828
+MLFB data                       
+Code No. (r070)                 
+V_ratd a_ratd[V]                
+V_lineAmax[0.1V]                
+V_a_max [0.1 V]                 
+V_linef_rated[V]                
+V_lineFmax[0.1V]                
+Ia_rated [0.1 A]                
+If_rated [0.01A]                
+V_B_A[in 0.1 mV]                
+IfFac [in 0.001]                
+Overl.fac [perc]                
+Properties                      
+                                
+                                
+No. of words                    
+Checksum                        
+0829
+ADC/DAC comp.                   
+AI(tm.4)+10V/10b                
+AI(tm.4)-10V/10b                
+AI(tm.4)+10V/11b                
+AI(tm.4)-10V/11b                
+AI(tm.4)+10V/12b                
+AI(tm.4)-10V/12b                
+AI(tm.4)+10V/13b                
+AI(tm.4)-10V/13b                
+AI(tm.4)+10V/14b                
+AI(tm.4)-10V/14b                
+AI(tm.4)+20m/10b                
+AI(tm.4)-20m/10b                
+AI(tm.4)+20m/11b                
+AI(tm.4)-20m/11b                
+AI(tm.4)+20m/12b                
+AI(tm.4)-20m/12b                
+AI(tm.4)+20m/13b                
+AI(tm.4)-20m/13b                
+AI(tm.4)+20m/14b                
+AI(tm.4)-20m/14b                
+AI(tm.6)+10V/10b                
+AI(tm.6)-10V/10b                
+AI(tm.6)+10V/11b                
+AI(tm.6)-10V/11b                
+AI(tm.6)+10V/12b                
+AI(tm.6)-10V/12b                
+AI(tm.6)+10V/13b                
+AI(tm.6)-10V/13b                
+AI(tm.6)+10V/14b                
+AI(tm.6)-10V/14b                
+AI(tm.6)+20m/10b                
+AI(tm.6)-20m/10b                
+AI(tm.6)+20m/11b                
+AI(tm.6)-20m/11b                
+AI(tm.6)+20m/12b                
+AI(tm.6)-20m/12b                
+AI(tm.6)+20m/13b                
+AI(tm.6)-20m/13b                
+AI(tm.6)+20m/14b                
+AI(tm.6)+10V/10b                
+Tacho2+4.38V/11b                
+Tacho2-4.38V/11b                
+Tacho2+4.38V/12b                
+Tacho2-4.38V/12b                
+Tacho2+4.38V/13b                
+Tacho2-4.38V/13b                
+Tacho2+4.38V/14b                
+Tacho2-4.38V/14b                
+Tacho3+4.38V/11b                
+Tacho3-4.38V/11b                
+Tacho3+4.38V/12b                
+Tacho3-4.38V/12b                
+Tacho3+4.38V/13b                
+Tacho3-4.38V/13b                
+Tacho3+4.38V/14b                
+Tacho3-4.38V/14b                
+Tacho ADU +4.38V                
+Tacho ADU -4.38V                
+TEMP1(tm.22) 500                
+TEMP1(tm.22)  2k                
+V_armat  +7.7V                  
+V_armat  -7.7V                  
+Tacho T_CTRL: 01                
+Tacho T_CTRL: 11                
+SOA1(tm.14) +10V                
+SOA1(tm.14) -10V                
+SOA2(tm.16) +10V                
+SOA2(tm.16) -10V                
+0831
+Conn. for trace                 
+0832
+Conn.for trigger                
+0833
+Bit for trigger                 
+Bit 0                           
+Bit 1                           
+Bit 2                           
+Bit 3                           
+Bit 4                           
+Bit 5                           
+Bit 6                           
+Bit 7                           
+Bit 8                           
+Bit 9                           
+Bit 10                          
+Bit 11                          
+Bit 12                          
+Bit 13                          
+Bit 14                          
+Bit 15                          
+Trigger on word                 
+0834
+TriggerCondition                
+Less than                       
+Equal to                        
+Greater than                    
+Fault                           
+Unequal to                      
+binect.[U845]=1                 
+binect.[U845]=0                 
+0835
+TriggerThreshold                
+0836
+Scan Interval                   
+0837
+Pretrigger                      
+0838
+Trace start cond                
+stop                            
+start                           
+0839
+Trace D block no                
+0840
+Trace data chan0                
+0841
+Trace data chan1                
+0842
+Trace data chan2                
+0843
+Trace data chan3                
+0844
+Trace data chan4                
+0845
+Trace data chan5                
+0846
+Trace data chan6                
+0847
+Trace data chan7                
+0848
+Trace data chan8                
+0849
+Trace data chan9                
+0918
+CB bus address                  
+0927
+Parametrz enable                
+CB: No                          
+CB: Yes                         
+PMU: No                         
+PMU: Yes                        
+G-SST1/OP1S: No                 
+G-SST1/OP1S: Yes                
+                                
+                                
+TB: No                          
+TB: Yes                         
+G-SST2: No                      
+G-SST2: Yes                     
+G-SST3: No                      
+G-SST3: Yes                     
+0947
+Fault memory                    
+0949
+Fault value                     
+0951
+Fault text list                 
+AuxPowerOFF                     
+Phase Sequence                  
+ExtMonitFltMess                 
+PhaseFailArmat.                 
+Field Circ fault                
+Undervoltage                    
+Overvoltage                     
+Frequ < 45Hz                    
+Frequ > 65Hz                    
+F010                            
+G-SST1 tlgr fail                
+G-SST2 tlgr fail                
+G-SST3 tlgr fail                
+ParInt tlgr fail                
+SLB tlgr failure                
+EB1 failure                     
+EB2 failure                     
+Overload bin.out                
+F019                            
+F020                            
+Ext.fault 1                     
+Ext.fault 2                     
+F023                            
+F024                            
+Brush length bad                
+BearingCond.bad                 
+Motor fan bad                   
+Motor overtemp 1                
+Motor overtemp 2                
+F030                            
+n cntrl monitor                 
+F032                            
+F033                            
+F034                            
+Drive blocked                   
+Open armat circ                 
+I2t of motor                    
+Overspeed                       
+I2t of SIMOREG                  
+FaultNotAcknowl                 
+FDS/RFG select ?                
+Tacho fault                     
+EMF too high                    
+Slave Fault                     
+F045                            
+Main setp fault                 
+Input1 Fault                    
+Pulse enc fault                 
+F049                            
+Optimiz. imposs                 
+EEPROM w.protect                
+Optimiz aborted                 
+F053                            
+F054                            
+No field charact                
+Important param?                
+F057                            
+Bad parameter                   
+No Opt.S00                      
+F060                            
+Thyr. check                     
+EEPROM error                    
+IO compensat bad                
+Watchdog                        
+Illegal uP state                
+F066                            
+Device cooling?                 
+An.inpFault                     
+Bad MLFB data                   
+SCB1:Init.fault                 
+F071                            
+F072                            
+SCI1/Sl1:AI1<4mA                
+SCI1/Sl1:AI2<4mA                
+SCI1/Sl1:AI3<4mA                
+SCI1/Sl2:AI1<4mA                
+SCI1/Sl2:AI2<4mA                
+SCI1/Sl2:AI3<4mA                
+SCB1 telegr.loss                
+CB/TB init.err                  
+CB/TB heart err                 
+CB/TB tlgr fail                 
+F083                            
+F084                            
+F085                            
+F086                            
+F087                            
+F088                            
+F089                            
+F090                            
+F091                            
+F092                            
+F093                            
+F094                            
+F095                            
+F096                            
+F097                            
+F098                            
+F099                            
+F100                            
+F101                            
+0952
+No. of faults                   
+0953
+Alarm parameter1                
+no A001                         
+A001                            
+no A002                         
+A002                            
+no A003                         
+A003                            
+no A004                         
+A004                            
+no A005                         
+A005                            
+no A006                         
+A006                            
+no A007                         
+A007                            
+no A008                         
+A008                            
+no A009                         
+A009                            
+no A010                         
+A010                            
+no A011                         
+A011                            
+no A012                         
+A012                            
+no A013                         
+A013                            
+no A014                         
+A014                            
+SLB startup ok                  
+SLB start?                      
+no A016                         
+A016                            
+0954
+Alarm parameter2                
+no A017                         
+A017                            
+No BO short circ                
+BO short circuit                
+no A019                         
+A019                            
+no A020                         
+A020                            
+No ext. alarm 1                 
+Ext.alarm1                      
+No ext.Alarm 2                  
+Ext.alarm2                      
+no A023                         
+A023                            
+no A024                         
+A024                            
+BrushLength ok                  
+BrushLength?                    
+Air flow ok                     
+Air flow?                       
+Bearing cond. ok                
+Bearing?                        
+MotorTemp1 ok                   
+Overtemp1 Motor                 
+MotorTemp2 ok                   
+Overtemp1 Motor                 
+no A030                         
+A030                            
+n controller ok                 
+n control?                      
+no A032                         
+A032                            
+0955
+Alarm parameter3                
+no A033                         
+A033                            
+no A034                         
+A034                            
+Drive not blockd                
+Drive blocked                   
+Armat.current ok                
+No arm.Current                  
+I2t of motor ok                 
+Motor I2t?                      
+No overspeed                    
+Overspeed                       
+I2t ofSIMOREG ok                
+I2t of SIMOREG?                 
+no A040                         
+A040                            
+no A041                         
+A041                            
+no A042                         
+A042                            
+EMF ok                          
+EMF too high                    
+No SlaveWarning                 
+SlaveWarning                    
+no A045                         
+A045                            
+Term.4/5ok                      
+Term.4/5faulty                  
+Term.6/7ok                      
+Term.6/7faulty                  
+no A048                         
+A048                            
+0956
+Alarm parameter4                
+no A049                         
+SCB1: no slave                  
+no A050                         
+SCI slave types?                
+no A051                         
+A051                            
+no A052                         
+A052                            
+no A053                         
+A053                            
+no A054                         
+A054                            
+no A055                         
+A055                            
+no A056                         
+A056                            
+no A057                         
+A057                            
+no A058                         
+A058                            
+Option S00 enabl                
+No Opt.S00                      
+no A060                         
+A060                            
+no A061                         
+A061                            
+no A062                         
+A062                            
+no A063                         
+A063                            
+no A064                         
+A064                            
+0957
+Alarm parameter5                
+no A065                         
+A065                            
+no A066                         
+A066                            
+DeviceCooling ok                
+Cooling?Device                  
+no A068                         
+A068                            
+no A069                         
+A069                            
+no A070                         
+A070                            
+no A071                         
+A071                            
+no A072                         
+A072                            
+no A073                         
+A073                            
+no A074                         
+A074                            
+no A075                         
+A075                            
+no A076                         
+A076                            
+no A077                         
+A077                            
+no A078                         
+A078                            
+no A079                         
+A079                            
+no A080                         
+A080                            
+0958
+Alarm parameter6                
+No A081 from CB                 
+A081 from CB                    
+No A082 from CB                 
+A082 from CB                    
+No A083 from CB                 
+A083 from CB                    
+No A084 from CB                 
+A084 from CB                    
+No A085 from CB                 
+A085 from CB                    
+No A086 from CB                 
+A086 from CB                    
+No A087 from CB                 
+A087 from CB                    
+No A088 from CB                 
+A088 from CB                    
+No A089 from CB                 
+A089 from CB                    
+No A090 from CB                 
+A090 from CB                    
+No A091 from CB                 
+A091 from CB                    
+No A092 from CB                 
+A092 from CB                    
+No A093 from CB                 
+A093 from CB                    
+No A094 from CB                 
+A094 from CB                    
+No A095 from CB                 
+A095 from CB                    
+No A096 from CB                 
+A096 from CB                    
+0959
+Alarm parameter7                
+No A097 from TB                 
+A097 from TB                    
+No A098 from TB                 
+A098 from TB                    
+No A099 from TB                 
+A099 from TB                    
+No A100 from TB                 
+A100 from TB                    
+No A101 from TB                 
+A101 from TB                    
+No A102 from TB                 
+A102 from TB                    
+No A103 from TB                 
+A103 from TB                    
+No A104 from TB                 
+A104 from TB                    
+No A105 from TB                 
+A105 from TB                    
+No A106 from TB                 
+A106 from TB                    
+No A107 from TB                 
+A107 from TB                    
+No A108 from TB                 
+A108 from TB                    
+No A109 from TB                 
+A109 from TB                    
+No A110 from TB                 
+A110 from TB                    
+No A111 from TB                 
+A111 from TB                    
+No A112 from TB                 
+A112 from TB                    
+0960
+Alarm parameter8                
+No A113 from TB                 
+A113 from TB                    
+No A114 from TB                 
+A114 from TB                    
+No A115 from TB                 
+A115 from TB                    
+No A116 from TB                 
+A116 from TB                    
+No A117 from TB                 
+A117 from TB                    
+No A118 from TB                 
+A118 from TB                    
+No A119 from TB                 
+A119 from TB                    
+No A120 from TB                 
+A120 from TB                    
+No A121 from TB                 
+A121 from TB                    
+No A122 from TB                 
+A122 from TB                    
+No A123 from TB                 
+A123 from TB                    
+No A124 from TB                 
+A124 from TB                    
+No A125 from TB                 
+A125 from TB                    
+No A126 from TB                 
+A126 from TB                    
+No A127 from TB                 
+A127 from TB                    
+No A128 from TB                 
+A120 from TB                    
+0967
+Control word 1                  
+0968
+Status word 1                   
+0970
+Factory setting                 
+start                           
+inactive                        
+0971
+Store parameters                
+inactive                        
+start                           
+0980
+List ExistParam1                
+0981
+List ExistParam2                
+0982
+List ExistParam3                
+0983
+List ExistParam4                
+0984
+List ExistParam5                
+0985
+List ExistParam6                
+0986
+List ExistParam7                
+0987
+List ExistParam8                
+0988
+List ExistParam9                
+0989
+List ExistPar.10                
+0990
+List ModifParam1                
+0991
+List ModifParam2                
+0992
+List ModifParam3                
+0993
+List ModifParam4                
+0994
+List ModifParam5                
+0995
+List ModifParam6                
+0996
+List ModifParam7                
+0997
+List ModifParam8                
+0998
+List ModifParam9                
+0999
+List ModifPar.10                
+2005
+Code                            
+2006
+Lock                            
+2007
+UserParameterNos                
+2009
+Processor utiliz                
+proc. load total                
+proc. load max.                 
+procload U95x=10                
+procload U95x=4                 
+procload U95x=2                 
+procload U95x=1                 
+2010
+Con>BinCnv1 Outp                
+2011
+Con>BinCnv2 Outp                
+2012
+Con>BinCnv3 Outp                
+2013
+Bin>ConCnv1 Outp                
+2014
+Bin>ConCnv2 Outp                
+2015
+Bin>ConCnv3 Outp                
+2016
+TechCntr act val                
+2017
+TechCntr setpnt                 
+2018
+TechCntr P gain                 
+2019
+TechCntr OutpLim                
+2020
+n>v calc input                  
+2021
+n>v calc output                 
+2022
+v>n calc input                  
+2023
+v>n calc output                 
+2049
+OP1S oper.disp.                 
+1st line left                   
+1st line right                  
+2nd line                        
+3rd line                        
+4th line                        
+2098
+Con.typ Convert.                
+Src.L-word K9498                
+Src.H-word K9498                
+Src.L-word K9499                
+Src.H-word K9499                
+2099
+100 fixed values                
+2100
+Inp.forF023/F019                
+F023/fault val.1                
+F023/fault val.2                
+F023/fault val.3                
+F023/fault val.4                
+F019/fault val.1                
+F019/fault val.2                
+F019/fault val.3                
+F019/fault val.4                
+2101
+Inp.forF024/F020                
+F024/fault val.1                
+F024/fault val.2                
+F024/fault val.3                
+F024/fault val.4                
+F020/fault val.1                
+F020/fault val.2                
+F020/fault val.3                
+F020/fault val.4                
+2102
+Inp.forF033/F053                
+F033/fault val.1                
+F033/fault val.2                
+F033/fault val.3                
+F033/fault val.4                
+F053/fault val.1                
+F053/fault val.2                
+F053/fault val.3                
+F053/fault val.4                
+2103
+Inp.forF034/F054                
+F034/fault val.1                
+F034/fault val.2                
+F034/fault val.3                
+F034/fault val.4                
+F054/fault val.1                
+F054/fault val.2                
+F054/fault val.3                
+F054/fault val.4                
+2104
+Inp.forA023/A019                
+A023                            
+A019                            
+2105
+Inp.forA024/A020                
+A024                            
+A020                            
+2106
+Inp.forA033/A053                
+A033                            
+A053                            
+2107
+Inp.forA034/A054                
+A034                            
+A054                            
+2110
+Con>BinCnv1 C_In                
+2111
+Con>BinCnv2 C_In                
+2112
+Con>BinCnv3 C_In                
+2113
+Bin>ConCnv1 B-In                
+Binect.for bit 0                
+Binect.for bit 1                
+Binect.for bit 2                
+Binect.for bit 3                
+Binect.for bit 4                
+Binect.for bit 5                
+Binect.for bit 6                
+Binect.for bit 7                
+Binect.for bit 8                
+Binect.for bit 9                
+Binect.for bit10                
+Binect.for bit11                
+Binect.for bit12                
+Binect.for bit13                
+Binect.for bit14                
+Binect.for bit15                
+2114
+Bin>ConCnv2 B-In                
+Binect.for bit 0                
+Binect.for bit 1                
+Binect.for bit 2                
+Binect.for bit 3                
+Binect.for bit 4                
+Binect.for bit 5                
+Binect.for bit 6                
+Binect.for bit 7                
+Binect.for bit 8                
+Binect.for bit 9                
+Binect.for bit10                
+Binect.for bit11                
+Binect.for bit12                
+Binect.for bit13                
+Binect.for bit14                
+Binect.for bit15                
+2115
+Bin>ConCnv3 B-In                
+Binect.for bit 0                
+Binect.for bit 1                
+Binect.for bit 2                
+Binect.for bit 3                
+Binect.for bit 4                
+Binect.for bit 5                
+Binect.for bit 6                
+Binect.for bit 7                
+Binect.for bit 8                
+Binect.for bit 9                
+Binect.for bit10                
+Binect.for bit11                
+Binect.for bit12                
+Binect.for bit13                
+Binect.for bit14                
+Binect.for bit15                
+2116
+S1 Bin>Con  B-In                
+Binect.for bit 0                
+Binect.for bit 1                
+Binect.for bit 2                
+Binect.for bit 3                
+Binect.for bit 4                
+Binect.for bit 5                
+Binect.for bit 6                
+Binect.for bit 7                
+Binect.for bit 8                
+Binect.for bit 9                
+Binect.for bit10                
+Binect.for bit11                
+Binect.for bit12                
+Binect.for bit13                
+Binect.for bit14                
+Binect.for bit15                
+2117
+S2 Bin>Con  B-In                
+Binect.for bit 0                
+Binect.for bit 1                
+Binect.for bit 2                
+Binect.for bit 3                
+Binect.for bit 4                
+Binect.for bit 5                
+Binect.for bit 6                
+Binect.for bit 7                
+Binect.for bit 8                
+Binect.for bit 9                
+Binect.for bit10                
+Binect.for bit11                
+Binect.for bit12                
+Binect.for bit13                
+Binect.for bit14                
+Binect.for bit15                
+2118
+S3 Bin>Con  B-In                
+Binect.for bit 0                
+Binect.for bit 1                
+Binect.for bit 2                
+Binect.for bit 3                
+Binect.for bit 4                
+Binect.for bit 5                
+Binect.for bit 6                
+Binect.for bit 7                
+Binect.for bit 8                
+Binect.for bit 9                
+Binect.for bit10                
+Binect.for bit11                
+Binect.for bit12                
+Binect.for bit13                
+Binect.for bit14                
+Binect.for bit15                
+2119
+Trace Bi>Co B-In                
+Binect.for bit 0                
+Binect.for bit 1                
+Binect.for bit 2                
+Binect.for bit 3                
+Binect.for bit 4                
+Binect.for bit 5                
+Binect.for bit 6                
+Binect.for bit 7                
+Binect.for bit 8                
+Binect.for bit 9                
+Binect.for bit10                
+Binect.for bit11                
+Binect.for bit12                
+Binect.for bit13                
+Binect.for bit14                
+Binect.for bit15                
+2120
+ADD1 C_input                    
+Add value 1                     
+Add value 2                     
+Subtract value                  
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2121
+ADD2 C_input                    
+Add value 1                     
+Add value 2                     
+Subtract value                  
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2122
+ADD3 C_input                    
+Add value 1                     
+Add value 2                     
+Subtract value                  
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2123
+ADD4 C_input                    
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2124
+ADD5 C_input                    
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2125
+ADD6 C_input                    
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2126
+ADD7 C_input                    
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2127
+ADD8 C_input                    
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2128
+ADD9 C_input                    
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2129
+ADD10 C_input                   
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2130
+ADD11 C_input                   
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2131
+ADD12 C_input                   
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2132
+Src. DW-Add.Sub.                
+Add value 1                     
+Add value 2                     
+Subtract value                  
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2135
+INV1 C_input                    
+2136
+INV2 C_input                    
+2137
+INV3 C_input                    
+2138
+INV4 C_input                    
+2140
+Sw-INV1 C_input                 
+2141
+Sw-INV1 B_input                 
+2142
+Sw-INV2 C_input                 
+2143
+Sw-INV2 B_input                 
+2145
+DIV1 C_input                    
+Dividend                        
+Divisor                         
+Dividend                        
+Divisor                         
+2146
+DIV2 C_input                    
+Dividend                        
+Divisor                         
+Dividend                        
+Divisor                         
+2147
+DIV3 C_input                    
+Dividend                        
+Divisor                         
+Dividend                        
+Divisor                         
+2150
+MULT1 C_input                   
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+2151
+MULT2 C_input                   
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+2152
+MULT3 C_input                   
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+2153
+MULT4 C_input                   
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+2155
+MULTDIV1 C_input                
+Multiplicand                    
+Multiplier                      
+Divisor                         
+2156
+MULTDIV2 C_input                
+Multiplicand                    
+Multiplier                      
+Divisor                         
+2157
+MULTDIV3 C_input                
+Multiplicand                    
+Multiplier                      
+Divisor                         
+2160
+Absval+filt1C-in                
+2161
+Absval+filt1 SIM                
+Correct sign                    
+Absol. value                    
+Inverted                        
+Absol. value inv                
+2162
+Absval+filt1F-tm                
+2163
+Absval+filt2C-in                
+2164
+Absval+filt2 SIM                
+Correct sign                    
+Absol. value                    
+Inverted                        
+Absol. value inv                
+2165
+Absval+filt2F-tm                
+2166
+Absval+filt3C-in                
+2167
+Absval+filt3 SIM                
+Correct sign                    
+Absol. value                    
+Inverted                        
+Absol. value inv                
+2168
+Absval+filt3F-tm                
+2169
+Absval+filt4C-in                
+2170
+Absval+filt4 SIM                
+Correct sign                    
+Absol. value                    
+Inverted                        
+Absol. value inv                
+2171
+Absval+filt4F-tm                
+2172
+meanval.inp.con.                
+meanval.inp.con1                
+meanval.inp.con2                
+meanval.inp.con3                
+meanval.inp.con4                
+2173
+mean val. cycles                
+meanval1 cycles                 
+meanval2 cycles                 
+meanval3 cycles                 
+meanval4 cycles                 
+2175
+Limiter1 C-input                
+C_input                         
+C_upper limit                   
+C_lower limit                   
+2176
+Limiter1 limit                  
+2177
+Limiter2 C-input                
+C_input                         
+C_upper limit                   
+C_lower limit                   
+2178
+Limiter2 limit                  
+2179
+Limiter3 C_input                
+C_input                         
+C_upper limit                   
+C_lower limit                   
+2180
+Limiter3 limit                  
+2181
+Src DW LimMon_In                
+1stLimMon Input                 
+1stLimMon Thresh                
+2ndLimMon Input                 
+2ndLimMon Thresh                
+2182
+DW LimMon_Hyst.                 
+1stLimMon Hyst.                 
+2ndLimMon Hyst.                 
+2185
+Lmvalmon1 C_inpt                
+C_input A                       
+C_input B                       
+2186
+Lmvalmon1 limit                 
+2187
+Lmvalmon1 F-time                
+2188
+Lmvalmon1 hyster                
+2189
+Lmvalmon2 C_inpt                
+C_input A                       
+C_input B                       
+2190
+Lmvalmon2 limit                 
+2191
+Lmvalmon2 F-time                
+2192
+Lmvalmon2 hyster                
+2193
+Lmvalmon3 C_inpt                
+C_input A                       
+C_input B                       
+2194
+Lmvalmon3 limit                 
+2195
+Lmvalmon3 F-time                
+2196
+Lmvalmon3 hyster                
+2197
+Lmvalmon4 C_inpt                
+C_input A                       
+C_input B                       
+2198
+Lmvalmon4 limit                 
+2199
+Lmvalmon4 hyster                
+2200
+Lmvalmon5 C_inpt                
+C_input A                       
+C_input B                       
+2201
+Lmvalmon5 limit                 
+2202
+Lmvalmon5 hyster                
+2203
+Lmvalmon6 C_inpt                
+C_input A                       
+C_input B                       
+2204
+Lmvalmon6 limit                 
+2205
+Lmvalmon6 hyster                
+2206
+Lmvalmon7 C_inpt                
+C_input A                       
+C_input B                       
+2207
+Lmvalmon7 limit                 
+2208
+Lmvalmon7 hyster                
+2210
+Lmvalmon8 C_inpt                
+C_input A                       
+C_input B                       
+2211
+Lmvalmon8 limit                 
+2212
+Lmvalmon8 hyster                
+2213
+Lmvalmon9 C_inpt                
+C_input A                       
+C_input B                       
+2214
+Lmvalmon9 limit                 
+2215
+Lmvalmon9 hyster                
+2216
+Lmvalmon10C_inpt                
+C_input A                       
+C_input B                       
+2217
+Lmvalmon11 limit                
+2218
+Lmvalmon12hyster                
+2220
+Maximum C_input                 
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+2221
+Minimum C_input                 
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+2222
+Trck/str1 C_inpt                
+2223
+Trck/str1 B_inpt                
+Track                           
+Store                           
+Reset                           
+2224
+Power On Mode 1                 
+Volatile store                  
+Non-volatile str                
+2225
+Trck/str2 C_inpt                
+2226
+Trck/str2 B_inpt                
+Track                           
+Store                           
+Reset                           
+2227
+Power On Mode 2                 
+Volatile store                  
+Non-volatile str                
+2228
+Anal.stor1 C_inp                
+2229
+Anal.stor1 B_inp                
+2230
+Anal.stor2 C_inp                
+2231
+Anal.stor2 B_inp                
+2240
+Anal.selec1C_inp                
+Signal 0                        
+Signal 1                        
+2241
+Anal.selec1B_inp                
+2242
+Anal.selec2C_inp                
+Signal 0                        
+Signal 1                        
+2243
+Anal.selec2B_inp                
+2244
+Anal.selec3C_inp                
+Signal 0                        
+Signal 1                        
+2245
+Anal.selec3B_inp                
+2246
+Anal.selec4C_inp                
+Signal 0                        
+Signal 1                        
+2247
+Anal.selec4B_inp                
+2248
+Anal.selec5C_inp                
+Signal 0                        
+Signal 1                        
+2249
+Anal.selec5B_inp                
+2250
+Anal.selec6C_inp                
+Signal 0                        
+Signal 1                        
+2251
+Anal.selec6B_inp                
+2252
+Anal.selec7C_inp                
+Signal 0                        
+Signal 1                        
+2253
+Anal.selec7B_inp                
+2254
+Anal.selec8C_inp                
+Signal 0                        
+Signal 1                        
+2255
+Anal.selec8B_inp                
+2256
+Anal.selec9C_inp                
+Signal 0                        
+Signal 1                        
+2257
+Anal.selec9B_inp                
+2258
+Anl.selec10C_inp                
+Signal 0                        
+Signal 1                        
+2259
+Anl.selec10B_inp                
+2260
+Integrator1C_inp                
+2261
+Int-act.time 1                  
+2262
+Integrator1B_inp                
+Stop                            
+Set                             
+2263
+Setting val 1                   
+2264
+Integrator2C_inp                
+2265
+Int-act. time 2                 
+2266
+Integrator2B_inp                
+Stop                            
+Set                             
+2267
+Setting val 2                   
+2268
+Integrator3C_inp                
+2269
+Int-act. time 3                 
+2270
+Integrator3B_inp                
+Stop                            
+Set                             
+2271
+Setting val 3                   
+2272
+DT1 elem1 C_inp                 
+2273
+Der-act. time 1                 
+2274
+DT1 filt time 1                 
+2275
+DT1 elem2 C_inp                 
+2276
+Der-act. time 2                 
+2277
+DT1 filt time 2                 
+2278
+DT1 elem3 C_inp                 
+2279
+Der-act. time 3                 
+2280
+DT1 filt time 3                 
+2281
+Character1 C_inp                
+2282
+Char.1: X values                
+2283
+Char.1: Y values                
+2284
+Character2 C_inp                
+2285
+Char.2: X values                
+2286
+Char.2: Y values                
+2287
+Character3 C_inp                
+2288
+Char.3: X values                
+2289
+Char.3: Y values                
+2290
+Deadzone1 C_inpt                
+2291
+Dead zone 1                     
+2292
+Deadzone2 C_inpt                
+2293
+Dead zone 2                     
+2294
+Deadzone3 C_inpt                
+2295
+Dead zone 3                     
+2296
+Stp branch C_inp                
+2297
+Stp branch Minim                
+2298
+Stp branch Maxim                
+2299
+Stp branch Hyste                
+2300
+SRFG C_input                    
+2301
+SRFG B_input                    
+Bypass                          
+Stop                            
+Enable                          
+2302
+SRFG rmp-up time                
+2303
+SRFG rmp-dwn tme                
+2310
+MUX inp.bicon.                  
+MUX1 B1                         
+MUX1 B2                         
+MUX1 B3                         
+MUX2 B1                         
+MUX2 B2                         
+MUX2 B3                         
+MUX3 B1                         
+MUX3 B2                         
+MUX3 B3                         
+2311
+MUX1 inp.con.                   
+X0                              
+X1                              
+X2                              
+X3                              
+X4                              
+X5                              
+X6                              
+X7                              
+2312
+MUX2 inp.con.                   
+X0                              
+X1                              
+X2                              
+X3                              
+X4                              
+X5                              
+X6                              
+X7                              
+2313
+MUX3 inp.con.                   
+X0                              
+X1                              
+X2                              
+X3                              
+X4                              
+X5                              
+X6                              
+X7                              
+2314
+SW Counter Outp.                
+2315
+SW CounterFixVal                
+Minimum                         
+Maximum                         
+Set Value                       
+Start Value                     
+2316
+SrcSW-CounterInp                
+Minimum                         
+Maximum                         
+Set Value                       
+Start Value                     
+2317
+SrcSW-Count.Ctrl                
+pos.edge: up                    
+pos.edge: down                  
+counter stop                    
+counter set                     
+counter run                     
+2318
+Decoder1 B_input                
+i0                              
+i1                              
+i2                              
+2319
+Decoder2 B_input                
+i0                              
+i1                              
+i2                              
+2320
+AND1 B_input                    
+2321
+AND2 B_input                    
+2322
+AND3 B_input                    
+2323
+AND4 B_input                    
+2324
+AND5 B_input                    
+2325
+AND6 B_input                    
+2326
+AND7 B_input                    
+2327
+AND8 B_input                    
+2328
+AND9 B_input                    
+2329
+AND10 B_input                   
+2330
+AND11 B_input                   
+2331
+AND12 B_input                   
+2332
+AND13 B_input                   
+2333
+AND14 B_input                   
+2334
+AND15 B_input                   
+2335
+AND16 B_input                   
+2336
+AND17 B_input                   
+2337
+AND18 B_input                   
+2338
+AND19 B_input                   
+2339
+AND20 B_input                   
+2340
+AND21 B_input                   
+2341
+AND22 B_input                   
+2342
+AND23 B_input                   
+2343
+AND24 B_input                   
+2344
+AND25 B_input                   
+2345
+AND26 B_input                   
+2346
+AND27 B_input                   
+2347
+AND28 B_input                   
+2350
+OR1 B_input                     
+2351
+OR2 B_input                     
+2352
+OR3 B_input                     
+2353
+OR4 B_input                     
+2354
+OR5 B_input                     
+2355
+OR6 B_input                     
+2356
+OR7 B_input                     
+2357
+OR8 B_input                     
+2358
+OR9 B_input                     
+2359
+OR10 B_input                    
+2360
+OR11 B_input                    
+2361
+OR12 B_input                    
+2362
+OR13 B_input                    
+2363
+OR14 B_input                    
+2364
+OR15 B_input                    
+2365
+OR16 B_input                    
+2366
+OR17 B_input                    
+2367
+OR19 B_input                    
+2368
+OR19 B_input                    
+2369
+OR20 B_input                    
+2370
+XOR1 B_input                    
+2371
+XOR2 B_input                    
+2372
+XOR3 B_input                    
+2373
+XOR4 B_input                    
+2380
+INV1 B_input                    
+2381
+INV2 B_input                    
+2382
+INV3 B_input                    
+2383
+INV4 B_input                    
+2384
+INV5 B_input                    
+2385
+INV6 B_input                    
+2386
+INV7 B_input                    
+2387
+INV8 B_input                    
+2388
+INV9 B_input                    
+2389
+INV10 B_input                   
+2390
+INV11 B_input                   
+2391
+INV12 B_input                   
+2392
+INV13 B_input                   
+2393
+INV14 B_input                   
+2394
+INV15 B_input                   
+2395
+INV16 B_input                   
+2400
+NAND1 B_input                   
+2401
+NAND2 B_input                   
+2402
+NAND3 B_input                   
+2403
+NAND4 B_input                   
+2404
+NAND5 B_input                   
+2405
+NAND6 B_input                   
+2406
+NAND7 B_input                   
+2407
+NAND8 B_input                   
+2408
+NAND9 B_input                   
+2409
+NAND10 B_input                  
+2410
+NAND11 B_input                  
+2411
+NAND12 B_input                  
+2415
+RS-FF1 B_input                  
+Set                             
+Reset                           
+2416
+RS-FF2 B_input                  
+Set                             
+Reset                           
+2417
+RS-FF3 B_input                  
+Set                             
+Reset                           
+2418
+RS-FF4 B_input                  
+Set                             
+Reset                           
+2419
+RS-FF5 B_input                  
+Set                             
+Reset                           
+2420
+RS-FF6 B_input                  
+Set                             
+Reset                           
+2421
+RS-FF7 B_input                  
+Set                             
+Reset                           
+2422
+RS-FF8 B_input                  
+Set                             
+Reset                           
+2423
+RS-FF9 B_input                  
+Set                             
+Reset                           
+2424
+RS-FF10 B_input                 
+Set                             
+Reset                           
+2425
+RS-FF11 B_input                 
+Set                             
+Reset                           
+2426
+RS-FF12 B_input                 
+Set                             
+Reset                           
+2427
+RS-FF13 B_input                 
+Set                             
+Reset                           
+2428
+RS-FF14 B_input                 
+Set                             
+Reset                           
+2430
+D-FF1 B_input                   
+Set                             
+D                               
+Clock                           
+Reset                           
+2431
+D-FF2 B_input                   
+Set                             
+D                               
+Clock                           
+Reset                           
+2432
+D-FF3 B_input                   
+Set                             
+D                               
+Clock                           
+Reset                           
+2433
+D_FF4 B_input                   
+Set                             
+D                               
+Clock                           
+Reset                           
+2440
+TIMER1 B_input                  
+2441
+TIMER1 time                     
+2442
+TIMER1 mode                     
+ON delay                        
+OFF delay                       
+ON/OFF delay                    
+Pulse generator                 
+2443
+TIMER2 B_input                  
+2444
+TIMER2 time                     
+2445
+TIMER2 mode                     
+ON delay                        
+OFF delay                       
+ON/OFF delay                    
+Pulse generator                 
+2446
+TIMER3 B_input                  
+2447
+TIMER3 time                     
+2448
+TIMER3 mode                     
+ON delay                        
+OFF delay                       
+ON/OFF delay                    
+Pulse generator                 
+2449
+TIMER4 B_input                  
+2450
+TIMER4 time                     
+2451
+TIMER4 mode                     
+ON delay                        
+OFF delay                       
+ON/OFF delay                    
+Pulse generator                 
+2452
+TIMER5 B_input                  
+2453
+TIMER5 time                     
+2454
+TIMER5 mode                     
+ON delay                        
+OFF delay                       
+ON/OFF delay                    
+Pulse generator                 
+2455
+TIMER6 B_input                  
+2456
+TIMER6 time                     
+2457
+TIMER6 mode                     
+ON delay                        
+OFF delay                       
+ON/OFF delay                    
+Pulse generator                 
+2458
+TIMER7 B_input                  
+2459
+TIMER7 time                     
+2460
+TIMER7 mode                     
+ON delay                        
+OFF delay                       
+ON/OFF delay                    
+Pulse generator                 
+2461
+TIMER8 B_input                  
+2462
+TIMER8 time                     
+2463
+TIMER8 mode                     
+ON delay                        
+OFF delay                       
+ON/OFF delay                    
+Pulse generator                 
+2464
+TIMER9 B_input                  
+2465
+TIMER9 time                     
+2466
+TIMER9 mode                     
+ON delay                        
+OFF delay                       
+ON/OFF delay                    
+Pulse generator                 
+2467
+TIMER10 B_input                 
+2468
+TIMER10 time                    
+2469
+TIMER10 mode                    
+ON delay                        
+OFF delay                       
+ON/OFF delay                    
+Pulse generator                 
+2470
+BinSelec1 B_inpt                
+Control signal                  
+Signal at 0                     
+Signal at 1                     
+2471
+BinSelec2 B_inpt                
+Control signal                  
+Signal at 0                     
+Signal at 1                     
+2472
+BinSelec3 B_inpt                
+Control signal                  
+Signal at 0                     
+Signal at 1                     
+2473
+BinSelec4 B_inpt                
+Control signal                  
+Signal at 0                     
+Signal at 1                     
+2474
+BinSelec5 B_inpt                
+Control signal                  
+Signal at 0                     
+Signal at 1                     
+2480
+TchCntr C_actval                
+2481
+TchCntr actflt_s                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2482
+TchCntr D time_s                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2483
+TchCntr D t*1000                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Value *1                        
+Value *1000                     
+2484
+TchCntr C_setpnt                
+2485
+TchCntr C_addstp                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2486
+TchCntr B_addstp                
+2487
+TchCntr setflt_s                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2488
+TchCntr P gain                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2489
+TcnCntr C_KPadap                
+2490
+TchCntr KPadp_x1                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2491
+TchCntr KPadp_x2                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2492
+TchCntr KPadp_y1                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2493
+TchCntr KPadp_y2                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2494
+TchCntr reset tm                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2495
+TchCtrReset*1000                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Value *1                        
+Value *1000                     
+2496
+TchCntr B_droop                 
+2497
+TchCntr droop_pc                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2498
+TchCntr droop L+                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2499
+TchCntr droop L-                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2500
+TchCntr B_enabl                 
+2502
+TchCntrAct/SADcw                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Filter act val                  
+Filter SAD                      
+2503
+TchCntr Pcomp cw                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+Activated                       
+2504
+TchCntr Icomp sw                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Deactivated                     
+Activated                       
+2505
+TchCntrC_IcmpSet                
+2506
+TchCntrB_SetIcmp                
+2507
+TchCntr C_out L+                
+2508
+TchCntr outpt L+                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2509
+TchCntr C_out L-                
+2510
+TchCntr outpt L-                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2511
+TchCntrC_outScal                
+2512
+TchCntr outpScal                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2515
+n>v calc input                  
+2516
+v>n calc input                  
+2517
+v>n calc diametr                
+2518
+v>n min. diametr                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2519
+v>n gear ratio                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2520
+v>n rated speed                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2521
+v>n norm. act v                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2522
+v>n norm. set v                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2523
+v>n norm.diamet.                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2525
+src.var.mominert                
+src. diameter                   
+src.sleeve diam.                
+src. max. diam.                 
+src. eval.factor                
+2526
+diameter normal.                
+2527
+norm.sleev.diam.                
+2528
+norm.max.diam.                  
+2529
+eval. factor                    
+2530
+PIctr C_input                   
+2531
+PIctr B_enable                  
+2532
+PIctr B_set                     
+2533
+PIctr C_input                   
+2534
+PIctr C_filtert.                
+2535
+PIctr filtertime                
+2536
+PIctr C_Kp                      
+2537
+PIctr Kp                        
+2538
+PIctr C_Tn                      
+2539
+PIctr Tn                        
+2540
+PIctr P act cw                  
+Deactivated                     
+Activated                       
+2541
+PIctr I act cw                  
+Deactivated                     
+Activated                       
+2542
+PIctr C_outp. L+                
+2543
+PIctr outp. L+                  
+2544
+PIctr C_outp. L-                
+2545
+PIctr outp. L-                  
+2550
+src.inp.deri/del                
+2551
+srcTvevalder/del                
+2552
+Tv deriv./delay                 
+2553
+srcT1evalder/del                
+2554
+T1 deriv./delay                 
+2600
+SIMOTRAS Input                  
+2605
+Src fullVolt Cmd                
+BiCo data set 1                 
+BiCo data set 2                 
+2607
+Src RefReduc Cmd                
+BiCo data set 1                 
+BiCo data set 2                 
+2608
+RefReduct.faktor                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2614
+RampTimefullVolt                
+2617
+Term. 37 active:                
+yes                             
+no                              
+2618
+Term. 38 active:                
+yes                             
+no                              
+2619
+Src term 109/110                
+BiCo data set 1                 
+BiCo data set 2                 
+2620
+SIMOTRAS Output                 
+2621
+Src term. 81/82                 
+BiCo data set 1                 
+BiCo data set 2                 
+2622
+Src term. 83/84                 
+BiCo data set 1                 
+BiCo data set 2                 
+2623
+Src term. 85/86                 
+BiCo data set 1                 
+BiCo data set 2                 
+2627
+Filter tim n-act                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2628
+Threshold n>=nST                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2629
+Hysteres. n>=nST                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2630
+Thresh. n>=nST/I                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2631
+Hyster. n>=nST/I                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2632
+Thresh.n>=nST/II                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2633
+Hyster.n>=nST/II                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2634
+Thresh. n>=n_S2                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2635
+Hyster. n>=n_S2                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2636
+Thresh. n>=n_S3                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2637
+Hyster. n>=n_S3                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2638
+Thresh. n>=n_S4                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2639
+Hyster. n>=n_S4                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2640
+Rotor Contactor:                
+Pick up Time                    
+Drop Time                       
+Pick up Time                    
+2641
+I-Reduct. at S1                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2642
+I-Reduct. at S2                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2643
+I-Reduct. at S3                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2644
+I-Reduct. at S4                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2645
+Kp factor at SK                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2646
+Kp factor at S1                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2647
+Kp factor at S2                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2648
+Kp factor at S3                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2649
+Kp factor at S4                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2651
+SetVal1Icmp nCtr                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2652
+FactSetVal1 nCtr                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2653
+SetVal2Icmp nCtr                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2655
+Src SetVal1 nCtr                
+2656
+Src SetVal2 nCtr                
+2657
+Src setValSelect                
+BiCo data set 1                 
+BiCo data set 2                 
+2660
+Src cw.Reference                
+2661
+Src ccwReference                
+2662
+Src Reference 2                 
+2663
+Src Reference 3                 
+2664
+Src Reference 4                 
+2665
+Fixed Reference1                
+2666
+Fixed Reference2                
+2667
+Fixed Reference3                
+2668
+Fixed Reference4                
+2690
+SCI1 AI Config.                 
+SCI Sl.1 AI1                    
+SCI Sl.1 AI2                    
+SCI Sl.1 AI3                    
+SCI Sl.2 AI1                    
+SCI Sl.2 AI2                    
+SCI Sl.2 AI3                    
+2691
+SCI1 AI Filter.                 
+SCI Sl.1 AI1                    
+SCI Sl.1 AI2                    
+SCI Sl.1 AI3                    
+SCI Sl.2 AI1                    
+SCI Sl.2 AI2                    
+SCI Sl.2 AI3                    
+2692
+SCI1 AI Offset                  
+SCI Sl.1 AI1                    
+SCI Sl.1 AI2                    
+SCI Sl.1 AI3                    
+SCI Sl.2 AI1                    
+SCI Sl.2 AI2                    
+SCI Sl.2 AI3                    
+2693
+SCI1 AO ActV.Sel                
+SCI Sl.1 AI1                    
+SCI Sl.1 AI2                    
+SCI Sl.1 AI3                    
+SCI Sl.2 AI1                    
+SCI Sl.2 AI2                    
+SCI Sl.2 AI3                    
+2694
+SCI1 AO Gain                    
+SCI Sl.1 AI1                    
+SCI Sl.1 AI2                    
+SCI Sl.1 AI3                    
+SCI Sl.2 AI1                    
+SCI Sl.2 AI2                    
+SCI Sl.2 AI3                    
+2695
+SCI1 AO Offset                  
+SCI Sl.1 AI1                    
+SCI Sl.1 AI2                    
+SCI Sl.1 AI3                    
+SCI Sl.2 AI1                    
+SCI Sl.2 AI2                    
+SCI Sl.2 AI3                    
+2696
+SCB1 tgr fail t                 
+2697
+SCI1 Diagnostic                 
+2698
+SCI1 BO Select.                 
+SCI Sl.1 BO1                    
+SCI Sl.1 BO2                    
+SCI Sl.1 BO3                    
+SCI Sl.1 BO4                    
+SCI Sl.1 BO5                    
+SCI Sl.1 BO6                    
+SCI Sl.1 BO7                    
+SCI Sl.1 BO8                    
+SCI Sl.1 BO9                    
+SCI Sl.1 BO10                   
+SCI Sl.1 BO11                   
+SCI Sl.1 BO12                   
+SCI Sl.2 BO1                    
+SCI Sl.2 BO2                    
+SCI Sl.2 BO3                    
+SCI Sl.2 BO4                    
+SCI Sl.2 BO5                    
+SCI Sl.2 BO6                    
+SCI Sl.2 BO7                    
+SCI Sl.2 BO8                    
+SCI Sl.2 BO9                    
+SCI Sl.2 BO10                   
+SCI Sl.2 BO11                   
+SCI Sl.2 BO12                   
+2699
+SCB1/SCI data                   
+SCI Sl.1 BinInp.                
+SCI Sl.1 AI1                    
+SCI Sl.1 AI2                    
+SCI Sl.1 AI3                    
+SCI Sl.2 BinInp.                
+SCI Sl.2 AI1                    
+SCI Sl.2 AI2                    
+SCI Sl.2 AI3                    
+SCI Sl.1 BinOutp                
+SCI Sl.1 AO1                    
+SCI Sl.1 AO2                    
+SCI Sl.1 AO3                    
+SCI Sl.2 BinOutp                
+SCI Sl.2 AO1                    
+SCI Sl.2 AO2                    
+SCI Sl.2 AO3                    
+2710
+CB/TB configur.                 
+1st CB                          
+2nd CB                          
+Re-configure                    
+Deactivated                     
+2711
+CB parameter 1                  
+1st CB                          
+2nd CB                          
+2712
+CB parameter 2                  
+1st CB                          
+2nd CB                          
+2713
+CB parameter 3                  
+1st CB                          
+2nd CB                          
+2714
+CB parameter 4                  
+1st CB                          
+2nd CB                          
+2715
+CB parameter 5                  
+1st CB                          
+2nd CB                          
+2716
+CB parameter 6                  
+1st CB                          
+2nd CB                          
+2717
+CB parameter 7                  
+1st CB                          
+2nd CB                          
+2718
+CB parameter 8                  
+1st CB                          
+2nd CB                          
+2719
+CB parameter 9                  
+1st CB                          
+2nd CB                          
+2720
+CB parameter 10                 
+1st CB                          
+2nd CB                          
+2721
+CB parameter 11                 
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2722
+CB/TB tgr fail t                
+1st CB                          
+2nd CB                          
+1st CB delay                    
+2nd CB delay                    
+2728
+Src. Bin>K3020                  
+1st bin.(bit 0)                 
+2nd bin.(bit 1)                 
+3rd bin.(bit 2)                 
+4th bin.(bit 3)                 
+5th bin.(bit 4)                 
+6th bin.(bit 5)                 
+7th bin.(bit 6)                 
+8th bin.(bit 7)                 
+9th bin.(bit 8)                 
+10th bin.(bit 9)                
+11th bin.(bit10)                
+12th bin.(bit11)                
+13th bin.(bit12)                
+14th bin.(bit13)                
+15th bin.(bit14)                
+16th bin.(bit15)                
+2729
+Src. Bin>K8020                  
+1st bin.(bit 0)                 
+2nd bin.(bit 1)                 
+3rd bin.(bit 2)                 
+4th bin.(bit 3)                 
+5th bin.(bit 4)                 
+6th bin.(bit 5)                 
+7th bin.(bit 6)                 
+8th bin.(bit 7)                 
+9th bin.(bit 8)                 
+10th bin.(bit 9)                
+11th bin.(bit10)                
+12th bin.(bit11)                
+13th bin.(bit12)                
+14th bin.(bit13)                
+15th bin.(bit14)                
+16th bin.(bit15)                
+2732
+CB/TB diagnosis                 
+2733
+CB/TB recv data                 
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2734
+CB/TB sel trnsm1                
+2735
+CB/TB trnsm disp                
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2736
+CB/TB sel trnsm2                
+2738
+CB/TB PKW job                   
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+TB                              
+TB                              
+TB                              
+TB                              
+2739
+CB/TB PKW Respns                
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+TB                              
+TB                              
+TB                              
+TB                              
+2740
+SLB Bus Address                 
+1st SLB                         
+2nd SLB                         
+2741
+SLB Tgr.Fail.Tim                
+1st SLB                         
+2nd SLB                         
+2742
+SLB Transm. Pwr.                
+1st SLB                         
+2nd SLB                         
+2744
+SLB Selection                   
+2745
+SLB No.of Chann.                
+2746
+SLB Cycle Time                  
+1st SLB                         
+2nd SLB                         
+2747
+SLB Appl.flags                  
+Flag 0                          
+Flag 1                          
+Flag 2                          
+Flag 3                          
+2748
+SLB Diagnosis                   
+1st Word                        
+2nd Word                        
+3rd Word                        
+4th Word                        
+5th Word                        
+6th Word                        
+7th Word                        
+8th Word                        
+9th Word                        
+10th Word                       
+11th Word                       
+12th Word                       
+13th Word                       
+14th Word                       
+15th Word                       
+16th Word                       
+2749
+SLB Read Address                
+Channel 0                       
+Channel 1                       
+Channel 2                       
+Channel 3                       
+Channel 4                       
+Channel 5                       
+Channel 6                       
+Channel 7                       
+2750
+SLB Recv.Data                   
+1st Word                        
+2nd Word                        
+3rd Word                        
+4th Word                        
+5th Word                        
+6th Word                        
+7th Word                        
+8th Word                        
+9th Word                        
+10th Word                       
+11th Word                       
+12th Word                       
+13th Word                       
+14th Word                       
+15th Word                       
+16th Word                       
+2751
+SLB Sel.Transmit                
+2752
+SLB Trnsmit Data                
+1st Word                        
+2nd Word                        
+3rd Word                        
+4th Word                        
+5th Word                        
+6th Word                        
+7th Word                        
+8th Word                        
+9th Word                        
+10th Word                       
+11th Word                       
+12th Word                       
+13th Word                       
+14th Word                       
+15th Word                       
+16th Word                       
+2753
+SLB Fault Delay                 
+2755
+Signal Type                     
+1st EB1                         
+2nd EB1                         
+2756
+AI normalization                
+1st EB1: AI1                    
+1st EB1: AI2                    
+1st EB1: AI3                    
+2nd EB1: AI1                    
+2nd EB1: AI2                    
+2nd EB1: AI3                    
+2757
+AI Offset                       
+1st EB1: AI1                    
+1st EB1: AI2                    
+1st EB1: AI3                    
+2nd EB1: AI1                    
+2nd EB1: AI2                    
+2nd EB1: AI3                    
+2758
+AI Control Word                 
+1st EB1: AI1                    
+1st EB1: AI2                    
+1st EB1: AI3                    
+2nd EB1: AI1                    
+2nd EB1: AI2                    
+2nd EB1: AI3                    
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+2759
+AI B_sign rev                   
+1st EB1: AI1                    
+1st EB1: AI2                    
+1st EB1: AI3                    
+2nd EB1: AI1                    
+2nd EB1: AI2                    
+2nd EB1: AI3                    
+2760
+AI filter time                  
+1st EB1: AI1                    
+1st EB1: AI2                    
+1st EB1: AI3                    
+2nd EB1: AI1                    
+2nd EB1: AI2                    
+2nd EB1: AI3                    
+2761
+AI B_enable                     
+1st EB1: AI1                    
+1st EB1: AI2                    
+1st EB1: AI3                    
+2nd EB1: AI1                    
+2nd EB1: AI2                    
+2nd EB1: AI3                    
+2762
+Analog input                    
+1st EB1: AI1                    
+1st EB1: AI2                    
+1st EB1: AI3                    
+2nd EB1: AI1                    
+2nd EB1: AI2                    
+2nd EB1: AI3                    
+2763
+AO conn select                  
+1st EB1: AO1                    
+1st EB1: AO2                    
+2nd EB1: AO1                    
+2nd EB1: AO2                    
+2764
+AO control word                 
+1st EB1: AO1                    
+1st EB1: AO2                    
+2nd EB1: AO1                    
+2nd EB1: AO2                    
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+2765
+AO filter time                  
+1st EB1: AO1                    
+1st EB1: AO2                    
+2nd EB1: AO1                    
+2nd EB1: AO2                    
+2766
+AO normalization                
+1st EB1: AO1                    
+1st EB1: AO2                    
+2nd EB1: AO1                    
+2nd EB1: AO2                    
+2767
+AO offset                       
+1st EB1: AO1                    
+1st EB1: AO2                    
+2nd EB1: AO1                    
+2nd EB1: AO2                    
+2768
+Analog output                   
+1st EB1: AO1                    
+1st EB1: AO2                    
+2nd EB1: AO1                    
+2nd EB1: AO2                    
+2769
+Source binector                 
+1st EB1: DIO1                   
+1st EB1: DIO2                   
+1st EB1: DIO3                   
+1st EB1: DIO4                   
+2nd EB1: DIO1                   
+2nd EB1: DIO2                   
+2nd EB1: DIO3                   
+2nd EB1: DIO4                   
+2770
+Binary outputs                  
+1st EB1                         
+2nd EB1                         
+2773
+Binary outputs                  
+1st EB2                         
+2nd EB2                         
+2774
+Source binector                 
+1st EB2: DO1                    
+1st EB2: DO2                    
+1st EB2: DO3                    
+1st EB2: DO4                    
+2nd EB2: DO1                    
+2nd EB2: DO2                    
+2nd EB2: DO3                    
+2nd EB2: DO4                    
+2775
+Signal type                     
+1st EB2: AI                     
+2nd EB2: AI                     
+2776
+AI normalization                
+1st EB2: AI                     
+2nd EB2: AI                     
+2777
+AI offset                       
+1st EB2: AI                     
+2nd EB2: AI                     
+2778
+AI control word                 
+1st EB2: AI                     
+2nd EB2: AI                     
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+2779
+AI B_sign rev                   
+1st EB2: AI                     
+2nd EB2: AI                     
+2780
+AI filter time                  
+1st EB2: AI                     
+2nd EB2: AI                     
+2781
+AI B_enable                     
+1st EB2: AI                     
+2nd EB2: AI                     
+2782
+Analog input                    
+1st EB2: AI                     
+2nd EB2: AI                     
+2783
+AO conn select                  
+1st EB2: AO                     
+2nd EB2: AO                     
+2784
+AO control word                 
+1st EB2: AO                     
+2nd EB2: AO                     
+correct sign                    
+absolute value                  
+inverted                        
+abs-val inverted                
+2785
+AO filter time                  
+1st EB2: AO                     
+2nd EB2: AO                     
+2786
+AO normalization                
+1st EB2: AO                     
+2nd EB2: AO                     
+2787
+AO offset                       
+1st EB2: AO                     
+2nd EB2: AO                     
+2788
+Analog output                   
+1st EB2: AO                     
+2nd EB2: AO                     
+2790
+Level track A/B                 
+2791
+Pulse enc volts                 
+2792
+No. encod pulses                
+2793
+Encoder type                    
+2794
+Pulse enc n max                 
+2795
+n act pulse encd                
+2845
+bin.for trigger                 
+2846
+Trace start cond                
+2900
+ConverterInfo 1                 
+2901
+ConverterInfo 2                 
+2905
+ConverterInfo cw                
+2910
+Slot Disable Par                
+                                
+Slot D                          
+Slot E                          
+Slot F                          
+Slot G                          
+active                          
+deactivated                     
+2940
+Func Sequence 1                 
+2941
+Func Sequence 2                 
+2942
+Func Sequence 3                 
+2943
+Func Sequence 4                 
+2948
+Func Sequence 9                 
+2949
+Func Sequence 10                
+2950
+Sampling Times 1                
+2951
+Sampling Times 2                
+2952
+Sampling Times 3                
+2953
+Sampling Times 4                
+2958
+Sampling Times 9                
+2959
+Sampling Times10                
+2960
+Sequence _1                     
+2961
+Sequence_2                      
+2962
+Sequence_3                      
+2969
+calc.seq/timeslc                
+inactive                        
+fact.set.calcseq                
+optim.sequence                  
+fact.set.timeslc                
+setting timeslc                 
+2979
+Expert Mode                     
+2980
+List ExistParm11                
+2981
+List ExistParm12                
+2982
+List ExistParm13                
+2983
+List ExistParm14                
+2984
+List ExistParm15                
+2985
+List ExistParm16                
+2986
+List ExistParm17                
+2987
+List ExistParm18                
+2988
+List ExistParm19                
+2989
+List ExistParm20                
+2990
+List ModifParm11                
+2991
+List ModifParm12                
+2992
+List ModifParm13                
+2993
+List ModifParm14                
+2994
+List ModifParm15                
+2995
+List ModifParm16                
+2996
+List ModifParm17                
+2997
+List ModifParm18                
+2998
+List ModifParm19                
+2999
+List ModifParm20                

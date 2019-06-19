@@ -1,0 +1,72 @@
+[Popup2]
+Menu=诊断(&D)
+
+[诊断(&D)]
+Menu=&Faults,&Status
+
+[&Faults]
+Parameter=139,140,141,142,143,930,931
+
+[&Status]
+Parameter=0,1,111,112,113,131,132,134,135,137,139,210,922,923
+
+[Popup]
+Menu=参数组(&P)
+
+[参数组(&P)]
+Menu=Ca&nbus,&Communications,&General,&I/O,&Motor Data,&Process Control,Profi&bus,&Quick Set Up,&Ramps/Braking,&Speed/Frequency,&User Interface
+
+[Ca&nbus]
+Parameter=900,901,902,903,904,905,906,907,908,909,918,927,928,960,964,965,966,969
+
+[&Communications]
+Parameter=91,92,93,94,95,99,910
+
+[&General]
+Parameter=0,1,9,65,73,74,76,77,78,79,86,89,99,101,111,112,113,128,910,922,923,944,971
+
+[&I/O]
+Menu=&Analogue,&Digital,&Relay
+
+[&Analogue]
+Parameter=21,22,23,24
+
+[&Digital]
+Parameter=51,52,53,56
+
+[&Relay]
+Parameter=61,65
+
+[&Motor Data]
+Parameter=12,13,74,81,82,83,84,85,86,89
+
+[&Process Control]
+Parameter=201,202,203,205,206,207,208,210,211,212,220
+
+[Profi&bus]
+Parameter=700,701,702,918,927,928,958,963,967,968,970
+
+[&Quick Set Up]
+Parameter=0,1,2,3,5,9,81,82,83,84,85,910
+
+[&Ramps/Braking]
+Parameter=2,3,4,15,16,17,18,20,62,63,64,66,73
+
+[&Speed/Frequency]
+Menu=&Fixed Frequencies,&Other,&Setpoint,S&kip Frequencies
+
+[&Fixed Frequencies]
+Parameter=41,42,43,44,45,46,47,48,50,51,52,53
+
+[&Other]
+Parameter=12,13,21,22,31,32,33,34
+
+[&Setpoint]
+Parameter=5,6,11,24,94
+
+[S&kip Frequencies]
+Parameter=14,19,27,28,29
+
+[&User Interface]
+Parameter=1,7,121,122,123,124,125
+

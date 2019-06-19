@@ -1,0 +1,255 @@
+[Popup]
+Menu=参数组(&P)
+
+[Popup2]
+Menu=诊断(&D)
+
+[Toolbar]
+Trace=&Trace
+FB=Fu&nction Block Grafics
+
+[参数组(&P)]
+Menu=&Access rights,&Commisioning,&Display parameters,C&ontrol system,&Setpoint setting,&Monitoring and messages,Co&ntrol word and status word,Co&mmunication,&Profile Parameters,|,Fu&nction Block Grafics
+
+[诊断(&D)]
+Menu=&Fault diagnostic memory,&Display Messages,&Thyristor diagnostics,&Trace,Parameters for Trace...,
+
+[&Monitoring and messages]
+Menu=&Settings for monitoring,S&ources for messages,&Disabling monitoring functions
+
+[&Display Messages]
+View=Parliste
+Parameter=70,71,72,48,60,61,62,63
+
+[Parameters for Trace...]
+View=Parliste
+Parameter=831,832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849
+
+[&Commisioning]
+Menu=&Express comissioning,|,Def. of the SIMOTRAS &Converter,Def. of the SIMOTRAS &Power Section,&Actual value sensing,Def. of the &Motor,Def. of the Motor&interface,&Inputs and Outputs,C&onverter control settings
+
+[&Express comissioning]
+View=Parliste
+Parameter=051,052,076,100,114,083,741,078,171,172,303,304,305,306,307,308,309,310,200,225,226,228,052
+
+[&Actual value sensing]
+View=Parliste
+Parameter=83,741
+
+[Co&mmunication]
+Menu=&Serial Interfaces,&Field Bus Interface
+
+[&Trace]
+View={4A46DB43-792A-11D1-A741-444553540000}
+
+[Fu&nction Block Grafics]
+View={477D7AA3-4B8E-11D1-AFC2-004005328EA1}
+
+[&Display parameters] 
+View=Parliste 
+Parameter=001,002,003,004,005,006,007,008,009,010,011,012,013,014,015,017,018,019,020,021,022,023,024,025,026,027,028,040,041,042,043,044,045,046,047,048,049,050 
+Write=51,40
+
+[&Access rights] 
+View=Parliste 
+Parameter=051,052,055,056,057,058,059 
+Write=51,40
+
+[Def. of the SIMOTRAS &Converter] 
+View=Parliste 
+Parameter=060,061,062,063,064,065 
+Write=51,40
+
+[Def. of the SIMOTRAS &Power Section] 
+View=Parliste 
+Parameter=069,070,071,072,075,076,077,078
+Write=51,40
+
+[C&onverter control settings] 
+View=Parliste 
+Parameter=080,083,084,086,087,088,089,090,091,093,094 
+Write=51,40
+
+[Def. of the &Motor] 
+View=Parliste 
+Parameter=100
+Write=51,40
+
+[Def. of the Motor&interface] 
+View=Parliste 
+Parameter=490,491,492,493,494,12 
+Write=51,40
+
+[C&ontrol system]
+Menu= &Setpoint conditioning,&Ramp function generator,S&peed controller,|,Current and torque limiting,Dreh&zahlbegrenzungsregler,|,&Armature current controller,|,&Structure of the control system,Structure of the torque shell,|,Friction compensation,Compensation of the moment of inertia
+
+[&Armature current control] 
+View=Parliste 
+Parameter=152,153,154,155,156,157,158,159,160,165 
+Write=51,40
+
+[Current and torque limiting] 
+View=Parliste 
+Parameter=171,172,180,181,182,183,184 
+Write=51,40
+
+[Dreh&zahlbegrenzungsregler] 
+View=Parliste 
+Parameter=510,511,512,513,515 
+Write=51,40
+
+[S&peed controller] 
+View=Parliste 
+Parameter=200,201,202,203,204,205,206,219,222,223,224,225,226,227,228,229 
+Write=51,40
+
+[&Ramp function generator] 
+View=Parliste 
+Parameter=639,640,300,301,302,303,304,305,306,307,308,309,310,311,312,313,314,315,316 
+Write=51,40
+
+[&Setpoint conditioning] 
+View=Parliste 
+Parameter=320,321 
+Write=51,40
+
+[&Settings for monitoring] 
+View=Parliste 
+Parameter=351,352,353,355,357,360,370,371,373,374,375,388,389,390  
+Write=51,40
+
+[&Setpoint setting]
+Menu=&Adjustable fixed setpoints,Adjustable &control bits,&Digital setpoints,&Motorpotentiometer,&Oscillation and forcing
+
+[&Adjustable fixed setpoints] 
+View=Parliste 
+Parameter=401,402,403,404,405,406,407,408,409,410,411,412,413,414,415,416 
+Write=51,40
+
+[Adjustable &control bits] 
+View=Parliste 
+Parameter=421,422,423,424,425,426,427,428 
+Write=51,40
+
+[&Digital setpoints] 
+View=Parliste 
+Parameter=430,431,432,433,435,436,437,438,440,441,442,443,444,445 
+Write=51,40
+
+[&Motorpotentiometer] 
+View=Parliste 
+Parameter=460,461,462,463,464,465,466,467,468,469,470,471,472 
+Write=51,40
+
+[&Oscillation and forcing] 
+View=Parliste 
+Parameter=480,481,482,483,484,485 
+Write=51,40
+
+[Structure of the torque shell] 
+View=Parliste 
+Parameter=500,501,502 
+Write=51,40
+
+[Friction compensation] 
+View=Parliste 
+Parameter=520,521,522,523,524,525,526,527,528,529,530 
+Write=51,40
+
+[Compensation of the moment of inertia] 
+View=Parliste 
+Parameter=540,541,542,543,546,550,553,556,559,562,563 
+Write=51,40
+
+[S&ources for messages] 
+View=Parliste 
+Parameter=590,591,592,593,594,595 
+Write=51,40
+
+[&Structure of the control system] 
+View=Parliste 
+Parameter=600,601,602,603,604,605,606,607,609,610,611,612,613,614,615,616,619,620,621,622,623,624,625,626,627,628,629,630,631,632,633,634,635,636,637,638,639,640,641,642,643,644,645,646,692,693,694,695,696,697,698 
+Write=51,40
+
+[Co&ntrol word and status word] 
+View=Parliste 
+Parameter=648,649,650,651,652,653,654,655,656,657,658,659,660,661,662,663,664,665,666,667,668,669,671,672,673,674,675,676,677,680,681,684,685,686,687,688,689,690,691 
+Write=51,40
+
+[&Inputs and Outputs]
+Menu=Analog &Inputs,Analog &Outputs,&Binary Inputs,Bi&nary Outputs
+
+[Analog&Inputs] 
+View=Parliste 
+Parameter=700,701,702,703,704,705,706,707,710,711,712,713,714,715,716,717,721,722,723,724,725,726,731,732,733,734,735,736,741,742,743,744,745,746 
+Write=51,40
+
+[Analog &Outputs] 
+View=Parliste 
+Parameter=749,750,751,752,753,754,755,756,757,758,759,760,761,762,763,764,765,766,767,768,769,6,7,8,9 
+Write=51,40
+
+[&Binary Inputs] 
+View=Parliste 
+Parameter=10 
+Write=51,40
+
+[Bi&nary Outputs] 
+View=Parliste 
+Parameter=770,771,772,773,774,775,776,777,778 
+Write=51,40
+
+[&Serial Interfaces] 
+Menu=G-SST&1,G-SST&2,G-SST&3
+
+[G-SST&1]
+View=Parliste 
+Parameter=780,781,782,783,784,785,786,787,788,789,810,811
+Write=51,40
+
+[G-SST&2]
+View=Parliste 
+Parameter=790,791,792,793,794,795,796,797,798,799,812,813 
+Write=51,40
+
+[G-SST&3]
+View=Parliste 
+Parameter=800,801,802,803,804,805,806,807,808,809,814,815 
+Write=51,40
+
+[&Disabling monitoring functions]
+View=Parliste 
+Parameter=820,821 
+Write=51,40
+
+[&Compensation values] 
+View=Parliste 
+Parameter=825,826,827,828,829 
+Write=51,40
+
+[&Thyristor diagnostics] 
+View=Parliste 
+Parameter=830 
+Write=51,40
+
+[&Profile Parameters] 
+View=Parliste 
+Parameter=918,927,928 
+Write=51,40
+
+[&Fault diagnostic memory] 
+View=Parliste 
+Parameter=947,949,953,954,955,956,957,958,959,960,967,968,970,971 
+Write=51,40
+
+[&Field Bus Interface]
+View=Parliste
+Parameter=2711,2712,2713,2714,2715,2716,2717,2718,2719,2720,2721,2722,2732,2733,2734,2735,2736,2738,2739,918,927
+Write=51,40
+
+
+
+
+
+
+

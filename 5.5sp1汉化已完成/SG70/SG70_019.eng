@@ -1,0 +1,6368 @@
+0001
+端子4和5的显示(主给定)          
+0002
+模拟量输入,端子103.104(主实际值)
+0003
+模拟量输入,端子6.7(选择输入1)   
+0004
+模拟量输入,端子8.9(选择输入2)   
+0005
+模拟量输入,端子10.11(选择输入3) 
+0006
+模拟量输出,端子14.15            
+0007
+模拟量输出,端子16.17            
+0008
+模拟量输出,端子18.19            
+0009
+模拟量输出,端子20.21            
+0010
+开关量输入状态显示              
+0011
+开关量输出状态显示              
+0012
+电动机温度                      
+温度1.(端子22.23)               
+温度2.(端子204.205)             
+0013
+散热器温度                      
+0014
+温升                            
+计算电动机温升                  
+计算晶闸管温升                  
+0015
+进线电压显示(电枢)              
+0016
+进线电压显示(励磁)              
+0017
+进线频率显示                    
+0018
+触发角显示(电枢)                
+0019
+电枢电流实际值显示              
+0020
+电枢电流给定绝对值显示          
+0021
+转矩限幅后的转矩给定显示        
+0022
+转矩限幅前的转矩给定显示        
+0023
+速度调节器给定值与实际值偏差显示
+0024
+由脉冲编码器来的速度实际值显示  
+0025
+速度调节器实际值显示            
+0026
+速度调节器给定值显示            
+0027
+斜坡函数发生器输出显示          
+0028
+斜坡函数发生器输入显示          
+0029
+限幅前的主给定显示              
+0034
+触发角显示(励磁)                
+0035
+励磁电流调节器实际值显示        
+0036
+励磁电流调节器给定值显示        
+0037
+EMF 实际值显示                  
+0038
+实际电枢电压值显示              
+0039
+EMF 给定值显示                  
+0040
+限幅显示                        
+0041
+显示P042中选择的连接器(高分辨率)
+0042
+选择准备在r041中显示的连接器    
+0043
+显示P044中选择的连接器          
+0044
+选择准备在r043中显示的连接器    
+0045
+显示P046中选择的开关量连接器    
+0046
+选择将在r045中显示的开关量连接器
+0047
+故障诊断存贮器显示              
+0048
+运行时间                        
+0049
+故障时间                        
+0050
+语言                            
+German(德语)                    
+English(英语)                   
+Spanish(西班牙语)               
+French(法语)                    
+Italian(意大利语)               
+0051
+键参数(访问权限)                
+0052
+显示参数的选择                  
+0053
+永久存贮器的控制字              
+参数存贮器写存取的封锁或使能    
+非易失过程数据写存取的封锁或使能
+封锁                            
+许可                            
+0054
+OP1S 背景灯控制                 
+持续亮灯                        
+当面板使用时亮灯                
+0055
+复制功能数据组                  
+0056
+有效数据组的显示                
+0057
+复制 Bico 数据组                
+0058
+有效 Bico 数据组的显示          
+0059
+运行状态显示                    
+0060
+软件版本                        
+Slot 1                          
+Slot 插槽 D                     
+Slot 插槽 E                     
+Slot 插槽 F                     
+Slot 插槽 G                     
+0061
+软件出版日期                    
+年                              
+月                              
+日                              
+小时                            
+分钟                            
+0062
+校验和                          
+0063
+板代码                          
+Slot 1                          
+Slot D                          
+Slot E                          
+Slot F                          
+Slot G                          
+0064
+板兼容性                        
+0065
+软件标识                        
+0067
+负载级别                        
+0068
+根据铭牌的选件                  
+无选件                          
+选件 L04(低电压,85V)            
+选件 K00(端子扩展)              
+L04 和 K01                      
+H78 (65鳦elsius)                
+H78 + L04                       
+H78 + K01                       
+H78 + L04 + K01                 
+0069
+SIMOREG DC Master 整流器序列号  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+Q6345678901234                  
+0070
+SIMOREG DC Master 整流器订货号  
+no MLFB                         
+6RA7013-6DV62-0                 
+6RA7018-6DV62-0                 
+6RA7025-6DV62-0                 
+6RA7028-6DV62-0                 
+6RA7031-6DV62-0                 
+6RA7075-6DV62-0                 
+6RA7078-6DV62-0                 
+6RA7081-6DV62-0                 
+6RA7085-6DV62-0                 
+6RA7087-6DV62-0                 
+6RA7091-6DV62-0                 
+6RA7093-4DV62-0                 
+6RA7095-4DV62-0                 
+6RA7025-6GV62-0                 
+6RA7031-6GV62-0                 
+6RA7075-6GV62-0                 
+6RA7081-6GV62-0                 
+6RA7085-6GV62-0                 
+6RA7087-6GV62-0                 
+6RA7090-6GV62-0                 
+6RA7093-4GV62-0                 
+6RA7095-4GV62-0                 
+6RA7086-6KV62-0                 
+6RA7090-6KV62-0                 
+6RA7093-4KV62-0                 
+6RA7095-4KV62-0                 
+6RA7088-6LV62-0                 
+6RA7093-4LV62-0                 
+6RA7095-4LV62-0                 
+6RA7018-6DS22-0                 
+6RA7025-6DS22-0                 
+6RA7028-6DS22-0                 
+6RA7031-6DS22-0                 
+6RA7075-6DS22-0                 
+6RA7078-6DS22-0                 
+6RA7081-6DS22-0                 
+6RA7085-6DS22-0                 
+6RA7087-6DS22-0                 
+6RA7091-6DS22-0                 
+6RA7093-4DS22-0                 
+6RA7095-4DS22-0                 
+6RA7025-6GS22-0                 
+6RA7031-6GS22-0                 
+6RA7075-6GS22-0                 
+6RA7081-6GS22-0                 
+6RA7085-6GS22-0                 
+6RA7087-6GS22-0                 
+6RA7090-6GS22-0                 
+6RA7093-4GS22-0                 
+6RA7095-4GS22-0                 
+6RA7086-6KS22-0                 
+6RA7088-6KS22-0                 
+6RA7093-4KS22-0                 
+6RA7095-4KS22-0                 
+6RA7088-6LS22-0                 
+6RA7093-4LS22-0                 
+6RA7095-4LS22-0                 
+no MLFB                         
+no MLFB                         
+6RA7000-0MV62-0                 
+6SG7050-0EB60-0                 
+6SG7052-0EB60-0                 
+6SG7055-0EB60-0                 
+6SG7060-0EB60-0                 
+6SG7062-0EB60-0                 
+6SG7065-0EB60-0                 
+6SG7070-0EB60-0                 
+6SG7072-0EB60-0                 
+6SG7076-0EB60-0                 
+6SG7080-0EB60-0                 
+6SG7082-0EB60-0                 
+6SG7085-0EB60-0                 
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+6SG7050-0EB60-Z                 
+6SG7052-0EB60-Z                 
+6SG7055-0EB60-Z                 
+6SG7060-0EB60-Z                 
+6SG7062-0EB60-Z                 
+6SG7065-0EB60-Z                 
+6SG7070-0EB60-Z                 
+6SG7072-0EB60-Z                 
+6SG7076-0EB60-Z                 
+6SG7080-0EB60-Z                 
+6SG7082-0EB60-Z                 
+6SG7085-0EB60-Z                 
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+no MLFB                         
+6RA7018-6FV62-0                 
+6RA7025-6FV62-0                 
+6RA7028-6FV62-0                 
+6RA7031-6FV62-0                 
+6RA7075-6FV62-0                 
+6RA7078-6FV62-0                 
+6RA7082-6FV62-0                 
+6RA7085-6FV62-0                 
+6RA7087-6FV62-0                 
+6RA7091-6FV62-0                 
+6RA7018-6FS22-0                 
+6RA7025-6FS22-0                 
+6RA7028-6FS22-0                 
+6RA7031-6FS22-0                 
+6RA7075-6FS22-0                 
+6RA7078-6FS22-0                 
+6RA7082-6FS22-0                 
+6RA7085-6FS22-0                 
+6RA7087-6FS22-0                 
+6RA7091-6FS22-0                 
+0071
+整流器额定电源电压(电枢)        
+0072
+整流器额定直流电流(电枢)        
+0073
+整流器额定直流电流(励磁)        
+0074
+整流器额定电源电压(励磁)        
+0075
+功率部件的控制字                
+动态过载能力不允许              
+动态过载能力允许,警告信号 A039  
+动态过载能力允许,故障信号 F039  
+0076
+整流器额定直流电流减少          
+整流器额定直流电流减少(电枢)    
+整流器额定直流电流减少(励磁)    
+0077
+总的热衰减系数                  
+0078
+整流器额定电源电压的衰减        
+电枢额定输入电压                
+励磁额定输入电压                
+0079
+Pulse length                    
+Short pulses                    
+Long pulses                     
+0080
+抱闸控制的控制字                
+未指定                          
+抱闸作为停机抱闸                
+抱闸作为工作抱闸                
+0081
+依赖于 EMF 的励磁减弱           
+无与速度或EMF有关的励磁减弱运行 
+由内部闭环EMF控制的励磁减弱运行 
+0082
+励磁的运行模式                  
+0083
+速度实际值的选择                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+未指定(固定值0%)                
+主实际值 - K0013提供,端子103.104
+脉冲编码器来的实际速度 - K0040  
+实际EMF-K0287,P115计值(无测速机)
+速度实际值自由连接(在P609中选择)
+0084
+速度/电流或转矩闭环控制的选择   
+未指定                          
+在速度闭环控制下运行            
+在电流/转矩闭环控制下运行       
+0085
+点动指令取消后的等待时间        
+0086
+自动再启动的电压故障时间        
+0087
+抱闸释放时间                    
+0088
+抱闸闭合时间                    
+0089
+电压在功率单元出现的最大等待时间
+0090
+进线电压的稳定时间              
+0091
+给定阀值                        
+0092
+励磁反向的等待时间              
+励磁接触器断开前电流降低等待时间
+新励磁接触器控制等待时间        
+励磁脉冲释放等待时间            
+电枢回路释放前励磁重建后等待时间
+0093
+进线接触器合闸延时              
+0094
+辅助传动分闸延时                
+0095
+直流回路接触器的合闸时间        
+0096
+Fan motor delay                 
+0100
+电动机电枢额定电流(铭牌)        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0101
+电动机电枢额定电压(铭牌)        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0102
+电动机额定励磁电流(铭牌)        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0103
+电动机最小励磁电流              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0104
+速度 n1(铭牌)                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0105
+电枢电流 I1(铭牌)               
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0106
+速度 n2(铭牌)                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0107
+电枢电流 I2(铭牌)               
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0108
+最大运行速度 n3                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0109
+和速度有关的电流限幅的控制字    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+失效                            
+激活                            
+0110
+电枢回路电阻                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0111
+电枢回路电感                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0112
+励磁回路电阻                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0113
+转矩调节/电流调节时持续电流系数 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0114
+电动机热时间常数                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0115
+在无测速机运行中,最大速度时的EMF
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0117
+励磁特性的控制字                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+无效                            
+有效                            
+0118
+额定 EMF 值                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0119
+额定速度                        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0120
+对应 0% 电动机磁通的励磁电流(0) 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0121
+对应 5% 电动机磁通的励磁电流(1) 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0122
+对应 10% 电动机磁通的励磁电流(2)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0123
+对应 15% 电动机磁通的励磁电流(3)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0124
+对应 20% 电动机磁通的励磁电流(4)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0125
+对应 25% 电动机磁通的励磁电流(5)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0126
+对应 30% 电动机磁通的励磁电流(6)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0127
+对应 35% 电动机磁通的励磁电流(7)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0128
+对应 40% 电动机磁通的励磁电流(8)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0129
+对应 45% 电动机磁通的励磁电流(9)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0130
+对应 50%电动机磁通的励磁电流(10)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0131
+对应 55%电动机磁通的励磁电流(11)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0132
+对应 60%电动机磁通的励磁电流(12)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0133
+对应 65%电动机磁通的励磁电流(13)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0134
+对应 70%电动机磁通的励磁电流(14)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0135
+对应 75%电动机磁通的励磁电流(15)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0136
+对应 80%电动机磁通的励磁电流(16)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0137
+对应 85%电动机磁通的励磁电流(17)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0138
+对应 90%电动机磁通的励磁电流(18)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0139
+对应 95%电动机磁通的励磁电流(19)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0140
+脉冲编码器类型的选择            
+无编码器                        
+脉冲编码器类型 1                
+脉冲编码器类型 1a               
+脉冲编码器类型 2                
+脉冲编码器类型 3                
+0141
+脉冲编码器的脉冲数              
+0142
+脉冲编码器信号电压的匹配        
+5 v                             
+15 v                            
+0143
+脉冲编码器运行的最高转速        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0144
+编码器信号的倍数计算            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+1x 计算                         
+2x 计算                         
+4x 计算                         
+0145
+低速测量的自动测量范围-脉冲转换 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+失效                            
+激活                            
+0146
+低速测量的自动测量范围-时间转换 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+失效                            
+激活                            
+0147
+脉冲编码器信号计算的正常测量时间
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+1 毫秒(ms),触发脉冲同步测量     
+2 毫秒(ms),触发脉冲同步测量     
+4 毫秒(ms),触发脉冲同步测量     
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+0.2 毫秒(ms) 异步测量           
+0.3 毫秒(ms) 异步测量           
+0.4 毫秒(ms) 异步测量           
+0.5 毫秒(ms) 异步测量           
+0.6 毫秒(ms) 异步测量           
+0.7 毫秒(ms) 异步测量           
+0.8 毫秒(ms) 异步测量           
+0.9 毫秒(ms) 异步测量           
+1 毫秒(ms) 异步测量             
+0148
+脉冲编码器监控功能              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+失效                            
+激活                            
+0150
+αG限制(电枢)                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0151
+αw限制(电枢)                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0152
+电网频率矫正(电枢)              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0153
+电枢预控制的控制字              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+失效                            
+电枢预控制有效                  
+有效,但当转矩方向改变时EMF才有效
+有效,但无EMF作用,对预控制,EMF为0
+0154
+电枢电流调节器的 I分量置零      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+I 分量 = 0                      
+I 分量 有效                     
+0155
+电枢电流调节器的 P 增益         
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0156
+电枢电流调节器的积分时间        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0157
+电流给定积分器的控制字          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+减小齿轮箱的应力                
+电流给定积分器(积分器始终有效)  
+0158
+电流给定积分器的斜坡上升时间    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0159
+自动换向部分的转换阀值(电枢)    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0160
+附加的无转矩时间间隔            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0161
+带有封锁第二个脉冲的附加αw脉冲 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0162
+对于电枢预控制的EMF计算方法     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+from meas. Va                   
+from calc. Va                   
+0163
+对于电枢预控制的EMF滤波方法     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+No filtering                    
+10ms PT1 element                
+Last 2-val averg                
+Last 3-val averg                
+0164
+电枢电流调节器的P分量置零       
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+P 分量 = 0                      
+P 分量 有效                     
+0165
+控制"在转矩方向改变时的使能"的源
+BiCo data set 1                 
+BiCo data set 2                 
+0169
+选择转矩/电流闭环控制           
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Current limitatn                
+Torque limitatn                 
+0170
+选择转矩/电流闭环控制           
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Cl-lp curr cntrl                
+Cl-lp torq cntrl                
+0171
+转矩方向 I 的系统电流限幅       
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0172
+转矩方向 II 的系统电流限幅      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0173
+"转矩调节/电流调节"切换的源     
+BiCo data set 1                 
+BiCo data set 2                 
+0175
+可变 P 增益的源                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0176
+可变积分时间的源                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0177
+"不立即封锁脉冲"指令的源        
+BiCo data set 1                 
+BiCo data set 2                 
+0178
+"所有晶闸管同时点火"指令的源    
+BiCo data set 1                 
+BiCo data set 2                 
+0179
+带有封锁第二个脉冲的附加αw脉冲 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0180
+正转矩限幅 1                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0181
+负转矩限幅 1                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0182
+正转矩限幅 2                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0183
+负转矩限幅 2                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0184
+对于转矩限幅的阀值速度          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0190
+电枢电流前馈控制的设定值滤波时间
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0191
+IaSetCtrlerFltrT                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0200
+Filt.t ncntr act                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0201
+抑制频带 1：谐振频率            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0202
+抑制频带 2：品质                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0203
+抑制频带 2：谐振频率            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0204
+抑制频带 2：品质                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0205
+D 单元：微分作用时间            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0206
+D 单元：滤波时间                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0217
+速度调节器有效软化的显示        
+0218
+速度调节器有效积分时间的显示    
+0219
+速度调节器有效的 P 增益显示     
+0221
+同速度有关PI/P调节器切换的滞环  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0222
+PI/P调节器同速度有关的转换阀值  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0223
+速度调节器预控制的控制字        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0224
+速度调节器 I 分量的控制字       
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+I 分量 = 0                      
+有效,达到转矩或电流限幅时,I停止 
+有效,达到一个转矩限幅时，I停止  
+有效,达到±199.99%时，I停止     
+0225
+速度调节器 P 增益               
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0226
+速度调节器积分时间              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0227
+速度调节器软化                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0228
+速度给定的滤波时间              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0229
+对于从驱动 I分量跟踪的控制      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+n cntrl track                   
+跟踪无效                        
+0230
+速度调节器积分器设置延时        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0234
+速度调节器 P分量置零            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+P 分量 = 0                      
+P 分量 有效                     
+0250
+αG限幅(励磁)                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0251
+αw限幅(励磁)                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0252
+电网频率矫正的滤波(励磁)        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0253
+励磁预控制的控制字              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+失效                            
+激活                            
+0254
+励磁电流调节器的 I分量置零      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+I 分量 = 0                      
+I 分量 有效                     
+0255
+励磁电流调节器 P增益            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0256
+励磁电流调节器的积分时间        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0257
+停机励磁                        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0258
+励磁电流自动减小的延时时间      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0260
+励磁电流前馈控制设定值滤波器时间
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0261
+励磁电流调节器的设定值滤波器时间
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0263
+电动机磁通计算的输入量          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+来自P612励磁电流调节器的实际值  
+来自EMF调节器的预控制输出(K0293)
+来自励磁电流调节器的给定(K0268) 
+0264
+励磁电流调节器的 P分量置零      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+P 分量 = 0                      
+P 分量 有效                     
+0265
+外部励磁电流监控信号选择的源    
+BiCo data set 1                 
+BiCo data set 2                 
+0272
+EMF 闭环控制的运行方式          
+No: F043                        
+Yes: A043                       
+0273
+EMF 调节器预控的控制字          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0274
+EMF 调节器 I分量置零            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+I 分量 = 0                      
+I 分量 有效                     
+0275
+EMF 调节器 P增益                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0276
+EMF 调节器积分时间              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0277
+EMF 调节器软化                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0280
+EMF前馈控制设定值滤波器时间     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0281
+用于EMF调节器设定值的滤波器时间 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0282
+用于EMF调节器实际值的滤波器时间 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0283
+EMF 前馈控制的实际值的滤波器时间
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0284
+EMF 调节器 P分量置零            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+P 分量 = 0                      
+P 分量 有效                     
+0295
+斜坡函数发生器过度圆弧的运行方式
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+not permitted                   
+permitted                       
+0296
+快停OFF3时斜坡函数发生器下降时间
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0297
+快停OFF3时斜坡函数发生器初始圆弧
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0298
+快停OFF3时斜坡函数发生器最终圆弧
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0300
+在斜坡函数发生器输出的正限幅    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0301
+在斜坡函数发生器输出的负限幅    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0302
+选择斜坡函数发生器运行方式      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+标准斜坡函数发生器运行          
+运行：时间 = 0                  
+运行：发生器设置 2              
+运行：发生器设置 3              
+0303
+斜坡上升时间 1                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0304
+斜坡下降时间 1                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0305
+初始圆弧 1                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0306
+最终圆弧 1                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0307
+斜坡上升时间 2                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0308
+斜坡下降时间 2                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0309
+初始圆弧 2                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0310
+最终圆弧 2                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0311
+斜坡上升时间 3                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0312
+斜坡下降时间 3                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0313
+初始圆弧 3                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0314
+最终圆弧 3                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0315
+有效时间的显示                  
+0316
+斜坡函数发生器的状态显示        
+RFG not enabled                 
+RFG enabled                     
+RFG stopped                     
+RFG started                     
+No setp enable                  
+Setp enable+OFF1                
+Set RFG                         
+Do not set RFG                  
+No RFG tracking                 
+RFG tracking                    
+No RFG bypass                   
+Bypass RFG                      
+No ramp-down                    
+Ramp-down                       
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+No ramp-up                      
+Ramp-up                         
+0317
+斜坡函数发生器追踪              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+失效                            
+激活                            
+0318
+设置斜坡函数发生器输出          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+不设置                          
+速度实际值K0167"未经滤波"       
+速度调节器实际值K0179           
+0319
+斜坡函数发生器使能延时          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0320
+主给定的乘数                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0321
+附加给定的乘数                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0322
+主给定乘数的源                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0323
+Src add. stp scl                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0351
+欠电压跳闸的阀值                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0352
+过电压跳闸的阀值                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0353
+相电压故障监控的响应阀值        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0355
+堵转保护时间                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0357
+测速机中断监控的阀值            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0360
+外部故障和报警的响应延时        
+0361
+用于低电压监控的延时            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0362
+用于过电压监控的延时            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0363
+最小电网频率阀值                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0364
+最大电网频率阀值                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0370
+速度阀值 Nmin                   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0371
+N < Nmin 信号的滞环             
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0373
+速度阀值 Ncomp.                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0374
+N<Ncomp.信号(N<Ncomp.信号)的滞环
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0375
+对于N<Ncomp.信号的OFF延时       
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0376
+给定值和实际值之间的允许偏差 2  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0377
+给定值和实际值偏差信号2滞环     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0378
+给定值和实际值偏差信号2响应延时 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0380
+在正旋转方向的最大速度          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0381
+在负旋转方向的最大速度          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0388
+给定值和实际值之间的允许偏差 1  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0389
+给定值和实际值偏差信号1的滞环   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0390
+给定值和实际值偏差信号1响应延迟 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0394
+励磁电流阀值 If-min             
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0395
+If<If-min 信号的滞环            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0396
+励磁电流监控的阀值              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0397
+励磁电流监控的时间              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0398
+励磁电流阀值 If-x               
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0399
+If<If-x 信号的滞环              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0401
+固定值 K401                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0402
+固定值 K402                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0403
+固定值 K403                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0404
+固定值 K404                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0405
+固定值 K405                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0406
+固定值 K406                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0407
+固定值 K407                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0408
+固定值 K408                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0409
+固定值 K409                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0410
+固定值 K410                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0411
+固定值 K411                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0412
+固定值 K412                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0413
+固定值 K413                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0414
+固定值 K414                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0415
+固定值 K415                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0416
+固定值 K416                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0421
+固定位 K421                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0422
+固定位 K422                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0423
+固定位 K423                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0424
+固定位 K424                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0425
+固定位 K425                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0426
+固定位 K426                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0427
+固定位 K427                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0428
+固定位 K428                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0430
+固定给定值接入的源              
+0431
+固定给定值的源                  
+0432
+选择斜坡函数发生器旁路的源      
+No RFG bypass                   
+Bypass RFG                      
+0433
+标准给定的源                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0435
+点动给定接入的源                
+0436
+点动给定的源                    
+0437
+选择斜坡函数发生器旁路的源      
+No RFG bypass                   
+Bypass RFG                      
+0438
+标准给定的源                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0440
+爬行给定接入的源                
+0441
+爬行给定的源                    
+0442
+选择斜坡函数发生器旁路的源      
+No RFG bypass                   
+Bypass RFG                      
+0443
+标准给定的源                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0444
+停车指令的源                    
+BiCo data set 1                 
+BiCo data set 2                 
+0445
+对于合闸/爬行的电平/沿触发的选择
+Level                           
+Edge                            
+0450
+位置计数器的复位                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+位置计数器的复位OFF             
+带零标志位置计数器的复位        
+当端子39低电平,带零标计数器复位 
+当端子39低电平,位置计数器复位   
+0451
+位置计数器的滞环                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+对于旋转方向相反的滞环OFF       
+对于旋转方向相反的滞环ON        
+0452
+用于指令"复位位置计数器"的源    
+BiCo data set 1                 
+BiCo data set 2                 
+0453
+用于指令"释放零标志计数器"的源  
+BiCo data set 1                 
+BiCo data set 2                 
+0455
+连接器选择开关1输入的源         
+0456
+连接器选择开关1控制的源         
+0457
+连接器选择开关2输入的源         
+0458
+连接器选择开关2控制的源         
+0460
+电动电位计斜坡函数发生器的控制字
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+Automatic: T=0                  
+Automatic: T<>0                 
+0461
+在自动方式下给定的源            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0462
+电动电位计的斜坡上升时间        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0463
+电动电位计的斜坡下降时间        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0464
+对 dy/dt 的时间微分             
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0465
+关于电动电位计扩展的系数        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+ * 1                            
+ * 60                           
+0466
+电动电位计设定值的源            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0467
+电动电位计启动值                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0468
+"电动电位计上升"的给定          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0469
+"电动电位计下降"的给定          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0470
+顺时针/逆时针转换的源           
+BiCo data set 1                 
+BiCo data set 2                 
+0471
+手动/自动转化的源               
+BiCo data set 1                 
+BiCo data set 2                 
+0472
+设置电动电位计的源              
+BiCo data set 1                 
+BiCo data set 2                 
+0473
+输出值的存储                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+无输出值的存储                  
+输出值非易失的存储              
+0480
+振荡给定 1                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0481
+振荡时间 1                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0482
+振荡给定 2                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0483
+振荡时间 2                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0484
+标准给定的源                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0485
+振荡选择的源                    
+BiCo data set 1                 
+BiCo data set 2                 
+0490
+电动机温度监控传感器的选择      
+温度传感器在端子 22.23          
+温度传感器在端子 204.205        
+无温度传感器                    
+KTY84                           
+PTC 热敏电阻,阻值R=600Ω   1    
+PTC 热敏电阻,阻值R=1200Ω  1    
+PTC 热敏电阻,阻值R=1330Ω  1    
+PTC 热敏电阻,阻值R=2660Ω  1    
+0491
+电动机温度的模拟监控：报警温度  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0492
+电动机温度的模拟监控：跳闸温度  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0493
+电动机温度模拟量1:报警或故障触发
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+监控无效                        
+温度>P491时: 输出报警A029       
+温度>P492: 输出故障F029         
+温度>P491/2: 输出故障信息A+F029 
+0494
+电动机温度模拟量2:报警或故障触发
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+监控无效                        
+温度>P491: 输出报警A029         
+温度>P492: 输出故障F029         
+温度>P491/2: 输出故障信息A+F029 
+0495
+碳刷长度检测：报警或故障信息触发
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+无碳刷长度检测(端子211不扫描)   
+端子211=0: 输出报警A025         
+端子211=0: 输出故障F025         
+0496
+轴承状态：报警或故障信息的触发  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+无轴承状态检测(端子212不扫描)   
+端子212=1: 输出报警A026         
+端子212=1: 输出故障F026         
+0497
+风量：报警或故障信息的触发      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+无风量监控(端子213不扫描)       
+端子213=0: 输出报警A027         
+端子213=0: 输出故障F027         
+0498
+温度开关：报警或故障信息的触发  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+无温度开关连接(端子214不扫描)   
+端子214=0: 输出报警A028         
+端子214=0: 输出故障F028         
+0500
+从驱动转矩给定的源              
+BiCo data set 1                 
+BiCo data set 2                 
+0501
+附加转矩给定的源                
+BiCo data set 1                 
+BiCo data set 2                 
+0502
+对于叠加到速度调节器输出的值的源
+0503
+在从驱动模式中转矩给定的乘数    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0509
+速度限幅调节器输入量(n-act)的源 
+0510
+速度限幅调节器的正转矩限幅的源  
+0511
+速度限幅调节器的负转矩限幅的源  
+0512
+在正旋转方向的最大速度          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0513
+在负旋转方向的最大速度          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0515
+速度限幅调节器的 P增益          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0520
+在 0%速度的摩擦                 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0521
+在 10%速度的摩擦                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0522
+在 20%速度的摩擦                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0523
+在 30%速度的摩擦                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0524
+在 40%速度的摩擦                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0525
+在 50%速度的摩擦                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0526
+在 60%速度的摩擦                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0527
+在 70%速度的摩擦                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0528
+在 80%速度的摩擦                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0529
+在 90%速度的摩擦                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0530
+在 100%速度的摩擦               
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0540
+加速时间                        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0541
+加速的 P增益                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0542
+斜坡函数发生器的dy/dt的时间微分 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0543
+由给定/实际值之差决定的加速阀值 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0546
+转动惯量补偿的滤波时间          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0550
+在适配范围内的 P增益            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0551
+在适配范围内的积分时间          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0552
+在适配范围内的软化              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0553
+Kp适配作用量的源                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0554
+Tn适配作用量的源                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0555
+软化适配作用量的源              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0556
+n调节器P增益的适配：阀值 1      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0557
+n调节器积分时间的适配：阀值 1   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0558
+n调节器软化的适配：阀值 1       
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0559
+n调节器P增益适配：阀值 2        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0560
+n调节器积分时间的适配：阀值 2   
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0561
+n调节器软化的适配：阀值 2       
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0562
+正速度软化限制                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0563
+负速度软化限制                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0565
+用于频率特性记录的基速          
+0566
+用于频率特性记录的幅值          
+0567
+用于频率特性记录的电流波头数    
+0580
+"使用励磁反向改变旋转方向"选择源
+BiCo data set 1                 
+BiCo data set 2                 
+0581
+"通过励磁反向制动"的选择的源    
+BiCo data set 1                 
+BiCo data set 2                 
+0582
+"励磁反向"选择的源              
+BiCo data set 1                 
+BiCo data set 2                 
+0583
+励磁反向逻辑的速度实际值信号的源
+0590
+"nset=nact 信号1"给定值的源     
+0591
+"n-set=n-act 信号1"实际值的源   
+0592
+"n<n-comp.信号"的实际值的源     
+0593
+"n<n-min 信号"的实际值的源      
+0594
+"极性信号"输入量的源            
+0595
+"超速信号"的实际值的源          
+0596
+"nset-nact 信号2"给定值的源     
+0597
+"nset-nact 信号2"实际值的源     
+0600
+触发单元输入的源(电枢)          
+0601
+电枢电流调节器给定的源          
+0602
+电枢电流调节器实际值的源        
+0603
+在转矩方向 I的可变电流限幅的源  
+0604
+在转矩方向 II的可变电流限幅的源 
+0605
+可变正转矩限幅的源              
+0606
+可变负转矩限幅的源              
+0607
+主驱动转矩给定的源              
+BiCo data set 1                 
+BiCo data set 2                 
+0609
+速度调节器实际值的源            
+0610
+触发单元输入的源(励磁)          
+0611
+励磁电流调节器给定值的源        
+0612
+励磁电流调节器实际值的源        
+0613
+可变励磁电流给定上限幅的源      
+0614
+可变励磁电流给定下限幅的源      
+0615
+EMF调节器给定值的源             
+0616
+EMF调节器实际值的源             
+0619
+加速度接入值的源                
+0620
+速度调节器给定值与实际值偏差的源
+0621
+速度调节器给定值的源            
+0622
+速度调节器给定值的源            
+0623
+速度调节器实际值的源            
+0624
+速度调节器实际值的源            
+0625
+速度调节器给定值的源            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0626
+速度调节器实际值的源            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0627
+D 元件输入的源                  
+0628
+截止频带滤波 1输入的源          
+0629
+截止频带滤波 2输入的源          
+0630
+与速度软化有关作用量的源        
+0631
+速度调节器积分器的设定值的源    
+0632
+斜坡函数发生器输出可变正限幅的源
+0633
+斜坡函数发生器输出可变负限幅的源
+0634
+斜坡函数发生器输出的限幅输入的源
+0635
+斜坡函数发生器给定值的源        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0636
+斜坡函数发生器时间减小信号的源  
+0637
+"斜坡函数发生器设置 2"选择的源  
+BiCo data set 1                 
+BiCo data set 2                 
+0638
+"斜坡函数发生器设置 3"选择的源  
+BiCo data set 1                 
+BiCo data set 2                 
+0639
+斜坡函数发生器设定值的源        
+0640
+"设置斜坡函数发生器"选择的源    
+BiCo data set 1                 
+BiCo data set 2                 
+0641
+"旁路斜坡函数发生器”选择的源   
+BiCo data set 1                 
+BiCo data set 2                 
+0642
+主给定值可变正限幅的源          
+0643
+主给定值可变负限幅的源          
+0644
+主给定值的源                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0645
+附加给定值的源                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0646
+Src enbl RFG swt                
+BiCo data set 1                 
+BiCo data set 2                 
+0648
+控制字 1的源                    
+BiCo data set 1                 
+BiCo data set 2                 
+0649
+控制字 2的源                    
+BiCo data set 1                 
+BiCo data set 2                 
+0650
+控制字 1的显示                  
+0651
+控制字 2的显示                  
+0652
+状态字 1的显示                  
+0653
+状态字 2的显示                  
+0654
+控制字 1的源,位 0               
+BiCo data set 1                 
+BiCo data set 2                 
+0655
+控制字 1的第一个源,位 1         
+BiCo data set 1                 
+BiCo data set 2                 
+0656
+控制字 1的第二个源,位 1         
+BiCo data set 1                 
+BiCo data set 2                 
+0657
+控制字 1的第三个源,位 1         
+BiCo data set 1                 
+BiCo data set 2                 
+0658
+控制字 1第一个源,位 2           
+BiCo data set 1                 
+BiCo data set 2                 
+0659
+控制字 1第二个源,位 2           
+BiCo data set 1                 
+BiCo data set 2                 
+0660
+控制字 1第三个源,位 2           
+BiCo data set 1                 
+BiCo data set 2                 
+0661
+控制字 1的源,位 3               
+BiCo data set 1                 
+BiCo data set 2                 
+0662
+控制字 1的源,位 4               
+BiCo data set 1                 
+BiCo data set 2                 
+0663
+控制字 1的源,位 5               
+BiCo data set 1                 
+BiCo data set 2                 
+0664
+控制字 1的源,位 6               
+BiCo data set 1                 
+BiCo data set 2                 
+0665
+控制字 1第一个源,位 7           
+BiCo data set 1                 
+BiCo data set 2                 
+0666
+控制字 1第二个源,位 7           
+BiCo data set 1                 
+BiCo data set 2                 
+0667
+控制字 1第三个源,位 7           
+BiCo data set 1                 
+BiCo data set 2                 
+0668
+控制字 1的源,位 8               
+BiCo data set 1                 
+BiCo data set 2                 
+0669
+控制字 1的源,位 9               
+BiCo data set 1                 
+BiCo data set 2                 
+0671
+控制字 1的源，位 11             
+BiCo data set 1                 
+BiCo data set 2                 
+0672
+控制字 1的源，位 12             
+BiCo data set 1                 
+BiCo data set 2                 
+0673
+控制字 1的源，位 13             
+BiCo data set 1                 
+BiCo data set 2                 
+0674
+控制字 1的源，位 14             
+BiCo data set 1                 
+BiCo data set 2                 
+0675
+控制字 1的源，位 15             
+BiCo data set 1                 
+BiCo data set 2                 
+0676
+控制字 2的源，位 16             
+BiCo data set 1                 
+BiCo data set 2                 
+0677
+控制字 2的源，位 17             
+BiCo data set 1                 
+BiCo data set 2                 
+0680
+控制字 2的源，位 20             
+BiCo data set 1                 
+BiCo data set 2                 
+0681
+控制字 2的源，位 21             
+BiCo data set 1                 
+BiCo data set 2                 
+0684
+控制字 2的源，位 24             
+BiCo data set 1                 
+BiCo data set 2                 
+0685
+控制字 2的源，位 25             
+BiCo data set 1                 
+BiCo data set 2                 
+0686
+控制字 2的源，位 26             
+BiCo data set 1                 
+BiCo data set 2                 
+0687
+控制字 2的源，位 27             
+BiCo data set 1                 
+BiCo data set 2                 
+0688
+控制字 2的源，位 28             
+BiCo data set 1                 
+BiCo data set 2                 
+0689
+控制字 2的源，位 29             
+BiCo data set 1                 
+BiCo data set 2                 
+0690
+控制字 2的源，位 30             
+0691
+控制字 2的源，位 31             
+BiCo data set 1                 
+BiCo data set 2                 
+0692
+选择接入停机励磁的源            
+BiCo data set 1                 
+BiCo data set 2                 
+0693
+选择EMF调节器的使能指令的源     
+BiCo data set 1                 
+BiCo data set 2                 
+0694
+选择"转矩限幅转化"的使能指令的源
+BiCo data set 1                 
+BiCo data set 2                 
+0695
+选择"设置速度调节器 I分量"功能源
+BiCo data set 1                 
+BiCo data set 2                 
+0696
+选择"停止速度调节器 I分量"功能源
+BiCo data set 1                 
+BiCo data set 2                 
+0697
+选择 dv/dt 接入使能的源         
+BiCo data set 1                 
+BiCo data set 2                 
+0698
+速度调节器PI/P功能转化的使能的源
+BiCo data set 1                 
+BiCo data set 2                 
+0700
+"主给定值"模拟量输入的信号类型  
+0 到 +-10 V                     
+0 到 20 mA                      
+4 到 20 mA                      
+0701
+"主给定值"模拟量输入的规格化    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0702
+"主给定值"模拟量输入的偏置      
+0703
+"主给定值"模拟量输入信号接入方式
+带符号信号的接入                
+接入信号的绝对值                
+带符号信号的接入,取反           
+接入信号的绝对值,取反           
+0704
+"主给定值"模拟量输入符号取反的源
+0705
+"主给定值"模拟量输入的滤波时间  
+0706
+"主给定值“模拟量输入使能的源   
+0707
+"主给定值"模拟量输入的分辨率    
+0710
+"模拟可选输入 1"的信号类型      
+0711
+"模拟可选输入 1"的规格化        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0712
+"模拟可选输入 1"的偏置          
+0713
+"模拟可选输入 1"信号接入的方式  
+带符号信号的接入                
+接入信号的绝对值                
+带符号信号的接入,取反           
+接入信号的绝对值,取反           
+0714
+选择"模拟可选输入 1"符号取反的源
+0715
+"模拟可选输入 1"的滤波时间      
+0716
+"模拟可选输入 1"使能的源        
+0717
+"模拟可选输入"的分辨率          
+0721
+"模拟可选输入 2"的规格化        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0722
+"模拟可选输入 2"的偏置          
+0723
+"模拟可选输入 2"信号接入的方式  
+带符号信号的接入                
+接入信号的绝对值                
+带符号信号的接入,取反           
+接入信号的绝对值,取反           
+0724
+"模拟可选输入 2"符号取反的源    
+0725
+"模拟可选输入 2"的滤波时间      
+0726
+"模拟可选输入 2"使能的源        
+0731
+"模拟可选输入 3"的规格化        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0732
+"模拟可选输入 3"的偏置          
+0733
+"模拟可选输入 3"信号接入的方式  
+带符号信号的接入                
+接入信号的绝对值                
+带符号信号的接入,取反           
+接入信号的绝对值,取反           
+0734
+"模拟可选输入 3"符号取反的源    
+0735
+"模拟可选输入 3"的滤波时间      
+0736
+"模拟可选输入 3"使能的源        
+0741
+"主实际值"的规格化              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+0742
+"主实际值"模拟量输入的偏置      
+0743
+"主实际值"模拟量输入信号接入方式
+带符号信号的接入                
+接入信号的绝对值                
+带符号信号的接入,取反           
+接入信号的绝对值,取反           
+0744
+"主实际值"模拟输入符号取反选择源
+0745
+"主实际值"模拟输入的滤波时间    
+0746
+"主实际值"模拟输入使能的源      
+0749
+端子 12(实际电流显示)的控制字   
+带正确符号的输出                
+绝对值输出(仅仅正电压)          
+带符号的输出,取反               
+绝对值输出,取反(仅仅负电压)     
+0750
+在模拟量输出 1的输出值的源      
+0751
+在模拟量输出 1信号接入的方式    
+接入带正确符号的信号            
+接入信号的绝对值                
+接入带符号的信号,取反           
+接入信号的绝对值,取反           
+0752
+模拟量输出 1的滤波时间          
+0753
+模拟量输出 1的规格化            
+0754
+模拟量输出 1的偏置              
+0755
+在模拟量输出 2的输出值的源      
+0756
+在模拟量输出 2信号接入的方式    
+接入带正确符号的信号            
+接入信号的绝对值                
+接入带符号的信号,取反           
+接入信号的绝对值,取反           
+0757
+模拟量输出 2的滤波时间          
+0758
+模拟量输出 2的规格化            
+0759
+模拟量输出 2的偏置              
+0760
+在模拟量输出 3的输出值的源      
+0761
+在模拟量输出 3信号接入的方式    
+接入带正确符号的信号            
+接入信号的绝对值                
+接入带符号的信号,取反           
+接入信号的绝对值,取反           
+0762
+模拟量输出 3的滤波时间          
+0763
+模拟量输出 3的规格化            
+0764
+模拟量输出 3的偏置              
+0765
+在模拟量输出 4的输出值的源      
+0766
+在模拟量输出 4信号接入的方式    
+接入带正确符号的信号            
+接入信号的绝对值                
+接入带符号的信号,取反           
+接入信号的绝对值,取反           
+0767
+模拟量输出 4的滤波时间          
+0768
+模拟量输出 4的规格化            
+0769
+模拟量输出 4的偏置              
+0770
+开关量可选输出的控制字          
+端子46的开关量可选输出          
+端子48的开关量可选输出          
+端子50的开关量可选输出          
+端子52的开关量可选输出          
+失效                            
+激活                            
+0771
+在开关量输出 1的输出值的源      
+0772
+在开关量输出 2的输出值的源      
+0773
+在开关量输出 3的输出值的源      
+0774
+在开关量输出 4的输出值的源      
+0775
+在开关量输出 1的输出值的延时    
+0776
+在开关量输出 2的输出值的延时    
+0777
+在开关量输出 3的输出值的延时    
+0778
+在开关量输出 4的输出值的延时    
+0780
+基本整流器接口G-SST 1协议的选择 
+设置无功能                      
+Deactivated                     
+USS 协议                        
+Deactivated                     
+Deactivated                     
+Deactivated                     
+Deactivated                     
+Deactivated                     
+用于工厂内部                    
+用于工厂内部测试                
+0781
+G-SST 1过程数据的数量           
+0782
+G-SST 1的参数任务的长度         
+0783
+G-SST 1的波特率                 
+                                
+    300 波特                    
+    600 波特                    
+   1200 波特                    
+   2400 波特                    
+   4800 波特                    
+   9600 波特                    
+  19200 波特                    
+  38400 波特                    
+  56700 波特                    
+                                
+  93750 波特                    
+                                
+ 187500 波特                    
+0784
+G-SST 1传送数据的源             
+ 1. 过程数据                    
+ 2. 过程数据                    
+ 3. 过程数据                    
+ 4. 过程数据                    
+ 5. 过程数据                    
+ 6. 过程数据                    
+ 7. 过程数据                    
+ 8. 过程数据                    
+ 9. 过程数据                    
+10. 过程数据                    
+11. 过程数据                    
+12. 过程数据                    
+12. 过程数据                    
+14. 过程数据                    
+15. 过程数据                    
+16. 过程数据                    
+0785
+G-SST 1的选择                   
+总线终端负载                    
+第一个接收字的位10="由PLC控制"  
+失效                            
+激活                            
+0786
+G-SST 1的USS总线地址            
+0787
+G-SST 1的电报故障时间           
+0788
+F011 激活的源                   
+0789
+G-SST 1的诊断信息               
+无故障电报的数                  
+故障电报的数                    
+字节结构错误的数                
+超出限度错误的数                
+奇偶错误                        
+STX 错误                        
+电报剩余传输时间的违规          
+块校验错误                      
+不正确的电报长度                
+超时错误                        
+0790
+基本整流器接口G-SST 2协议的选择 
+设置无功能                      
+Deactivated                     
+USS 协议                        
+Deactivated                     
+Deactivated                     
+"装置对装置"通讯                
+Connection CCP                  
+Deactivated                     
+Deactivated                     
+用于工厂内部调试                
+0791
+G-SST 2过程数据的数量           
+0792
+G-SST 2的参数任务的长度         
+0793
+G-SST 2的波特率                 
+                                
+    300 波特                    
+    600 波特                    
+   1200 波特                    
+   2400 波特                    
+   4800 波特                    
+   9600 波特                    
+  19200 波特                    
+  38400 波特                    
+  56700 波特                    
+                                
+  93750 波特                    
+                                
+ 187500 波特                    
+0794
+G-SST 2传送数据的源             
+ 1. 过程数据                    
+ 2. 过程数据                    
+ 3. 过程数据                    
+ 4. 过程数据                    
+ 5. 过程数据                    
+ 6. 过程数据                    
+ 7. 过程数据                    
+ 8. 过程数据                    
+ 9. 过程数据                    
+10. 过程数据                    
+11. 过程数据                    
+12. 过程数据                    
+12. 过程数据                    
+14. 过程数据                    
+15. 过程数据                    
+16. 过程数据                    
+0795
+G-SST 2的选择                   
+总线终端负载                    
+第一个接收字的位10="由PLC控制"  
+失效                            
+激活                            
+0796
+G-SST 2的USS总线地址            
+0797
+G-SST 2的电报故障时间           
+0798
+F012 激活的源                   
+0799
+G-SST 2的诊断信息               
+无故障电报的数                  
+故障电报的数                    
+字节结构错误的数                
+超出限度错误的数                
+奇偶错误                        
+STX 错误                        
+电报剩余传输时间的违规(USS协议) 
+块校验错误                      
+不正确的电报长度                
+超时错误                        
+0800
+基本整流器接口G-SST 3协议的选择 
+设置无功能                      
+Deactivated                     
+USS 协议                        
+Deactivated                     
+Deactivated                     
+"装置对装置"通讯                
+Connection CCP                  
+Deactivated                     
+Deactivated                     
+用于工厂内部测试                
+0801
+G-SST 3过程数据的数量           
+0802
+G-SST 3的参数任务的长度         
+0803
+G-SST 3的波特率                 
+                                
+    300 波特                    
+    600 波特                    
+   1200 波特                    
+   2400 波特                    
+   4800 波特                    
+   9600 波特                    
+  19200 波特                    
+  38400 波特                    
+  56700 波特                    
+                                
+  93750 波特                    
+                                
+ 187500 波特                    
+0804
+G-SST 3传输数据的源             
+ 1. 过程数据                    
+ 2. 过程数据                    
+ 3. 过程数据                    
+ 4. 过程数据                    
+ 5. 过程数据                    
+ 6. 过程数据                    
+ 7. 过程数据                    
+ 8. 过程数据                    
+ 9. 过程数据                    
+10. 过程数据                    
+11. 过程数据                    
+12. 过程数据                    
+12. 过程数据                    
+14. 过程数据                    
+15. 过程数据                    
+16. 过程数据                    
+0805
+G-SST 3的选择                   
+总线终端负载                    
+第一个接收字的位10="由PLC控制"  
+失效                            
+激活                            
+0806
+G-SST 3的USS总线地址            
+0807
+G-SST 3的电报故障时间           
+0808
+F013 激活的源                   
+0809
+G-SST 3的诊断信息               
+无故障电报的数                  
+故障电报的数                    
+字节结构错误的数                
+超出限度错误的数                
+奇偶错误                        
+STX 错误                        
+电报剩余传输时间的违规(USS协议) 
+块校验错误                      
+不正确的电报长度                
+超时错误                        
+0810
+在G-SST 1上接收数据             
+ 1. 过程数据                    
+ 2. 过程数据                    
+ 3. 过程数据                    
+ 4. 过程数据                    
+ 5. 过程数据                    
+ 6. 过程数据                    
+ 7. 过程数据                    
+ 8. 过程数据                    
+ 9. 过程数据                    
+10. 过程数据                    
+11. 过程数据                    
+12. 过程数据                    
+12. 过程数据                    
+14. 过程数据                    
+15. 过程数据                    
+16. 过程数据                    
+参数数据字 1                    
+参数数据字 2                    
+参数数据字 3                    
+参数数据字 4                    
+0811
+在G-SST 1上传送数据             
+ 1. 过程数据                    
+ 2. 过程数据                    
+ 3. 过程数据                    
+ 4. 过程数据                    
+ 5. 过程数据                    
+ 6. 过程数据                    
+ 7. 过程数据                    
+ 8. 过程数据                    
+ 9. 过程数据                    
+10. 过程数据                    
+11. 过程数据                    
+12. 过程数据                    
+12. 过程数据                    
+14. 过程数据                    
+15. 过程数据                    
+16. 过程数据                    
+参数数据字 1                    
+参数数据字 2                    
+参数数据字 3                    
+参数数据字 4                    
+0812
+在G-SST 2上接收数据             
+ 1. 过程数据                    
+ 2. 过程数据                    
+ 3. 过程数据                    
+ 4. 过程数据                    
+ 5. 过程数据                    
+ 6. 过程数据                    
+ 7. 过程数据                    
+ 8. 过程数据                    
+ 9. 过程数据                    
+10. 过程数据                    
+11. 过程数据                    
+12. 过程数据                    
+12. 过程数据                    
+14. 过程数据                    
+15. 过程数据                    
+16. 过程数据                    
+参数数据字 1                    
+参数数据字 2                    
+参数数据字 3                    
+参数数据字 4                    
+0813
+在G-SST 2上传送数据             
+ 1. 过程数据                    
+ 2. 过程数据                    
+ 3. 过程数据                    
+ 4. 过程数据                    
+ 5. 过程数据                    
+ 6. 过程数据                    
+ 7. 过程数据                    
+ 8. 过程数据                    
+ 9. 过程数据                    
+10. 过程数据                    
+11. 过程数据                    
+12. 过程数据                    
+12. 过程数据                    
+14. 过程数据                    
+15. 过程数据                    
+16. 过程数据                    
+参数数据字 1                    
+参数数据字 2                    
+参数数据字 3                    
+参数数据字 4                    
+0814
+在G-SST 3上接收数据             
+ 1. 过程数据                    
+ 2. 过程数据                    
+ 3. 过程数据                    
+ 4. 过程数据                    
+ 5. 过程数据                    
+ 6. 过程数据                    
+ 7. 过程数据                    
+ 8. 过程数据                    
+ 9. 过程数据                    
+10. 过程数据                    
+11. 过程数据                    
+12. 过程数据                    
+12. 过程数据                    
+14. 过程数据                    
+15. 过程数据                    
+16. 过程数据                    
+参数数据字 1                    
+参数数据字 2                    
+参数数据字 3                    
+参数数据字 4                    
+0815
+在G-SST 3上传送数据             
+ 1. 过程数据                    
+ 2. 过程数据                    
+ 3. 过程数据                    
+ 4. 过程数据                    
+ 5. 过程数据                    
+ 6. 过程数据                    
+ 7. 过程数据                    
+ 8. 过程数据                    
+ 9. 过程数据                    
+10. 过程数据                    
+11. 过程数据                    
+12. 过程数据                    
+12. 过程数据                    
+14. 过程数据                    
+15. 过程数据                    
+16. 过程数据                    
+参数数据字 1                    
+参数数据字 2                    
+参数数据字 3                    
+参数数据字 4                    
+0816
+装置对装置2:数据接收使能指令的源
+0817
+装置对装置2:数据发送使能指令的源
+0818
+装置对装置3:数据接收使能指令的源
+0819
+装置对装置3:数据发送使能指令的源
+0820
+故障信息的解除                  
+0821
+报警的解除                      
+0824
+A7006补偿值                     
+SIA2(trm.8) +10V                
+SIA2(trm.8) -10V                
+SIA3(trm10) +10V                
+SIA3(trm10) -10V                
+TEMP2(trm204)500                
+TEMP2(trm204) 2k                
+SOA3(trm18) +10V                
+SOA3(trm18) -10V                
+SOA4(trm20) +10V                
+SOA4(trm20) -10V                
+0825
+对于励磁电流实际值通道的偏置补偿
+Gain 1                          
+Gain 3                          
+Gain 9                          
+0826
+自然换相时间点的校正            
+Phase U-V                       
+Phase U-W                       
+Phase V-W                       
+Phase V-U                       
+Phase W-U                       
+Phase W-V                       
+0827
+内部诊断                        
+对 EEPROM 写访问操作的数量      
+对 EEPROM 页写访问操作的数量    
+对于 DUAL-PORT RAM 的超时计数器 
+0828
+MLFB 数据                       
+Code No. (r070)                 
+V_ratd a_ratd[V]                
+V_lineAmax[0.1V]                
+V_a_max [0.1 V]                 
+V_linef_rated[V]                
+V_lineFmax[0.1V]                
+Ia_rated [0.1 A]                
+If_rated [0.01A]                
+V_B_A[in 0.1 mV]                
+IfFac [in 0.001]                
+Overl.fac [perc]                
+Properties                      
+                                
+                                
+No. of words                    
+Checksum                        
+0829
+A7001 补偿值                    
+AI(tm.4)+10V/10b                
+AI(tm.4)-10V/10b                
+AI(tm.4)+10V/11b                
+AI(tm.4)-10V/11b                
+AI(tm.4)+10V/12b                
+AI(tm.4)-10V/12b                
+AI(tm.4)+10V/13b                
+AI(tm.4)-10V/13b                
+AI(tm.4)+10V/14b                
+AI(tm.4)-10V/14b                
+AI(tm.4)+20m/10b                
+AI(tm.4)-20m/10b                
+AI(tm.4)+20m/11b                
+AI(tm.4)-20m/11b                
+AI(tm.4)+20m/12b                
+AI(tm.4)-20m/12b                
+AI(tm.4)+20m/13b                
+AI(tm.4)-20m/13b                
+AI(tm.4)+20m/14b                
+AI(tm.4)-20m/14b                
+AI(tm.6)+10V/10b                
+AI(tm.6)-10V/10b                
+AI(tm.6)+10V/11b                
+AI(tm.6)-10V/11b                
+AI(tm.6)+10V/12b                
+AI(tm.6)-10V/12b                
+AI(tm.6)+10V/13b                
+AI(tm.6)-10V/13b                
+AI(tm.6)+10V/14b                
+AI(tm.6)-10V/14b                
+AI(tm.6)+20m/10b                
+AI(tm.6)-20m/10b                
+AI(tm.6)+20m/11b                
+AI(tm.6)-20m/11b                
+AI(tm.6)+20m/12b                
+AI(tm.6)-20m/12b                
+AI(tm.6)+20m/13b                
+AI(tm.6)-20m/13b                
+AI(tm.6)+20m/14b                
+AI(tm.6)+10V/10b                
+Tacho2+4.38V/11b                
+Tacho2-4.38V/11b                
+Tacho2+4.38V/12b                
+Tacho2-4.38V/12b                
+Tacho2+4.38V/13b                
+Tacho2-4.38V/13b                
+Tacho2+4.38V/14b                
+Tacho2-4.38V/14b                
+Tacho3+4.38V/11b                
+Tacho3-4.38V/11b                
+Tacho3+4.38V/12b                
+Tacho3-4.38V/12b                
+Tacho3+4.38V/13b                
+Tacho3-4.38V/13b                
+Tacho3+4.38V/14b                
+Tacho3-4.38V/14b                
+Tacho ADU +4.38V                
+Tacho ADU -4.38V                
+TEMP1(tm.22) 500                
+TEMP1(tm.22)  2k                
+V_armat  +7.7V                  
+V_armat  -7.7V                  
+Tacho T_CTRL: 01                
+Tacho T_CTRL: 11                
+SOA1(tm.14) +10V                
+SOA1(tm.14) -10V                
+SOA2(tm.16) +10V                
+SOA2(tm.16) -10V                
+0830
+晶闸管诊断的控制字              
+Deactivated                     
+Initial ON                      
+Every ON                        
+Next ON                         
+0831
+DriveMonitor跟踪功能的参数      
+0832
+Conn.for trigger                
+0833
+Bit for trigger                 
+Bit 0                           
+Bit 1                           
+Bit 2                           
+Bit 3                           
+Bit 4                           
+Bit 5                           
+Bit 6                           
+Bit 7                           
+Bit 8                           
+Bit 9                           
+Bit 10                          
+Bit 11                          
+Bit 12                          
+Bit 13                          
+Bit 14                          
+Bit 15                          
+Trigger on word                 
+0834
+TriggerCondition                
+Less than                       
+Equal to                        
+Greater than                    
+Fault                           
+Unequal to                      
+binect.[U845]=1                 
+binect.[U845]=0                 
+0835
+TriggerThreshold                
+0836
+Scan Interval                   
+0837
+Pretrigger                      
+0838
+Trace start cond                
+stop                            
+start                           
+0839
+Trace D block no                
+0840
+Trace data chan0                
+0841
+Trace data chan1                
+0842
+Trace data chan2                
+0843
+Trace data chan3                
+0844
+Trace data chan4                
+0845
+Trace data chan5                
+0846
+Trace data chan6                
+0847
+Trace data chan7                
+0848
+Trace data chan8                
+0849
+Trace data chan9                
+0918
+CB 总线地址                     
+0927
+参数化使能                      
+通讯板CB: No                    
+通讯板CB: Yes                   
+参数化单元PMU: No               
+参数化单元PMU: Yes              
+G-SST1串行接口/OP1S: No         
+G-SST1串行接口/OP1S: Yes        
+                                
+                                
+工艺板TB: No                    
+工艺板TB: Yes                   
+G-SST2串行接口: No              
+G-SST2串行接口: Yes             
+G-SST3串行接口: No              
+G-SST3串行接口: Yes             
+0947
+故障存贮器                      
+0949
+故障值                          
+0951
+故障文本                        
+电子板电源故障                  
+Phase Sequence                  
+ExtMonitFltMess                 
+PhaseFailArmat.                 
+Field Circ fault                
+欠电压                          
+过电压                          
+进线电源频率低于P363设置的最低值
+进线频率高于P364设置的最大值    
+F010                            
+在G-SST 1的电报故障             
+在G-SST 2的电报故障             
+在G-SST 3的电报故障             
+并行接口电报故障                
+在一块SIMOLINK板上电报故障      
+扩展板EB1硬件故障               
+扩展板EB2硬件故障               
+开关量输出短路或过载            
+来自自由功能块FB286的故障信息   
+来自自由功能块FB287的故障信息   
+外部故障 1                      
+外部故障 2                      
+F023                            
+F024                            
+Brush length bad                
+BearingCond.bad                 
+Motor fan bad                   
+Motor overtemp 1                
+Motor overtemp 2                
+Ia too large                    
+n cntrl monitor                 
+F032                            
+F033                            
+F034                            
+驱动堵转                        
+Open armat circ                 
+I2t电动机监控响应               
+超速                            
+I2t of SIMOREG                  
+FaultNotAcknowl                 
+FDS/RFG 选择不明确              
+测速机故障                      
+自动运行的EMF过高               
+连接到并行接口的一个从装置不运行
+F045                            
+主给定(端子4.5)的模拟可设置故障 
+模拟可设置输入(端子6.7)故障     
+使用脉冲编码器的测量通道故障    
+F049                            
+在优化运行过程中出现故障        
+EEPROM w.protect                
+外部原因导致优化运行中断        
+F053                            
+F054                            
+无励磁特性曲线的记录            
+重要参数未设置                  
+F057                            
+参数设置不协调                  
+工艺选件S00不能或将很快不能工作 
+F060                            
+晶闸管检查功能来的故障信息      
+参数存储器故障                  
+模拟输入和输出的补偿数据错误    
+监视计时器已产生一个复位        
+非法微处理机状态                
+F066                            
+整流器冷却故障                  
+模拟检测通道故障                
+MLFB 数据故障                   
+SCB1:严重的初始化故障           
+F071                            
+F072                            
+SCB1:驱动1的模拟输入1电流小于4mA
+SCB1:驱动1的模拟输入2电流小于4mA
+SCB1:驱动1的模拟输入3电流小于4mA
+SCB1:驱动2的模拟输入1电流小于4mA
+SCB1:驱动2的模拟输入2电流小于4mA
+SCB1:驱动2的模拟输入3电流小于4mA
+SCB1:电报故障                   
+一块CB/TB板载初始化时出现故障   
+CB/TB 核心节拍错误              
+CB/TB 信号超时或数据交换发生错误
+F083                            
+F084                            
+F085                            
+F086                            
+F087                            
+F088                            
+F089                            
+F090                            
+F091                            
+F092                            
+F093                            
+F094                            
+F095                            
+F096                            
+F097                            
+F098                            
+F099                            
+F100                            
+F101                            
+0952
+故障的数量                      
+0953
+报警参数 1                      
+no A001                         
+A001                            
+no A002                         
+A002                            
+no A003                         
+A003                            
+no A004                         
+A004                            
+no A005                         
+A005                            
+no A006                         
+A006                            
+no A007                         
+A007                            
+no A008                         
+A008                            
+no A009                         
+A009                            
+no A010                         
+A010                            
+no A011                         
+A011                            
+no A012                         
+A012                            
+no A013                         
+A013                            
+no A014                         
+A014                            
+SLB startup ok                  
+SLB start?                      
+no A016                         
+A016                            
+0954
+报警参数 2                      
+no A017                         
+A017                            
+No BO short circ                
+BO short circuit                
+no A019                         
+A019                            
+no A020                         
+A020                            
+No ext. alarm 1                 
+Ext.alarm1                      
+No ext.Alarm 2                  
+Ext.alarm2                      
+no A023                         
+A023                            
+no A024                         
+A024                            
+BrushLength ok                  
+BrushLength?                    
+Air flow ok                     
+Air flow?                       
+Bearing cond. ok                
+Bearing?                        
+MotorTemp1 ok                   
+Overtemp1 Motor                 
+MotorTemp2 ok                   
+Overtemp1 Motor                 
+no A030                         
+A030                            
+n controller ok                 
+n control?                      
+no A032                         
+A032                            
+0955
+报警参数 3                      
+no A033                         
+A033                            
+no A034                         
+A034                            
+Drive not blockd                
+Drive blocked                   
+Armat.current ok                
+No arm.Current                  
+I2t of motor ok                 
+Motor I2t?                      
+No overspeed                    
+Overspeed                       
+I2t ofSIMOREG ok                
+I2t of SIMOREG?                 
+no A040                         
+A040                            
+no A041                         
+A041                            
+no A042                         
+A042                            
+EMF ok                          
+EMF too high                    
+No SlaveWarning                 
+SlaveWarning                    
+no A045                         
+A045                            
+Term.4/5ok                      
+Term.4/5faulty                  
+Term.6/7ok                      
+Term.6/7faulty                  
+no A048                         
+A048                            
+0956
+报警参数 4                      
+no A049                         
+SCB1: no slave                  
+no A050                         
+SCI slave types?                
+no A051                         
+A051                            
+no A052                         
+A052                            
+no A053                         
+A053                            
+no A054                         
+A054                            
+no A055                         
+A055                            
+no A056                         
+A056                            
+no A057                         
+A057                            
+no A058                         
+A058                            
+Option S00 enabl                
+No Opt.S00                      
+no A060                         
+A060                            
+no A061                         
+A061                            
+no A062                         
+A062                            
+no A063                         
+A063                            
+no A064                         
+A064                            
+0957
+报警参数 5                      
+no A065                         
+A065                            
+no A066                         
+A066                            
+DeviceCooling ok                
+Cooling?Device                  
+no A068                         
+A068                            
+no A069                         
+A069                            
+no A070                         
+A070                            
+no A071                         
+A071                            
+no A072                         
+A072                            
+no A073                         
+A073                            
+no A074                         
+A074                            
+no A075                         
+A075                            
+no A076                         
+A076                            
+no A077                         
+A077                            
+no A078                         
+A078                            
+no A079                         
+A079                            
+no A080                         
+A080                            
+0958
+报警参数 6                      
+No A081 from CB                 
+A081 from CB                    
+No A082 from CB                 
+A082 from CB                    
+No A083 from CB                 
+A083 from CB                    
+No A084 from CB                 
+A084 from CB                    
+No A085 from CB                 
+A085 from CB                    
+No A086 from CB                 
+A086 from CB                    
+No A087 from CB                 
+A087 from CB                    
+No A088 from CB                 
+A088 from CB                    
+No A089 from CB                 
+A089 from CB                    
+No A090 from CB                 
+A090 from CB                    
+No A091 from CB                 
+A091 from CB                    
+No A092 from CB                 
+A092 from CB                    
+No A093 from CB                 
+A093 from CB                    
+No A094 from CB                 
+A094 from CB                    
+No A095 from CB                 
+A095 from CB                    
+No A096 from CB                 
+A096 from CB                    
+0959
+报警参数 7                      
+No A097 from TB                 
+A097 from TB                    
+No A098 from TB                 
+A098 from TB                    
+No A099 from TB                 
+A099 from TB                    
+No A100 from TB                 
+A100 from TB                    
+No A101 from TB                 
+A101 from TB                    
+No A102 from TB                 
+A102 from TB                    
+No A103 from TB                 
+A103 from TB                    
+No A104 from TB                 
+A104 from TB                    
+No A105 from TB                 
+A105 from TB                    
+No A106 from TB                 
+A106 from TB                    
+No A107 from TB                 
+A107 from TB                    
+No A108 from TB                 
+A108 from TB                    
+No A109 from TB                 
+A109 from TB                    
+No A110 from TB                 
+A110 from TB                    
+No A111 from TB                 
+A111 from TB                    
+No A112 from TB                 
+A112 from TB                    
+0960
+报警参数 8                      
+No A113 from TB                 
+A113 from TB                    
+No A114 from TB                 
+A114 from TB                    
+No A115 from TB                 
+A115 from TB                    
+No A116 from TB                 
+A116 from TB                    
+No A117 from TB                 
+A117 from TB                    
+No A118 from TB                 
+A118 from TB                    
+No A119 from TB                 
+A119 from TB                    
+No A120 from TB                 
+A120 from TB                    
+No A121 from TB                 
+A121 from TB                    
+No A122 from TB                 
+A122 from TB                    
+No A123 from TB                 
+A123 from TB                    
+No A124 from TB                 
+A124 from TB                    
+No A125 from TB                 
+A125 from TB                    
+No A126 from TB                 
+A126 from TB                    
+No A127 from TB                 
+A127 from TB                    
+No A128 from TB                 
+A120 from TB                    
+0967
+控制字 1的显示                  
+0968
+状态字 1的显示                  
+0970
+恢复工厂设置                    
+参数复位                        
+无参数复位                      
+0971
+EEPROM 传输                     
+inactive                        
+start                           
+0980
+现存参数号码 1                  
+0981
+现存参数号码 2                  
+0982
+现存参数号码 3                  
+0983
+现存参数号码 4                  
+0984
+现存参数号码 5                  
+0985
+现存参数号码 6                  
+0986
+现存参数号码 7                  
+0987
+现存参数号码 8                  
+0988
+现存参数号码 9                  
+0989
+现存参数号码 10                 
+0990
+改变的参数号码表 1              
+0991
+改变的参数号码表 2              
+0992
+改变的参数号码表 3              
+0993
+改变的参数号码表 4              
+0994
+改变的参数号码表 5              
+0995
+改变的参数号码表 6              
+0996
+改变的参数号码表 7              
+0997
+改变的参数号码表 8              
+0998
+改变的参数号码表 9              
+0999
+改变的参数号码表 10             
+2005
+钥匙                            
+2006
+锁                              
+2007
+用户参数号                      
+2009
+处理器利用率                    
+当前总的处理器利用率            
+用于最大电源频率推断出的总利用率
+通过在时隙10的程序的当前总利用率
+用过在时隙 4的程序的当前总利用率
+通过在时隙 2的程序的当前总利用率
+通过在时隙 1的程序的当前总利用率
+2010
+连接器/开关量连接器转换 1       
+2011
+连接器/开关量连接器转换 2       
+2012
+连接器/开关量连接器转换 3       
+2013
+开关量连接器/连接器转换 1       
+2014
+开关量连接器/连接器转换 2       
+2015
+开关量连接器/连接器转换 3       
+2016
+实际值显示                      
+2017
+给定值显示                      
+2018
+有效的 Kp 系数显示              
+2019
+工艺调节器输出的显示            
+2020
+实际速度的显示                  
+2021
+实际线速度的显示                
+2022
+给定线速度的显示                
+2023
+v>n calc output                 
+2049
+OP1S 运行显示                   
+第一行左边                      
+第一行右边                      
+第二行(实际值),仅只读参数       
+第二行(设定值)                  
+第四行                          
+2098
+连接器类型转换器                
+输出连接器KK9498低字的源        
+输出连接器KK9498高字的源        
+输出连接器KK9499低字的源        
+输出连接器KK9499高字的源        
+2099
+100个固定值                     
+2100
+F023 和 F019 激活的源           
+F023有故障值 1 (FB 2)           
+F023有故障值 2                  
+F023有故障值 3                  
+F023有故障值 4                  
+F019有故障值 1 (FB 286)         
+F019有故障值 2                  
+F019有故障值 3                  
+F019有故障值 4                  
+2101
+F024 和 F020 激活的源           
+F024有故障值 1 (FB 3)           
+F024有故障值 2                  
+F024有故障值 3                  
+F024有故障值 4                  
+F020有故障值 1 (FB 287)         
+F020有故障值 2                  
+F020有故障值 3                  
+F020有故障值 4                  
+2102
+F033 和 F053 激活的源           
+F033有故障值 1 (FB 4)           
+F033有故障值 2                  
+F033有故障值 3                  
+F033有故障值 4                  
+F053有故障值 1 (FB 288)         
+F053有故障值 2                  
+F053有故障值 3                  
+F053有故障值 4                  
+2103
+F034 和 F054 激活的源           
+F034有故障值 1 (FB 5)           
+F034有故障值 2                  
+F034有故障值 3                  
+F034有故障值 4                  
+F054有故障值 1 (FB 289)         
+F054有故障值 2                  
+F054有故障值 3                  
+F054有故障值 4                  
+2104
+A023 和 A019 激活的源           
+A023                            
+A019                            
+2105
+A024 和 A020 激活的源           
+A024                            
+A020                            
+2106
+A033 和 A053 激活的源           
+A033                            
+A053                            
+2107
+A034 和 A054 激活的源           
+A034                            
+A054                            
+2110
+连接器/开关量连接器转换 1的源   
+2111
+连接器/开关量连接器转换 2的源   
+2112
+连接器/开关量连接器转换 3的源   
+2113
+开关量连接器/连接器转换 1的源   
+开关量连接器(第 0 位)           
+开关量连接器(第 1 位)           
+开关量连接器(第 2 位)           
+开关量连接器(第 3 位)           
+开关量连接器(第 4 位)           
+开关量连接器(第 5 位)           
+开关量连接器(第 6 位)           
+开关量连接器(第 7 位)           
+开关量连接器(第 8 位)           
+开关量连接器(第 9 位)           
+开关量连接器(第 10 位)          
+开关量连接器(第 11 位)          
+开关量连接器(第 12 位)          
+开关量连接器(第 13 位)          
+开关量连接器(第 14 位)          
+开关量连接器(第 15 位)          
+2114
+开关量连接器/连接器转换 2的源   
+开关量连接器(第 0 位)           
+开关量连接器(第 1 位)           
+开关量连接器(第 2 位)           
+开关量连接器(第 3 位)           
+开关量连接器(第 4 位)           
+开关量连接器(第 5 位)           
+开关量连接器(第 6 位)           
+开关量连接器(第 7 位)           
+开关量连接器(第 8 位)           
+开关量连接器(第 9 位)           
+开关量连接器(第 10 位)          
+开关量连接器(第 11 位)          
+开关量连接器(第 12 位)          
+开关量连接器(第 13 位)          
+开关量连接器(第 14 位)          
+开关量连接器(第 15 位)          
+2115
+开关量连接器/连接器转换 3的源   
+开关量连接器(第 0 位)           
+开关量连接器(第 1 位)           
+开关量连接器(第 2 位)           
+开关量连接器(第 3 位)           
+开关量连接器(第 4 位)           
+开关量连接器(第 5 位)           
+开关量连接器(第 6 位)           
+开关量连接器(第 7 位)           
+开关量连接器(第 8 位)           
+开关量连接器(第 9 位)           
+开关量连接器(第 10 位)          
+开关量连接器(第 11 位)          
+开关量连接器(第 12 位)          
+开关量连接器(第 13 位)          
+开关量连接器(第 14 位)          
+开关量连接器(第 15 位)          
+2116
+GSST1开关量连接器/连接器转换的源
+开关量连接器(第 0 位)           
+开关量连接器(第 1 位)           
+开关量连接器(第 2 位)           
+开关量连接器(第 3 位)           
+开关量连接器(第 4 位)           
+开关量连接器(第 5 位)           
+开关量连接器(第 6 位)           
+开关量连接器(第 7 位)           
+开关量连接器(第 8 位)           
+开关量连接器(第 9 位)           
+开关量连接器(第 10 位)          
+开关量连接器(第 11 位)          
+开关量连接器(第 12 位)          
+开关量连接器(第 13 位)          
+开关量连接器(第 14 位)          
+开关量连接器(第 15 位)          
+2117
+GSST2开关量连接器/连接器转换的源
+开关量连接器(第 0 位)           
+开关量连接器(第 1 位)           
+开关量连接器(第 2 位)           
+开关量连接器(第 3 位)           
+开关量连接器(第 4 位)           
+开关量连接器(第 5 位)           
+开关量连接器(第 6 位)           
+开关量连接器(第 7 位)           
+开关量连接器(第 8 位)           
+开关量连接器(第 9 位)           
+开关量连接器(第 10 位)          
+开关量连接器(第 11 位)          
+开关量连接器(第 12 位)          
+开关量连接器(第 13 位)          
+开关量连接器(第 14 位)          
+开关量连接器(第 15 位)          
+2118
+GSST3开关量连接器/连接器转换的源
+开关量连接器(第 0 位)           
+开关量连接器(第 1 位)           
+开关量连接器(第 2 位)           
+开关量连接器(第 3 位)           
+开关量连接器(第 4 位)           
+开关量连接器(第 5 位)           
+开关量连接器(第 6 位)           
+开关量连接器(第 7 位)           
+开关量连接器(第 8 位)           
+开关量连接器(第 9 位)           
+开关量连接器(第 10 位)          
+开关量连接器(第 11 位)          
+开关量连接器(第 12 位)          
+开关量连接器(第 13 位)          
+开关量连接器(第 14 位)          
+开关量连接器(第 15 位)          
+2119
+DriveMonitor 跟踪功能的参数     
+开关量连接器(第 0 位)           
+开关量连接器(第 1 位)           
+开关量连接器(第 2 位)           
+开关量连接器(第 3 位)           
+开关量连接器(第 4 位)           
+开关量连接器(第 5 位)           
+开关量连接器(第 6 位)           
+开关量连接器(第 7 位)           
+开关量连接器(第 8 位)           
+开关量连接器(第 9 位)           
+开关量连接器(第 10 位)          
+开关量连接器(第 11 位)          
+开关量连接器(第 12 位)          
+开关量连接器(第 13 位)          
+开关量连接器(第 14 位)          
+开关量连接器(第 15 位)          
+2120
+1st加法器/减法器的操作数        
+Add value 1                     
+Add value 2                     
+Subtract value                  
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2121
+2st加法器/减法器的操作数        
+Add value 1                     
+Add value 2                     
+Subtract value                  
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2122
+3st加法器/减法器的操作数        
+Add value 1                     
+Add value 2                     
+Subtract value                  
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2123
+4st加法器/减法器的操作数        
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2124
+5st加法器/减法器的操作数        
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2125
+6st加法器/减法器的操作数        
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2126
+7st加法器/减法器的操作数        
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2127
+8st加法器/减法器的操作数        
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2128
+9st加法器/减法器的操作数        
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2129
+10st加法器/减法器的操作数       
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2130
+11st加法器/减法器的操作数       
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2131
+12st加法器/减法器的操作数       
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2132
+1st加法器/减法器的操作数        
+Add value 1                     
+Add value 2                     
+Subtract value                  
+Add value 1                     
+Add value 2                     
+Subtract value                  
+2135
+1st符号取反的源                 
+2136
+2st符号取反的源                 
+2137
+3st符号取反的源                 
+2138
+4st符号取反的源                 
+2140
+1st可转换符号取反的源           
+2141
+1st可转换符号取反的控制位       
+2142
+2nd可转换符号取反的源           
+2143
+2nd可转换符号取反的控制位       
+2145
+1st除法器的操作数               
+Dividend                        
+Divisor                         
+Dividend                        
+Divisor                         
+2146
+2nd除法器的操作数               
+Dividend                        
+Divisor                         
+Dividend                        
+Divisor                         
+2147
+3rd除法器的操作数               
+Dividend                        
+Divisor                         
+Dividend                        
+Divisor                         
+2150
+1st乘法器操作数                 
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+2151
+2nd乘法器操作数                 
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+2152
+3rd乘法器操作数                 
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+2153
+4th乘法器操作数                 
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+Multiplicand                    
+Multiplier                      
+2155
+1st乘法器/除法器的操作数        
+Multiplicand                    
+Multiplier                      
+Divisor                         
+2156
+2nd乘法器/除法器的操作数        
+Multiplicand                    
+Multiplier                      
+Divisor                         
+2157
+3rd乘法器/除法器的操作数        
+Multiplicand                    
+Multiplier                      
+Divisor                         
+2160
+1st带滤波的绝对值发生器输入量源 
+2161
+1st带滤波的绝对值发生器信号方式 
+接入带正确符号信号              
+接入信号的绝对值                
+接入带符号信号，取反            
+接入信号的绝对值，取反          
+2162
+1st带滤波的绝对值发生器滤波时间 
+2163
+2nd带滤波的绝对值发生器输入的源 
+2164
+2nd带滤波的绝对值发生器信号方式 
+接入带正确符号信号              
+接入信号的绝对值                
+接入带符号信号，取反            
+接入信号的绝对值，取反          
+2165
+2nd带滤波的绝对值发生器滤波时间 
+2166
+3rd带滤波的绝对值发生器输入量源 
+2167
+3rd带滤波的绝对值发生器信号方式 
+接入带正确符号信号              
+接入信号的绝对值                
+接入带符号信号，取反            
+接入信号的绝对值，取反          
+2168
+3rd带滤波的绝对值发生器滤波时间 
+2169
+4th带滤波的绝对值发生器输入量源 
+2170
+4th带滤波的绝对值发生器信号方式 
+接入带正确符号信号              
+接入信号的绝对值                
+接入带符号信号，取反            
+接入信号的绝对值，取反          
+2171
+4th带滤波的绝对值发生器滤波时间 
+2172
+输入信号的源                    
+1st 平均值发生器(FB16)          
+2st 平均值发生器(FB17)          
+3st 平均值发生器(FB18)          
+4st 平均值发生器(FB19)          
+2173
+采样周期的数量                  
+1st 平均值发生器(FB16)          
+2st 平均值发生器(FB17)          
+3st 平均值发生器(FB18)          
+4st 平均值发生器(FB19)          
+2175
+Limiter1 C-input                
+C_input                         
+C_upper limit                   
+C_lower limit                   
+2176
+限幅器的限幅值                  
+2177
+Limiter2 C-input                
+C_input                         
+C_upper limit                   
+C_lower limit                   
+2178
+限幅器的限幅值                  
+2179
+Limiter3 C_input                
+C_input                         
+C_upper limit                   
+C_lower limit                   
+2180
+限幅器的限幅值                  
+2181
+输入信号(A)和开关阀值(B)的源    
+第1个限幅值监控器的输入信号     
+第1个限幅值监控器的开关阀值     
+第2个限幅值监控器的输入信号     
+第2个限幅值监控器的开关阀值     
+2182
+双子连接器第1个限幅值监控器滞环 
+第1个限幅值监控器的滞环         
+第2个限幅值监控器的滞环         
+2185
+1st带滤波的限幅值监控的A和B的源 
+输入信号(A)                     
+开关阀值(B)                     
+2186
+限幅值监控的可调开关阀值        
+2187
+1st带滤波的限幅值监控的滤波时间 
+2188
+1st带滤波的限幅值监控的滞环     
+2189
+2nd带滤波的限幅值监控的A和B的源 
+输入信号(A)                     
+开关阀值(B)                     
+2190
+限幅值监控的可调开关阀值        
+2191
+2nd带滤波的限幅值监控的滤波时间 
+2192
+2nd带滤波的限幅值监控的滞环     
+2193
+3rd带滤波的限幅值监控的A和B的源 
+输入信号(A)                     
+开关阀值(B)                     
+2194
+限幅值监控的可调开关阀值        
+2195
+3rd带滤波的限幅值监控的滤波时间 
+2196
+3rd带滤波的限幅值监控的滞环     
+2197
+1st不带滤波限幅值监控的A和B的源 
+输入信号(A)                     
+开关阀值(B)                     
+2198
+限幅值监控的可调开关阀值        
+2199
+1st不带滤波的限幅值监控的滞环   
+2200
+2nd不带滤波限幅值监控的A和B的源 
+输入信号(A)                     
+开关阀值(B)                     
+2201
+限幅值监控的可调开关阀值        
+2202
+2nd不带滤波的限幅值监控的滞环   
+2203
+3rd不带滤波限幅值监控的A和B的源 
+输入信号(A)                     
+开关阀值(B)                     
+2204
+限幅值监控的可调开关阀值        
+2205
+3rd不带滤波的限幅值监控的滞环   
+2206
+4th不带滤波限幅值监控的A和B的源 
+输入信号(A)                     
+开关阀值(B)                     
+2207
+限幅值监控的可调开关阀值        
+2208
+4th不带滤波的限幅值监控的滞环   
+2210
+5th不带滤波的限幅值监控A和B的源 
+输入信号(A)                     
+开关阀值(B)                     
+2211
+限幅值监控的可调开关阀值        
+2212
+5th不带滤波的限幅值监控的滞环   
+2213
+6th不带滤波限幅值监控的A和B的源 
+输入信号(A)                     
+开关阀值(B)                     
+2214
+限幅值监控的可调开关阀值        
+2215
+6th不带滤波的限幅值监控的滞环   
+2216
+7th不带滤波限幅值监控的A和B的源 
+输入信号(A)                     
+开关阀值(B)                     
+2217
+限幅值监控的可调开关阀值        
+2218
+7th不带滤波的限幅值监控的滞环   
+2220
+最大值选择的源                  
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+2221
+最小值选择的源                  
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+C_input x1                      
+C_input x2                      
+C_input x3                      
+2222
+输入量(x)的源                   
+2223
+控制信号的源                    
+TRACK                           
+STORE                           
+RESET                           
+2224
+电源合闸方式的控制字            
+电压恢复时，输入处为零          
+电压断开或故障时，存储当前输出值
+2225
+输入量(x)的源                   
+2226
+控制信号的源                    
+TRACK                           
+STORE                           
+RESET                           
+2227
+电源合闸方式的控制字            
+电压恢复时，输入处为零          
+电压断开或故障时，存储当前输出值
+2228
+输入量(x)的源                   
+2229
+控制信号"SET"的源               
+2230
+输入量(x)的源                   
+2231
+控制信号"SET"的源               
+2240
+输入量的源                      
+Signal 0                        
+Signal 1                        
+2241
+控制信号的源                    
+2242
+输入量的源                      
+Signal 0                        
+Signal 1                        
+2243
+控制信号的源                    
+2244
+输入量的源                      
+Signal 0                        
+Signal 1                        
+2245
+控制信号的源                    
+2246
+输入量的源                      
+Signal 0                        
+Signal 1                        
+2247
+控制信号的源                    
+2248
+输入量的源                      
+Signal 0                        
+Signal 1                        
+2249
+控制信号的源                    
+2250
+Anal.selec6C_inp                
+Signal 0                        
+Signal 1                        
+2251
+控制信号的源                    
+2252
+Anal.selec7C_inp                
+Signal 0                        
+Signal 1                        
+2253
+控制信号的源                    
+2254
+Anal.selec8C_inp                
+Signal 0                        
+Signal 1                        
+2255
+控制信号的源                    
+2256
+Anal.selec9C_inp                
+Signal 0                        
+Signal 1                        
+2257
+控制信号的源                    
+2258
+Anl.selec10C_inp                
+Signal 0                        
+Signal 1                        
+2259
+控制信号的源                    
+2260
+输入量的源                      
+2261
+积分作用时间                    
+2262
+控制信号的源                    
+"停止积分器"信号的源            
+"设置积分器"信号的源            
+2263
+设定值的源                      
+2264
+输入量的源                      
+2265
+积分作用时间                    
+2266
+控制信号的源                    
+"停止积分器"信号的源            
+"设置积分器"信号的源            
+2267
+设定值的源                      
+2268
+输入量的源                      
+2269
+积分作用时间                    
+2270
+控制信号的源                    
+"停止积分器"信号的源            
+"设置积分器"信号的源            
+2271
+设定值的源                      
+2272
+输入量的源                      
+2273
+微分作用时间                    
+2274
+滤波时间                        
+2275
+输入量的源                      
+2276
+微分作用时间                    
+2277
+滤波时间                        
+2278
+输入量的源                      
+2279
+微分作用时间                    
+2280
+滤波时间                        
+2281
+输入量的源                      
+2282
+x 值                            
+2283
+y 值                            
+2284
+输入量的源                      
+2285
+x 值                            
+2286
+y 值                            
+2287
+输入量的源                      
+2288
+x 值                            
+2289
+y 值                            
+2290
+输入量的源                      
+2291
+死区                            
+2292
+输入量的源                      
+2293
+死区                            
+2294
+输入量的源                      
+2295
+死区                            
+2296
+输入量的源                      
+2297
+最小速度                        
+2298
+最大速度                        
+2299
+滞环                            
+2300
+输入量的源                      
+2301
+控制信号的源                    
+"旁路简易斜坡函数发生器"信号的源
+"停止简易斜坡函数发生器"信号的源
+"复位/使能简易斜坡函数发生器"源 
+2302
+斜坡上升时间                    
+2303
+斜坡下降时间                    
+2310
+乘法器控制位的源                
+控制位 B1                       
+控制位 B2                       
+控制位 B3                       
+控制位 B1                       
+控制位 B2                       
+控制位 B3                       
+控制位 B1                       
+控制位 B2                       
+控制位 B3                       
+2311
+第一个乘法器输入量的源          
+X0                              
+X1                              
+X2                              
+X3                              
+X4                              
+X5                              
+X6                              
+X7                              
+2312
+第二个乘法器输入量的源          
+X0                              
+X1                              
+X2                              
+X3                              
+X4                              
+X5                              
+X6                              
+X7                              
+2313
+第三个乘法器输入量的源          
+X0                              
+X1                              
+X2                              
+X3                              
+X4                              
+X5                              
+X6                              
+X7                              
+2314
+软件计数器输出显示              
+2315
+软件计数器输入/限幅输入的固定值 
+最小值                          
+最大值                          
+设置值                          
+启动值                          
+2316
+软件计数器输入/限幅输入的源     
+最小值                          
+最大值                          
+设置值                          
+启动值                          
+2317
+软件计数器控制信号的源          
+正沿:向上计数                   
+正沿:向下计数                   
+计数器停住                      
+计数器复位                      
+计数器释放                      
+2318
+解码器/信号分离器 1 输入信号的源
+输入信号的源,第 0 位            
+输入信号的源,第 1 位            
+输入信号的源,第 2 位            
+2319
+解码器/信号分离器 2 输入信号的源
+输入信号的源,第 0 位            
+输入信号的源,第 1 位            
+输入信号的源,第 2 位            
+2320
+与门 1,输入信号的源(输出 =B9350)
+2321
+与门 2,输入信号的源(输出 =B9351)
+2322
+与门 3,输入信号的源(输出 =B9352)
+2323
+与门 4,输入信号的源(输出 =B9353)
+2324
+与门 5,输入信号的源(输出 =B9354)
+2325
+与门 6,输入信号的源(输出 =B9355)
+2326
+与门 7,输入信号的源(输出 =B9356)
+2327
+与门 8,输入信号的源(输出 =B9357)
+2328
+与门 9,输入信号的源(输出 =B9358)
+2329
+与门10,输入信号的源(输出 =B9359)
+2330
+与门11,输入信号的源(输出 =B9360)
+2331
+与门12,输入信号的源(输出 =B9361)
+2332
+与门13,输入信号的源(输出 =B9362)
+2333
+与门14,输入信号的源(输出 =B9363)
+2334
+与门15,输入信号的源(输出 =B9364)
+2335
+与门16,输入信号的源(输出 =B9365)
+2336
+与门17,输入信号的源(输出 =B9366)
+2337
+与门18,输入信号的源(输出 =B9367)
+2338
+与门19,输入信号的源(输出 =B9368)
+2339
+与门20,输入信号的源(输出 =B9369)
+2340
+与门21,输入信号的源(输出 =B9370)
+2341
+与门22,输入信号的源(输出 =B9371)
+2342
+与门23,输入信号的源(输出 =B9372)
+2343
+与门24,输入信号的源(输出 =B9373)
+2344
+与门25,输入信号的源(输出 =B9374)
+2345
+与门26,输入信号的源(输出 =B9375)
+2346
+与门27,输入信号的源(输出 =B9376)
+2347
+与门28,输入信号的源(输出 =B9377)
+2350
+或门 1,输入信号的源(输出 =B9380)
+2351
+或门 2,输入信号的源(输出 =B9381)
+2352
+或门 3,输入信号的源(输出 =B9382)
+2353
+或门 4,输入信号的源(输出 =B9383)
+2354
+或门 5,输入信号的源(输出 =B9384)
+2355
+或门 6,输入信号的源(输出 =B9385)
+2356
+或门 7,输入信号的源(输出 =B9386)
+2357
+或门 8,输入信号的源(输出 =B9387)
+2358
+或门 9,输入信号的源(输出 =B9388)
+2359
+或门10,输入信号的源(输出 =B9389)
+2360
+或门11,输入信号的源(输出 =B9390)
+2361
+或门12,输入信号的源(输出 =B9391)
+2362
+或门13,输入信号的源(输出 =B9392)
+2363
+或门14,输入信号的源(输出 =B9393)
+2364
+或门15,输入信号的源(输出 =B9394)
+2365
+或门16,输入信号的源(输出 =B9395)
+2366
+或门17,输入信号的源(输出 =B9396)
+2367
+或门18,输入信号的源(输出 =B9397)
+2368
+或门19,输入信号的源(输出 =B9398)
+2369
+或门20,输入信号的源(输出 =B9399)
+2370
+异或门1,输入信号的源(输出=B9195)
+2371
+异或门2,输入信号的源(输出=B9196)
+2372
+异或门3,输入信号的源(输出=B9197)
+2373
+异或门4,输入信号的源(输出=B9198)
+2380
+反号器1,输入信号的源(输出=B9450)
+2381
+反号器2,输入信号的源(输出=B9451)
+2382
+反号器3,输入信号的源(输出=B9452)
+2383
+反号器4,输入信号的源(输出=B9453)
+2384
+反号器5,输入信号的源(输出=B9454)
+2385
+反号器6,输入信号的源(输出=B9455)
+2386
+反号器7,输入信号的源(输出=B9456)
+2387
+反号器8,输入信号的源(输出=B9457)
+2388
+反号器9,输入信号的源(输出=B9458)
+2389
+反号器10,输入信号源(输出=B9459) 
+2390
+反号器11,输入信号源(输出=B9460) 
+2391
+反号器12,输入信号源(输出=B9461) 
+2392
+反号器13,输入信号源(输出=B9462) 
+2393
+反号器14,输入信号源(输出=B9463) 
+2394
+反号器15,输入信号源(输出=B9464) 
+2395
+反号器16,输入信号源(输出=B9465) 
+2400
+与非门1,输入信号的源(输出=B9470)
+2401
+与非门2,输入信号的源(输出=B9471)
+2402
+与非门3,输入信号的源(输出=B9472)
+2403
+与非门4,输入信号的源(输出=B9473)
+2404
+与非门5,输入信号的源(输出=B9474)
+2405
+与非门6,输入信号的源(输出=B9475)
+2406
+与非门7,输入信号的源(输出=B9476)
+2407
+与非门8,输入信号的源(输出=B9477)
+2408
+与非门9,输入信号的源(输出=B9478)
+2409
+与非门10,输入信号源(输出=B9479) 
+2410
+与非门11,输入信号源(输出=B9480) 
+2411
+与非门12,输入信号源(输出=B9481) 
+2415
+RS触发器1 的 SET 和 RESET 的源  
+SET 的源                        
+RESET 的源                      
+2416
+RS触发器2 的 SET 和 RESET 的源  
+SET 的源                        
+RESET 的源                      
+2417
+RS触发器3 的 SET 和 RESET 的源  
+SET 的源                        
+RESET 的源                      
+2418
+RS触发器4 的 SET 和 RESET 的源  
+SET 的源                        
+RESET 的源                      
+2419
+RS触发器5 的 SET 和 RESET 的源  
+SET 的源                        
+RESET 的源                      
+2420
+RS触发器6 的 SET 和 RESET 的源  
+SET 的源                        
+RESET 的源                      
+2421
+RS触发器7 的 SET 和 RESET 的源  
+SET 的源                        
+RESET 的源                      
+2422
+RS触发器8 的 SET 和 RESET 的源  
+SET 的源                        
+RESET 的源                      
+2423
+RS触发器9 的 SET 和 RESET 的源  
+SET 的源                        
+RESET 的源                      
+2424
+RS触发器10 的 SET 和 RESET 的源 
+SET 的源                        
+RESET 的源                      
+2425
+RS触发器11 的 SET 和 RESET 的源 
+SET 的源                        
+RESET 的源                      
+2426
+RS触发器12 的 SET 和 RESET 的源 
+SET 的源                        
+RESET 的源                      
+2427
+RS触发器13 的 SET 和 RESET 的源 
+SET 的源                        
+RESET 的源                      
+2428
+RS触发器14 的 SET 和 RESET 的源 
+SET 的源                        
+RESET 的源                      
+2430
+D触发器1的SET,D,STORE和RESET的源
+Set 的源                        
+D 的源                          
+Clock 的源                      
+Reset 的源                      
+2431
+D触发器2的SET,D,STORE和RESET的源
+Set 的源                        
+D 的源                          
+Clock 的源                      
+Reset 的源                      
+2432
+D触发器3的SET,D,STORE和RESET的源
+Set 的源                        
+D 的源                          
+Clock 的源                      
+Reset 的源                      
+2433
+D触发器4的SET,D,STORE和RESET的源
+Set 的源                        
+D 的源                          
+Clock 的源                      
+Reset 的源                      
+2440
+定时器1 输入信号和复位信号的源  
+2441
+定时器1 的时间                  
+2442
+定时器1 的方式                  
+ON 延时                         
+OFF 延时                        
+ON/OFF 延时                     
+上升沿触发的脉冲发生器          
+2443
+定时器2 输入信号和复位信号的源  
+2444
+定时器2 的时间                  
+2445
+定时器2 的方式                  
+ON 延时                         
+OFF 延时                        
+ON/OFF 延时                     
+上升沿触发的脉冲发生器          
+2446
+定时器3 输入信号和复位信号的源  
+2447
+定时器3 的时间                  
+2448
+定时器3 的方式                  
+ON 延时                         
+OFF 延时                        
+ON/OFF 延时                     
+上升沿触发的脉冲发生器          
+2449
+定时器4 输入信号和复位信号的源  
+2450
+定时器4 的时间                  
+2451
+定时器4 的方式                  
+ON 延时                         
+OFF 延时                        
+ON/OFF 延时                     
+上升沿触发的脉冲发生器          
+2452
+定时器5 输入信号和复位信号的源  
+2453
+定时器5 的时间                  
+2454
+定时器5 的方式                  
+ON 延时                         
+OFF 延时                        
+ON/OFF 延时                     
+上升沿触发的脉冲发生器          
+2455
+定时器6 输入信号和复位信号的源  
+2456
+定时器6 的时间                  
+2457
+定时器6 的方式                  
+ON 延时                         
+OFF 延时                        
+ON/OFF 延时                     
+上升沿触发的脉冲发生器          
+2458
+定时器7 输入信号和复位信号的源  
+2459
+定时器7 的时间                  
+2460
+定时器7 的方式                  
+ON 延时                         
+OFF 延时                        
+ON/OFF 延时                     
+上升沿触发的脉冲发生器          
+2461
+定时器8 输入信号和复位信号的源  
+2462
+定时器8 的时间                  
+2463
+定时器8 的方式                  
+ON 延时                         
+OFF 延时                        
+ON/OFF 延时                     
+上升沿触发的脉冲发生器          
+2464
+定时器9 输入信号和复位信号的源  
+2465
+定时器9 的时间                  
+2466
+定时器9 的方式                  
+ON 延时                         
+OFF 延时                        
+ON/OFF 延时                     
+上升沿触发的脉冲发生器          
+2467
+定时器10 输入信号和复位信号的源 
+2468
+定时器10 的时间                 
+2469
+定时器10 的方式                 
+ON 延时                         
+OFF 延时                        
+ON/OFF 延时                     
+上升沿触发的脉冲发生器          
+2470
+开关量信号选择开关 1输入信号的源
+控制信号的源                    
+控制信号=0 时输出信号的源       
+控制信号=1 时输出信号的源       
+2471
+开关量信号选择开关 2输入信号的源
+控制信号的源                    
+控制信号=0 时输出信号的源       
+控制信号=1 时输出信号的源       
+2472
+开关量信号选择开关 3输入信号的源
+控制信号的源                    
+控制信号=0 时输出信号的源       
+控制信号=1 时输出信号的源       
+2473
+开关量信号选择开关 4输入信号的源
+控制信号的源                    
+控制信号=0 时输出信号的源       
+控制信号=1 时输出信号的源       
+2474
+开关量信号选择开关 5输入信号的源
+控制信号的源                    
+控制信号=0 时输出信号的源       
+控制信号=1 时输出信号的源       
+2480
+实际值的源                      
+2481
+实际值的滤波时间                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2482
+实际值的微分作用时间(D 分量)    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2483
+微分作用时间的系数              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+微分作用时间 = U482 x 1         
+微分作用时间 = U482 x 1000      
+2484
+给定值的源                      
+2485
+可接入的附加给定值              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2486
+附加给定值接入控制位的源        
+2487
+给定值的滤波时间                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2488
+P 增益                          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2489
+Kp 适配的输入量(x)的源          
+2490
+Kp 适配特性曲线:阀值1(x1)       
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2491
+Kp 适配特性曲线:阀值2(x2)       
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2492
+Kp 适配特性曲线:最小值(y1)      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2493
+Kp 适配特性曲线:最大值(y2)      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2494
+积分时间                        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2495
+积分时间的系数                  
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+微分时间 = U482 x 1             
+微分时间 = U482 x 1000          
+2496
+速度软化接入的控制位的源        
+2497
+速度软化                        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2498
+速度软化的正限幅                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2499
+速度软化的负限幅                
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2500
+工艺调节器使能指令的源          
+2502
+PI/PID 调节器转换               
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+PI 调节器(D分量只应用实际值通道)
+PID 调节器(D分量应用于控制偏差) 
+2503
+P 分量置零                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+调节器P 分量置零                
+调节器P 分量有效                
+2504
+I 分量置零                      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+调节器I 分量置零                
+调节器I 分量有效                
+2505
+I 分量设定值的源                
+2506
+控制位"设置I 分量"的源          
+2507
+可变正限幅的源                  
+2508
+工艺调节器输出的正限幅          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2509
+可变负限幅的源                  
+2510
+工艺调节器输出的负限幅          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2511
+用于输出的可变加权系数的源      
+2512
+用于输出的加权系数              
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2515
+转速实际值的源                  
+2516
+线速度设定的源                  
+2517
+直径的源                        
+2518
+最小直径                        
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2519
+齿轮速比(i)                     
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2520
+额定转速(n_rated)               
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2521
+线速度实际值的规格化            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2522
+线速度设定值的规格化            
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2523
+直径的规格化                    
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2525
+输入量的源                      
+直径(16384等于在U526的设定直径) 
+空卷筒直径(16384等于U527的设定) 
+最大直径(16384等于咋U528的设定) 
+常数(16384等于在U529设定的系数) 
+2526
+直径的规格化                    
+2527
+空卷筒直径的规格化              
+2528
+最大直径的规格化                
+2529
+常数K 的规格化                  
+2530
+输入量的源                      
+2531
+控制信号的源(PI调节器使能)      
+2532
+控制信号的源(设定PI调节器)      
+2533
+设定值的源                      
+2534
+输入信号可变滤波时间的源        
+2535
+输入信号的滤波时间              
+2536
+可变 P增益的源                  
+2537
+PI 调节器 P增益                 
+2538
+可变积分时间的源                
+2539
+PI 调节器积分时间               
+2540
+冻结 P分量                      
+调节器 P分量冻结(即纯 I调节器)  
+调节器 P分量激活                
+2541
+冻结 I分量                      
+调节器 I分量冻结(即纯 P调节器)  
+调节器 I分量激活                
+2542
+可变正限幅的源                  
+2543
+PI调节器输出的正限幅            
+2544
+可变负限幅的源                  
+2545
+PI调节器输出的负限幅            
+2550
+输入量的源                      
+2551
+微分作用时间乘数的源            
+2552
+微分作用时间                    
+2553
+滤波时间乘数的源                
+2554
+T1 deriv./delay                 
+2607
+设定值减小激活的源              
+BiCo data set 1                 
+BiCo data set 2                 
+2608
+当设定值减小激活,速度设定值乘数 
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2619
+继电器输出"线路接触器合闸"的源  
+BiCo data set 1                 
+BiCo data set 2                 
+2651
+启动脉冲(速度调节器积分器设定值)
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2652
+在负设定值时启动脉冲的乘数      
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2653
+在负设定值时的启动脉冲          
+Funct.data set 1                
+Funct.data set 2                
+Funct.data set 3                
+Funct.data set 4                
+2655
+启动脉冲的源                    
+2656
+在负设定值时启动脉冲的源        
+2657
+对正/负设定值,切换启动脉冲的源  
+BiCo data set 1                 
+BiCo data set 2                 
+2660
+运行指令1 的源                  
+2661
+运行指令2 的源                  
+2662
+切换到设定值级S2 的源           
+2663
+切换到设定值级S3 的源           
+2664
+切换到设定值级S4 的源           
+2665
+在设定值级S1 的设定值           
+2666
+在设定值级S2 的设定值           
+2667
+在设定值级S3 的设定值           
+2668
+Fixed Reference4                
+2690
+SCI1 模拟输入的配置             
+从驱动 1,模拟输入 1             
+从驱动 1,模拟输入 2             
+从驱动 1,模拟输入 3             
+从驱动 2,模拟输入 1             
+从驱动 2,模拟输入 2             
+从驱动 2,模拟输入 3             
+2691
+SCI1 模拟输入滤波时间常数       
+从驱动 1,模拟输入 1             
+从驱动 1,模拟输入 2             
+从驱动 1,模拟输入 3             
+从驱动 2,模拟输入 1             
+从驱动 2,模拟输入 2             
+从驱动 2,模拟输入 3             
+2692
+SCI1 模拟输入偏置补偿           
+从驱动 1,模拟输入 1             
+从驱动 1,模拟输入 2             
+从驱动 1,模拟输入 3             
+从驱动 2,模拟输入 1             
+从驱动 2,模拟输入 2             
+从驱动 2,模拟输入 3             
+2693
+通过SCI1 模拟输出的实际值输出   
+从驱动 1,模拟输入 1             
+从驱动 1,模拟输入 2             
+从驱动 1,模拟输入 3             
+从驱动 2,模拟输入 1             
+从驱动 2,模拟输入 2             
+从驱动 2,模拟输入 3             
+2694
+SCI1 模拟输出的放大倍数         
+从驱动 1,模拟输入 1             
+从驱动 1,模拟输入 2             
+从驱动 1,模拟输入 3             
+从驱动 2,模拟输入 1             
+从驱动 2,模拟输入 2             
+从驱动 2,模拟输入 3             
+2695
+SCI1 模拟输出的偏置补偿         
+从驱动 1,模拟输入 1             
+从驱动 1,模拟输入 2             
+从驱动 1,模拟输入 3             
+从驱动 2,模拟输入 1             
+从驱动 2,模拟输入 2             
+从驱动 2,模拟输入 3             
+2696
+SCB1 的电报故障时间             
+2697
+SCB1 诊断信息                   
+2698
+用于SCI开关量输出的开关量连接器 
+SCI Sl.1 BO1                    
+SCI Sl.1 BO2                    
+SCI Sl.1 BO3                    
+SCI Sl.1 BO4                    
+SCI Sl.1 BO5                    
+SCI Sl.1 BO6                    
+SCI Sl.1 BO7                    
+SCI Sl.1 BO8                    
+SCI Sl.1 BO9                    
+SCI Sl.1 BO10                   
+SCI Sl.1 BO11                   
+SCI Sl.1 BO12                   
+SCI Sl.2 BO1                    
+SCI Sl.2 BO2                    
+SCI Sl.2 BO3                    
+SCI Sl.2 BO4                    
+SCI Sl.2 BO5                    
+SCI Sl.2 BO6                    
+SCI Sl.2 BO7                    
+SCI Sl.2 BO8                    
+SCI Sl.2 BO9                    
+SCI Sl.2 BO10                   
+SCI Sl.2 BO11                   
+SCI Sl.2 BO12                   
+2699
+SCB1/SC1 过程数据的显示         
+SCI Sl.1 BinInp.                
+SCI Sl.1 AI1                    
+SCI Sl.1 AI2                    
+SCI Sl.1 AI3                    
+SCI Sl.2 BinInp.                
+SCI Sl.2 AI1                    
+SCI Sl.2 AI2                    
+SCI Sl.2 AI3                    
+SCI Sl.1 BinOutp                
+SCI Sl.1 AO1                    
+SCI Sl.1 AO2                    
+SCI Sl.1 AO3                    
+SCI Sl.2 BinOutp                
+SCI Sl.2 AO1                    
+SCI Sl.2 AO2                    
+SCI Sl.2 AO3                    
+2710
+与附加板的初始化链接            
+1st通讯板的初始化               
+2nd通讯板的初始化               
+与附加板的链接重新初始化        
+无效                            
+2711
+通讯板参数1 (CB参数 1)          
+1st CB                          
+2nd CB                          
+2712
+通讯板参数 2(CB参数 2)          
+1st CB                          
+2nd CB                          
+2713
+通讯板参数 3(CB参数 3)          
+1st CB                          
+2nd CB                          
+2714
+通讯板参数 4(CB参数 4)          
+1st CB                          
+2nd CB                          
+2715
+通讯板参数 5(CB参数 5)          
+1st CB                          
+2nd CB                          
+2716
+通讯板参数 6(CB参数 6)          
+1st CB                          
+2nd CB                          
+2717
+通讯板参数 7(CB参数 7)          
+1st CB                          
+2nd CB                          
+2718
+通讯板参数 8(CB参数 8)          
+1st CB                          
+2nd CB                          
+2719
+通讯板参数 9(CB参数 9)          
+1st CB                          
+2nd CB                          
+2720
+通讯板参数 10(CB参数 10)        
+1st CB                          
+2nd CB                          
+2721
+通讯板参数 11(CB参数 11)        
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+1st CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2nd CB                          
+2722
+CB 和 TB的电报故障时间          
+第一块CB板或TB板的电报故障时间  
+第二块CB板的电报故障时间        
+第一块CB板或TB板的故障延时时间  
+2nd CB delay                    
+2728
+第1块CB/TB板连接器/转换器的源   
+第 1 个开关量连接器(位 0)       
+第 2 个开关量连接器(位 1)       
+第 3 个开关量连接器(位 2)       
+第 4 个开关量连接器(位 3)       
+第 5 个开关量连接器(位 4)       
+第 6 个开关量连接器(位 5)       
+第 7 个开关量连接器(位 6)       
+第 8 个开关量连接器(位 7)       
+第 9 个开关量连接器(位 8)       
+第 10 个开关量连接器(位 9)      
+第 11 个开关量连接器(位 10)     
+第 12 个开关量连接器(位 11)     
+第 13 个开关量连接器(位 12)     
+第 14 个开关量连接器(位 13)     
+第 15 个开关量连接器(位 14)     
+第 16 个开关量连接器(位 15)     
+2729
+第2块CB板连接器/转换器的源      
+第 1 个开关量连接器(位 0)       
+第 2 个开关量连接器(位 1)       
+第 3 个开关量连接器(位 2)       
+第 4 个开关量连接器(位 3)       
+第 5 个开关量连接器(位 4)       
+第 6 个开关量连接器(位 5)       
+第 7 个开关量连接器(位 6)       
+第 8 个开关量连接器(位 7)       
+第 9 个开关量连接器(位 8)       
+第 10 个开关量连接器(位 9)      
+第 11 个开关量连接器(位 10)     
+第 12 个开关量连接器(位 11)     
+第 13 个开关量连接器(位 12)     
+第 14 个开关量连接器(位 13)     
+第 15 个开关量连接器(位 14)     
+第 16 个开关量连接器(位 15)     
+2732
+CB/TB 诊断                      
+2733
+CB/TB 接收数据                  
+从1st CB/TB来的 1st过程数据字   
+从1st CB/TB来的 2st过程数据字   
+从1st CB/TB来的 3st过程数据字   
+从1st CB/TB来的 4st过程数据字   
+从1st CB/TB来的 5st过程数据字   
+从1st CB/TB来的 6st过程数据字   
+从1st CB/TB来的 7st过程数据字   
+从1st CB/TB来的 8st过程数据字   
+从1st CB/TB来的 9st过程数据字   
+从1st CB/TB来的 10st过程数据字  
+从1st CB/TB来的 11st过程数据字  
+从1st CB/TB来的 12st过程数据字  
+从1st CB/TB来的 13st过程数据字  
+从1st CB/TB来的 14st过程数据字  
+从1st CB/TB来的 15st过程数据字  
+从1st CB/TB来的 16st过程数据字  
+从2st CB/TB来的 1st过程数据字   
+从2st CB/TB来的 2st过程数据字   
+从2st CB/TB来的 3st过程数据字   
+从2st CB/TB来的 4st过程数据字   
+从2st CB/TB来的 5st过程数据字   
+从2st CB/TB来的 6st过程数据字   
+从2st CB/TB来的 7st过程数据字   
+从2st CB/TB来的 8st过程数据字   
+从2st CB/TB来的 9st过程数据字   
+从2st CB/TB来的 10st过程数据字  
+从2st CB/TB来的 11st过程数据字  
+从2st CB/TB来的 12st过程数据字  
+从2st CB/TB来的 13st过程数据字  
+从2st CB/TB来的 14st过程数据字  
+从2st CB/TB来的 15st过程数据字  
+从2st CB/TB来的 16st过程数据字  
+2734
+向第1个 CB/TB发送数据           
+2735
+发动到 CB/TB数据的显示          
+到1st CB/TB的 1st过程数据字     
+到1st CB/TB的 2st过程数据字     
+到1st CB/TB的 3st过程数据字     
+到1st CB/TB的 4st过程数据字     
+到1st CB/TB的 5st过程数据字     
+到1st CB/TB的 6st过程数据字     
+到1st CB/TB的 7st过程数据字     
+到1st CB/TB的 8st过程数据字     
+到1st CB/TB的 9st过程数据字     
+到1st CB/TB的 10st过程数据字    
+到1st CB/TB的 11st过程数据字    
+到1st CB/TB的 12st过程数据字    
+到1st CB/TB的 13st过程数据字    
+到1st CB/TB的 14st过程数据字    
+到1st CB/TB的 15st过程数据字    
+到1st CB/TB的 16st过程数据字    
+到2st CB/TB的 1st过程数据字     
+到2st CB/TB的 2st过程数据字     
+到2st CB/TB的 3st过程数据字     
+到2st CB/TB的 4st过程数据字     
+到2st CB/TB的 5st过程数据字     
+到2st CB/TB的 6st过程数据字     
+到2st CB/TB的 7st过程数据字     
+到2st CB/TB的 8st过程数据字     
+到2st CB/TB的 9st过程数据字     
+到2st CB/TB的 10st过程数据字    
+到2st CB/TB的 11st过程数据字    
+到2st CB/TB的 12st过程数据字    
+到2st CB/TB的 13st过程数据字    
+到2st CB/TB的 14st过程数据字    
+到2st CB/TB的 15st过程数据字    
+到2st CB/TB的 16st过程数据字    
+2736
+向第2块CB板发送数据             
+2738
+从附加板来的 PKW任务的显示      
+从1st CB来的PKW 任务的第一个字  
+从1st CB来的PKW 任务的第二个字  
+从1st CB来的PKW 任务的第三个字  
+从1st CB来的PKW 任务的第四个字  
+从2nd CB来的PKW 任务的第一个字  
+从2nd CB来的PKW 任务的第二个字  
+从2nd CB来的PKW 任务的第三个字  
+从2nd CB来的PKW 任务的第四个字  
+去TB的PKW 响应的第一个字        
+去TB的PKW 响应的第二个字        
+去TB的PKW 响应的第三个字        
+去TB的PKW 响应的第四个字        
+2739
+去附加板的PKW 响应的显示        
+去1st CB的PKW 响应的第一个字    
+去1st CB的PKW 响应的第二个字    
+去1st CB的PKW 响应的第三个字    
+去1st CB的PKW 响应的第四个字    
+去2nd CB的PKW 响应的第一个字    
+去2nd CB的PKW 响应的第二个字    
+去2nd CB的PKW 响应的第三个字    
+去2nd CB的PKW 响应的第四个字    
+去TB 的PKW 响应的第一个字       
+去TB 的PKW 响应的第二个字       
+去TB 的PKW 响应的第三个字       
+去TB 的PKW 响应的第四个字       
+2740
+SLB 用户地址                    
+用于在整流器中的第一个 SLB      
+备用                            
+2741
+SLB 电报故障时间                
+用于在整流器中的第一个 SLB      
+备用                            
+2742
+SLB 传输能力                    
+用于在整流器中的第一个 SLB      
+备用                            
+2744
+激活了的 SLB板选择 SLB          
+2745
+SLB 通道数量                    
+2746
+SLB 周期时间                    
+用于在整流器中的第一个 SLB      
+备用                            
+2747
+SLB Appl.flags                  
+Flag 0                          
+Flag 1                          
+Flag 2                          
+Flag 3                          
+2748
+SLB 诊断                        
+无故障同步电报的数量            
+CRC 故障的数量                  
+超时故障数量                    
+最总使用总线地址                
+用户发送专用电报"超时"的地址    
+执行总线周期时间                
+新配置的数量                    
+备用                            
+备用                            
+备用                            
+备用                            
+备用                            
+备用                            
+备用                            
+备用                            
+备用                            
+2749
+SLB 读地址                      
+Channel 0                       
+Channel 1                       
+Channel 2                       
+Channel 3                       
+Channel 4                       
+Channel 5                       
+Channel 6                       
+Channel 7                       
+2750
+SLB 接收数据                    
+在电报 PZD区域中的字 1          
+在电报 PZD区域中的字 2          
+在电报 PZD区域中的字 3          
+在电报 PZD区域中的字 4          
+在电报 PZD区域中的字 5          
+在电报 PZD区域中的字 6          
+在电报 PZD区域中的字 7          
+在电报 PZD区域中的字 8          
+在电报 PZD区域中的字 9          
+在电报 PZD区域中的字 10         
+在电报 PZD区域中的字 11         
+在电报 PZD区域中的字 12         
+在电报 PZD区域中的字 13         
+在电报 PZD区域中的字 14         
+在电报 PZD区域中的字 15         
+在电报 PZD区域中的字 16         
+2751
+SLB 发送数据的选择              
+2752
+发送数据的 SLB显示              
+1st Word                        
+2nd Word                        
+3rd Word                        
+4th Word                        
+5th Word                        
+6th Word                        
+7th Word                        
+8th Word                        
+9th Word                        
+10th Word                       
+11th Word                       
+12th Word                       
+13th Word                       
+14th Word                       
+15th Word                       
+16th Word                       
+2753
+SLB 故障延时                    
+2755
+在EB1 上模拟输入的信号类型      
+第一块EB1 的AI 1                
+第二块EB1 的AI 1                
+2756
+在EB1 上模拟输入的规格化        
+第一块EB1 的AI 1                
+第一块EB1 的AI 2                
+第一块EB1 的AI 3                
+第二块EB1 的AI 1                
+第二块EB1 的AI 2                
+第二块EB1 的AI 3                
+2757
+再EB1 上模拟输入的偏置          
+第一块EB1 的AI 1                
+第一块EB1 的AI 2                
+第一块EB1 的AI 3                
+第二块EB1 的AI 1                
+第二块EB1 的AI 2                
+第二块EB1 的AI 3                
+2758
+再EB1 上接入模拟输入信号的方式  
+第一块EB1 的AI 1                
+第一块EB1 的AI 2                
+第一块EB1 的AI 3                
+第二块EB1 的AI 1                
+第二块EB1 的AI 2                
+第二块EB1 的AI 3                
+接入带符号信号                  
+接入信号的绝对值                
+接入带符号信号,取反             
+接入信号的绝对值,取反           
+2759
+再EB1 上模拟输入信号反向选择的源
+第一块EB1 的AI 1                
+第一块EB1 的AI 2                
+第一块EB1 的AI 3                
+第二块EB1 的AI 1                
+第二块EB1 的AI 2                
+第二块EB1 的AI 3                
+2760
+再EB1 上模拟输入的滤波时间      
+第一块EB1 的AI 1                
+第一块EB1 的AI 2                
+第一块EB1 的AI 3                
+第二块EB1 的AI 1                
+第二块EB1 的AI 2                
+第二块EB1 的AI 3                
+2761
+再EB1 上模拟输入使能的源        
+第一块EB1 的AI 1                
+第一块EB1 的AI 2                
+第一块EB1 的AI 3                
+第二块EB1 的AI 1                
+第二块EB1 的AI 2                
+第二块EB1 的AI 3                
+2762
+再EB1 上模拟输入的显示          
+第一块EB1 的AI 1                
+第一块EB1 的AI 2                
+第一块EB1 的AI 3                
+第二块EB1 的AI 1                
+第二块EB1 的AI 2                
+第二块EB1 的AI 3                
+2763
+再EB1 上模拟输出端输出值的源    
+第一块EB1 的AO 1                
+第一块EB1 的AO 2                
+第二块EB1 的AO 1                
+第二块EB1 的AO 2                
+2764
+再EB1 上接入模拟输出信号的方式  
+第一块EB1 的AO 1                
+第一块EB1 的AO 2                
+第二块EB1 的AO 1                
+第二块EB1 的AO 2                
+接入带符号信号                  
+接入信号的绝对值                
+接入带符号信号,取反             
+接入信号的绝对值,取反           
+2765
+再EB1 上模拟输出的滤波时间      
+第一块EB1 的AO 1                
+第一块EB1 的AO 2                
+第二块EB1 的AO 1                
+第二块EB1 的AO 2                
+2766
+再EB1 上模拟输出的规格化        
+第一块EB1 的AO 1                
+第一块EB1 的AO 2                
+第二块EB1 的AO 1                
+第二块EB1 的AO 2                
+2767
+再EB1 上模拟输出的偏置          
+第一块EB1 的AO 1                
+第一块EB1 的AO 2                
+第二块EB1 的AO 1                
+第二块EB1 的AO 2                
+2768
+再EB1 上模拟输出的显示          
+第一块EB1 的AO 1                
+第一块EB1 的AO 2                
+第二块EB1 的AO 1                
+第二块EB1 的AO 2                
+2769
+再EB1 上开关量输出端输出值的源  
+第一块EB1 的BO 1                
+第一块EB1 的BO 2                
+第一块EB1 的BO 3                
+第一块EB1 的BO 4                
+第二块EB1 的BO 1                
+第二块EB1 的BO 2                
+第二块EB1 的BO 3                
+第二块EB1 的BO 4                
+2770
+再EB1 上开关量输入和输出状态显示
+第一块EB1 端子状态              
+第二块EB1 端子状态              
+2773
+再EB2 上开关量输入和输出状态显示
+第一块EB2 端子状态              
+第二块EB2 端子状态              
+2774
+再EB2 上开关量输出端输出值的源  
+第一块EB2 的BO 1                
+第一块EB2 的BO 2                
+第一块EB2 的BO 3                
+第一块EB2 的BO 4                
+第二块EB2 的BO 1                
+第二块EB2 的BO 2                
+第二块EB2 的BO 3                
+第二块EB2 的BO 4                
+2775
+再EB2 上模拟输入的信号类型      
+第一块EB2 的AI 1                
+第二块EB2 的AI 1                
+2776
+再EB2 上模拟输入的规格化        
+第一块EB2 的AI 1                
+第二块EB2 的AI 1                
+2777
+再EB2 上模拟输入的偏置          
+第一块EB2 的AI 1                
+第二块EB2 的AI 1                
+2778
+再EB2 上接入模拟输入信号的方式  
+第一块EB2 的AI 1                
+第二块EB2 的AI 1                
+接入带符号信号                  
+接入信号的绝对值                
+接入带符号信号,取反             
+接入信号的绝对值,取反           
+2779
+再EB2 上模拟输入信号反向选择的源
+第一块EB2 的AI 1                
+第二块EB2 的AI 1                
+2780
+再EB2 上模拟输入的滤波时间      
+第一块EB2 的AI 1                
+第二块EB2 的AI 1                
+2781
+再EB2 上模拟输入使能的源        
+第一块EB2 的AI 1                
+第二块EB2 的AI 1                
+2782
+再EB2 上模拟输入的显示          
+第一块EB2 的AI 1                
+第二块EB2 的AI 1                
+2783
+再EB2 上模拟输出端输出值的源    
+第一块EB2 的AI 1                
+第二块EB2 的AI 1                
+2784
+再EB2 上接入模拟输出信号方式    
+第一块EB2 的AI 1                
+第二块EB2 的AI 1                
+接入带符号信号                  
+接入信号的绝对值                
+接入带符号信号,取反             
+接入信号的绝对值,取反           
+2785
+再EB2 上模拟输出的滤波时间      
+第一块EB2 的AO                  
+第二块EB2 的AO                  
+2786
+再EB2 上模拟输出的规格化        
+第一块EB2 的AO                  
+第二块EB2 的AO                  
+2787
+再EB2 上模拟输出的偏置          
+第一块EB2 的AO                  
+第二块EB2 的AO                  
+2788
+再EB2 上模拟输出的显示          
+第一块EB2 的AO                  
+第二块EB2 的AO                  
+2790
+A/B 和 CRTL通道输入电平的配置   
+2791
+编码器电源电压配置              
+2792
+每转的脉冲数                    
+2793
+编码器类型                      
+2794
+参考速度                        
+2795
+n act pulse encd                
+2800
+并行接口的控制字                
+并行接口没有激活                
+并行接口激活(脉冲由本机产生)    
+并行接口激活(由主动整流器产生)  
+2803
+并联连接的工作模式              
+标准工作模式                    
+"N+1 模式"（冗余工作)           
+2804
+在并行接口上发送数据            
+电报的字 1                      
+电报的字 2                      
+电报的字 3                      
+电报的字 4                      
+电报的字 5                      
+如果是"备用主驱动",则电报的字 1 
+如果是"备用主驱动",则电报的字 2 
+如果是"备用主驱动",则电报的字 3 
+如果是"备用主驱动",则电报的字 4 
+如果是"备用主驱动",则电报的字 5 
+2805
+并行接口总线终端器的控制字      
+无总线终端器                    
+总线终端器有效                  
+2806
+SIMOREG 整流器并联连接的地址    
+N/A                             
+N/A                             
+Slave 2                         
+Slave 3                         
+Slave 4                         
+Slave 5                         
+Slave 6                         
+N/A                             
+N/A                             
+N/A                             
+N/A                             
+N/A                             
+Master+Slave 2                  
+Master+Slaves2-3                
+Master+Slaves2-4                
+Master+Slaves2-5                
+Master+Slaves2-6                
+2807
+并行接口上的电报故障时间        
+2808
+故障信息 F014触发的源           
+2809
+并行接口的诊断信息              
+无故障电报数量                  
+故障电报数量                    
+发送错误计数器                  
+接收错误计数器                  
+相错误计数器                    
+波特率错误计数器                
+Bad BCC 计数器                  
+超时计数器                      
+带未知标识符的电报数量          
+2810
+并行接口的诊断信息              
+2812
+在并行接口上接收数据            
+从地址2从驱动来的接收数据，字 1 
+从地址2从驱动来的接收数据，字 2 
+从地址2从驱动来的接收数据，字 3 
+从地址2从驱动来的接收数据，字 4 
+从地址2从驱动来的接收数据，字 5 
+从地址3从驱动来的接收数据，字 1 
+从地址3从驱动来的接收数据，字 1 
+从地址3从驱动来的接收数据，字 1 
+从地址3从驱动来的接收数据，字 1 
+从地址3从驱动来的接收数据，字 1 
+从地址4从驱动来的接收数据，字 1 
+从地址4从驱动来的接收数据，字 1 
+从地址4从驱动来的接收数据，字 1 
+从地址4从驱动来的接收数据，字 1 
+从地址4从驱动来的接收数据，字 1 
+从地址5从驱动来的接收数据，字 1 
+从地址5从驱动来的接收数据，字 1 
+从地址5从驱动来的接收数据，字 1 
+从地址5从驱动来的接收数据，字 1 
+从地址5从驱动来的接收数据，字 1 
+从地址6从驱动来的接收数据，字 1 
+从地址6从驱动来的接收数据，字 1 
+从地址6从驱动来的接收数据，字 1 
+从地址6从驱动来的接收数据，字 1 
+从地址6从驱动来的接收数据，字 1 
+2813
+在并行接口上发送数据            
+发送数据到从驱动，字 1          
+发送数据到从驱动，字 2          
+发送数据到从驱动，字 3          
+发送数据到从驱动，字 4          
+发送数据到从驱动，字 5          
+2820
+RatedLineVoltArm                
+2821
+ArmLineVoltMeasR                
+2822
+ArmCircRatedAmps                
+2823
+RatedCompl.Volts                
+2824
+CurrTransfConfig                
+                                
+Transf in U + V                 
+Transf in U + W                 
+Transf in V + W                 
+V-Connection                    
+extern shunt                    
+2825
+1Q/4Q Power Sect                
+2826
+FiringPulseTimes                
+FirstPulseLength                
+PulseLength                     
+2828
+RatedLineVoltFld                
+2830
+HSTempMeasuremnt                
+No Measurement                  
+6.8 kohms NTC                   
+10 kohms NTC                    
+2831
+Fuse Monitor                    
+deactivated                     
+activated                       
+2832
+Conv Fan Monitor                
+deactivated                     
+L sign. term.122                
+H sign. term.122                
+2833
+External Monitor                
+deactivated                     
+L sign. term.124                
+H sign. term.124                
+2838
+外部励磁单元额定直流电流        
+2840
+用于模拟工作模式的控制参数      
+2845
+bin.for trigger                 
+2846
+Trace start cond                
+2900
+ConverterInfo 1                 
+2901
+ConverterInfo 2                 
+2905
+ConverterInfo cw                
+2910
+槽禁止激活参数                  
+                                
+槽 D                            
+槽 E                            
+槽 F                            
+槽 G                            
+在槽中的附加板激活              
+在槽中的附加板不激活            
+2940
+Func Sequence 1                 
+2941
+Func Sequence 2                 
+2942
+Func Sequence 3                 
+2943
+Func Sequence 4                 
+2948
+Func Sequence 9                 
+2949
+Func Sequence 10                
+2950
+功能块 FB1-FB100 时间片的选择   
+2951
+功能块 FB101-FB200 时间片的选择 
+2952
+功能块 FB201-FB300 时间片的选择 
+2953
+Sampling Times 4                
+2958
+Sampling Times 9                
+2959
+Sampling Times10                
+2960
+S00 工艺软件功能块的处理顺序(1) 
+2961
+S00 工艺软件功能块的处理顺序(2) 
+2962
+S00 工艺软件功能块的处理顺序(3) 
+2969
+处理顺序的自动设置和激活        
+返回                            
+设定标准顺序                    
+设定最佳顺序                    
+采样时间设置成标准值            
+自动激活/禁止                   
+2977
+S00 选件的 PIN号                
+2978
+"S00 使能"显示                  
+2979
+专家的参数存取                  
+2980
+现存的参数号码,继续             
+2981
+现存的参数号码,继续             
+2982
+现存的参数号码,继续             
+2983
+现存的参数号码,继续             
+2984
+现存的参数号码,继续             
+2985
+现存的参数号码,继续             
+2986
+现存的参数号码,继续             
+2987
+现存的参数号码,继续             
+2988
+现存的参数号码,继续             
+2989
+现存的参数号码,继续             
+2990
+现存的参数号码,继续             
+2991
+现存的参数号码,继续             
+2992
+现存的参数号码,继续             
+2993
+现存的参数号码,继续             
+2994
+现存的参数号码,继续             
+2995
+现存的参数号码,继续             
+2996
+现存的参数号码,继续             
+2997
+现存的参数号码,继续             
+2998
+现存的参数号码,继续             
+2999
+现存的参数号码,继续             

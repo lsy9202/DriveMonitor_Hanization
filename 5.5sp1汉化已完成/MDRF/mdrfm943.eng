@@ -1,0 +1,102 @@
+[Popup]
+Menu=参数组(&P)
+
+[Popup2]
+Menu=诊断(&D)
+
+[参数组(&P)]						
+Menu=&General Observation Parameters,G&eneral Parameters,|,&Hardware Configuration,|,&DC Link,&Control,&Functions,&Setpoint Channel,|,C&ontrol and Status Word,A&nalog Input/Output,Communica&tions,D&iagnostic Functions,Mod&ulator,|,F&actory Parameters,|,P&rofile Parameters
+
+[诊断(&D)]
+Menu=&Faults,&Alarms,&Display Messages,SC&B/CB/TB
+
+[&Faults]
+View=Parliste
+Parameter=748,947,949,951,952
+
+[&Alarms]
+View=Parliste
+Parameter=953,954,955,956,957,958,959,960
+
+[&Display Messages]
+View=Parliste
+Parameter=720,721,722,723,725,
+
+[SC&B/CB/TB]
+View=Parliste
+Parameter=730,731
+					   
+[&General Observation Parameters]
+View=Parliste
+Parameter=1,6,12,13,
+
+[G&eneral Parameters]
+View=Parliste
+Parameter=51,52,53,54,
+
+[&Drive Data]
+View=Parliste
+Parameter=70,71,74,75,76,77
+
+[&Hardware Configuration]
+View=Parliste
+Parameter=90,91,
+
+[&DC Link]
+View=Parliste
+Parameter=140,141,144
+
+[&Control]
+View=Parliste
+Parameter=150,160,310,311,313,314,316,317,318,319,320,329,
+
+[&Functions]
+View=Parliste
+Parameter=353,354,366,408,409,
+
+[&Setpoint Channel]
+View=Parliste
+Parameter=486,517,518,
+
+[C&ontrol and Status Word]
+Menu=&Control Word 1,C&ontrol Word 2,|,&Status Word 1,S&tatus Word 2
+
+[&Control Word 1]
+View=Parliste
+Parameter=550,554,555,556,557,561,565,566,567,568,571,573,575,
+
+[C&ontrol Word 2]
+View=Parliste
+Parameter=551,578,583,586,588,589,590,591
+
+[&Status Word 1]
+View=Parliste
+Parameter=552,600,601,602,603,604,606,607,608,610,611,612,613
+
+[S&tatus Word 2]
+View=Parliste
+Parameter= 553,618,619,620,621,622,623,624,631
+
+[A&nalog Input/Output]
+View=Parliste
+Parameter=655,656,657,660,661,662,664,665,666,
+
+[Communica&tions]
+View=Parliste
+Parameter=680,682,683,684,685,686,687,689,690,694,695,696,697,698,699,700,701,702,703,704,705,706,
+
+[D&iagnostic Functions]
+View=Parliste
+Parameter=720,721,722,723,725,730,731,748,
+
+[Mod&ulator]
+View=Parliste
+Parameter=773,775,776,777,
+
+[F&actory Parameters]
+View=Parliste
+Parameter=785,793,799
+
+[P&rofile Parameters]
+View=Parliste
+Parameter=918,927,928,947,949,951,952,953,954,955,956,957,958,959,960,967,968,970,971,980,981,

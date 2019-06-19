@@ -1,0 +1,1197 @@
+0010
+1/1000 Hz pos.of the setpoint   
+0011
+Frequenzy setpoint              
+0012
+Frequenzy actual value          
+0013
+Output voltage                  
+0014
+Output current                  
+0015
+Output active current           
+0016
+Effective current limiting      
+0017
+DC link voltage                 
+0018
+Line supply voltage             
+0019
+Alarm                           
+0 No alarm                      
+1 Motor protection              
+2 Supply failure                
+3 Overtemperature               
+4 Pulsed resistor               
+5 Supply overvoltage            
+6 Safety shutdown               
+7 Overspeed                     
+8 Analog input < 4 mA           
+9 Undefined direct. of rotation 
+10 Interface monitoring time    
+11 Alarm inverter               
+12 Fault inverter               
+13 Inverter not in polling list 
+14 Inv.source not FO or service 
+15 Inverter connection faulted  
+16 FO cable bus monitoring      
+17 Other alarm                  
+18 Alarm overload protection    
+19 Number of inverters changed  
+0020
+Inverter number alarm / fault   
+Fault memory 0                  
+Fault memory 1                  
+Fault memory 2                  
+Fault memory 3                  
+Fault memory 4                  
+Fault memory 5                  
+Fault memory 6                  
+Fault memory 7                  
+Fault memory 8                  
+Fault memory 9                  
+0021
+Master setpoint                 
+0022
+Master actual value             
+0023
+Number of inverter              
+0024
+Status of Inputs                
+Bit 0 Digital-Input 1           
+Bit 1 Digital-Input 2           
+Bit 2 Digital-Input 3           
+Bit 3 Digital-Input 4           
+Bit 4 Digital-Input 5           
+Bit 5 Digital-Input 6           
+Bit 6 Digital-Input 7           
+Bit 7 Digital-Input 8           
+Bit 8 Terminal ON               
+Bit 9 CU:Term. OFF/IV-E:IV-Enabl
+0025
+Status of Outputs               
+Bit 0 Digital-Output 1          
+Bit 1 Digital-Output 2          
+Bit 2 Digital-Output 3          
+Bit 3 Digital-Output 4          
+Bit 3 Digital-Output 5          
+0026
+Integrated option boards 1      
+Bit 0 RS485 fiber-optic cable   
+Bit 1 Profibus-DP               
+Bit 2 Interbus-S                
+Bit 3 Synchronization           
+Bit 4 RS 13899                  
+0028
+Software options                
+Bit 0 Speed controller          
+Bit 1 Wobble generator          
+Bit 2 DC feed                   
+Bit 3 Technology controller     
+Bit 4 Supply dip buffering      
+Bit 5 Field-oriented control    
+Bit 6 Coupling to the PM system 
+Bit 7 Phase shifting            
+0030
+Serial number                   
+0031
+PC board serial number          
+0032
+Drive converter output          
+0033
+Supply volt./max.output voltage 
+0034
+output current at 8 kHz         
+0035
+Max.output current              
+0036
+Max.output frequency            
+0037
+Pulse frequency                 
+0038
+Output reactor inductance       
+0039
+Programming permitted yes/no    
+0040
+Delivery datas                  
+Delivery day                    
+Delivery month                  
+Delivery year                   
+0041
+Special-Software                
+0 A                             
+1 B                             
+2 C                             
+3 D                             
+4 E                             
+5 F                             
+6 G                             
+7 H                             
+8 I                             
+9 J                             
+10 K                            
+11 L                            
+12 M                            
+13 N                            
+14 O                            
+15 P                            
+16 Q                            
+17 R                            
+18 S                            
+19 T                            
+20 U                            
+21 V                            
+22 W                            
+23 X                            
+24 Y                            
+25 Z                            
+0042
+Software converter code         
+Basic drive converter           
+USS interface                   
+Profibus DP                     
+Synchronization                 
+Interbus-S                      
+0043
+Software version                
+Basic drive converter           
+USS interface                   
+Profibus DP                     
+Synchronization                 
+Interbus-S                      
+0044
+Software update                 
+Basic drive converter           
+USS interface                   
+Profibus DP                     
+Synchronization                 
+Interbus-S                      
+0045
+Software debug                  
+Basic drive converter           
+USS interface                   
+Profibus DP                     
+Synchronization                 
+Interbus-S                      
+0046
+Pulse resistor                  
+Continous rating                
+Peak rating                     
+0047
+Corrected Special-Software      
+0048
+Operating time hours            
+0049
+Operating time minutes          
+0050
+Va at F = Fa                    
+0051
+Vb at F = Fb                    
+0052
+Vc at F = Fc                    
+0053
+Vd at F = Fd                    
+0054
+Fa                              
+0055
+Fb                              
+0056
+Fc                              
+0057
+Fd                              
+0058
+Fmin                            
+0059
+Fset                            
+0060
+Fmax                            
+0061
+Braking current                 
+Braking current integrator 1    
+Braking current integrator 2    
+0062
+Time units                      
+Time units integrator 1         
+Time units integrator 2         
+0063
+Ramp up time                    
+Ramp up time integrator 1       
+Ramp up time integrator 2       
+0064
+Ramp down time                  
+Ramp down time integrator 1     
+Ramp down time integrator 2     
+0065
+Delay time                      
+Delay time integrator 1         
+Delay time integrator 2         
+0066
+Braking time                    
+Braking time integrator 1       
+Braking time integrator 2       
+0067
+Overload time selection no/yes  
+0068
+Overload time                   
+0069
+Current limiting ( I-limit )    
+0070
+Slip compensation               
+0071
+IxR compensation                
+0072
+V controller characteristics P  
+0073
+I controller characteristics P  
+0074
+Behavior overload protection    
+0 No overload protection        
+1 Alarm overload protection     
+2 Fault overload protection     
+0075
+Resp.threshold overl. protection
+0076
+Integrator on if Fdiff > x Hz   
+0077
+Oscillating damping             
+0078
+V controller characteristics I  
+0079
+I controller characteristics I  
+0080
+Fixed setpoint                  
+0081
+Pole pair number                
+0082
+I-stall current limit           
+0083
+Stall protection I compensation 
+0084
+FR magnetization                
+0085
+FR transition frequency         
+0086
+FR I-set NF                     
+0120
+Languages                       
+0 German                        
+1 English                       
+2 French                        
+3 Spanish                       
+0121
+Function motor potentiometer    
+0 Setpoint kept in ready condit.
+1 Setp.is set Fmin in ready con.
+0122
+Fault after power Failure no/yes
+0123
+Search run after power up no/yes
+0124
+Braking after power down no/yes 
+0125
+Setp.transf.for charact.cha.n/y 
+0126
+Electronics start/stop no/yes   
+0127
+Behavior at current limiting    
+0 Setpoint controll             
+1 Stall protection              
+2 Actual value control          
+3 2Q-stall protection           
+0128
+Fault after "safety off" no/yes 
+0129
+Display in operator contr.panel 
+0 1 Hz                          
+1 0.1 Hz                        
+2 0.01 Hz                       
+3 0.001 Hz                      
+4 RPM                           
+5 0.1                           
+6 0.01                          
+7 0.001                         
+0130
+Display factor                  
+0131
+Data source block A             
+0 Operator control panel        
+1 RS485 ( USS )                 
+2 Profibus DP                   
+3 Interbus-S                    
+4 TTY ( USS )                   
+5 Fiber-optic ringbus           
+0132
+Setpoint source block A         
+0 Operator panel                
+1 Analog setpoint 0-10V/0-20mA  
+2 Analog setpoint +/- 0-10V     
+3 Analog setpoint +/- 4-20mA    
+4 Analog setpoint 4-20mA        
+5 Motorized potentiometer       
+6 Mot.potent.+operat.cont.panel 
+7 RS485 ( USS )                 
+8 Profibus-DP                   
+9 Interbus-S                    
+10 TTY ( USS )                  
+11 Fiber-optic cable ringbus    
+0133
+Command source block A          
+0 Operator contral panel        
+1 Terminal strip                
+2 Term.strip+operat.contr.panel 
+3 RS485 ( USS )                 
+4 Profibus DP                   
+5 Interbus-S                    
+6 TTY ( USS )                   
+7 Fiber-optic cable ringbus     
+0134
+Data source block B             
+0 Operator control panel        
+1 RS485 ( USS )                 
+2 Profibus DP                   
+3 Interbus-S                    
+4 TTY ( USS )                   
+5 Fiber-optic ringbus           
+0135
+Setpoint source block B         
+0 Operator panel                
+1 Analog setpoint 0-10V/0-20mA  
+2 Analog setpoint +/- 0-10V     
+3 Analog setpoint +/- 4-20mA    
+4 Analog setpoint 4-20mA        
+5 Motorized potentiometer       
+6 Mot.potent.+operat.cont.panel 
+7 RS485 ( USS )                 
+8 Profibus-DP                   
+9 Interbus-S                    
+10 TTY ( USS )                  
+11 Fiber-optic cable ringbus    
+0136
+Command source block B          
+0 Operator contral panel        
+1 Terminal strip                
+2 Term.strip+operat.contr.panel 
+3 RS485 ( USS )                 
+4 Profibus DP                   
+5 Interbus-S                    
+6 TTY ( USS )                   
+7 Fiber-optic cable ringbus     
+0137
+Analog setp. smoothing window   
+0138
+Analog setpoint smoothing time  
+0139
+Select suppl.anal.setp. no/yes  
+0140
+Normaliz.suppl.anal.setpoint    
+0141
+Accel.rounding-off no/yes       
+0142
+High inertia starting no/yes    
+0143
+Ext.freq.from fiber-optic no/yes
+0144
+TTY-baud rate 4800 / 9600       
+0145
+TTY-polarity positiv/negativ    
+0146
+Telegramm monitoring            
+0 No monitoring                 
+1 Alarm                         
+2 Fault                         
+0147
+Telegramm monitoring time       
+0148
+Fiber-optic cable bus monitoring
+0 No monitoring                 
+1 Alarm                         
+2 Fault                         
+0149
+Fiber-opt.cable bus monit.time  
+0150
+Factor ext.frequency setpoint   
+0160
+Analog output                   
+Analog output 1 function        
+Analog output 2 function        
+0 RU:Mas.reference or INV-E:Fact
+1 RU:Udc link or INV-E:Uact     
+2 RU:Idc link or INV-E:Iact     
+3 RU:+/-Idc link or INV-E:Pact  
+4 RU:Peff or INV-E:Ieff         
+5 RU:+/-Peff or INV-E:+/-Ieff   
+6 RU:Usuply or INV-E:Peff       
+7 INV-E:+/-Peff                 
+8 INV-E:TR torque               
+9 INV-E:TR +/-torque            
+0161
+Analog output                   
+Analog output 1 normalization   
+Analog output 2 normalization   
+0162
+Signaling relay                 
+Function signaling relay 1      
+Funct.sign.relay 2/dig.output   
+Function signaling relay 3      
+Function signaling relay 4      
+Function signaling relay 5      
+0 No function                   
+1 Main contactor closed         
+2 Inverter inhibited            
+3 Ready                         
+4 Fault                         
+5 On Fact=>Fmin,Ia=>xxx.x A     
+6 On Fact=Fmin                  
+7 On Fset reached               
+8 Acceleration                  
+9 Deceleration                  
+10 Iact=>xxx.x A                
+11 Current limiting             
+12 On Fact=<Fmin                
+13 On t<1s or Ia=>xxx.x A       
+14 Counter clockwise            
+15 Alarm overtemperature        
+16 Wire breakage(4...20mA)      
+17 Fset=<Fact                   
+18 Alarm motor temperatur       
+19 Fact=0 Hz                    
+20 Undef.direct.or rot.selection
+21 Fset<Fmin/rotation ?/temp.>> 
+22 Speed contr.slip limit reach.
+23 Wobbler at its limit         
+24 Line supply failure          
+25 INV-E:synchr.at its limit    
+26 Selection block B            
+27 Fset>Fmin and Fset reached   
+28 On Ia>xxx.x A                
+29 Alarm interf.monitoring time 
+30 Kinetic buffering active     
+31 Fset>xxx.x<Hz                
+32 Integrator output > xxx.x Hz 
+33 Fact>xxx.x Hz                
+34 Overload protection          
+35 Alarm                        
+0163
+Signaling relays                
+Signaling relay 1 no./nc.       
+Sig.rel.2 no./nc.or dig outp.L/H
+Signaling relay 3 no./nc.       
+Signaling relay 4 no./nc.       
+Signaling relay 5 no./nc.       
+0164
+Current for signaling relays    
+Current for signaling relay 1   
+Current for signaling relay 2   
+Current for signaling relay 3   
+Current for signaling relay 4   
+Current for signaling relay 5   
+0165
+Frequency for signaling relays  
+Frequency for signaling relay 1 
+Frequency for signaling relay 2 
+Frequency for signaling relay 3 
+Frequency for signaling relay 4 
+Frequency for signaling relay 5 
+0166
+Function of inputs              
+Function input 1                
+Function input 2                
+Function input 3                
+Function input 4                
+Function input 5                
+Function input 6                
+Function input 7                
+Function input 8                
+0 No function                   
+1 Characteristics 1             
+2 Characteristics 2             
+3 Characteristics 4             
+4 Characteristics 8             
+5 Characteristics 16            
+6 Counter clockwise             
+7 Clockwise                     
+8 External fault                
+9 Shutdown                      
+10 Fmin selection               
+11 Integrator stop              
+12 Inverter inhibit             
+13 Acknowledge                  
+14 Block A/B                    
+15 Motorized potentiometer up   
+16 Motorized potentiometer down 
+17 Pulse input 1                
+18 Pulse input 2                
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+20 Inhibit speed controler      
+21 INV-E: wobble start          
+22 INV-E: wobble direction      
+23 INV-E: data transfer         
+24 Reactor monitoring NE        
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+26 INV-E: + phase shifting      
+27 INV-E: - phase shifting      
+28 INV-E: controller 1 on       
+29 INV-E: controller 2 on       
+30 Wobble on                    
+31 INV-E: synchronization on    
+32 Selected ramp funct.generat.2
+33 RU:ramp fun.gen.2 INV-E: on  
+34 Selected fixed setpoint      
+35 INV-C/S: motor protection    
+36 OFF                          
+37 Start searching only IV-E    
+0167
+Motor monitoring fault/alarm    
+0168
+ON command static / dynamic     
+0180
+Fault memory                    
+Fault memory 0                  
+Fault memory 1                  
+Fault memory 2                  
+Fault memory 3                  
+Fault memory 4                  
+Fault memory 5                  
+Fault memory 6                  
+Fault memory 7                  
+Fault memory 8                  
+Fault memory 9                  
+0 No fault                      
+1 Inverter                      
+2 Motor protection              
+3 Line supply failure           
+4 Pre-charging                  
+5 Main contactor                
+6 DC link voltage too high      
+7 DC link voltage too low       
+8 Overtemperature               
+9 Overload                      
+10 Pulse resistor               
+11 SR PC board                  
+12 Power supply                 
+13 INV-E: synchronization       
+14 INV-E: incorrect hardw.config
+15 Line supply overvoltage      
+16 Safety shutdown              
+17 Series reactor (NE option)   
+18 >1 inverter removed in operat
+19 Fiber optic cable timeout    
+20 INV-E: RS 13899              
+21 Fiber optic cable coupling   
+22 RS 6195 board                
+23 Overspeed                    
+24 RS 485/USS                   
+25 Profibus DP                  
+26 Interbus-S                   
+27 INV-E/S ground fault         
+28 External fault               
+29 NV Ram                       
+30 Overload protection          
+31 Telegramm                    
+32 Power supply A1              
+33 Supplementary power supply 1 
+34 Supplementary power supply 2 
+35 Inverter module              
+36 Inverter interface           
+37 inverter no power up signal  
+38 Inverter no enable           
+39 Inverter characteristic      
+40 2 IV with the same numbers   
+0182
+Monitoring operating hours      
+Operating hours fault 0         
+Operating hours fault 1         
+Operating hours fault 2         
+Operating hours fault 3         
+Operating hours fault 4         
+Operating hours fault 5         
+Operating hours fault 6         
+Operating hours fault 7         
+Operating hours fault 8         
+Operating hours fault 9         
+0183
+Monitoring operating minutes    
+Operating minutes fault 0       
+Operating minutes fault 1       
+Operating minutes fault 2       
+Operating minutes fault 3       
+Operating minutes fault 4       
+Operating minutes fault 5       
+Operating minutes fault 6       
+Operating minutes fault 7       
+Operating minutes fault 8       
+Operating minutes fault 9       
+0200
+Initial value                   
+Initial value integrator 1      
+Initial value integrator 2      
+0201
+Minimum value integrator        
+0202
+Maximum value integrator        
+0203
+Frequency normalization         
+0204
+Fixed setpoint                  
+0210
+Datas to the inverters          
+Data to inverter 1              
+Data to inverter 2              
+Data to inverter 3              
+Data to inverter 4              
+Data to inverter 5              
+Data to inverter 6              
+Data to inverter 7              
+Data to inverter 8              
+Data to inverter 9              
+Data to inverter 10             
+Data to inverter 11             
+Data to inverter 12             
+Data to inverter 13             
+Data to inverter 14             
+Data to inverter 15             
+Data to inverter 16             
+Data to inverter 17             
+Data to inverter 18             
+Data to inverter 19             
+Data to inverter 20             
+Data to inverter 21             
+Data to inverter 22             
+Data to inverter 23             
+Data to inverter 24             
+0 No data transfer              
+1 Complete data set             
+2 Only characteristic           
+3 Only standard options         
+4 Only wobbler                  
+5 Only speed controller         
+6 Only configuration            
+7 Characteristics to all invert.
+8 Compl.data set to all invert. 
+0211
+Data from the inverter no/yes   
+0212
+Data transfer status            
+0 Data transfer completed       
+1 Data transfer running         
+2 Data transfer faulted         
+0213
+Re-entry centr.electronic no/yes
+0214
+Acknowledge "new slave" no/yes  
+0215
+Inhibit cascade calculat.no/yes 
+0216
+Inverters 1...24 on/off         
+0217
+Inv.1..24 dir.of rotation change
+0218
+Inverters 1..24 integrators hold
+0219
+Orders in the LWL-buffer        
+0230
+Ratios of inverters             
+Ratio inverter 1                
+Ratio inverter 2                
+Ratio inverter 3                
+Ratio inverter 4                
+Ratio inverter 5                
+Ratio inverter 6                
+Ratio inverter 7                
+Ratio inverter 8                
+Ratio inverter 9                
+Ratio inverter 10               
+Ratio inverter 11               
+Ratio inverter 12               
+Ratio inverter 13               
+Ratio inverter 14               
+Ratio inverter 15               
+Ratio inverter 16               
+Ratio inverter 17               
+Ratio inverter 18               
+Ratio inverter 19               
+Ratio inverter 20               
+Ratio inverter 21               
+Ratio inverter 22               
+Ratio inverter 23               
+Ratio inverter 24               
+0231
+Setpoint sources                
+Setpoint source for inverter 1  
+Setpoint source for inverter 2  
+Setpoint source for inverter 3  
+Setpoint source for inverter 4  
+Setpoint source for inverter 5  
+Setpoint source for inverter 6  
+Setpoint source for inverter 7  
+Setpoint source for inverter 8  
+Setpoint source for inverter 9  
+Setpoint source for inverter 10 
+Setpoint source for inverter 11 
+Setpoint source for inverter 12 
+Setpoint source for inverter 13 
+Setpoint source for inverter 14 
+Setpoint source for inverter 15 
+Setpoint source for inverter 16 
+Setpoint source for inverter 17 
+Setpoint source for inverter 18 
+Setpoint source for inverter 19 
+Setpoint source for inverter 20 
+Setpoint source for inverter 21 
+Setpoint source for inverter 22 
+Setpoint source for inverter 23 
+Setpoint source for inverter 24 
+0232
+Operation mode of inverters     
+Operation mode of inverter 1    
+Operation mode of inverter 2    
+Operation mode of inverter 3    
+Operation mode of inverter 4    
+Operation mode of inverter 5    
+Operation mode of inverter 6    
+Operation mode of inverter 7    
+Operation mode of inverter 8    
+Operation mode of inverter 9    
+Operation mode of inverter 11   
+Operation mode of inverter 12   
+Operation mode of inverter 13   
+Operation mode of inverter 13   
+Operation mode of inverter 14   
+Operation mode of inverter 15   
+Operation mode of inverter 16   
+Operation mode of inverter 17   
+Operation mode of inverter 18   
+Operation mode of inverter 19   
+Operation mode of inverter 20   
+Operation mode of inverter 21   
+Operation mode of inverter 22   
+Operation mode of inverter 23   
+Operation mode of inverter 24   
+0 Setpoint from the central unit
+1 Setp.from the invert.setpoint 
+2 Setp.from the invert.act.val. 
+3 Independent setpoint          
+0240
+Configurations of the inverters 
+Configuration inverter 1        
+Configuration inverter 2        
+Configuration inverter 3        
+Configuration inverter 4        
+Configuration inverter 5        
+Configuration inverter 6        
+Configuration inverter 7        
+Configuration inverter 8        
+Configuration inverter 9        
+Configuration inverter 10       
+Configuration inverter 11       
+Configuration inverter 12       
+Configuration inverter 13       
+Configuration inverter 14       
+Configuration inverter 15       
+Configuration inverter 16       
+Configuration inverter 17       
+Configuration inverter 18       
+Configuration inverter 19       
+Configuration inverter 20       
+Configuration inverter 21       
+Configuration inverter 22       
+Configuration inverter 23       
+Configuration inverter 24       
+0 not configured                
+1 no on command from the RU     
+2 Prio.1 no fault trip inv.fault
+3 Prio.2 fault trip invert.fault
+0241
+Status of inverters             
+Status inverter 1               
+Status inverter 2               
+Status inverter 3               
+Status inverter 4               
+Status inverter 5               
+Status inverter 6               
+Status inverter 7               
+Status inverter 8               
+Status inverter 9               
+Status inverter 10              
+Status inverter 11              
+Status inverter 12              
+Status inverter 13              
+Status inverter 14              
+Status inverter 15              
+Status inverter 16              
+Status inverter 17              
+Status inverter 18              
+Status inverter 19              
+Status inverter 20              
+Status inverter 21              
+Status inverter 22              
+Status inverter 23              
+Status inverter 24              
+0 Main contactor on             
+1 Alarm                         
+2 Counter clockw.phase sequence 
+3 Current limiting              
+4 Setpoint reached              
+5 Ready                         
+6 Inverter inhibited            
+7 Fault                         
+8 Interface is integrated       
+9 Data from the interface       
+10 Inverter ident. is entered   
+11 Interface running (data)     
+12 Interface running (data+on)  
+13 Data changed fr.operat.panel 
+14 Setpoint from the interface  
+15 Commands from the interface  
+0242
+Commandes to the inverters      
+Command inverter 1              
+Command inverter 2              
+Command inverter 3              
+Command inverter 4              
+Command inverter 5              
+Command inverter 6              
+Command inverter 7              
+Command inverter 8              
+Command inverter 9              
+Command inverter 10             
+Command inverter 11             
+Command inverter 12             
+Command inverter 13             
+Command inverter 14             
+Command inverter 15             
+Command inverter 16             
+Command inverter 17             
+Command inverter 18             
+Command inverter 19             
+Command inverter 20             
+Command inverter 21             
+Command inverter 22             
+Command inverter 23             
+Command inverter 24             
+Bit 7 Fault acknowledgement     
+Bit 15 Re-entry after fault ack.
+0250
+Independent setpoint of inverter
+Independent setpoint inverter 1 
+Independent setpoint inverter 2 
+Independent setpoint inverter 3 
+Independent setpoint inverter 4 
+Independent setpoint inverter 5 
+Independent setpoint inverter 6 
+Independent setpoint inverter 7 
+Independent setpoint inverter 8 
+Independent setpoint inverter 9 
+Independent setpoint inverter 10
+Independent setpoint inverter 11
+Independent setpoint inverter 12
+Independent setpoint inverter 13
+Independent setpoint inverter 14
+Independent setpoint inverter 15
+Independent setpoint inverter 16
+Independent setpoint inverter 17
+Independent setpoint inverter 18
+Independent setpoint inverter 19
+Independent setpoint inverter 20
+Independent setpoint inverter 21
+Independent setpoint inverter 22
+Independent setpoint inverter 23
+Independent setpoint inverter 24
+0251
+Frequency actual value inverter 
+Frequency actual value 1        
+Frequency actual value 2        
+Frequency actual value 3        
+Frequency actual value 4        
+Frequency actual value 5        
+Frequency actual value 6        
+Frequency actual value 7        
+Frequency actual value 8        
+Frequency actual value 9        
+Frequency actual value 10       
+Frequency actual value 11       
+Frequency actual value 12       
+Frequency actual value 13       
+Frequency actual value 14       
+Frequency actual value 15       
+Frequency actual value 16       
+Frequency actual value 17       
+Frequency actual value 18       
+Frequency actual value 19       
+Frequency actual value 20       
+Frequency actual value 21       
+Frequency actual value 22       
+Frequency actual value 23       
+Frequency actual value 24       
+0252
+WR-Supplementairy Setpoint      
+Supplementairy setpoint IV 1    
+Supplementairy setpoint IV 2    
+Supplementairy setpoint IV 3    
+Supplementairy setpoint IV 4    
+Supplementairy setpoint IV 5    
+Supplementairy setpoint IV 6    
+Supplementairy setpoint IV 7    
+Supplementairy setpoint IV 8    
+Supplementairy setpoint IV 9    
+Supplementairy setpoint IV 10   
+Supplementairy setpoint IV 11   
+Supplementairy setpoint IV 12   
+Supplementairy setpoint IV 13   
+Supplementairy setpoint IV 14   
+Supplementairy setpoint IV 15   
+Supplementairy setpoint IV 16   
+Supplementairy setpoint IV 17   
+Supplementairy setpoint IV 18   
+Supplementairy setpoint IV 19   
+Supplementairy setpoint IV 20   
+Supplementairy setpoint IV 21   
+Supplementairy setpoint IV 22   
+Supplementairy setpoint IV 23   
+Supplementairy setpoint IV 24   
+0300
+Wobble type                     
+0 Sinusoidal                    
+1 Triangular                    
+2 RFR-1                         
+3 RFR-2                         
+0301
+Wobble frequency sinusoidal     
+0302
+Wobble amplitude sinusoidal     
+0303
+Wobble frequency triangular     
+0304
+Wobble amplitude triangular     
+0305
+Side ratio a triangular         
+0306
+Side ratio b triangular         
+0307
+P step triangular 1             
+0308
+P step triangular 2             
+0309
+P step RFR                      
+0310
+Integration time RFR            
+0311
+Suppl. frequncy setpoint RFR    
+0312
+Signal direction RFR pos./neg.  
+0313
+Wobbler on , off/on             
+0314
+Direction source RFR int./ext.  
+0320
+Value for phase shifting        
+0321
+Time for phase shifting         
+0330
+Controller off/on               
+0331
+Controller char. P compensation 
+0332
+Controller char. I compensation 
+0333
+Controller char. D compensation 
+0334
+Slip limiting                   
+0336
+Pulses / revolution             
+0337
+Positive slip limit             
+0338
+Negative slip limit             
+0339
+Motor frequency                 
+0340
+Slip frequency                  
+0341
+Controller sampling time        
+0350
+Kinetic buffering on , off/on   
+0351
+P component                     
+0352
+I component                     
+0353
+D component                     
+0354
+Enable threshold kinetic buffer.
+0355
+Setpoint injection              
+0360
+Controller                      
+Controller 1 off/on             
+Controller 2 off/on             
+0361
+Controller                      
+Controller 1 controller quantity
+Controller 2 controller quantity
+0 Active current                
+1 Active power                  
+2 Apparent current              
+3 Apparent power                
+4 Torque                        
+5 Analog value                  
+0362
+Controller                      
+Controller 1 torque factor      
+Controller 2 torque factor      
+0363
+Controller                      
+Controller 1 analog factor      
+Controller 2 analog factor      
+0364
+Controller                      
+Controller 1 actual value source
+Controller 2 actual value source
+0 0...10V / 0...20mA            
+1 2...10V / 4...20mA            
+0365
+Controller                      
+Controller 1 setpoint           
+Controller 2 setpoint           
+0366
+Controller                      
+Controller 1 P component        
+Controller 2 P component        
+0367
+Controller                      
+Controller 1 I component        
+Controller 2 I component        
+0368
+Controller                      
+Controller 1 D component        
+Controller 2 D component        
+0380
+AC / DC - incoming powerline    
+0390
+Operating mode                  
+0 Tracking mode                 
+1 Acceleration / braking        
+2 Standby operation             
+0391
+Frequency factor                
+0392
+Frequency delta                 
+0393
+Delta sign positive/negative    
+0394
+Delta source positive/negative  
+0395
+Factor operating conv. frequency
+0396
+Synchronization off/on          
+0400
+Mode FR60                       
+0 V/f characteristic            
+1 Frequency control             
+2 Speed control                 
+0401
+IQ_suppl. source                
+0 Shutdown                      
+1 PZD 4 interf. rights for setp.
+2 Analog input                  
+0402
+IQ_max source                   
+0 From parameter IQ_max         
+1 PZD 5 interf. rights for setp.
+2 Analog input                  
+0403
+IQ normalization                
+0404
+Rated output                    
+0405
+Rated voltage                   
+0406
+Rated current                   
+0407
+Rated frequency                 
+0408
+Rated speed                     
+0409
+Rated power factor              
+0410
+Stator resistance               
+0411
+Leakage inductance              
+0412
+Main inductance                 
+0413
+Limit val.tor.generating current
+0414
+P component                     
+0415
+I component                     
+0416
+D component                     
+0417
+Encoder pulses / revolution     
+0418
+Sampling time                   
+0419
+P component                     
+0420
+I component                     
+0421
+P1 component P                  
+0422
+P2 component I                  
+0423
+I component                     
+0424
+IQ smoothing off/on P1 component
+0425
+IQ smoohting P2 component       
+0426
+Starting time                   
+0427
+Changeover frequency            
+0428
+Factor                          
+0429
+Torque generating current       
+0430
+Magnetization current           
+0431
+Limit val.tor.generating current
+0432
+Suppl.setp.torq.generat.current 
+0433
+Slip frequency                  
+0450
+Bus address USS                 
+0451
+Baud rate USS                   
+0 9600                          
+1 19200                         
+2 38400                         
+3 57600                         
+4 76800                         
+5 115200                        
+0455
+Baud rate profibus DP           
+0 auto                          
+1 9600                          
+2 19200                         
+3 38400                         
+4 93750                         
+5 187500                        
+6 500000                        
+7 1500000                       
+0456
+Bus address profibus DP         
+0457
+PPO type                        
+1 PPO type 1                    
+2 PPO type 2                    
+3 PPO type 3                    
+4 PPO type 4                    
+0458
+Res.clear data nofault/fault    
+1018
+Inhibit new val.calculat. no/yes
+1019
+Status block par.0=o.k./1=error 

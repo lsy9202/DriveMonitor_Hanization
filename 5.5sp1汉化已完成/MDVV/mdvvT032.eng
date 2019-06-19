@@ -1,0 +1,2207 @@
+[Text]
+T9=HiWord
+T10=LoWord
+
+T168=Return
+T190=Power On\n[X.Y]
+T191=Set\n(y=x)
+T192=Reset\n(y=0)
+
+T221=TRACK
+T222=STORE
+T223=RESET (y=0)
+T240=Power On\n[X4.4]
+T241=Up
+T242=Down
+T243=Out
+T244=Binary code
+T251=Signal selector switch\ndoes not switch until\nENABLE=1
+T252=Memory
+T253=Signal select
+T254=Mode
+T255=ENABLE
+T261=Signal selector switch\ndoes not switch until\nENABLE=1
+T262=Memory
+T263=Signal select
+T265=ENABLE
+
+T300=LoWord
+T301=HiWord
+T310=LoWord
+T311=HiWord
+T320=Binector/ connector converter
+T331=Connector/ binector converter
+T351=T
+T352=Mode
+
+T492=Reset (Q=0)
+T493=Power On
+T490=Overflow
+T491=Underflow
+
+T2951=ON delay
+T2952=OFF delay
+T2953=ON/ OFF delay
+T2954=Pulse generator
+T2955=Mode
+T2956=T
+T2957=T1
+T2958=x1
+T2959=(x1*T1)\n/100 %%
+
+T3151=Counter minimum value
+T3152=Counter maximum value
+T3153=Counter setting value
+T3154=Counter starting value
+T3155=U315.1 (0)
+T3156=U315.2 (65535)
+T3157=U315.3 (0)
+T3158=U315.4 (0)
+
+T3161=Minimum value
+T3162=Maximum value
+T3163=Setting value
+T3164=Starting value
+
+T3171=Count up
+T3172=Count down
+T3173=Stop counter
+T3174=Set counter
+T3175=Enable counter
+
+T3181=Set counter\nto minimum\nvalue
+T3182=Set counter\nto setting\nvalue
+T3183=Set counter\nto starting\nvalue
+
+T5001= from motor model
+T5002=[760]
+T5003=[761]
+T5004=to current control [755]
+T5005=from torque pre-control dIsq dIsq [725]
+T5006=Limitation active from torque limit,\nstop I component, when torque limits of\nthe unit have been reached;\nLimit I component to torque limits
+T5007=from torque limits [730]
+T5008=[726]
+T5009=from speed-limitation controller [716]
+T5010=from torque pre-control [725]
+T5011=Selection\nof torque\nsetpoint
+T5012=[710]
+T5013=T= 8 * T0
+T5014=[727]
+T5015=from DT1 element [726]
+T5016=Isq
+T5017=MIN
+T5018=MAX
+T5019=[718]
+T5020=<1>
+T5021=Torq(Lim2)act.
+T5022=[731], 
+T5023=[730]
+T5024=Torq(Lim1)act.
+T5025=[737]
+T5026=TSY
+T5027=VSB
+T5028=T= 2 * T0
+T5030=[711]
+
+T5100=[949]
+T5101=[948]
+T5102=[947]
+T5103=[718]
+T5104=[945]
+T5105=[943]
+
+[FB0107]
+T2120=U191.01
+T2121=U191.02
+T2122=U191.03
+T2123=U191.04
+T2124=U191.05
+T2125=U191.06
+T2126=U191.07
+T2127=U191.08
+T2128=U191.09
+T2129=U191.10
+T2130=U192.01
+T2131=U192.02
+T2132=U192.03
+T2133=U192.04
+T2134=U192.05
+T2135=U192.06
+T2136=U192.07
+T2137=U192.08
+T2138=U192.09
+T2139=U192.10
+
+[FB0151]
+T3391=n339.01
+T3392=n339.02
+T3400=Track RGen
+T3250=POWER ON
+
+[FB0187]
+T3831=U383.01
+T3832=U383.02
+T3833=Acceleration time
+T3834=Deceleration time
+
+[FB0201]
+T20101=Technology controller disabled
+
+[FB0202]
+T20201=Wobble-synchronizing input
+T20202=Wobble-delta generator
+T20203=Wobble-synchronizing output
+T20211=Wobble signal
+T20212=Setpoint, wobbled
+T20213=Synchronizing signal to slave
+T20221=U395
+T20222=U393
+T20223=-U393
+T20224=U394
+T20225=U396
+T20226=U397
+T20227=U398
+T20228=0.5*Tw
+
+[FB0209]
+T2120=U197.01
+T2121=U197.02
+T2122=U197.03
+T2123=U197.04
+T2124=U197.05
+T2125=U197.06
+T2126=U197.07
+T2127=U197.08
+T2128=U197.09
+T2129=U197.10
+T2130=U198.01
+T2131=U198.02
+T2132=U198.03
+T2133=U198.04
+T2134=U198.05
+T2135=U198.06
+T2136=U198.07
+T2137=U198.08
+T2138=U198.09
+T2139=U198.10
+
+[FB0259]
+T2=1 = "Fault F148"
+
+[FB0260]
+T2=1 = "Fault F149"
+
+[FB0261]
+T2=1 = "Fault F150"
+
+[FB0262]
+T2=1 = "Fault F151"
+
+[FB0263]
+T2=1 = "Alarm A061"
+
+[FB0264]
+T2=1 = "Alarm A062"
+
+[FB0265]
+T2=1 = "Alarm A063"
+
+[FB0266]
+T2=1 = "Alarm A064"
+
+[FB0057]
+T72=.01
+
+[FB0058]
+T72=.02
+
+[FB0756]
+T5002=[762]
+
+[T0011]
+T1101=|A|<B
+T1102=A<B
+T1103=A=B
+
+[T0012]
+T1101=|A|<B
+T1102=A<B
+T1103=A=B
+
+[T0021]
+T2101=1
+T2102=X values
+T2103=Y values
+T2104=-200 %%
+T2105=+200 %%
+T2106=x
+T2107=y
+T2108=2
+T2109=3
+T2110=10
+T2111=x1
+T2112=y1
+T2113=x10
+T2114=y10
+T2115=x
+T2116=y
+
+; T2120..T2129=Par. 2.01 - 2.10
+; T2130..T2139=Par. 3.01 - 3.10
+
+;Countv
+[T0024]
+T490=Overflow
+T491=Underflow
+
+T240=Power On\n[X4.4]
+T241=Up
+T242=Down
+T243=Out
+T244=Binary code
+
+;Div2Ev
+[T0041]
+T411=x1
+T412=x2
+T413=y
+T414=(x1*100%%)\n/x2
+
+;Mul2Ev
+[T0045]
+T451=x1
+T452=x2
+T453=y
+T454=(x1*x2)\n/100 %%
+
+; Seite, Mul3Ev
+[T0046]
+T4600=Scaling
+T4601=x1
+T4602=x2
+T4603=x3
+T4604=x4
+T4605=y
+T4606=y2
+T4610=x4=\nx1*x2
+T4611=y=\nx4/x3
+T4612=y2=x4/100 %%
+T4621=(16 bit)
+T4622=(32 bit)
+
+;SVZInvv
+[T0047]
+T471=y=-x
+
+;Uebwv
+[T0050]
+T501=POWER ON
+T502=POWER OFF
+T503=POWER ON
+T504=POWER OFF
+
+;RSFFv
+[T0051]
+T510=POWER ON
+T511=SET\n(Q=1)
+T512=RESET\n(Q=0)
+
+; Seite 110/111/Z05, SSTIstZ6, Fkt 20
+[T0052]
+T1=PKW Word 1 USS SCom 
+T2=PKW Word 1 USS SCom 
+T3=PKW Word 1 USS SCom
+T4=PKW Word 1 USS SCom
+T5=Transmit telegram
+T6=TLG-\nEnd
+T107=PKW
+T108=PKW-\nwords
+T109=PZD
+T110=PZD-\nwords
+T111=TLG-\nHead
+T112=TLG-\nEnd
+T114=PKW\nprocessing
+T115=Transmit
+T117=Transmitting 32-bit words:\nIf the same double-word connector is connected to two successive connector \nindices in each case, this is transferred as a 32-bit word.
+T118=Examples:
+T119=KK1000 is transferred as\na 32-bit word 
+T120=Only the high part of KK1000\nand KK2000 is transferred\nas a 16-bit word.
+
+; Seite 100/101, SSTSollv, Fkt 10
+[T0053]
+T4=USS-\nconfigu-\nration
+T6=Monitoring is not\nactive until after\nfirst valid telegram.\nNo fault when\nmit P781=101.0 s
+T7=F065\nSCom1\nTlg OFF
+T8=Bit 10 must be set in the first PZD word of\nthe telegram received via USS so that the converter will\naccept the process data as being valid. For this reason,\nthe control word 1 must be transferred to the \nconverter in the first PZD word.
+T9=Telegram monitoring time (0 = No monitoring)
+T11=B2100...B2115
+T12=B2200...B2215
+T13=B2300...B2315
+T14=B2400...B2415
+T15=B2500...B2515
+T16=B2600...B2615
+T17=B2700...B2715
+T18=B2800...B2815
+T19=B2900...B2915
+T107=PKW
+T108=PKW-\nwords
+T109=PZD
+T110=PZD-\nwords
+T111=TLG-\nHead
+T112=TLG-\nEnd
+T113=Note:
+T126=RxD
+T127=Receive telegram
+T128=Receive
+
+; Seite 30; vc_KonAnzPz , Fkt 911 
+[T0056]
+T1=100 %%
+
+;KonAnzA;
+[T0059]
+T72=.03
+
+; Seite 50, mc_50, Fkt 915
+[T0064]
+T1=Raise motor potentio-\nmeter from PMU [see 925]
+T2=Lower motorized poten-\ntiometer from PMU [see 925]
+T3=Toggle key to \noperatingsystem, fault\nacknowledge to \ncontrol word 1 [see 925]
+T4=Actuation of\nseven-segment display
+T5=Note:\nActivation of the raise and lower key is only effective \nif the operating display (r000) is selected,\nchangeover to the value display has taken place with the\ntoggle key and the unit is  in the "Operation" status.
+T6=Operating display (r000)\nselected and operation=1\nof sequence control
+T7=PMU, all construction types
+T8=Seven-segment display
+T9=Raise key
+T10=Lower key
+T11=Toggle key
+T12=ON-key
+T13=OFF-key
+T14=Reversing key
+T15=Positive direction of\nrotation from PMU
+T16=Negative direction of\nrotation from PMU
+T17=ON/OFF1,\nOFF2, OFF3\nfrom PMU [see 925]
+T18=Priority:\n1 RESET\n2 SET
+T19=Reset command from\nsequence control,\nif ON/OFF1 from PMU 
+T20=Set command from \nsequence control, if \nOFF2 or OFF3 from PMU
+T21=Priority:\n1 RESET\n2 SET
+
+;Seite 60, mc_60, Fkt 916
+[T0066]
+T1=- A maximum of 6 characters (value + unit) are available for the\n   display P049.01und P049.02 respectively.\n\n- The 2nd line (P049.03) is provided for displaying actual values.\n\n- The 3rd line (P049.04) is provided for displaying setpoint values.\n\n- To enable the setpoint to be changed in the operating display,\n   its parameter number  must be entered there. :\n   e. g. P049.04 =  405 = Fixed setpoint 5
+T2=active node\n(=bus address)
+T4=LC\n(4 lines x 16 characters)
+T5=Reversing key
+T6=Raise key
+T7=Lower key
+T8=Key for toggling between control levels
+T9=0 bis 9: Ziffern-Tasten
+T10=Reset key
+T11=Sign key
+T12=Inching key
+T13=OFF-key
+T14=ON-key
+T17=The control commands are transferred via word 1 in the USS protocol.
+T18=ON/OFF1 from OP1S
+T19=OFF2 from OP1S
+T20=OFF3 from OP1S
+T21=Raise MOP from OP1S
+T22=Lower MOP from OP1S
+T23=Positive speed direction from OP1S
+T24=Negative speed direction from OP1S
+T25=Acknowledgement from OP1S
+T26=Inching from OP1S
+T27=See connection to control word [925]
+
+; Seite 90, Digitalausgang, (vc_DigAus), Fkt 23
+[T0069]
+T1=Outputs
+T100=Ground
+T101=User circuit
+T102=The terminals -X101/3 to -X101/6 can be\nused as digital inputs or digital outputs.
+T103=If they are used as digital inputs, the\nparameters P651.B, P652.B, P653.B\nand P654.B have to be set to 0.\n\nIf they are used as digital outputs,\nB010 ... B017 should not be used.
+T104=The terminals -X101/7 to -X101/9 can\nonly be used as digital inputs.
+
+; Seite 120, (CBSollv), Fkt 71
+[T0071]
+T1=Applicable for following configurations:\n- Only a CB\n- Only a TB\n- CB behind TB (CB in slot D or E)\n- CB - CB for the CB with the lower slot letter
+T3=CB = Communications board, e. g. CBP\nTB = Technology board, e. g. T100, T300, T400 
+T4=No fault\nwhen\nP781=101.0 s
+T8=B3100...B3115
+T9=B3200...B3215
+T10=B3300...B3315
+T11=B3400...B3415
+T12=B3500...B3515
+T13=B3600...B3615
+T14=B3700...B3715
+T15=B3800...B3815
+T16=B3900...B3915
+T107=PKW
+T108=PKW-\nwords
+T109=PZD
+T110=PZD-\nwords
+T111=TLG-\nHead
+T112=TLG-\nEnd
+T113=Note:
+T116=Dual-\nPort-RAM
+T123=USS-\nconfigu-\nration
+T124=Config-\narea
+T125=F082\nCB/TB\nTlg OFF
+T130=Bit 10 must be set in the first PZD word so that the\nconverter will accept the process data as being valid.\nFor this reason, the control word 1 must be \ntransferred to the converter in the first PZD word.
+  
+; Seite 125 und 135, (CBIstv), Fkt 21
+[T0072]
+T1=PKW Word 1 CB/TB
+T2=PKW Word 1 CB/TB
+T3=PKW-Word 3 CB/TB
+T4=PKW-Word 4 CB/TB
+T5=CB/TB\ncommunications board/technology board
+T6=Transmit telegram
+T108=PKW\nWords
+T110=PZD\nWords
+T114=PKW-\nprocessing
+T115=Transmit
+T116=Dual-\nPort-RAM
+T117=Transmitting 32 bit words:\nIf the same double-word connector is connected up to two successive connector \nindices, this is transferred as a 32 bit word.
+T118=Examples:
+T119=KK1000 is transferred as\na 32 bit word
+T120=Only the high part of KK1000\nand KK2000 is transferred\nas a 16 bit word.
+T121=1.
+T122=2.
+
+; Seite 150,(SLBSollv) , Fkt 12
+[T0073]
+T1=Example: P749.02=0.1\n=> KK7035 = Transm. channel1 from node 0
+T2=Special data\n8 x 16 Bit
+T3=Note:\nSpecial data can only be\nsent by the SL master!
+T4=Data\n16 x 16 Bit
+T5=Receive 
+T6=Channel
+T7=word
+T8=B7100...B7115
+T9=B7200...B7215
+T10=B7300...B7315
+T11=B7400...B7415
+T12=B7500...B7515
+T13=B7600...B7615
+T14=B7700...B7715
+T15=B7800...B7815
+T16=B7900...B7915
+T126=RxD
+T127=Receive telegram
+T128=Receive
+T129=SIMOLINK
+
+; Seite 140, (SLBKonf), Fkt 920
+[T0075]
+T1=SLB-\nconfiguration
+T2=General part
+T3=Dispatcher-\nspecific part
+T4=Module\naddress = 0
+T5=f: Number of addressed nodes=((P746 + 3.18µs/6.36µs) - 2) x (1 / P745); 6.36µs =time for 1 telegram (3.18 due to rounding)
+T6=Number of channels = Number of transmission channels
+(32- bit transmit words) per node; is according to the node which uses the most transmission channels.
+T7=F056\nSIMOLINK\nTlg OFF
+T8=Monitoring is not\nactive until\nafter first valid\ntelegram
+T9=SLB-\nDiagnosis
+T10=A002\nSIMOLINK\nStart alarm
+T11=No fault\nwhen P781= 101.0 s
+T115=Transmit
+T128=Receive
+T129=SIMOLINK
+
+; Seite 160, (SLBIstv), Fkt 921
+[T0076]
+T1=Transmit words
+T2=Channel 0
+T3=Channel 1
+T4=Channel 2
+T5=Channel 3
+T6=Channel 4
+T7=Channel 5
+T8=Channel 6
+T9=Channel 7
+T10=Pause
+T11=Bus cycle\n(Example for 3 nodes and 2 channels)
+T12=Node 1\nTransmit words 3 and 4
+T13=Bus cycle time
+T14=- Each module can read out all circulating telegrams.
+T15=- Each telegram consists of 2 words = 2 x 16 bit.
+T16=- Each module can only describe the telegrams of its own module address.
+T17=- In the above example, module 1 can describe telegrams 1.0 and 1.1.
+T18=- The dispatcher (module address 0) provides the SYNC signal after the defined bus cycle time.
+T19=- The number of nodes is determined by establishing the bus cycle time and the number of  channels. 
+T20=- The dispatcher transmits as many telegrams with ascending node address and channel number\n   as the bus cycle time permits.
+T21=- If the total number of telegrams requires less time than the bus cycle time, the time \n   up to the SYNC signal is filled up with NOP (No Operation) telegrams.
+T22=- The total number of telegrams (modules x channels) is limited to 1023.
+T115=Transmit
+T117=Transmitting 32 bit words:\nIf the same double-word connector is connected up to two successive connector \nindices, this is transmitted as a 32 bit word.
+T118=Example:
+T119=KK1000 is transmitted as\na 32 bit word.
+T120=Only the high part of \nKK1000 and KK2000 is transmitted\nas a 16 bit word.
+T121=1.
+T122=2.
+T129=SIMOLINK
+T131=TxD
+
+; Seite 180, (VC_STW1), Fkt 925
+[T0077]
+T1=from PMU [915]
+T2=Pulse generator
+T4=0 = OFF1, Shutdown via ramp-function generator, followed by pulse disable, \n1 = ON, operating condition (edge-controlled)
+T5=0 = OFF2, pulse disable, motor coasts down\n1 = Operating condition
+T6=0 = OFF3, quick stop\n1 = Operating condition
+T7=1 = Inverter enable, pulse enable\n0 = Pulse disable
+T8=1 = Ramp-function generator enable\n0 = Set ramp-function generator to 0
+T9=1 = Start ramp-function generator\n0 = Stop ramp-function generator
+T10=1 = Setpoint enable\n0 = Setpoint disable
+T11=0 => 1 Edge fault acknowledgement
+T12=1 = Inching bit 0
+T13=1 = Inching bit 1
+T14=1 = Control requested\n0 = No control requested
+T15=1 = Clockwise phase sequence enable\n0 = Clockwise phase sequence disable
+T16=1 = Counter-clockwise phase sequence enable\n0=Counter-clockwise phase sequence disable
+T17=1 = Raise mot. potentiometer
+T18=1 = Lower mot. potentiometer
+T19=0 = External fault 1\n1 = No external fault
+T20=Anzeige von r550 auf der PMU
+T21=to setpoint processing [943]
+T22=to setpoint processing [943]
+T23=Note: This bit must be set in the first PZD word of the \ntelegram received from serial interfaces, so that the \nconverter will accept the process data as being valid \n(compare USS, PROFIBUS, etc.)
+T24=to setpoint processing [942]
+T25=to setpoint processing [941]
+T26=to sequence control 1)\nto fault processing
+T27="Safe OFF" checkback [969]
+T28=to setpoint processing [944]
+T29=to setpoint processing [942]
+T30=[944]
+T31=to setpoint processing [944]
+T32=to setpoint processing [944]
+T33=to braking control [348]
+T34=to braking control [348]
+T35=to braking control [348]
+T36=to setpoint processing [942]
+T37=[944]
+T39=to setpoint processing [941]
+T132=1) The sequence control is the internal\ncontrol (software) for realizing the \ndrive status (r001)
+T133=Vorbelegung der BICO-Parameter:\n1. Binektor gilt für BICO-Datensatz 1\n2.Binektor gilt für BICO-Datensatz 2.
+T134=to sequence control 1)
+T135=Meaning
+T136=Bit No.
+
+; Seite 300, (motpot), Fkt 941
+[T0088]
+T1=MOP storage:
+T2=Ramp generator: 
+T3=Initial rounding:
+T4=0 Mot. potentiometer setpoint is not stored,\n  starting point is specified after ON by P426 StartValue MOP \n1 Mot. potentiometer setpoint is stored in a non-volatile \n  manner after OFF. After ON the mot. potentiometer\n  is set to this value. 
+T5=0 Ramp generator is not effective in automatic mode,\n  accel./decel. time = 0\n1 Ramp generator is always effective.
+T6=0 Without initial rounding\n1 With initial rounding (with which the times set in P431\nand P432 are not precisely realized. P431 and P432\nrefer to a setpoint of 100 %.)
+T7=Raise MOP from control\nword 1 bit 13  [925]
+T8=Lower MOP from control\nword 1 bit 14  [925]
+T9=MOP\n(Realization via internal\nramp-function generator with\nfixed initial rounding)
+T10=ON from sequence control [925]
+
+; Seite 470, (Bremssteuerung), Fkt 348 
+[T0099]
+T26=(K242 = Current)
+T27=Limit value monitor
+T28=Priority\n1 RESET\n2 SET
+T29=Machine magnetized
+T30=(KK148 = Speed ActV)
+T31=SET\n(Q=1)
+T32=Delay
+T33=POWER ON
+T34="OFF command" from sequence control\n(e. g. OFF1, 2 or 3=0)[925]
+T35="Fault" from status word1, bit3 [927]
+T36=(e. g. from digital input)
+T37=<1>
+T38=Brake with checkback\n(P605=2) [348]
+T39=Alarm A037 Brake cannot be closed
+T40=Pulse block Brake [960]
+T41=Alarm A037 Brake cannot be opened
+T42=Brake with checkback message  P605=2 [348]
+T43=Checkback\n1= Brake opened\n(e. g. from digital input)
+T44=(to digital output)
+T45=Sampling time for braking control\n(factory setting: T7= 128* T0)
+T46=Warning: If braking control is used, B277 and B238 must  be connected up!\nExample for interconnecting the braking control:\nP605=2 Brake with checkback message (NO contact, switches if brake closes) [348]\nP561=278 Inverter release from B278  [925]\nP564=277 Setpoint release from B277 [925]\nP654=275 Open brake via digital output 4 [23]\nP613=20 Checkback "Brake Closed" from dig.input  6  [13], [348]\nP612=21 Checkback "Brake opened" from dig.input 6  [13], [348]\n\n
+T47=SET\n(Q=0)
+
+
+; Seite 540, (vc_540), Fkt 966
+[T0104]
+T1=NOTE:\nThe parameters concerned are\ndesignated by the code "M".\n\nIt is only possible to copy the data\nsets in the "Ready for ON" mode.
+T2=Target data set (1...4)
+T3=Source data set (1...4)
+T4=Target data set (1/2)
+T5=Source data set (1/2)
+T6=Target data set (1...4)
+T7=Source data set (1...4)
+T8=MotDataSet bit 18\nfrom control word 2
+T9=MotDataSet bit 19\nfrom control word 2
+T10=BICO-Datensatz\nvon Steuerwort 2
+T11=Function data set bit 16 from control word 2
+T12=Function data set bit 17 from control word 2
+T13=Changeover of motor parameters
+T14=Parameter-\nnumber
+T15=Index 1                                 
+T16=Index 2
+T17=Index 3
+T18=Index 4
+T19=Changeover of binector and\nconnector parameters
+T20=Changeover of function parameters
+T21=NOTE:\nThe parameters concerned are\ndesignated by the code "B".\n\nIt is only possible to copy the data\nsets in the "Ready for ON" mode.
+T22=NOTE:\nThe parameters concerned are\ndesignated by the code "F".\n\nIt is only possible to copy the data\nsets in the "Ready for ON" mode.
+T25=A list of the respective data- set parameters can be found at the end of the complete list of parameter.
+T26=xxxx\nxxxx\nxxxx\nxxxx\nxxxx\nxxxx\nxxxx\nxxxx\n...
+
+; Seite 520, (520),Fkt 968
+[T0106]
+T1=START
+T2=Initialization\nstates
+T3=SWITCH-ON\nINHIBIT\n(8)
+T4=READY FOR\nSWITCHING ON\n(9)
+T5=PRECHARGING\n(10)
+T6=READY FOR\nOPERATION\n(11)
+T7=OPERATION\n(14)
+T8=OFF_WITH_\nRGEN_REV\n(OFF1) (15)
+T9=OFF_WITH_\nFASTSTOP\n(OFF3) (16)
+T10=DOWNLOAD\n(21)
+T11=FAULT\n(7)
+T12=<1>  Switch-on with e.g. P554.B = 1 is not permissible!
+T13=from all\nstates
+T14=OFF2 or\nINV stop or\nSAFE OFF or\nOFF switch-off \nspeed reached
+T15=Error acknowledgement\nafter init. fault
+T16=Acknowledgement
+T17=No ON\nor jogging
+T18=OFF2/3 or\n"Illegal  ON"  <1>
+T19=All components\nready
+T20=ON or jogging
+T21=OFF command
+T22=OFF2 or\nSAFE OFF or\nOFF switch-off\nspeed reached
+T23=OFF2,\nSAFE OFF
+T24=Precharging finished
+T25=INV release 
+T26=INV stop
+T27=OFF1
+T28=OFF3
+T29=P060 = 3, 6
+T30=P060 = 7, 5
+T31=P060 = 4, 5
+
+' Seite 91/92, Hauptschützansteuerung MC Plus, (HSANSTK), Fkt 969
+[T0112]
+T1=see control word 2\n [926]
+T2=Monitoring
+T3=F001\nMain contactor checkback
+T4=Main contactor checkback
+T5=to precharging
+T6=MCon close command\nfrom precharging\nB124
+T7=to main contactor
+
+; Seite 130, (CBSollv2), Fkt 15
+[T0118]
+T1=Valid for following configurations:\n- CB - CB for the CB with the higher slot letter\n- CB before TB, i.e. CB in slot A or C
+T2=B8100...B8115
+T3=B8200...B8215
+T4=B8300...B8315
+T5=B8400...B8415
+T6=B8500...B8515
+T7=B8600...B8615
+T8=B8700...B8715
+T9=B8800...B8815
+T10=B8900...B8915
+T11=No fault when\nP781= 101.0 s
+T107=PKW
+T108=PKW\nWords
+T109=PZD
+T110=PZD\nWords
+T113=Note:
+T116=Dual-\nPort-RAM
+T124=Config-\narea
+T123=USS\nconfigu-\nration
+T124=Config-\narea
+T125=F082\nCB/TB\nTlg OFF
+T130=Bit 10 must be set in the first PZD word so that the\nconverter will accept the process data as being valid.\nFor this reason, the control word 1 must be \ntransferred to the converter in the first PZD word.
+
+; Seite 80, (vc_080), Fkt 917
+[T0135]
+T1=Analog input 1
+T2=Hardware\nsmoothing 10µs
+T3=11Bit + \nsign
+T4=Analog input 2
+T5=-10...10v
+T6=-20...20mA
+T7=AE1\nS3(1-2)
+T8=open
+T9=closed
+T10=AE2\nS3(3-4)
+T11=open
+T12=closed
+T13=Switch on CUVC:
+T14=Select\nMotorgeber [701]
+T15=to fault
+T16=to tachometer [701]
+T17=Select Motor\nEncoder [701]
+T18=to fault F037
+T19=to tachometer [701]
+T20=<1> AnaIn Configuration:
+T21=S3 switch
+
+;Seite 81, (vc_081), Fkt 919
+[T0136]
+T1=Notes on settings:\nB = Base value (compare P350 ... P354)\nSmin = Smallest signal value (e. g. in Hz, V, A)\nSmax = Largest signal value (e. g. in Hz, V, A)\nAmin = Smallest output value in V\nAmax = Largest output value in V\n\nOutput values in the case of current output:\n4mA => Amin = +6\n20mA => Amax = -10V
+T2=P643 = ((Amax - Amin)/(Smax - Smin)) * B\n\nP644 = ((Amax + Amin)/2) - P643 * (Smax - Smin )/(2 * B)\n\nP644 = (Amin * Smax - Amax * Smin) / (Smax - Smin)
+T4=Switch on CUVC:
+T5=A01
+T6=S4(1-3)
+T7=S4(2-3)
+T8=-10...10V
+T9=20...0mA
+T10=S4(4-6)
+T11=S4(5-6)
+T12=A02
+T15=S4 switch
+
+;Seite 30 ,(vc_KonAnzNm),Fkt 908
+[T0137]
+T1=100 %%
+
+;Seite 90, Digitaleingang, (vc_DigEin),  Fkt 13  
+[T0139]
+T1=Inputs:
+T100=Ground
+T101=User circuit
+T102=The terminals -X101/3 to -X101/6 can be used as\nB0026 digital inputs or digital outputs.
+T103=If they are used as digital inputs, the parameters\nP651.B, 652.B, 653.B and 654.B\nhave to be set to 0.\n\nBei If they are used as digital outputs,\nB010...B017 should not be used.
+T104=The terminals -X101/7 to -X101/9 can only be used\nas digital inputs.
+T5=<1> Signal status display for digital input/output\n    terminals on the PMU in r646:
+
+;Seite 190, (vc_190), Fkt 926
+[T0140]
+T1=Select fixed setpoint bit 0
+T2=Select fixed setpoint bit 1
+T3=Select motor data set bit 0
+T4=Select motor data set bit 1
+T5=Select fixed setpoint bit 0
+T6=Select fixed setpoint bit 1
+T7=1 = Enable synchronizing\n0 = Synchronizing disabled
+T8=1 = Enable flying restart\n0 = Flying restart disabled
+T9=1 = Enable droop, speed controller\n0 = Droop, speed controller disabled
+T10=1 = Enable speed controller\n0 = Speed controller disabled
+T11=0 = External fault 2\n1 = No external fault 2
+T12=0 = Master drive (speed control)\n1 = Slave drive (torque control)
+T13=0 = External alarm 1\n1 = No external alarm 1
+T14=0 = External alarm 2\n1 = No external alarm 2
+T15=0 = Select BICO data set 1\n1 = Select BIC data set 2
+T16=0 = No checkback, waiting time P600 active\n1 = Checkback main contactor
+T17=Separate function diagrams are available for\nmaster and slave drive control!
+T18=1) The sequence control is the internal\n    control (software) for realizing the \n    drive status (r001).
+T19=Meaning
+T20=Pre- assignment of the BICO parameters:
+T21=1. Binector valid for BICO data set 1\n2. Binector valid for BICO data set 2
+T22=to data sets [966]
+T23=to data sets [966]
+T24=to data sets [966]
+T25=to data sets [966]
+T26=to fixed setpointsl [940]  
+T27=to fixed setpoints [940]
+T28=to synchronization [781]
+T29=to sequence control 1)
+T30=to speed control [725]
+T31=to speed control [727]
+T32=to speed control [715]
+T33=to speed control [716]
+T34=to sequence control 1)\nto fault processing
+T35=to speed control\nto fixed setpoints
+T36=to sequence control 1)\nto alarm processing 
+T37=to sequence control 1)\nto alarm processing 
+T38=to data sets [966]
+T39=to sequence control 1)
+
+;Seite 200, (vc_200), Fkt 927
+[T0141]
+T1=from sequence control 1)
+T2=From KIB/FLR control [775]
+T3=from messages [960]
+T4=from setpoint processing
+T5=1 = Kinetic buffering/flexible response active\n0 = Kinetic buffering/flexible response inactive
+T6=1 = Positive speed setpoint\n0 = Negative speed setpoint
+T7=1 = Ramp-function generator active\n0 = Ramp-function generator not active
+T8=from alarm processing
+T10=from fault processing
+T12=1) The sequence control is the internal\n    control (software) for realizing the \n    drive status (r001).
+T13=1 = Ready to switch on\n0 = Not ready to switch on
+T14=1 = Ready for operation (DC link loaded, pulses disabled)\n0 = Not ready for operation
+T15=1 = Run (voltage at output terminals)\n0 = Pulses disabled
+T16=1 = Fault active (pulses disabled)\n0 = No fault
+T17=0 = OFF2 active\n1 = No OFF2
+T18=0 = OFF3 active\n1 = No OFF3
+T19=1 = Switch-on inhibit\n0 = No switch-on inhibit (possible to switch on)
+T20=1 = Warning active\n0 = No warning
+T21=1 = No setpoint/actual value deviation detected\n0 = Setpoint/actual value deviation
+T22=1 = PZD control requested (always 1)
+T23=1 = Comparison value reached\n0 = Comparison value not reached
+T24=1 = Low voltage fault\n0 = No low voltge fault
+T25=1 = Request to energize main contactor\n0 = No request to energize main contactor
+T26=Meaning
+T27=From KIB/FLR control [776]
+
+;Seite 210, (vc_210), Fkt 928
+[T0142]
+T1=from sequence control 1)
+T2=from synchronization [323]
+T3=from messages [960]
+T4=1 = Pre-charging active\n0 = Pre-charging not active
+T5=from alarm processing
+T6=from fault processing
+T7=from alarm processing
+T8=from alarm processing
+T9=from fault processing
+T10=from sequence control 1)
+T11=from sequence control 1)
+T12=Meaning
+T13=1 = Flying restart or excitation active\n0 = Flying restart not active or excitation finished
+T14=1 = Synchronism achieved\n0 = Synchronism not achieved
+T15=0 = Overspeed\n1 = No overspeed
+T16=1 = External fault 1 active\n0 = No external fault 1
+T17=1 = External fault 2 active\n0 = No external fault 2
+T18=1 = External warning active\n0 = No external warning
+T19=1 = Converter overload warning active\n0 = No converter overload warning
+T20=1 = Converter overtemperature fault active\n0 = No converter overtemperature fault 
+T21=1 = Converter overtemperature warning active\n0 = No converter overtemperature warning
+T22=1 = Motor overtemperature warning active\n0 = No motor overtemperature warning
+T23=1 = Motor overtemperature fault active\n0 = No motor overtemperature fault 
+T24=Reserve
+T25=1 = Motor pulled out/blocked fault active\n0 = No motor pulled out/blocked fault
+T26=1 = Bypass contactor energized (only AC units)\n0 = Bypass contactor not energized
+T27=1 = Fault during synchronization\n0 = No fault during synchronization
+T28=1) The sequence control is the internal\n    control (software) for realizing the\n    drive status (r001).
+T29=from synchronization [323]
+T30=from block/pullout\ndiagnosis
+T31=2) in addition\n    ExcitationEnd B255
+T32=[772]
+T33=[774]
+
+; Seite 250, (Geberausw), Fkt 701
+[T0143]
+T1=Tacho M
+T2=Track  A
+T3=Track  B
+T4=zero
+T5=Control
+T6=Tacho P15
+T7=Pulse encoder\nevaluation
+T8=From analog input 1 [917]
+T9=Normalization
+T10=From analog input 2 [917]
+T11=Pulse encoder
+T12=Pulse encoder\nwith control track
+T13=Analog input 1
+T14=Analog input 2
+T15=Pulse encoder\nwith zero track
+T16=Pulse encod. with zero\nand control track
+T17=To speed/\nposition processing
+T18=<1> Angle displayed only at P130=15,166
+T19=<1>
+T20=[710],
+T21=[712]
+T22=w/o mot. encoder 0
+
+; Seite 280, (Istwerte), Fkt 962
+[T0144]
+T1=Overcurrent F11
+T2=IL1 set/act values  [705]
+T3=IL3 set/act values  [705]
+T4=to evaluation set/act values [705]
+T5=to evaluation\nset/act values
+T6=No temp.sensor           : P380=P381=0°C\nTemp.sensor KTY84   : P380, P381 >1°C\nTemp.monitoring PTC : P380, P381=1°C
+T7=to temperature model [769]
+T8=to alarms/faults [961]
+T9=Temp.\nmeasuring\npoints
+T10=MAX
+T11=[706]
+T40=[770]
+
+
+; Seite 290, (vc_290), Fkt 940
+[T0145]
+T1=Select FSetp bit 1 from control word 2/bit 21 [926]
+T2=Select FSetp bit 0 from control word 2/bit 20 [926]
+
+; Seite 316, (vc_316), Fkt 942
+[T0146]
+T1=Inching bit 0 from control word 1 / bit 8 [925]
+T2=Inching bit 1 from control word 1 / bit 9 [925]
+T3=Maintain\nsetpoint
+T4=Drive Status r001\n19 = Optimization n/f controller)\n20 = Synchronization <1>
+T5=Release FWD speed from\ncontrol word 1/bit 11 [925]
+T6=Release FWD speed from\ncontrol word 1/bit 12 [925]
+T7=To setpoint channel [946]
+T8=To setpoint channel [943]
+T9=To setpoint channel [944]
+T10=To setpoint channell [946]
+T11=To messages [960]
+T12=To setpoint channel [944]
+T13=To setpoint channel [946]
+T14=To messages [960]
+T16=from synchronization [781]
+T17=from V/f control [765]
+T18=from f control [761]
+T19=<1> only in the case of line synchronization (P534 = 2)
+T20=Setting notes for analog inputs:\nB = Base value (P352, P353)\nSmin = Smallest signal value (in Hz, rpm)\nSmax = Greatest signal value (in Hz, rpm)\nEmin = Smallest input value in V\nEmax = Greatest input value in V\n\nInput values for current specification:\nP632.x = 2\n-20 mA => Emin = -10 V\n20 mA => Emax = 10 V\n\nP632.x = 4\n4 mA => Emin = 0 V\n20 mA => Emax = 10 V\n\nP444 = 10 V * (100 %% / B) * [(Smax - Smin) / (Emax - Emin)]\n\nP445 = (100 %% / B) * [(Smin * Emax - Smax * Emin) / (Emax - Emin)]\n\n\n<1> only in the case of line synchronization (P534 = 2)
+T21=Sync TargFreq
+T22=Slip Frequency
+
+
+;Seite 317, (vc_317), Fkt 943
+[T0147]
+T1=Release setpoint [925]
+T2=Converter status\nOPERATION
+T3=n(set,Spd Sel)\nfrom setpoint channel [942]
+T4=<1>\nEffective acceleration time:Tup_eff =Tup + (AR/2+ER/2)\nEffective deceleration time:Tdn_eff =Tdn + (AR/2+ER/2)\n\n<2>\nRounding is also effective during zero passage\n\n<3>\nThe RGen und Anhalten is only set by internal control\nfunctions\n\ne. g.\n- Kinetic buffering\n- Flying restart\n- Flexible response\n
+T5=No RGen Stop [925]
+T6=RGen tracking\nactive [960]
+T7=RGen active\nto status word 1 [927]
+T8=To setpoint channel [944]
+T9=RGen Release [925]
+T10=Ramp-function generator
+
+;Seite 318, (vc_318), Fkt 944
+[T0148]
+T1=from setpoint channel [943]
+T2=No inching
+T3=n/f Droop
+T5=No OFF3
+T6=speed setpoint [945]
+T7=From synchronization
+T10=speed setpoint [945]
+T11=df(Sync.Reg.)
+T12=n/f(max,REV Spd)
+T13=n/f(max,FWD Spd)
+
+;Seite 319 und 329 (vc_329), Fkt 945
+[T0149]
+T1=speed setpoint [944]
+T2=to control
+T3=to v/f characteristic
+T4=to v/f characteristic 
+T5=to control
+t6=to control
+T7=to control
+T8=to control
+T12=[949]
+
+;Seite 320, (vc_320), Fkt 946
+[T0150]
+T1=to control
+T2=to control
+T3=to control\n[716]
+T4=to control\n[744]
+T5=to control\n[711]
+T6=Torq Setp
+T7=Minimum setpoint\nfrom setpoint\nchannel\part 1 [942]
+T8=n/f(max,REV Spd)\n[942]
+T9=Minimum setpoint\n[942]
+T10=n/f(max,FWD Spd)\n[942]
+T11=to control\n[718]
+T12=P354 Reference Torque
+T13=P113 Rated motor torque
+T14=[730]
+T15=[731]
+
+; Seite 285, (Nfm_Regelg), Fkt 705
+[T0151]
+T1=From MVal\nsensing\n[962]
+T2=Transformation angle from gating unit[956]
+T3=Vector\nrotation
+T4=From motor model 
+T5=[760], 
+T6=[761]
+T7=From speed\nprocessing
+T8=[710], 
+T9=[711]
+T10=From current control [755]
+T11=DC BusVolts act\nFrom MVal sensing\n[962]
+T12=U(set,abs)
+T13=Motor Rtd Speed
+T14=[967]
+T15=Mot pole pair #
+T16=60
+T17=M (set, friction)
+T18=[735]
+T19=[736]
+T20=[737]
+T21=[738]
+T22=[739]
+T23=[762]
+T24=[756]
+T25=[974]
+
+; Seite 286, (Uf_Steuer), Fkt 706
+[T0152]
+T1=From MVal\nsensing\n[962]
+T2=Transformation angle from gating unit [956]
+T3=Ammeter
+T7=From setp\nfrequency
+T8=[765], 
+T9=[767]
+T10=From v/f characteristic [955]
+T11=DC BusVolts act\nFrom MVal sensing\n[962]
+T12=U(set,V/f)
+T13=Motor Rtd Speed
+T14=[967]
+T15=Mot pole pair #
+T16=60
+T17=[766],
+T18=Tsmooth=Tp* 2^(P287)
+
+; Seite 350, (nM_Regel), Fkt 710
+[T0153]
+T1=To motor model [760],
+T2=To speed controller [715],
+T3=To set/actual values [705]
+T4=To DT1 element [725], 
+T5=[726]
+T6=Plausibility test
+T7=A43\nF53
+T8=(P222=0\ncorr. to\nP222=91)
+T9=[701]
+T10=Tracking\nerror\ncorrection
+T11=normal =2
+T12=slow =1
+T13=without =0
+T14=10,11,12\n15,16
+T15=13,14
+T16=Sel Mot Encod
+T17=<1> Only in the case of n- control (P100 = 4)\n       Not in the case of synch. motor (P95= 12)
+T18=<1>
+T19=[762]
+T20=[716]
+T21=[702]
+T22=To friction torque [737],
+T23=[738]
+T24=To blocking diagnosis [772],
+T25=[774]
+
+; Seite 351, (fReg_Leit), Fkt 711
+[T0154]
+T1=From setpoint channel [944]
+T2=From torque limitation \n[730]
+T3=From setpoint channel [946]
+T4=From motor model [761]
+T5=From control word 2 bit 27
+T6=Smooth n/f(setl)
+T7=To speed controller [717] 
+T8=Start Time
+T9=ProtRGen Gain
+T10=[943]
+T11=[717]
+T12=[926]
+T13=n/f(set)
+T14=Torq(limit1,act)
+T15=f(cEMF Reg.,i)
+T16=f(cEMF Reg.,p)
+T17=From motor model [761]
+T18=To motor model [761]
+T19=Torq(limit2,act)
+
+; Seite 352, (Drehz_Lage), Fkt 712
+[T0155]
+T1=To speed controller [719]
+T2=Plausibility test
+T3=A43\nF53
+T4=(P222=0\ncorr. to\nP222=91)
+T5=[701]
+T6=To set/actual values [706]
+
+; Seite 360, (nReg_Leit), Fkt 715
+[T0156]
+T1=From setpoint channel\n[945]
+T2=From speed\nprocessing [710]
+T3=Scale Torq(PRE)\n[943]
+T4=From control word 2 bit 25 [926]
+T5=[735],
+T6=Limitation active from torque limit,\nstop I component when torque limits of the\nunit have been reached;\nLimit I component to torque limits
+T7=To torque\npre-control\n[725]
+T8=Is only calculated if P260 or\nP262 are not connected in\ndiagram [739] 
+T9=[736],
+T10=[737],
+T11=[738]
+
+; Seite 362, (D_fRegl), Fkt 717
+[T0157]
+T1=From setpoint channel\n[945]
+T2=From speed\nprocessing [711]
+T3=Scale Torq(PRE)\n[943]
+T5=[736]
+T6=Limitation active from torque limit,\nstop I component when torque limits of the\nunit have been reached;\nLimit I component to torque limits
+T7=To torque\npre-control\n[727]
+
+; Seite 361, (m&n_Reg), Fkt 716
+[T0158]
+T1=from setpoint channel  [946]
+T2=from speed\nprocessing  [710]
+T4=from control word 2 bit 25 [926]
+T5=[735]
+T6=Limitation active from torque limit,\nStop I- component when torque limits of\nthe unit have been reached;\nLimit I- component to torque limits
+T7=to torque/current\nlimitation
+T8=[736],
+T9=[738]
+T10=[737],
+
+; Seite 363, (fReg_Fol), Fkt 718
+[T0159]
+T1=From setpoint channel\n[946]
+T2=from speed\nprocessing [711]
+T5=[736]
+T7=to torque/current\nlimitation\n[736]
+
+; Seite 364, (Uf_nReg), Fkt 719
+[T0160]
+T1=from setpoint channel \n[945]
+T2=from speed\nprocessing [712]
+T4=from control word 2 bit 25 [926]
+T5=to setup frequency [766]
+
+; Seite 256, (256), Fkt 933
+[T0161]
+T1=Frequency signal evaluation mode\n(P139 = 1xxx)
+T2=Terminal assignment X400:\n60...67: n.c.\n\nTerminal assignment X401:\n68: Forwards counter channel 1+\n69: Forwards counter channel 1-\n70: Reverse counter channel 1+\n71: Reverse counter channel 1-\n72: Forwards counter channel 2+\n73: Forwards counter channel 2-\n74: n.c.\n75: n.c.
+T3=Channel 1 forwards counter (+)
+T4=Channel 1 forwards counter (-)
+T5=Channel 1 reverse counter (+)
+T6=Channel 1 reverse counter (-)
+T7=Channel 2 forwards counter (+)
+T8=Channel 2 forwards counter (-)
+T9=Counter\nchannel 1\n(forw./rev.)
+T10=Counter\nchannel 2\n(forwards)
+T11=Normalization\n<2>
+T12=<3> optional smoothing s. Function Diagram 735:
+T13=Encoder signal evaluation mode\n(P139=2xxx)
+T14=Terminal assignment X400:\n60: Supply voltage\n61: Supply ground\n62...67: n.c.\nTerminal assignment X401:  <1>\n68: Track A+ (channel 1)\n69: Track A- (channell 1)\n70: Track B+ (channel 1)\n71: Track B- (channel 1)\n72: Forwards counter channel 2+\n73: Forwards counter channel 2-\n74: n.c.\n75: n.c.
+T15=Track A (+)
+T16=Track A (-)
+T17=Track B (+)
+T18=Track B (-)
+T19=Channel 2 forwards counter (+)
+T20=Channel 2 forwards counter (-)
+T21=Supply voltage
+T22=Supply ground
+T23=maximum input frequency: 1 MHz
+T24=Normalization via\n- Frequency signal evaluation mode\n  Frequency (frequencies stated in P141.1 and .2\n  correspond to the output of\n  100%% to the connectors KK0094 and KK0095.\n- Encoder signal evaluation mode\n  Pulse number (pulse numbers of connected\n  encoders stated in P141.1 and .2)
+T25=Setting P139:\nInput level A/ B track\nxxx0: Channel 1 / encoder input HTL unipolar\nxxx1: Channel 1 / encoder input TTL unipolar\nxxx2: Channel 1 / encoder input HTL differential input\nxxx3: Channel 1 / encoder input TTL / RS422
+T26=Input level zero track\nxx0x: Channel 2 HTL unipolar\nxx1x: Channel 2 TTL unipolar\nxx2x: Channel 2 HTL differential input\nxx3x: Channel 2 TTL / RS422
+T27=Encoder power supply\nx00x: 5V\nx1xx: 15V
+T28=Mode of setpoint evaluation\n0xxx: Frequency signal evaluation deactivated\n1xxx: Frequency signal evaluation mode\n2xxx: Encoder signal evaluation mode
+
+; Seite 365, (Statik_n_Reg), Fkt 725
+[T0162]
+T1=from setpoint channel [945]
+T2=from setpoint channel [943],
+T3=from\nsetpoint channel\nn/f(set,limitr) [945],
+T4=from speed\nprocessing\nn/f(act,smo´d) [710]
+T5=Smooth n/f(act)
+T6=[715]
+T7=Smooth n/f(set)
+T8=Band Stop Filter
+T9=Scale T(precon)
+T10=[943],
+T11=Band Stop Gain
+T12=Speed controller
+T13=Droop Rel
+T14=[926]
+T16=is only calculated if P260\nor P262 [739] are\nnot connected
+T17=to setpoint channel [944]
+T18=Tsetp for torque\nlimitation
+T19=for torque\nlimitation dIsq\n[735]
+T20=T(Accel)
+T21=n/f(set,smo´d)
+T22=n/f Deviation
+T23=n/f(Reg,I-Comp)
+T24=T(set,n/f Reg)
+T25=n/f(Reg,P-Comp)
+T26=Scale T(precon)
+T27=[943],
+T28=[949]
+T29=[735],
+
+; Seite 366, (DT1_Glied), Fkt 726
+[T0163]
+T1=from speed\nprocessing\n[710]
+T2=Smooth n/f(act)\n[716]
+T3=to torque\nlimitation dIsq\n[736],
+T4=n/f(act,smo´d)
+T5=\n\n[738]
+
+; Seite 367, (St-Drehmom), Fkt 727
+[T0164]
+T1=Droop Rel\n[926]
+T2=from setpoint channel [944],
+T3=Tsetp to\ntorque limitation [735]
+T4=from setpoint channel [943],
+T5=from speed controller\n[717]
+T6=Speed controller
+T7=T(Accel)
+T8=n/f(Reg,I-Comp)
+T9=T(set, n/f Reg)
+T10=n/f(Reg,P-Comp)
+T11=from setpoint channel [945]
+
+; Seite 370, (Dmom_begr), Fkt 730
+[T0165]
+T1=from setpoint channel [945]
+T2=[946]
+T3=[743]
+T4=from flux calculation [740]
+T5=from I2t calculation [961]
+T6=from motor model [760]
+T7=from motor model [760]
+T8=[761]
+T9=to the torque setpoint [735]
+T10=[736]
+T11=Calculation Isq,max
+T12=f(set,stator)
+T13=FieldWeakFrq-act)
+T14=from flux calculation [740]
+
+; Seite 371, (Folgeantrieb), Fkt 735
+[T0166]
+T1=This part of the function diagram is replaced by\nfigure [739] if P260 or P262 have been softwired!
+
+; Seite 375, (n-Regel_Leit), Fkt 739
+[T0170]
+T1=Speed\nlimitation\ncontroller
+T2=Control
+T3=n/f(max,posDR) [942]
+T4=from speed controller
+T5=[715]
+T6=[716]
+T7=n/f(max,negDR) [942]
+T8=from torque/\ncurrent limitation [730]
+T9=is only calculated if P260 or\nP262 is interconnected [739]
+T10=n/f(Band-Stop)
+T13=T = 8 * T0
+T16=Isq 
+
+; Seite 380, (nm_Leit-Folge), Fkt 740
+[T0171]
+T1=Vset from current controller [755]
+T2=from current controller [755]
+T3=from set/actual evaluation [705]
+T4=from motor model [760]
+T5=from torque\nlimitation\n[730]
+T6=[736]
+T7=[739]
+T8=Load-dependent\nflux reduction
+T9=Control of\nflux build-up
+T10=Field weakening\ncurve
+T11=Calculation of\nfield weakening\nfrequency
+T12=Calculation\nIsd(set)
+T13=to current lim. [730]
+T14=to current controller [755]
+T15=from current limitation [730]
+T16=DCBusVolt(smo´d)
+T17=f(set,stator)
+
+; Seite 381, (f_Leit-Folge), Fkt 743
+[T0172]
+T1=Vset from current controller [755]
+T2=from current controller [755]
+T3=from set/actual evaluation [705]
+T4=from motor model [761]
+T5=from torque limitation 
+T6=[735]
+T7=[736]
+T8=Load-dependent\nflux reduction
+T9=Control of\nflux build-up
+T10=Field weakening\ncurve
+T11=Calculation of\nfield weakening\nfrequency
+T12=Calculation\nIsd(set)
+T13=to current lim. [730]
+T14=to current controller [755]
+T15=from current limitation [730]
+T16=from current setpoint [744]
+T17=DCBusVolt(smo´d)
+T18=f(set,stator)
+T19=I(Set,smoothed)
+
+; Seite 251, (vc_251), Fkt 702
+[T0173]
+T1=Tacho M
+T2=Track A
+T3=Track B
+T4=Zero
+T5=Control
+T6=Tacho P15
+T7=Pulse encoder\nevaluation
+T8=Load angle
+T11=Pulse encoder
+T12=Pulse encoder with control track
+T15=Pulse encoder with zero track
+T16=Pulse encod. with zero\nand control track+
+T17=To speed/\nposition processing [710]
+T18=<1>  Angle displayed only at P130=15,16
+T19=<1>
+T20=from current model [742] 
+T21=to motor model [762]
+T22=w/o mot.encoder 0
+
+; Seite 382, (Stromsollwert_f), Fkt 744
+[T0174]
+T1=from speed controller [717],
+T2=from current limitation [730]
+T3=from setpoint channel RGen active [943]
+T4=from setpoint channel [945],
+T5=from motor model [761]
+T6=to flux calculation [743]
+T7=Calculation\nI setp
+T8=[718]
+T9=[946]
+T10=n/f(Reg,I-Port)
+T11=I(max,perm)
+T12=EMF Model act.
+T13=[948]
+           
+; Seite 390, (Stromregler_asm), Fkt 755                      
+[T0175]
+T1=from temperature adaption [769]
+T2=Isd from flux calculation
+T3=[740],
+T4=[743]
+T5=Act. values from [705]
+T6=Isq from curr.limitation
+T7=[735]
+T8=[736]
+T9=[739]
+T10=from KIB/Vdmax control
+T11=[775]
+T12=[777]
+T13=Curr. contr. Isq
+T14=Precontrol\nand\ndecoupling
+T15=Calculation of max. modulation depth
+T16=from set/actual\nvalue evaluation [705]
+T17=to flux calculation
+T18=Vd\ncorrection
+T19=to gating unit [956]
+T20=Vsetp to set/actual values [705]
+T21=Vsetp to flux calculation 
+T22=Pulse Frequency
+T23=ModSystemRelease
+T24=[956]
+T25=Isd(act)
+T26=Isq(act)
+T27=f(set,stator)
+T28=I(KIB/VdmaxReg)
+T29=DCBusVolt(smo´d)
+T30=Psi from motor model
+T31=Curr. contr. Isd
+
+; Seite 391, (vc_391), Fkt 756
+[T0176]
+T1=from temperature adaption [770]
+T2=Isd from flux calculation [742]
+T3=[741]
+T5=Act. values from [705]
+T6=Isq from curr. limitation [737]
+T7=[738]
+T10=from KIB/Vdmax control
+T11=[775]
+T12=[777]
+T13=Curr. contr. Isq
+T14=Precontrol\nand\ndecoupling
+T15=Calculation of max. modulation depth
+T16=from set/actual\nvalue evaluation[705]
+T17=to flux calculation
+T18=Vd\ncorrection
+T19=to gating unit [956]
+T20=Vsetp to set/actual values [705]
+T21=Vsetp to flux calculation 
+T22=Pulse Frequency
+T23=ModSystemRelease
+T24=[956]
+T25=Isd(act)
+T26=Isq(act)
+T27=f(set,stator)
+T28=I(KIB/VdmaxReg)
+T29=DCBusVolt(smo´d)
+T30=Psi from motor model
+T31=Curr. contr. Isd
+
+;Seite 395, (vc_395), Fkt 760
+[T0177]
+T2=Psi Rotor flux
+T3=EMF Controller
+T4=n/f(max)+\ninternal\ncontrol reserve
+T5=T=T0
+T6=Current\nModel
+T7=EMF Model
+T8=to gating unit [956]
+T9=from temperature\nadaption [769]
+T10=from temperature\nadaption [769]
+T11=from act. value\nevaluation [705]
+T12=from act. value\nevaluation [705]
+T13=from speed\nprocessing [710]
+T14=isd(act)
+T15=isq(act)
+T16=n/f(act)
+
+;Seite 396, (vc_396), Fkt 761
+[T0178] 
+T1=to gating unit\n[956]
+T2=EMF Model
+T3=Current\nModel
+T4=Psi Rotor flux
+T5=Reson.Damping
+T6=EMF Controller
+T7=n/f(max)+\ncontrol reserve
+T8=T=T0
+T9=from temperature\nadaption [769] 
+T10=from temperature\nadaption [769]
+T11=from act. value\nevaluation [705]
+T12=from act. value\nevaluation [705]
+T13=from speed processing [711]
+T14=to speed processing [711]
+T15=to speed processing [711]
+T16=Isd(act)
+T17=isq(act)
+
+; Seite 397, (vc_397), Fkt 762
+[T0179]
+T1=from temperature adaption [770]
+T2=V model
+T3=from act. value evaluation [705]
+T4=Isd(act)
+T5=Isq(act)
+T6=Transformation angle from gating unit [956]
+T7=from position detection [702]
+T8=to gating unit [742]
+T9=from speed processing [710]
+T10=to flux controller [741]
+T11=Rotor flux
+T12=to gating unit [956]
+T13=n/f(max)+\ninternal\ncontrol reserve
+T14=T = T0
+
+; Seite 420, (Steuersatz), Fkt 956
+[T0180]
+T1=from current controller 
+T2=[755]
+T3=[756]
+T4=Mod. depth from current control [755]
+T5=Modulation depth from V/f control [955]
+T6=Setpoint frequency from motor model [761]
+T7=Setpoint frequency from V/f control
+T8=[765]
+T9=[766]
+T10=[767]
+T11=Setpoint angle from curr. controller [755]
+T12=Gating unit\n\nAsynchronous\nspace vector\modulation\nNK\n\n+\n\noptimized FLM\npulse pattern\n(output-optimized)
+T13=to evaluation of\nactual values [705]
+T14=Transformation angle of field orientation 	
+T15=[955]
+T16=Mod Depth Limit
+T17=Modulation depth 
+T18=A(set,V/f)
+T19=f(set,gating)
+T20=Alpha(set)
+T21=[762]
+T22=[761]
+
+; Seite 405, (Uf_kennl), Fkt 955
+[T0181]
+T1=from ref.frequency
+T2=[765],
+T3=[766],
+T4=[767]
+T5=from Imax controller
+T6=acceleration current
+T7=from actual-value evaluation [706]
+T9=[778]
+T10=Control\nvoltage build-up
+T11=linear
+T12=parab.
+T13=Pulse Frequency
+T14=[956]
+T15=ModSystemRelease
+T16=Calculation of max. modulation depth
+T17=from evaluation of set/actual values [706]
+T18=Vd\ncorrection
+T19=Vset to set/act values [706]
+T20=to gating unit [956]
+T21=U(set) via connector only for V/f textile;\nchangeover with P317 <> 0
+T22=f(set,gating)
+T23=Isq(set,active)
+T24=Imax Reg(Out)
+T25=DCBusVolt(smo´d)
+
+;Seite 400, (vc_400), Fkt 765
+[T0182]
+T2=from setpoint channel\n[945]
+T3=MIN
+T4=Resonance\ndamping
+T5=from act.\nevaluation [706]
+T6=from KIB/Vdmax\ncontrol [775]
+T7=from KIB/Vdmax control\n[777]
+T8=from setpoint\nchannel [945]
+T9=from actual-value\nevaluation[706]
+T10=from I2t\ncalculation [961]
+T11=RGen active [943]
+T12=[955] to\nV/f characteristic
+T13=to gating unit [956]
+T14=[955] to\nV/f characteristic
+T15=Acceleration current\nto V/f characteristic [955]
+T16=Isq(set,active)
+T17=f(KIB/VdmaxReg)
+T18=OutputAmps(rms)
+T20=[948]
+
+;Seite 401, (vc_401), Fkt 766
+[T0183]
+T1=from speed controller [719]
+T2=f(KIB/VdmaxReg)
+T3=from KIB/Vdmax control
+T4=to gating unit [956]
+T5=from setpoint channel [945]
+T6=from actual-value evaluation [706]
+T7=from I2t calculation [961] 
+T8=RGen active [943]
+T9=MIN
+T10=Resonance\ndamping
+T11=from setpoint channel [945]
+T12=Acceleration current\nto V/f characteristic [955]
+T13=OutputAmps(rms)
+T14=to V/f characteristic [955]
+T15=[948]
+
+;Seite 402, (vc_402), Fkt 767
+[T0184]
+T1=from speed controller [719]
+T2=f(KIB/VdmaxReg)
+T3=from KIB/Vdmax control
+T4=to gating unit [956]
+T5=from setpoint channel [945]
+T6=from actual-value evaluation[706]
+T7=from I2t calculation [961] 
+T8=RGen active [943]
+T9=MIN
+T10=Resonance\ndamping
+T11=from setpoint channel [945]
+T12=Acceleration current\nto V/f characteristic [955]
+T13=OutputAmps(rms)
+T14=to V/f characteristic [955]
+T15=[948]
+
+; Seite 430, (vc_430), Fkt 769
+[T0185]
+T2=Rs/Rl-\nAdaption
+T3=0 = off\n1 = without temp.sensor\n2 = with temp.sensor
+T4=ActValues [962]
+T5=to motor model [760]
+T6=to motor model [761]
+T7=to motor model [760]
+T9=to motor model [761]
+
+; Seite 431, (vc_431), Fkt 770
+[T0186]
+T1=ActValues [962]
+T2=to motor model [762]
+T3=[761]
+T4=0 = off\n2 = with temp.sensor
+T5=RS/RL-\nAdaption
+
+; Seite 480, (vc_480), Fkt 960
+[T0187]
+T2=OFF delay
+T3=to gating pulse inhibit\nto sequence control
+T4=(Is only calculated in converter\nstatus r001=14, 15, 16 and 17\nnot for slave drive!).
+T5=no Brake
+T6=Delay
+T7=OFF delay
+T8=from setpoint channel [945]
+T9=RGen tracking active\nfrom RGen [943]
+T10=from speed processing
+T12=Positive speed setpoint\nat status word 1, bit 14  [927]
+T13=Comparison value reached\nat status word 1, bit 10 [927]
+T14=Overspeed\nat status word 2, bit 18 [928]
+T15=n/f(max,FWD Spd) [942]
+T16=to set/actual deviation\nat status word 1 bit 8 [927]
+T17=OFF1 or OFF3\nfrom sequence control [925]
+T18=n/f(max,REV Spd) [942]
+T19=Pulse block\nfrom Brake [348]
+
+; Seite 485, (vc_485), 772
+[T0188]
+T1=Set/act deviation [960]
+T2=n/f-Reg in Limitr
+T3=n/f-Reg in Limitr
+T5=f(set,stator)
+T6=from speed processing
+T8=EMF Model act.
+T9=from motor model
+T11=Output\ndelay
+T12=from motor model
+T14=15*Tab
+T15=from flux calculation
+T17=no f control\n(P100 <> 3)
+T18=from motor model  [761]
+T19=Alarm A042\nMotor pulled out or blocked
+T20=Fault F015\nMotor pulled out or blocked\nto status word 2 bit 28 [928]
+T21=2 %% f(mot,n)
+T22=T control (P100=5)\nor\nslave drive
+T25=10 %% f(mot,n)
+
+; Seite 486, (vc_486), Fkt 773
+[T0189]
+T1=Imax Reg(Out)
+T2=Alarm A042\nMotor pulled out or blocked
+T3=2 %% f(mot,n)  
+T4=from speed\nprocessing [712]
+T5=from speed controller [719]
+T6=from messages set/actual deviation [960]\nfrom OFF delay
+T7=from current limitation [765]
+T8=Set/act deviation [960]
+T9=Fault F015\nMotor pulled out or blocked\nto status word 2 bit 28[928]
+T10=Fault F015\nMotor pulled out or blocked\nto status word 2 bit 28[928]
+T11=n/f-Reg in Limitr
+T12=(only for V/f characteristic with n controller P100=0)
+T13=(only for V/f characteristic P100=1)
+
+;Seite 487, (vc_487), Fkt 774
+[T0190]
+T1=Set/act deviation [960]
+T2=n/f-Reg in Limtr [737]
+T3=[738]
+T4=from speed processing
+T5=2 %% f(mot,n)
+T6=T control (P100=5)\nor\nslave drive
+T7=Output delay
+T8=15 x Tab
+T9=Alarm A042\nMotor pulled out or blocked
+T10=Fault F015\nMotor pulled out or blocked\nto status word 2 bit 28\n[928]
+T11=from motor model Psi
+T12=[762]
+T13=from flux calculation [741]
+T14=n/f-Reg in Limtr
+T15=[710]
+T16=Psi(act)
+T17=Psi(set)
+
+;Seite 490, (vc_490), Fkt 961
+[T0191]
+T1=from evaluation\nof actual values [705]
+T2=i2t calculation
+T3=Mot. Temp.T1 [961]
+T4=Alarm\nConverter overload
+T5=Converter overload
+T6=to status word 2, bit 22 [928]
+T7=to current limitation
+T8=i2t calculation
+T9=Alarm\nMotor Overtemperature
+T10=to status word 2, bit 25 [928]
+T11=Fault\nMotor Overtemperature
+T12=to status word 2, bit 26  [928]
+T13=from measured-value sensing [962]
+T14=Alarm\nMotor Overtemperature
+T15=Fault\nMotor Overtemperature 
+T16=to status word 2, bit 25 [928]
+T17=to status word 2, bit 26 [928]
+T18=No temp. sensor: P380 = P381 = 0 °C\nThermistor (PTC): P380, P381 = 1 °C\nTemp. monitoring with KTY84: P380, P381 > 1 °C\nIf inverter pulses are blocked, the fault message is\ngenerated only in the event of a cable short-circuit.
+T19=Calculating\ntime\nmonitoring
+T20=F042 Fault
+T21=A001 Alarm
+T22=to V/f characteristic
+T23=OutputAmps(rms)
+T24=max. converter\ntemperature [962]
+T25=Converter\ntemperature\nlimits
+T26=Fault: inverter\novertemperature              F023 [928]
+T27=Alarm: inverter\novertemperature              A022 [928]
+
+; Seite 600, (vc_600), Fkt 775 
+[T0192]   
+T1=<2> at P100 = 3,4,5
+T2=<1>\nVd,rated = 1,315 * P071   (AC unit)\nVd,rated = P071                (DC unit)
+T3=<2>\nK0270, K0271 are also used for the functions Vdmax\ncontrol [610] and flexible response 
+T4=<3>\nThe KIB switch-off threshold VdKIB Off is 5%% above\nthe VdKIB On starting point.
+T5=<4>\nThe fault message F008 "DC link undervoltage"\ncomes at Vd<61%% Vd,rated with released KIB.
+T6=<5>\nFor P518 values >90% are only practical,\nif an Active Front End (AFE) is used as\nrectifier/regenerative unit.
+T7=DC link voltage\n(Vdact) [962]
+T8=<2> at P100 = 0,1,2
+T9=VdKIB on
+T10=Vd,rated
+T11=to status word 1 [927]  
+            
+; Seite 605, (vc_605), Fkt 776               
+[T0193]
+T2=<1>\nVd,rated = 1,315 * P071   (AC unit)\nVd,rated = P071               (DC unit)
+T3=<2>\nK0270 is also used for the functions\nkinetic buffering [600] and\nVdmax control 
+T4=<3>\nThe FLR switch-off threshold VdFLR off is 5%%\nabove the starting point of VdFLR on.
+T5=<4>\nSThe threshold for F008 "DC link undervoltage" can be\nreduced via P523 FLR Vdmin. It should be at least\n10%% below the FLR starting point.
+T6=<5>\nFor P518 values >90%% are only practical if an\nActive Front End (AFE) is used as a\nrectifier/regenerative unit.
+T7=K0240\nDC link\nvoltage (Vdact) [962]
+T8=PID controller
+T9=VdFLR on
+T10=Vd,rated
+T11=<2> at P100=0,1,2
+T12=to status word 1 [927]
+T13=<1>
+T14=<3><4> 
+
+; Seite 610, (vc_610), Fkt 777 
+[T0194]
+T1=<1>
+T2=DC link\nvoltage (Vdact) [962]
+T3=PID controller
+T4=<1>\nVdmax on =119 %% * P701 * 1,315    (AC unit)\nVdmax on =119 %% * P071               (DC unit)\n\n\n<2>\nK0270 and K0271 are also used for the functions\nkinetic buffering and flexible response.
+T5=<2> at P100 = 3,4,5
+T6=Vdmax on
+T7=<2> at P100=0,1,2
+T8=0
+
+; Seite 615, (vc_615), Fkt 778  
+[T0195]
+T1=OutputAmps(rms)
+T2=<1>\nThe DC braking current is calculated during automatic\nparameterization	(P115=1, 2, 3). It can be set at a\nmaximum of 4 times the rated motor current.	
+T3=<2>\nThe de-excitation time is calculated during automatic\nparameterization (P115=1, 2, 3).
+T4=<3>\nThe "DC braking" function can be started via binector selection\nonly from drive statuses (r001) "Operation", "OFF1" and "OFF3".\n\nIf the "DC braking" function is deselected again during DC braking\ntime (P397) via binector selection, the "Flying restart"\nfunction is automatically activated!
+T5=<4>\nThe alarm A045 appears if "DC braking" has been activated and the motor\nfrequency is higher than the frequency at which DC braking starts.
+T6=to gating pulse inhibit\nto sequence control
+T7=<4>\nAlarm A045\n"DC braking activated"
+T8="OFF1" or "OFF3"
+T9=Gating pulse inhibit
+T10=MIN
+T11=disabled
+T12=with OFF3
+T13=to V/f characteristic [955]
+T14=from actual-value evaluation [706]
+T15=from I2t control [961]
+T16=to V/f characteristic [767]
+T17=to V/f characteristic [765]
+T18=to V/f characteristic [766]
+
+;Seite X01oben, ()
+[T0196]
+T1=Synchronizing\nenable
+T2=Ref. potential\nDigital input
+T3=Drive Status r001=14 (Operation)
+T4=from sequence control <1>
+T5=from status word 2 [926]
+T6=Src Sync Release
+T7=Sheet X02:\n\n\n1. Freq. measurement\n\n2. Phase measurement\nand control\n\n3. Adjust phase\ndeviation to 0
+T8=Synchronizing with\nTSY board
+T9=Alarms:\nA066 fsyn > fmax\nA067 fsyn < fmin\nA068 fsyn <> fsoll\nA069 HLG active\nA070 Sync. Fault\nA071 TSY missing
+T10=Fault during synchronizing\nto status word 2 Bit 30 [928]
+T11=Synchronism achieved\nto status word 2 Bit 17  [928]
+T12=Sync. Status:\n0 = Sync. deactivated\n1 = Frequency measurement active\n2 = Phase control active\n3 = Synchronism achieved\n4 = Synchronizing fault
+T13=Synchronizing:\n\n- Converter (P534 = 1):\n The reference frequency of the synchronizing\n converter has to be run to the frequency of the\n main converter (target frequency).\n\n- Line (P534 = 2):\n The synchronizing enable shall be granted\n after pulse enable in the case of the starting converter,\n before pulse enable in the case of the return converter.\n The direction of rotation enable is granted in P571 or P572.
+T14=The sequence control is the internal control (software)\nfor implementing the drive status (r001).
+T15=<1>
+
+; Seite X02, (vc_x02),
+[T0197]
+T1=Target frequency\ninput
+T2=Target frequency\noutput
+T3=Frequency measurement
+T4=f(set, gating unit)\n[956]
+T5=Frequency from\nmain converter\nor line
+T6=n/f(max.pos.Spd) [942]\nn/f(max.neg.Spd) [942]
+T7=Alarm A66\ntarget freq. >n/fmax
+T8=Alarm A67\ntarget freq. <n/fmin 
+T9=Start phase control (s.u.)
+T10=Alarm A068\nFrequency, synchronizing converter reached
+T11=fmin=2Hz
+T12=Frequency from\nsynchronizing converter
+T13=Phase measurement,\nPhase control
+T14=PI Controller
+T15=from v/f control   
+T16=f(set,gating unit)
+T17=to setpoint channel [944],
+T18=Status word 2\nBit 17 [928]
+T19=Synchronism achieved
+T20=connection to VSB board in case of\nline synchronization:
+T21=X4 / 1\nX4 / 2\nX3 / 1\nX3 / 3
+T22=X111 / 13\nX111 / 14\nX111 / 10\nX111 /   9
+T23=[949]
+
+; Seite X03, (vc_x03),
+[T0198]
+T1=Connection example for digital inputs/ outputs with internal power supply
+T2=Connection example for digital inputs/ outputs with external power supply
+T3=For converter synchronization\n(main converter)
+T4=Synchronizing converter\n(ramp-up or ramp-down converter)
+T5=For line synchronization\n(voltage sensing)
+T6=For converter synchronization\n(main converter)
+T7=Synchronizing converter\n(ramp-up or ramp-down converter)
+T8=For line synchronization\n(voltage sensing)
+
+; Seite 369, (vc_369), Fkt 731
+[T0218]
+T1=from setpoint channel [945]
+T2=[946]
+T3=[740]
+T4=from flux calculation [741]
+T5=from I2t calculation [961]
+T6=from motor model
+T7=[762]
+T8=from flux calculation [761]
+T9=to the torque setpoint [737]
+T10=[738]
+T11=Calculating Isq,max
+T12=f(set,stator)
+T13=FieldWeakFrq-ac
+T14=from motor model [762]
+T15=from motor model
+T16=[762]
+T17=from cosPhi control [742]
+T18=from setpoint channel [945]
+T19=[946]
+
+; Seite 373, (vc_373), Fkt 737
+[T0219]
+T1=from speed processing
+T2=[710]
+T3=[711]
+T4=from torque pre-control TorqSetp [725] 
+T5=from torque limits [731]
+T6=to current\ncontrol\n[756]
+T7=from torque-pre-control dIsq [725]
+T8=[762]
+
+; Seite 374, (vc_374), Fkt 738
+[T0220]
+T1=from speed processing
+T2=[710]
+T3=[711]
+T4=from\ntorque pre-control\nTorqSetp [716] 
+T5=from torque limits [731]
+T6=to current\ncontrol\n[756]
+T7=from DT1 element dIsq [726]
+T8=[762]
+T9=Selection\nof torque\nsetpoint
+
+; Seite 383, (vc_383), Fkt 741
+[T0222]
+T1=from torque limitation 
+T2=[737], 
+T3=[738] 
+T4=from cos PHI control [742]
+T5=VSetp from current controller [755]
+T6=from\ncurrent controller\n[756]
+T7=from setpoint/actual value\nevaluation [705]
+T8=DCBusVolt(smo’d)
+T9=from motor model [762]
+T10=f(set.stator)
+T11=Field-weakening\ncharacteristic
+T12=Control of flux\nbuild-up
+T13=df(changeCosPhi) [742]
+T14=Calculation of\nfield-weakening\nfrequency
+T15=from V model\n[762]
+T16=Flux control
+T17=Tot Leak React
+T18=[967]
+T19=R( Stator, tot)
+T20=[770]
+T21=to current model [742]
+T22=Flux controller\nVmax-controller\nEMFmax-controller
+T23=P-controller
+T24=to\nexcitation current monitoring [742]
+T25=EMFN
+T26=to current model [742]
+T27=P297/8 (1,00)
+
+; Seite 510, (vc_510), Fkt 965
+[T0246]
+T1=High byte = Current fault number r947.01   <1>\nLow byte = Current alarm number
+T2=<1>
+T3=K0250 = 0000 if there is no fault\nand no alarm
+T4=Current fault
+T5=Causes the diagnosis\nmemory to be deleted
+T6="ON" status
+T7=from
+T8=sequence control
+T9=Fault trigger signal\nfrom sequence control
+T10=Day
+T11=Hours
+T12=Seconds
+T13=1st acknowledged fault
+T14=2nd acknowledged fault
+T15=3rd acknowledged fault
+T16=4ht acknowledged fault
+T17=5th acknowledged fault
+T18=6th acknowledged fault
+T19=7th acknowledged fault
+T20=Operating\nhours\ncounter 
+T21=Status at time of\nthe last fault:
+T22=Auto Acknowl
+
+;Seite 669, (vc_669), Fkt 998
+[T0249]
+T1=from actual values
+T2=from
+T3=from actual values
+T4=from current controller
+T5=from actual values
+T6=from actual values
+T7=from actual values
+T8=Amps Ref
+T9=4 x Mot Rtd Amps (n)
+T10=Reference voltage
+T11=4 x mot. voltage (n)
+T12=Reference voltage
+T13=4 x supply voltage (n)
+T14=Ref Torque
+T15=4 x Mot Rtd Torq (n)
+T16=I(Oupt. Tech)
+T17=I(max, permTech)
+T18=Isq(act, Tech)
+T19=Isq(smth, Tech)
+T20=V(set, Tech)
+T21=DCBus(act, Tech)
+T22=T(act, Tech)
+
+; Seite 515, (vc_515), Fkt 970
+[T0250]
+T1=Power-section definition
+T2=Slot A (option board)
+T4=Slot C (option board)
+T5=Slot D (option board)
+T6=Slot E (option board)
+T7=Slot F (option board)
+T8=Slot G (option board)
+T9=Basic board
+
+; Seite 620, (vc_620), Fkt 779
+[T0251]
+T1=Flying-restart enable\nfrom control word 2 [926]
+T2=n/f(act)
+T3=<1> Only in the case of flying restart without encoder signal (search).\n<2> Only in the case of flying restart with encoder signal (indepent of control mode).\n<3> No standstill test when P527.1 = 0.0 %%.
+T4=ON/OFF\ncommand
+T5=Current\ncurve
+T6=Frequency\ncurve
+T7=De-\nmagnetize\ntime
+T8=Standstill\ntest
+T9=Search
+T10=Excitation\ntime
+T11=ON
+T12=OFF
+T13=Search current
+T14=Current setpoint
+T15=Speed setpoint
+T16=n/f (max)\n[942]
+
+; Freie Bausteine
+[T0272]
+T1=Integral time constant\n(1000dec = 1 sec)
+T2=Input
+T3=Upper limit
+T4=Lower limit
+T5=Setting value
+T6=Setting command
+T7=Output
+T8=Output to\nupper limit
+T9=Output to\nlower limit
+
+[T0273]
+T1=Sampling ratio 1:1 \nMax. output frequency:\n1/(2 x sampling time)
+
+[T0274]
+T1=during this acc. time dx/ dt would be = 100 %%
+T2=D Portion
+
+[T0275]
+T1=Set setting\ncommand y=x
+
+
+;Seite 481, (vc_481), Fkt 959
+[T0289]
+T1=Speed display
+T2=Messages
+T3=n/f(set) setpoint channel [945]
+T4=n/f(act) speed processing [710]
+T5=Setpoint < Comparison threshold
+T6=Speed setpoint [947]
+T7=MOTID controller optimization
+T8=v(act) speed processing
+T9=Current level
+T10=Fault F57
+
+;Seite 327, (vc_327), Fkt 948
+[T0292]
+T1=Release setpoint [925]
+T2=Converter status\nOPERATION
+T3=n(set,Spd Sel)\nfrom setpoint channel [947]
+T5=[925]\nNo RGen Stop
+T6=RGen tracking\nactive [960]
+T7=RGen active\nto status word 1 [927]
+T8=n/f(set) [949]
+T9=[925]\nRGen Release
+T10=Ramp-function generator
+T11=Approach\n(fixed setpoint)
+T12=Ramp.funct.gen. active
+T13=<1>\nEffective acceleration time: Tup_eff = Tup + (AR/2+ER/2)\nEffective deceleration time: Tdn_eff = Tdn + (AR/2+ER/2)\n<2>\nRounding has an effect even for zero passage\n<3>\nTv = Tab * Connector value
+
+;Aufzugs- und Hubwerkanwendungen
+;Seite 324, (vc_324), Fkt 939
+[T0290]
+T1=Fixed setpoints
+T2=c.w. Bit 20
+T3=c.w. Bit 21
+T4=Evaluation
+T6=DC link \nvoltage Vd
+T7=Selection of fixed setp bit0 for control word 2/ bit 20 [926]
+T8=Selection of fixed setp bit1 for control word 2/ Bit 21 [926]
+T9=Function data-set ramp funct. generator [942]
+T10=Upper limit
+T11=Lower limit
+
+;Seite 327, (vc_327), Fkt 948
+[T0292]
+T1=Release setpoint [925]
+T2=Converter status\nOPERATION
+T3=n(set,Spd Sel)\nfrom setpoint channel [947]
+T5=No RGen\nStop [925]
+T6=RGen tracking\nactive [960]
+T7=RGen active\nto status word 1 [927]
+T8=To setpoint channel [949]
+T9=RGen Release\n[925]
+T10=Ramp-function generator
+T11=Approach\n(fixed setpoint)
+T12=Ramp. funct. gen. active
+T13=<1>\nEffective acceleration time: Tup_eff = Tup + (AR/2+ER/2)\nEffective deceleration time: Tdn_eff = Tdn + (AR/2+ER/2)\n<2>\nRounding has an effect even for zero passage\n<3>\nTv = Tab * Connector value
+
+;Seite 328, (vc_328), Fkt 949
+[T0293]
+T1=from setpoint channel [948]
+T2=No inching
+T3=n/f Droop
+T4=Starting pulse triggering\nStandard: Release brake
+T5=No OFF3
+T6=speed setpoint
+T7=From synchronization
+T8=Starting pulse
+T9=n/f(max,FWD Spd)
+T10=n/f(max,REV Spd)
+T11=Speed setpoint [945]
+
+;Seite 326, (vc_326), Fkt 947
+[T0294]
+T1=Inching bit 0 from control word 1 / bit 8 [925]
+T2=Inching bit 1 from control word 1 / bit 9 [925]
+T3=Maintain\nsetpoint
+T4=Drive Status r001\n19 = Optimization n/f controller)\n20 = Synchronisieren <1>
+T5=Release FWD speed from\ncontrol word 1/bit 11 [925]
+T6=Release FWD speed from\ncontrol word 1/bit 12 [925]
+T7=To setpoint channel [946]
+T8=To setpoint channel [943]
+T9=To setpoint channel [944]
+T10=To setpoint channell [946]
+T11=to messages [960]
+T12=To setpoint channel [944]
+T13=To setpoint channel [946]
+T14=to messages [960]
+T16=from synchronization [781]
+T17=from open-loop V/f control [765]
+T18=from closed-loop f control [761]
+T19=<1> Only in the case of line synchronization (P534 = 2)
+T20=Setting notes for analog inputs:\nB = Base value (P352, P353)\nSmin = Smallest signal value (in Hz, rpm)\nSmax = Greatest signal value (in Hz, rpm)\nEmin = Smallest input value in V\nEmax = Greatest input value in V\n\nInput values for current specification:\nP632.x = 2\n-20 mA => Emin = -10 V\n20 mA => Emax = 10 V\n\nP632.x = 4\n4 mA => Emin = 0 V\n20 mA => Emax = 10 V\n\nP444 = 10 V * (100 %% / B) * [(Smax - Smin) / (Emax - Emin)]\n\nP445 = (100 %% / B) * [(Smin * Emax - Smax * Emin) / (Emax - Emin)]\n\n\n<1> Only in the case of line synchronization (P534 = 2)
+T21=Sync TargFreq
+T22=Slip Frequency
+
+;Seite X01unten, ()
+[T0297]
+T1=from status word 2 2 [928]
+T2=Sync reached
+T3=from status word 2 2 [928]
+T4=No Sync. Fault
+
+; Seite 798, (vc_798), Fkt 976
+[T0309]
+T1=connector-to-parameter/parameter-to-connector converter
+T2=Parameter-\nnumber
+T3=Index
+T4=Value entered in parameter <2>:
+T5=Double connector
+T6=Double-word parameter:
+T7=Word parameter:
+T8=Connector
+T9=Double-word parameter:
+T10=Word parameter:
+T11=<1> Internally, the parameter numbers or the indices of all five\n       index places (1 to 5) are passed on via the connector.\n       Only the value of the first index is displayed via the connector.\n\n<2> Word parameter should be written via connectors,\n       and double- word parameters via double connectors.\n\n<3> Consult the parameter list in the Compendium to find out the\n       operating states in which a parameter change can be made.\n\n<4> In the case of dynamic signals, the RAM must be used for storage\n       (a parameter can only be written 100 000 times in the EPROM)
+T12=1=Parameter transfer O.K.\n0=Parameter transfer not O.K.
+T13=Parameter value
+T14=Read
+T15=Write
+T16=Write Value
+T17=EEPROM
+T18=Example of connector- to- parameter conversion:\nConnector K0409 is to be converted to parameter\nP279.02. Alteration in the RAM ==>\n- U445.1 = 279 (parameter number)\n- U446.1 = 2   (index)\n- U444.1 = 125 (source connector)\n- U447.1 = 1   (permanent transfer)\n- U448.1 = 0   (write into the RAM)\n\nExample of parameter- to- connector conversion:\nParameter P103 is to be converted to connector\nK0477 ==>\n- U445.4 = 103 (parameter number)\n- U446.4 = 1   (non- indexed parameter)\n- U449.4 = 1   (parameter- connector conversion)\n- U447.4 = 1   (permanent output)
+T19=Enable
+
+;Seite 550, (vc_550), Fkt 967
+[T0248]
+T1=Converter status
+T2=Drive setting (P60=5) r001=5
+T3=Ready for ON\nr001=9
+T4=Function:
+T5=Automatic\nparameterization <8>
+T6=Automatic\nparameterization <8>
+T7=Measurement at\nstandstill <6> <8> <9>
+T8=No-load\nmeasurement <6>
+T9=n/f-controller optim.\nP536 <6>
+T10=Ground fault test\nP375 <6> <8> <9>
+T11=Selection
+T12=P115 = 1 (2, 3)
+T13=P115 = 1 (2, 3)
+T14=P115 = 2 (3, 6)
+T15=P115 = 4 (3)
+T16=P115 = 5 (3)
+T17=also with P115 = 2 (3, 6)
+T18=Motor rating-plate data (P60 = 5)
+T19=Start with switch-on command (compare P554): Current measuring section r377
+T20=P95=2<1>\nP97 =\nSelection of\n1PH7\n(=1PA6)\n1PL6\n1PH4
+T21=P95 = 10(IEC) <1>\nP100 = Reg.Art\nP101 = Umot,n\nP102 = Imot,n\nP103 = I0 <2> \nP104 = cosPHIn\n----   = Pmot,n\n----   = ETA\nP107 = fmot,n\nP108 = nmot,n\nP109 = zp  <3>\nP113 = Mmot,n <4>
+T22=P95\nP100 \nP101\nP102\nP103 <2>\n----\nP105\nP106\nP107\nP108\nP109 <3>\nP113 <4>
+T23=Reference values:\n\nP351 = Vref = P101\nP350 = Iref = P102\n\n\n\n\nP352 = fref = P107\nP353 = nref = P107 * 60 / P109\n\nP354 = Tref = P113
+T24=\n\n\nr539 = TestPulseResult\nr541 = R(Stator)=> P121\nr542 = R(Rotor)=> r126,\n                     => P127\nr543 = VoltsDrop=> P347\n\nr545 = DeadTime=> P349\nr546 = X(leakage)=> P122
+T25=\n\n\n\nr540 = TachoTestResult <7>\n\n\n\n\n\n\n
+T26=\nP537 = n/f-RegDyn(act)\nP538 = n/f Reg Osq Freq\n\nr540 = TachTestResult <7>\n\n\n\n\n\n\n
+T27=r376 = GrdFltTestResult\n\n\n\n\nr539 = TestPulsesResult\n\n\n\n\n\n\n\n\n\n\n
+T28= P114 <5>
+T29= P114 =Technol. Cond. <5>
+T30= P114 <5>
+T31=\nr110= Motor Rtd Slip\n\nr117= Resist Cable\nr118 = Resist Stator ++\nr119= Magn. Current\nP120 = Main reactance\nP121= Stator Resist\nP122= Tot Leak React\nr124= Rotor Time Const\nr125= T(sigma)\nr126 = RotResist\nP127 = RotResistTmpFact = 80%%\nP347 = ON VoltsCompens.\nP348 = Dead Time Comp. = 0\nP349 = T(DeadTimeComp.)\nP471 = Scale Torq(PRE)  = 0 %% 
+T32=\nr110\n\nr117\nr118\nr119\nP120\nP121\nP122\nr124\nr125\nr126\nP127 = 80 %%\nP347\nP348 = 0 %%\nP349\nP471 = 0 %%
+T33=P103 = Mot Magn Amps\n\nr110\n\nr117\nr118\nr119\nP120\nP121\nP122\nr124\nr125\nr126\nP127 = 80 %% \nP347\nP348 = 0 %%\nP349\n\n
+T34=P103 = Mot Magn Amps\n\nr110\n\nr117\nr118\nr119\nP120\n\n\n\n\n\n\n\n\n\n
+T35=\nr110\nP116 = Start-up Time\nr117\nr118\nr119\n\n\n\n\n\nP127 = 80 %%\n\n\n\nP471 = 100 %%
+T36=<1> For synchronous motors and V/f characteristic, select P95 = 10,11.\n<2> With P103 = 0.0%, the magnetizing current is calculated (compare r119).\n<3> Is re- calculated if P107 or P108 is altered (not in the case of download).\n<4> All torque signals and displays relate to P354/P113.\n<5> With P114 = 0, a standard setting is made.
+T37=<6> With P115 = 3, motor identification is carried out completely. To do this, the converter/inverter must be switched on twice\n<7> The tachometer test can also be selected with P115 = 7.\n<8> Automatic parameterization is also carried out if measurement at a standstill is selected.\n<9> With P115 = 6, the parameters determined are not adopted.
+
+;Seite 551, (vc_550), Fkt 974
+[T0310]
+T1=Converter status
+T2=Drive setting\n(P60 = 5) r001 = 5
+T3=Ready for ON\nr001 = 9
+T4=Function:
+T5=Automatic\nparameterization
+T6=Manual input
+T7=Automatic\nparameterization
+T9=n/f controller optimization\nP536 <6>
+T10=Ground fault test\nP375 <6> <8> <9>
+T11=Selection:
+T12=P115 = 1
+T13=P115 = 1
+T15=Motor data
+T16=P115 = 5
+T17=also with P115 = 2 (3, 6)
+T18=Motor rating- plate data
+T19=Start with switch-on command (compare P554): Current measuring sec. r377
+T21=P95 = 12 \nP100 = Control Mode\nP101 = Vmot,n\nP102 = Imot,n\nP103 = I0 <2> \nP104 = cosPHIn\n------ = Pmot,n\n------ = ETA\nP107 = fmot,n\nP108 = nmot,n\nP109 = zp    <3>\nP113 = Mmot,n <4>
+T22=
+T23=Reference values:\n\nP351 = Vref = P101\nP350 = Iref = P102\n\n\n\n\nP352 = fref = P107\nP353 = nref = P107 * 60 / P109\n\nP354 = Tref = P113
+T26=\nP537 = n/f RegDyn(act)\nP538 = n/f Reg Osc Freq\n\nr540 = TachTestResult <7>\n\n\n\n\n\n\n
+T29= P114 =Techol. Cond. <5>
+T30=\nP117 = Resist Cable=0,0 %%\n\n\n\n\n\n\n\nP347 = ON VoltsCompens.\nP348 = Dead Time Comp. = 0\nP349 = T( DeadTimeComp.)\nP471 = Scale Torq( PRE) = 0 %% 
+T31=\nP117\nr118 = Resist Stator ++\nP121= Stator Resist\nP122= Tot Leak React\nr124= Rotor Time Const\nr125= T(sigma)\n\nP347\n\nP349\n
+T32=\n\n\n\n\n\n\n\nP347\nP348\nP349\nP471 = 0 %%
+T33=P116 = Start-up Time\n\n\n\n\n\n\n\n\n\nP471 = 100 %%
+T34=<1> Is recalculated if P107 or P108 is altered (not in the case of download).\n<2> All torque signals and displays relate to P354/P113.\n<3> With P114 = 0, a standard setting is made.\n<4> The tachometer test can also be selected with P115 = 7.

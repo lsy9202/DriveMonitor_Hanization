@@ -1,0 +1,179 @@
+[Popup]
+Menu=参数组(&P)
+
+[Popup2]
+Menu=诊断(&D)
+
+[参数组(&P)]
+Menu=&Start-up,&Converter settings
+
+[诊断(&D)]
+Menu=&Faults,&Alarms,&Messages/Operating values
+
+[&Faults]
+View=Parliste
+Parameter=47,880
+
+[&Alarms]
+View=Parliste
+Parameter=49,50
+
+[&Messages/Operating values]
+View=Parliste
+Parameter=001,002,003,006,010,011,015,016,017,019,020,023,024,025,026,027,035,036,038,040,048,871,872
+
+[&Start-up]
+Menu=&Converter data,&Motor data,&Field charactaristic,&Actual value sensing,Basic &technological functions
+
+[&Converter settings]
+Menu=&Analog inputs,&Binary inputs,A&nalog outputs,B&inary outputs,&Control,&Motor Interface,&Kommunication,&Basic technological functions,&Freely def.function blocks
+
+[&Converter data]
+View=Parliste
+Parameter=060,064,065,066,067,070,071,072,073,074,075,076,077,078
+
+[&Motor data]
+View=Parliste
+Parameter=100,101,102,103,104,105,106,107,108,109,110,111,112,114,115,117,118,119
+
+[&Field charactaristic]
+View=Parliste
+Parameter=120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139
+
+[&Actual value sensing]
+View=Parliste
+Parameter=83,706,708,140,141,142,143,452,144,115,609
+
+[Basic &technological functions]
+View=Parliste
+Parameter=171,172,180,181,303,304,305,306
+
+[&Analog inputs]
+View=Parliste
+Parameter=700,701,702,703,704,706,707,708,709,710,711,712,713,714,716,717,718,719,721,722,723,724
+
+[&Binary inputs]
+View=Parliste
+Parameter=761,762,763,764,765,766,767,769
+
+[A&nalog outputs]
+View=Parliste
+Parameter=739,740,741,742,743,744,745,746,747,748,749,750,751,752,753,754,755,756,757,758,759
+
+[B&inary outputs]
+View=Parliste
+Parameter=770,771,772,773,774,775,776,777,778
+
+[&Control]
+Menu=&Fixed setpoints,&Ramp function generator,&Speed controller,Current &limiting,&Current controller,&EMF controller,&Field current controller
+
+[&Motor interface]
+View=Parliste
+Parameter=13,14,145,146,147,148
+
+[&Kommunication]
+Menu=&Serial interfaces,&Expansion boards
+
+[&Basic technological functions]
+Menu=&Digital setpoints,&Technology controller,&Motorized potentiometer,&Oscillation and forcing,&Friction characteristic,&Inertia compensation
+
+[&Digital setpoints]
+View=Parliste
+Parameter=401,402,403,404,405,406,409,410,411,412,413,414,415,416,417,418,419
+
+[&Technology controller]
+View=Parliste
+Parameter=420,421,422,424,425,426,427,428,430,431,432,433,450,451,452
+
+[&Motorized potentiometer]
+View=Parliste
+Parameter=460,461,462,463,464,465,466
+
+[&Oscillation and forcing]
+View=Parliste
+Parameter=480,481,482,483
+
+[&Friction characteristic]
+View=Parliste
+Parameter=520,521,522,523,524,525,526,527,528,529,530
+
+[&Inertia compensation]
+View=Parliste
+Parameter=540,541,543,544,545,546
+
+[&Freely def.function blocks]
+Menu=&Adder,&Multiplier,&Divider,&Characteristic,&Changeover switches,&Inverter,&Absolute value generator,Limit value &monitor,&Limiter
+
+[&Fixed setpoints]
+View=Parliste
+Parameter=096,097,098,099
+
+[&Ramp function generator]
+View=Parliste
+Parameter=300,301,302,303,304,305,306,307,308,309,310
+
+[&Speed controller]
+View=Parliste
+Parameter=200,201,202,203,204,205,220,222,223,224,225,226,227,228,229
+
+[Current &limiting]
+View=Parliste
+Parameter=170,171,172,180,181,182,183,184,600,601,602,603,604,605,606,607
+
+[&Current controller]
+View=Parliste
+Parameter=15,18,19,20,37,602,157,158,110,111,153,155,156,600,159,150,151,887,152,074,160
+
+[&EMF controller]
+View=Parliste
+Parameter=273,274,275,276,277
+
+[&Field current controller]
+View=Parliste
+Parameter=250,251,252,253,254,255,256,257,258
+
+[&Serial interfaces]
+View=Parliste
+Parameter=780,781,782,783,784,786,787,788,790,791,792,793,794,796,797,798
+
+[&Expansion boards]
+View=Parliste
+Parameter=900,902,903,904,905,906,907,908,909,910,911,916,924,925,926,927,927,929,930,931,932,971
+
+[&Adder]
+View=Parliste
+Parameter=650,661,672,679
+
+[&Multiplier]
+View=Parliste
+Parameter=651,652,662,663,673,674,680,681,682
+
+[&Divider]
+View=Parliste
+Parameter=653,654,696,697,683,450,684
+
+[&Characteristic]
+View=Parliste
+Parameter=664,698,699
+
+[&Changeover switches]
+View=Parliste
+Parameter=656,657,666,667,676,677
+
+[&Inverter]
+View=Parliste
+Parameter=655,665,675
+
+[&Absolute value generator]
+View=Parliste
+Parameter=658,669,688,689,690,691
+
+[Limit value &monitor]
+View=Parliste
+Parameter=659,660,692,693,670,671,695,694
+
+[&Limiter]
+View=Parliste
+Parameter=668,686,687
+
+

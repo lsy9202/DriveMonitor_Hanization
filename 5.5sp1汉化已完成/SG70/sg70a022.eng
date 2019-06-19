@@ -1,0 +1,1021 @@
+0510
+F0001|0000|Voltage monitor                 
+                
+F0002|0000|Fault msg.trig.1                
+                
+F0003|0000|Fault msg.trig.2                
+                
+F0004|0000|Fault msg.trig.3                
+                
+F0005|0000|Fault msg.trig.4                
+                
+F0006|0000|Alarm msg.trig.1                
+                
+F0007|0000|Alarm msg.trig.2                
+                
+F0008|0000|Alarm msg.trig.3                
+                
+F0009|0000|Alarm msg.trig.4                
+                
+F0010|0000|Con/bin conv.1                  
+                
+F0011|0000|Con/bin conv.2                  
+                
+F0012|0000|Con/bin conv.3                  
+                
+F0013|0000|Bin/con conv.1                  
+                
+F0014|0000|Bin/con conv.2                  
+                
+F0015|0000|Bin/con conv.3                  
+                
+F0016|0000|averager 1                      
+                
+F0017|0000|averager 2                      
+                
+F0018|0000|averager 3                      
+                
+F0019|0000|averager 4                      
+                
+F0020|0000|Add/subt.1                      
+                
+F0021|0000|Add/subt.2                      
+                
+F0022|0000|Add/subt.3                      
+                
+F0023|0000|Add/subt.4                      
+                
+F0024|0000|Add/subt.5                      
+                
+F0025|0000|Add/subt.6                      
+                
+F0026|0000|Add/subt.7                      
+                
+F0027|0000|Add/subt.8                      
+                
+F0028|0000|Add/subt.9                      
+                
+F0029|0000|Add/subt.10                     
+                
+F0030|0000|Add/subt.11                     
+                
+F0031|0000|Add/subt.12                     
+                
+F0032|0000|Add/subt.13                     
+                
+F0033|0000|Add/subt.14                     
+                
+F0034|0000|Add/subt.15                     
+                
+F0035|0000|Sign inverter 1                 
+                
+F0036|0000|Sign inverter 2                 
+                
+F0037|0000|Sign inverter 3                 
+                
+F0038|0000|Sign inverter 4                 
+                
+F0040|0000|Sw.sign invert.1                
+                
+F0041|0000|Sw.sign invert.2                
+                
+F0042|0000|Divider 4                       
+                
+F0043|0000|Divider 5                       
+                
+F0044|0000|Divider 6                       
+                
+F0045|0000|Divider 1                       
+                
+F0046|0000|Divider 2                       
+                
+F0047|0000|Divider 3                       
+                
+F0048|0000|Add/subt.16                     
+                
+F0049|0000|Add/subt.17                     
+                
+F0050|0000|Multiplier 1                    
+                
+F0051|0000|Multiplier 2                    
+                
+F0052|0000|Multiplier 3                    
+                
+F0053|0000|Multiplier 4                    
+                
+F0054|0000|                                
+                
+F0055|0000|Mul/div.1                       
+                
+F0056|0000|Mul/div.2                       
+                
+F0057|0000|Mul/div.3                       
+                
+F0058|0000|                                
+                
+F0060|0000|Abs.value gen.1                 
+                
+F0061|0000|Abs.value gen.2                 
+                
+F0062|0000|Abs.value gen.3                 
+                
+F0063|0000|Abs.value gen.4                 
+                
+F0065|0000|Limiter 1                       
+                
+F0066|0000|Limiter 2                       
+                
+F0067|0000|Limiter 3                       
+                
+F0068|0000|Lim.val.monotor8                
+                
+F0069|0000|Lim.val.monotor9                
+                
+F0070|0000|Lim.val.mon.flt1                
+                
+F0071|0000|Lim.val.mon.flt2                
+                
+F0072|0000|Lim.val.mon.flt3                
+                
+F0073|0000|Lim.val.monotor1                
+                
+F0074|0000|Lim.val.monotor2                
+                
+F0075|0000|Lim.val.monotor3                
+                
+F0076|0000|Lim.val.monotor4                
+                
+F0077|0000|Lim.val.monotor5                
+                
+F0078|0000|Lim.val.monotor6                
+                
+F0079|0000|Lim.val.monotor7                
+                
+F0080|0000|Maximum select.1                
+                
+F0081|0000|Minimum select.1                
+                
+F0082|0000|Track.store.el.1                
+                
+F0083|0000|Track.store.el.2                
+                
+F0084|0000|An.signal mem.1                 
+                
+F0085|0000|An.signal mem.2                 
+                
+F0086|0000|Multiplexer 1                   
+                
+F0087|0000|Multiplexer 2                   
+                
+F0088|0000|Multiplexer 3                   
+                
+F0089|0000|SoftwareCounter                 
+                
+F0090|0000|Analog switch 1                 
+                
+F0091|0000|Analog switch 2                 
+                
+F0092|0000|Analog switch 3                 
+                
+F0093|0000|Analog switch 4                 
+                
+F0094|0000|Analog switch 5                 
+                
+F0095|0000|Analog switch 6                 
+                
+F0096|0000|Analog switch 7                 
+                
+F0097|0000|Analog switch 8                 
+                
+F0098|0000|Analog switch 9                 
+                
+F0099|0000|Analog switch 10                
+                
+F0100|0000|Integrator 1                    
+                
+F0101|0000|Integrator 2                    
+                
+F0102|0000|Integrator 3                    
+                
+F0103|0000|DT1 element1                    
+                
+F0104|0000|DT1-element2                    
+                
+F0105|0000|DT1-element3                    
+                
+F0106|0000|Characteristic 1                
+                
+F0107|0000|Characteristic 2                
+                
+F0108|0000|Characteristic 3                
+                
+F0109|0000|Death zone 1                    
+                
+F0110|0000|Death zone 2                    
+                
+F0111|0000|Death zone 3                    
+                
+F0112|0000|Setp. branching                 
+                
+F0113|0000|Simple RFG                      
+                
+F0114|0000|Technology contr                
+                
+F0115|0000|vel./speed calc.                
+                
+F0116|0000|var.inertia calc                
+                
+F0118|0000|Decoder/demult.1                
+                
+F0119|0000|Decoder/demult.2                
+                
+F0120|0000|AND element 1                   
+                
+F0121|0000|AND element 2                   
+                
+F0122|0000|AND element 3                   
+                
+F0123|0000|AND element 4                   
+                
+F0124|0000|AND element 5                   
+                
+F0125|0000|AND element 6                   
+                
+F0126|0000|AND element 7                   
+                
+F0127|0000|AND element 8                   
+                
+F0128|0000|AND element 9                   
+                
+F0129|0000|AND element 10                  
+                
+F0130|0000|AND element 11                  
+                
+F0131|0000|AND element 12                  
+                
+F0132|0000|AND element 13                  
+                
+F0133|0000|AND element 14                  
+                
+F0134|0000|AND element 15                  
+                
+F0135|0000|AND element 16                  
+                
+F0136|0000|AND element 17                  
+                
+F0137|0000|AND element 18                  
+                
+F0138|0000|AND element 19                  
+                
+F0139|0000|AND element 20                  
+                
+F0140|0000|AND element 21                  
+                
+F0141|0000|AND element 22                  
+                
+F0142|0000|AND element 23                  
+                
+F0143|0000|AND element 24                  
+                
+F0144|0000|AND element 25                  
+                
+F0145|0000|AND element 26                  
+                
+F0146|0000|AND element 27                  
+                
+F0147|0000|AND element 28                  
+                
+F0150|0000|OR element 1                    
+                
+F0151|0000|OR element 2                    
+                
+F0152|0000|OR element 3                    
+                
+F0153|0000|OR element 4                    
+                
+F0154|0000|OR element 5                    
+                
+F0155|0000|OR element 6                    
+                
+F0156|0000|OR element 7                    
+                
+F0157|0000|OR element 8                    
+                
+F0158|0000|OR element 9                    
+                
+F0159|0000|OR element 10                   
+                
+F0160|0000|OR element 11                   
+                
+F0161|0000|OR element 12                   
+                
+F0162|0000|OR element 13                   
+                
+F0163|0000|OR element 14                   
+                
+F0164|0000|OR element 15                   
+                
+F0165|0000|OR element 16                   
+                
+F0166|0000|OR element 17                   
+                
+F0167|0000|OR element 18                   
+                
+F0168|0000|OR element 19                   
+                
+F0169|0000|OR element 20                   
+                
+F0170|0000|Excl.OR elem. 1                 
+                
+F0171|0000|Excl.OR elem. 2                 
+                
+F0172|0000|Excl.OR elem. 3                 
+                
+F0173|0000|Excl.OR elem. 4                 
+                
+F0174|0000|Maximum select.2                
+                
+F0175|0000|Maximum select.3                
+                
+F0176|0000|Maximum select.4                
+                
+F0177|0000|Minimum select.2                
+                
+F0178|0000|Minimum select.3                
+                
+F0179|0000|Minimum select.4                
+                
+F0180|0000|Inverter 1                      
+                
+F0181|0000|Inverter 2                      
+                
+F0182|0000|Inverter 3                      
+                
+F0183|0000|Inverter 4                      
+                
+F0184|0000|Inverter 5                      
+                
+F0185|0000|Inverter 6                      
+                
+F0186|0000|Inverter 7                      
+                
+F0187|0000|Inverter 8                      
+                
+F0188|0000|Inverter 9                      
+                
+F0189|0000|Inverter 10                     
+                
+F0190|0000|Inverter 11                     
+                
+F0191|0000|Inverter 12                     
+                
+F0192|0000|Inverter 13                     
+                
+F0193|0000|Inverter 14                     
+                
+F0194|0000|Inverter 15                     
+                
+F0195|0000|Inverter 16                     
+                
+F0196|0000|Analog switch 11                
+                
+F0197|0000|Analog switch 12                
+                
+F0198|0000|Analog switch 13                
+                
+F0199|0000|Analog switch 14                
+                
+F0200|0000|NAND element 1                  
+                
+F0201|0000|NAND element 2                  
+                
+F0202|0000|NAND element 3                  
+                
+F0203|0000|NAND element 4                  
+                
+F0204|0000|NAND element 5                  
+                
+F0205|0000|NAND element 6                  
+                
+F0206|0000|NAND element 7                  
+                
+F0207|0000|NAND element 8                  
+                
+F0208|0000|NAND element 9                  
+                
+F0209|0000|NAND element 10                 
+                
+F0210|0000|NAND element 11                 
+                
+F0211|0000|NAND element 12                 
+                
+F0212|0000|Limiter 4                       
+                
+F0213|0000|Limiter 5                       
+                
+F0214|0000|Limiter 6                       
+                
+F0215|0000|RS flipflop 1                   
+                
+F0216|0000|RS flipflop 2                   
+                
+F0217|0000|RS flipflop 3                   
+                
+F0218|0000|RS flipflop 4                   
+                
+F0219|0000|RS flipflop 5                   
+                
+F0220|0000|RS flipflop 6                   
+                
+F0221|0000|RS flipflop 7                   
+                
+F0222|0000|RS flipflop 8                   
+                
+F0223|0000|RS flipflop 9                   
+                
+F0224|0000|RS flipflop 10                  
+                
+F0225|0000|RS flipflop 11                  
+                
+F0226|0000|RS flipflop 12                  
+                
+F0227|0000|RS flipflop 13                  
+                
+F0228|0000|RS flipflop 14                  
+                
+F0229|0000|Analog switch 15                
+                
+F0230|0000|D flipflop 1                    
+                
+F0231|0000|D flipflop 2                    
+                
+F0232|0000|D flipflop 3                    
+                
+F0233|0000|D flipflop 4                    
+                
+F0235|0000|Fixed val. 1-20                 
+                
+F0236|0000|Fixed val. 21-40                
+                
+F0237|0000|Fixed val. 41-60                
+                
+F0238|0000|Fixed val. 61-80                
+                
+F0239|0000|Fixed val.81-100                
+                
+F0240|0000|Timer 0...60s 1                 
+                
+F0241|0000|Timer 0...60s 2                 
+                
+F0242|0000|Timer 0...60s 3                 
+                
+F0243|0000|Timer 0...60s 4                 
+                
+F0244|0000|Timer 0...60s 5                 
+                
+F0245|0000|Timer 0...60s 6                 
+                
+F0246|0000|Timer 0..600s 1                 
+                
+F0247|0000|Timer 0..600s 2                 
+                
+F0248|0000|Timer 0..600s 3                 
+                
+F0249|0000|Timer 0..600s 4                 
+                
+F0250|0000|Binary switch 1                 
+                
+F0251|0000|Binary switch 2                 
+                
+F0252|0000|Binary switch 3                 
+                
+F0253|0000|Binary switch 4                 
+                
+F0254|0000|Binary switch 5                 
+                
+F0256|0000|Alarm msg.trig.5                
+                
+F0257|0000|Alarm msg.trig.6                
+                
+F0258|0000|Alarm msg.trig.7                
+                
+F0259|0000|Alarm msg.trig.8                
+                
+F0260|0000|PI-Controller 1                 
+                
+F0261|0000|PI-Controller 2                 
+                
+F0262|0000|PI-Controller 3                 
+                
+F0263|0000|PI-Controller 4                 
+                
+F0264|0000|PI-Controller 5                 
+                
+F0265|0000|PI-Controller 6                 
+                
+F0266|0000|PI-Controller 7                 
+                
+F0267|0000|PI-Controller 8                 
+                
+F0268|0000|PI-Controller 9                 
+                
+F0269|0000|PI-Controller 10                
+                
+F0270|0000|Lead/Lag 1                      
+                
+F0271|0000|Lead/Lag 2                      
+                
+F0272|0000|Lead/Lag 3                      
+                
+F0273|0000|Lead/Lag 4                      
+                
+F0274|0000|Lead/Lag 5                      
+                
+F0275|0000|Lead/Lag 6                      
+                
+F0276|0000|Lead/Lag 7                      
+                
+F0277|0000|Lead/Lag 8                      
+                
+F0278|0000|Lead/Lag 9                      
+                
+F0279|0000|Lead/Lag 10                     
+                
+F0280|0000|Characteristic 4                
+                
+F0281|0000|Characteristic 5                
+                
+F0282|0000|Characteristic 6                
+                
+F0283|0000|Characteristic 7                
+                
+F0284|0000|Characteristic 8                
+                
+F0285|0000|Characteristic 9                
+                
+F0286|0000|Fault msg.trig.5                
+                
+F0287|0000|Fault msg.trig.6                
+                
+F0288|0000|Fault msg.trig.7                
+                
+F0289|0000|Fault msg.trig.8                
+                
+F0290|0000|Multiplier 5                    
+                
+F0291|0000|Multiplier 6                    
+                
+F0292|0000|Multiplier 7                    
+                
+F0293|0000|Multiplier 8                    
+                
+F0294|0000|Multiplier 9                    
+                
+F0295|0000|Multiplier 10                   
+                
+F0296|0000|Multiplier 11                   
+                
+F0297|0000|Multiplier 12                   
+                
+F0298|0000|ConnTypeConvrtr1                
+                
+F0299|0000|ConnTypeConvrtr2                
+                
+F0301|0000|1.EB1 Anal.Inp.1                
+                
+F0302|0000|1.EB1 Anal.Inp.2                
+                
+F0303|0000|1.EB1 Anal.Inp.3                
+                
+F0304|0000|1.EB1 Anal.Out.1                
+                
+F0305|0000|1.EB1 Anal.Out.2                
+                
+F0306|0000|1.EB1 Bin. I/O 1                
+                
+F0307|0000|1.EB1 Bin. I/O 2                
+                
+F0308|0000|1.EB1 Bin. I/O 3                
+                
+F0309|0000|1.EB1 Bin. I/O 4                
+                
+F0310|0000|1.EB1 Bin. Inp.1                
+                
+F0311|0000|1.EB1 Bin. Inp.2                
+                
+F0312|0000|1.EB1 Bin. Inp.3                
+                
+F0313|0000|2.EB1 Anal.Inp.1                
+                
+F0314|0000|2.EB1 Anal.Inp.2                
+                
+F0315|0000|2.EB1 Anal.Inp.3                
+                
+F0316|0000|2.EB1 Anal.Out.1                
+                
+F0317|0000|2.EB1 Anal.Out.2                
+                
+F0318|0000|2.EB1 Bin. I/O 1                
+                
+F0319|0000|2.EB1 Bin. I/O 2                
+                
+F0320|0000|2.EB1 Bin. I/O 3                
+                
+F0321|0000|2.EB1 Bin. I/O 4                
+                
+F0322|0000|2.EB1 Bin. Inp.1                
+                
+F0323|0000|2.EB1 Bin. Inp.2                
+                
+F0324|0000|2.EB1 Bin. Inp.3                
+                
+F0325|0000|1.EB2 Anal.Input                
+                
+F0326|0000|1.EB2 Anal.Outp.                
+                
+F0327|0000|1.EB2 Bin. Input                
+                
+F0328|0000|1.EB2 Bin. Outp.                
+                
+F0329|0000|2.EB2 Anal.Input                
+                
+F0330|0000|2.EB2 Anal.Outp.                
+                
+F0331|0000|2.EB2 Bin. Input                
+                
+F0332|0000|2.EB2 Bin. Outp.                
+                
+F0333|0000|SLB PulseEncoder                
+                
+F0334|0000|SLB Bin SendData                
+                
+F0335|0000|SLB Bin RecData                 
+                
+F0336|0000|SLB ConnSendData                
+                
+F0337|0000|SLB ConnRecData1                
+                
+F0340|0000|SLB Bin.RecData1                
+                
+F0341|0000|SLB Bin.RecData2                
+                
+F0342|0000|SLB Bin.RecData3                
+                
+F0343|0000|SLB Bin.RecData4                
+                
+F0344|0000|SLB Bin.RecData5                
+                
+F0345|0000|SLB Bin.RecData6                
+                
+F0346|0000|SLB Bin.RecData7                
+                
+F0347|0000|SLB Bin.RecData8                
+                
+F0348|0000|SLB Bin.RecData9                
+                
+F0350|0000|SCI1 Sl.1:DigInp                
+                
+F0351|0000|SCI1 Sl.2:DigInp                
+                
+F0352|0000|SCI1 Sl.1:DigOut                
+                
+F0353|0000|SCI1 Sl.2:DigOut                
+                
+F0354|0000|SCI2 Sl.1:DigInp                
+                
+F0355|0000|SCI2 Sl.2:DigInp                
+                
+F0356|0000|SCI2 Sl.1:DigOut                
+                
+F0357|0000|SCI2 Sl.2:DigOut                
+                
+F0360|0000|SCI1 Sl.1:An.Inp                
+                
+F0361|0000|SCI1 Sl.2:An.Inp                
+                
+F0362|0000|SCI1 Sl.1:An.Out                
+                
+F0363|0000|SCI1 Sl.2:An.Out                
+                
+F0830|0000|Conn.Selector 1                 
+                
+F0831|0000|Conn.Selector 2                 
+                
+F0840|0000|par.int. BinPZD1                
+                
+F0841|0000|par.int. BinPZD2                
+                
+F0842|0000|par.int. BinPZD3                
+                
+F0843|0000|par.int. BinPZD4                
+                
+F0844|0000|par.int. BinPZD5                
+                
+F0845|0000|USS1_BIN_PZD_1                  
+                
+F0846|0000|USS1_BIN_PZD_2                  
+                
+F0847|0000|USS1_BIN_PZD_3                  
+                
+F0848|0000|USS1_BIN_PZD_4                  
+                
+F0849|0000|USS1_BIN_PZD_5                  
+                
+F0850|0000|USS1_BIN_PZD_6                  
+                
+F0851|0000|USS1_BIN_PZD_7                  
+                
+F0852|0000|USS1_BIN_PZD_8                  
+                
+F0853|0000|USS1_BIN_PZD_9                  
+                
+F0854|0000|USS2_BIN_PZD_1                  
+                
+F0855|0000|USS2_BIN_PZD_2                  
+                
+F0856|0000|USS2_BIN_PZD_3                  
+                
+F0857|0000|USS2_BIN_PZD_4                  
+                
+F0858|0000|USS2_BIN_PZD_5                  
+                
+F0859|0000|USS2_BIN_PZD_6                  
+                
+F0860|0000|USS2_BIN_PZD_7                  
+                
+F0861|0000|USS2_BIN_PZD_8                  
+                
+F0862|0000|USS2_BIN_PZD_9                  
+                
+F0863|0000|USS3_BIN_PZD_1                  
+                
+F0864|0000|USS3_BIN_PZD_2                  
+                
+F0865|0000|USS3_BIN_PZD_3                  
+                
+F0866|0000|USS3_BIN_PZD_4                  
+                
+F0867|0000|USS3_BIN_PZD_5                  
+                
+F0868|0000|USS3_BIN_PZD_6                  
+                
+F0869|0000|USS3_BIN_PZD_7                  
+                
+F0870|0000|USS3_BIN_PZD_8                  
+                
+F0871|0000|USS3_BIN_PZD_9                  
+                
+F0872|0000|PtP2_BIN_PZD_1                  
+                
+F0873|0000|PtP2_BIN_PZD_2                  
+                
+F0874|0000|PtP2_BIN_PZD_3                  
+                
+F0875|0000|PtP2_BIN_PZD_4                  
+                
+F0876|0000|PtP2_BIN_PZD_5                  
+                
+F0877|0000|PtP3_BIN_PZD_1                  
+                
+F0878|0000|PtP3_BIN_PZD_2                  
+                
+F0879|0000|PtP3_BIN_PZD_3                  
+                
+F0880|0000|PtP3_BIN_PZD_4                  
+                
+F0881|0000|PtP3_BIN_PZD_5                  
+                
+F0882|0000|TB/1.CB Bin.PZD1                
+                
+F0883|0000|TB/1.CB Bin.PZD2                
+                
+F0884|0000|TB/1.CB Bin.PZD3                
+                
+F0885|0000|TB/1.CB Bin.PZD4                
+                
+F0886|0000|TB/1.CB Bin.PZD5                
+                
+F0887|0000|TB/1.CB Bin.PZD6                
+                
+F0888|0000|TB/1.CB Bin.PZD7                
+                
+F0889|0000|TB/1.CB Bin.PZD8                
+                
+F0890|0000|TB/1.CB Bin.PZD9                
+                
+F0891|0000|2.CB bin.PZD1                   
+                
+F0892|0000|2.CB bin.PZD2                   
+                
+F0893|0000|2.CB bin.PZD3                   
+                
+F0894|0000|2.CB bin.PZD4                   
+                
+F0895|0000|2.CB bin.PZD5                   
+                
+F0896|0000|2.CB bin.PZD6                   
+                
+F0897|0000|2.CB bin.PZD7                   
+                
+F0898|0000|2.CB bin.PZD8                   
+                
+F0899|0000|2.CB bin.PZD9                   
+                
+F0901|0000|Overview                        
+                
+F0902|0000|Binary input 1                  
+                
+F0903|0000|Binary input 2                  
+                
+F0904|0000|Binary input 3                  
+                
+F0905|0000|Binary input 4                  
+                
+F0906|0000|Binary input 5                  
+                
+F0907|0000|Binary input 6                  
+                
+F0908|0000|Binary input 7                  
+                
+F0909|0000|Binary input 8                  
+                
+F0910|0000|Binary output 1                 
+                
+F0911|0000|Binary output 2                 
+                
+F0912|0000|Binary output 3                 
+                
+F0913|0000|Binary output 4                 
+                
+F0914|0000|Main setpoint                   
+                
+F0915|0000|Main actual val.                
+                
+F0916|0000|Anal.sel.input 1                
+                
+F0917|0000|Anal.sel.input 2                
+                
+F0918|0000|Anal.sel.input 3                
+                
+F0919|0000|Anal.sel.output1                
+                
+F0920|0000|Anal.sel.output2                
+                
+F0921|0000|Anal.sel.output3                
+                
+F0922|0000|Anal.sel.output4                
+                
+F0923|0000|Fixed value 1                   
+                
+F0924|0000|Fixed value 2                   
+                
+F0925|0000|Fixed value 3                   
+                
+F0926|0000|Fixed value 4                   
+                
+F0927|0000|Fixed value 5                   
+                
+F0928|0000|Fixed value 6                   
+                
+F0929|0000|Fixed value 7                   
+                
+F0930|0000|Fixed value 8                   
+                
+F0931|0000|Fixed value 9                   
+                
+F0932|0000|Fixed value 10                  
+                
+F0933|0000|Fixed value 11                  
+                
+F0934|0000|Fixed value 12                  
+                
+F0935|0000|Fixed value 13                  
+                
+F0936|0000|Fixed value 14                  
+                
+F0937|0000|Fixed value 15                  
+                
+F0938|0000|Fixed value 16                  
+                
+F0939|0000|Fixed contr.bit1                
+                
+F0940|0000|Fixed contr.bit2                
+                
+F0941|0000|Fixed contr.bit3                
+                
+F0942|0000|Fixed contr.bit4                
+                
+F0943|0000|Fixed contr.bit5                
+                
+F0944|0000|Fixed contr.bit6                
+                
+F0945|0000|Fixed contr.bit7                
+                
+F0946|0000|Fixed contr.bit8                
+                
+F0947|0000|Connector disp1.                
+                
+F0948|0000|Binector display                
+                
+F0949|0000|Connector disp2.                
+                
+F0950|0000|Const conn/binec                
+                
+F0951|0000|Motorized pot.                  
+                
+F0952|0000|Fixed setpoint                  
+                
+F0953|0000|Oscillation                     
+                
+F0954|0000|Inching setpoint                
+                
+F0955|0000|Crawling setpt.                 
+                
+F0956|0000|Setp.processing                 
+                
+F0957|0000|Ramp-funct.gen.                 
+                
+F0958|0000|RFG Limiting                    
+                
+F0959|0000|Pulse gen. eval.                
+                
+F0960|0000|Speed controller                
+                
+F0961|0000|Friction comp.                  
+                
+F0962|0000|Torque limitat.                 
+                
+F0963|0000|Speed lim.contr.                
+                
+F0964|0000|Current limitat.                
+                
+F0965|0000|Arm.cur.control                 
+                
+F0966|0000|EMF control                     
+                
+F0967|0000|Field cur.cont.                 
+                
+F0968|0000|USS interface 1                 
+                
+F0969|0000|USS interface 2                 
+                
+F0970|0000|USS interface 3                 
+                
+F0971|0000|Peer2Peer int.2                 
+                
+F0972|0000|Peer2Peer int.3                 
+                
+F0973|0000|TB/1.CB PZDexch.                
+                
+F0974|0000|2.CB PZDexchange                
+                
+F0975|0000|Data sets                       
+                
+F0976|0000|Control word 1                  
+                
+F0977|0000|Control word 2                  
+                
+F0978|0000|Status word 1                   
+                
+F0979|0000|Status word 2                   
+                
+F0980|0000|Motortemperature                
+                
+F0981|0000|Motor interface                 
+                
+F0982|0000|Signal setp.dev.                
+                
+F0983|0000|Signal ref.val.                 
+                
+F0984|0000|Signal Imp.Sp.                  
+                
+F0985|0000|Signal n-setpt.                 
+                
+F0986|0000|Signal n>nmax                   
+                
+F0987|0000|Fault memory                    
+                
+F0988|0000|Paralleling int.                
+                
+F0989|0000|CB-Parameter 1                  
+                
+F0990|0000|CB-Parameter 2                  
+                
+F0991|0000|StartP-SpeedCtrl                
+                
+F0992|0000|Src term 109/110                
+                
+F0993|0000|Field charact.                  
+                
+F0994|0000|Field reversal                  
+                
+F0995|0000|Break control                   
+                
+F0996|0000|Switch-on auxil.                
+                
+F0997|0000|EvalMasterSwitch                
+                
+F0998|0000|Act.CurrentDispl                
+                
+F0999|0000|Trace                           
+                

@@ -1,0 +1,298 @@
+[Text]
+T9=HiWord
+T10=LoWord
+
+T300=LoWord
+T301=HiWord
+
+T310=LoWord
+T311=HiWord
+
+T331=Konnektor-/Binektorwandler
+
+T251=Signalauswahlschalter\nschaltet erst, wenn\nENABLE=1
+T252=Speicher
+T253=Signalauswahl
+T254=Mode
+T255=ENABLE
+
+T351=T
+T352=Mode
+
+T490=Store
+T491=Set (Q=D)
+T492=Reset (Q=0)
+T493=Power On
+
+T190=Power On\n[X.Y]
+T191=Set\n(y=x)
+T192=Reset\n(y=0)
+
+T261=Signalauswahlschalter\nschaltet erst, wenn\nENABLE=1
+T262=Speicher
+T263=Signalauswahl
+T265=ENABLE
+
+T320=Binektor-/Konnektorwandler
+
+T490=Überlauf
+T491=Unterlauf
+
+T221=TRACK
+T222=STORE
+T223=RESET (y=0)
+
+T240=Power On\n[X4.4]
+T241=Up
+T242=Down
+T243=Out
+T244=Binärcode
+
+T2951=Einschaltverzögerung
+T2952=Ausschaltverzögerung
+T2953=Ein-/Ausschaltverzög.
+T2954=Impulsbildner
+T2955=Mode
+T2956=T
+T2957=T1
+T2958=x1
+T2959=(x1*T1)\n/100 %%
+
+T3151=Minimalwert Zähler
+T3152=Maximalwert Zähler
+T3153=Setzwert Zähler
+T3154=Startwert Zähler
+T3155=U315.1 (0)
+T3156=U315.2 (65535)
+T3157=U315.3 (0)
+T3158=U315.4 (0)
+
+T3161=Minimalwert
+T3162=Maximalwert
+T3163=Setzwert
+T3164=Startwert
+
+T3171=Aufwärts zählen
+T3172=Abwärts zählen
+T3173=Zähler anhalten
+T3174=Zähler setzen
+T3175=Zähler freigeben
+
+T3181=Zähler auf\nMinimalwert\nsetzen
+T3182=Zähler auf\nSetzwert\nsetzen
+T3183=Zähler auf\nStartwert\nsetzen
+
+[FB0107]
+T2120=U191.01
+T2121=U191.02
+T2122=U191.03
+T2123=U191.04
+T2124=U191.05
+T2125=U191.06
+T2126=U191.07
+T2127=U191.08
+T2128=U191.09
+T2129=U191.10
+T2130=U192.01
+T2131=U192.02
+T2132=U192.03
+T2133=U192.04
+T2134=U192.05
+T2135=U192.06
+T2136=U192.07
+T2137=U192.08
+T2138=U192.09
+T2139=U192.10
+
+[FB0151]
+T3391=n339.01
+T3392=n339.02
+T3400=Hochl.geber nachführen
+T3250=POWER ON
+
+[FB0187]
+T3831=U383.01
+T3832=U383.02
+T3833=Hochlaufzeit
+T3834=Rücklaufzeit
+
+[FB0201]
+T20101=Technologieregler gesperrt
+
+[FB0202]
+T20201=Wobbel-Synchronisiereingang
+T20202=Wobbel-Dreieckgenerator
+T20203=Wobbel-Synchronisierausgang
+T20211=Wobbelsignal
+T20212=Sollwert gewobbelt
+T20213=Synchronisiersignal zum Slave
+T20221=U395
+T20222=U393
+T20223=-U393
+T20224=U394
+T20225=U396
+T20226=U397
+T20227=U398
+T20228=0,5*Tw
+
+[FB0209]
+T2120=U197.01
+T2121=U197.02
+T2122=U197.03
+T2123=U197.04
+T2124=U197.05
+T2125=U197.06
+T2126=U197.07
+T2127=U197.08
+T2128=U197.09
+T2129=U197.10
+T2130=U198.01
+T2131=U198.02
+T2132=U198.03
+T2133=U198.04
+T2134=U198.05
+T2135=U198.06
+T2136=U198.07
+T2137=U198.08
+T2138=U198.09
+T2139=U198.10
+
+[FB0259]
+T2=1 = "Störung F148"
+
+[FB0260]
+T2=1 = "Störung F149"
+
+[FB0261]
+T2=1 = "Störung F150"
+
+[FB0262]
+T2=1 = "Störung F151"
+
+[FB0263]
+T2=1 = "Warnung A061"
+
+[FB0264]
+T2=1 = "Warnung A062"
+
+[FB0265]
+T2=1 = "Warnung A063"
+
+[FB0266]
+T2=1 = "Warnung A064"
+
+[FB0057]
+T72=.01
+
+[FB0058]
+T72=.02
+
+[T0011]
+T1101=|A|<B
+T1102=A<B
+T1103=A=B
+
+[T0012]
+T1101=|A|<B
+T1102=A<B
+T1103=A=B
+
+[T0021]
+T2101=1
+T2102=X-Werte
+T2103=Y-Werte
+T2104=-200%%
+T2105=+200%%
+T2106=x
+T2107=y
+T2108=2
+T2109=3
+T2110=10
+T2111=x1
+T2112=y1
+T2113=x10
+T2114=y10
+T2115=x
+T2116=y
+
+; T2120..T2129=Par. 2.01 - 2.10
+; T2130..T2139=Par. 3.01 - 3.10
+
+[T0024]
+T490=Überlauf
+T491=Unterlauf
+
+T240=Power On\n[X4.4]
+T241=Up
+T242=Down
+T243=Out
+T244=Binärcode
+
+
+T3151=Minimalwert Zähler
+T3152=Maximalwert Zähler
+T3153=Setzwert Zähler
+T3154=Startwert Zähler
+T3155=U315.1 (0)
+T3156=U315.2 (65535)
+T3157=U315.3 (0)
+T3158=U315.4 (0)
+
+T3161=Minimalwert
+T3162=Maximalwert
+T3163=Setzwert
+T3164=Startwert
+
+T3171=Aufwärts zählen
+T3172=Abwärts zählen
+T3173=Zähler anhalten
+T3174=Zähler setzen
+T3175=Zähler freigeben
+
+T3181=Zähler auf\nMinimalwert\nsetzen
+T3182=Zähler auf\nSetzwert\nsetzen
+T3183=Zähler auf\nStartwert\nsetzen
+
+[T0041]
+T411=x1
+T412=x2
+T413=y
+T414=(x1*100%%)\n/x2
+
+[T0045]
+T451=x1
+T452=x2
+T453=y
+T454=(x1*x2)\n/100 %%
+
+[T0046]
+T4600=Normierung
+T4601=x1
+T4602=x2
+T4603=x3
+T4604=x4
+T4605=y
+T4606=y2
+T4610=x4=\nx1*x2
+T4611=y=\nx4/x3
+T4612=y2=x4/100%%
+T4621=(16 bit)
+T4622=(32 bit)
+
+[T0047]
+T471=y=-x
+
+[T0050]
+T501=POWER ON
+T502=POWER OFF
+T503=POWER ON
+T504=POWER OFF
+
+[T0051]
+T510=POWER ON
+T511=SET\n(Q=1)
+T512=RESET\n(Q=0)
+
+[T0059]
+T72=.03
+
